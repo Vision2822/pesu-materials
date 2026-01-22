@@ -83,22 +83,6 @@
           "folder_name": "4.The Story of My Experiments with Truth by Mahatma Gandhi",
           "path": "UL25CE121A/1. Introduction to Constitution of India/4.The Story of My Experiments with Truth by Mahatma Gandhi",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "The Story of My Experiments with Truth by Mahatma Gandhi_9b74a1ae.pdf",
-                  "title": "The Story of My Experiments with Truth by Mahatma Gandhi",
-                  "uuid": "9b74a1ae",
-                  "extension": "pdf",
-                  "path": "UL25CE121A/1. Introduction to Constitution of India/4.The Story of My Experiments with Truth by Mahatma Gandhi/slides/The Story of My Experiments with Truth by Mahatma Gandhi_9b74a1ae.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/4.The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi/slides/The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi_9b74a1ae.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/4.The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi/slides/The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi_9b74a1ae.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/4.The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi/slides/The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi_9b74a1ae.pdf"
-                }
-              ],
-              "count": 1
-            },
             "notes": {
               "type": "notes",
               "files": [
@@ -111,6 +95,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/4.The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi/notes/The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi_78dd7594.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/4.The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi/notes/The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi_78dd7594.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/4.The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi/notes/The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi_78dd7594.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "The Story of My Experiments with Truth by Mahatma Gandhi_9b74a1ae.pdf",
+                  "title": "The Story of My Experiments with Truth by Mahatma Gandhi",
+                  "uuid": "9b74a1ae",
+                  "extension": "pdf",
+                  "path": "UL25CE121A/1. Introduction to Constitution of India/4.The Story of My Experiments with Truth by Mahatma Gandhi/slides/The Story of My Experiments with Truth by Mahatma Gandhi_9b74a1ae.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/4.The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi/slides/The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi_9b74a1ae.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/4.The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi/slides/The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi_9b74a1ae.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/4.The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi/slides/The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi_9b74a1ae.pdf"
                 }
               ],
               "count": 1
@@ -368,5 +368,5 @@
   ],
   "total_units": 4,
   "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UL25CE121A",
-  "updated_at": "2026-01-22T20:16:25.336405"
+  "updated_at": "2026-01-22T20:26:34.743647"
 }
