@@ -1,0 +1,27 @@
+{
+  "course_code": "UE25MA141A",
+  "unit_title": "Unit 1",
+  "videos": [
+    {
+      "title": "Continuity and differentiability of a function of two independent variable",
+      "provider": "vimeo",
+      "video_id": "489249694",
+      "video_url": "https://player.vimeo.com/video/489249694?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/489249694",
+      "faculty": "Dr. Nagesh H M",
+      "date": "10/12/2020 09:42 AM",
+      "section": "NA"
+    },
+    {
+      "title": "Introduction to Partial Differentiation",
+      "provider": "vimeo",
+      "video_id": "468435590",
+      "video_url": "https://player.vimeo.com/video/468435590?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/468435590",
+      "faculty": "Dr. Nagesh H M",
+      "date": "15/10/2020 12:10 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T19:20:59.657843"
+}
