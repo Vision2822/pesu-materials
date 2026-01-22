@@ -1,0 +1,27 @@
+{
+  "course_code": "UE25EE141A",
+  "unit_title": "UNIT 2 : SINGLE PHASE AC CIRCUITS",
+  "videos": [
+    {
+      "title": "Analysis of single-phase AC circuits with R-load and L-load, C Load",
+      "provider": "vimeo",
+      "video_id": "439574377",
+      "video_url": "https://player.vimeo.com/video/439574377?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/439574377",
+      "faculty": "Mrs Jyothi T.N",
+      "date": "25/09/2025 12:57 AM",
+      "section": "NA"
+    },
+    {
+      "title": "Analysis of single-phase AC circuits with C load ,",
+      "provider": "vimeo",
+      "video_id": "439765081",
+      "video_url": "https://player.vimeo.com/video/439765081?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/439765081",
+      "faculty": "Mrs Jyothi T.N",
+      "date": "25/09/2025 01:14 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T20:46:16.578631"
+}
