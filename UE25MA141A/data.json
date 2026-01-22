@@ -17,22 +17,6 @@
           "folder_name": "1.Introduction to MATLAB Software",
           "path": "UE25MA141A/MATLAB/1.Introduction to MATLAB Software",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Slides_d213a4e1.pdf",
-                  "title": "Slides",
-                  "uuid": "d213a4e1",
-                  "extension": "pdf",
-                  "path": "UE25MA141A/MATLAB/1.Introduction to MATLAB Software/slides/Slides_d213a4e1.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/MATLAB/1.Introduction%20to%20MATLAB%20Software/slides/Slides_d213a4e1.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/MATLAB/1.Introduction%20to%20MATLAB%20Software/slides/Slides_d213a4e1.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/MATLAB/1.Introduction%20to%20MATLAB%20Software/slides/Slides_d213a4e1.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -45,6 +29,22 @@
                   "faculty": "Dr. Nagesh H M",
                   "date": "07/08/2025 10:11 AM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Slides_d213a4e1.pdf",
+                  "title": "Slides",
+                  "uuid": "d213a4e1",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/MATLAB/1.Introduction to MATLAB Software/slides/Slides_d213a4e1.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/MATLAB/1.Introduction%20to%20MATLAB%20Software/slides/Slides_d213a4e1.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/MATLAB/1.Introduction%20to%20MATLAB%20Software/slides/Slides_d213a4e1.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/MATLAB/1.Introduction%20to%20MATLAB%20Software/slides/Slides_d213a4e1.pdf"
                 }
               ],
               "count": 1
@@ -99,22 +99,6 @@
           "folder_name": "3.M-Files; Loop Control Statements; Conditional Statements",
           "path": "UE25MA141A/MATLAB/3.M-Files; Loop Control Statements; Conditional Statements",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "M-Files; Loop Control Statements; Conditional Statements",
-                  "provider": "vimeo",
-                  "video_id": "1107983402",
-                  "video_url": "https://player.vimeo.com/video/1107983402?h=c38255d6b5&autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/1107983402?h=c38255d6b5",
-                  "faculty": "Dr. Nagesh H M",
-                  "date": "07/08/2025 10:16 AM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -127,6 +111,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/MATLAB/3.M-Files%3B%20Loop%20Control%20Statements%3B%20Conditional%20Statements/slides/Slides_8274f9c9.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/MATLAB/3.M-Files%3B%20Loop%20Control%20Statements%3B%20Conditional%20Statements/slides/Slides_8274f9c9.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/MATLAB/3.M-Files%3B%20Loop%20Control%20Statements%3B%20Conditional%20Statements/slides/Slides_8274f9c9.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "M-Files; Loop Control Statements; Conditional Statements",
+                  "provider": "vimeo",
+                  "video_id": "1107983402",
+                  "video_url": "https://player.vimeo.com/video/1107983402?h=c38255d6b5&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1107983402?h=c38255d6b5",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "07/08/2025 10:16 AM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -181,22 +181,6 @@
           "folder_name": "5.Partial derivative; Taylor's and Maclaurin series of functions of single and two",
           "path": "UE25MA141A/MATLAB/5.Partial derivative; Taylor's and Maclaurin series of functions of single and two",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Slides_0a05ca7a.pdf",
-                  "title": "Slides",
-                  "uuid": "0a05ca7a",
-                  "extension": "pdf",
-                  "path": "UE25MA141A/MATLAB/5.Partial derivative; Taylor's and Maclaurin series of functions of single and two/slides/Slides_0a05ca7a.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/MATLAB/5.Partial%20derivative%3B%20Taylor%27s%20and%20Maclaurin%20series%20of%20functions%20of%20single%20and%20two/slides/Slides_0a05ca7a.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/MATLAB/5.Partial%20derivative%3B%20Taylor%27s%20and%20Maclaurin%20series%20of%20functions%20of%20single%20and%20two/slides/Slides_0a05ca7a.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/MATLAB/5.Partial%20derivative%3B%20Taylor%27s%20and%20Maclaurin%20series%20of%20functions%20of%20single%20and%20two/slides/Slides_0a05ca7a.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -209,6 +193,22 @@
                   "faculty": "Dr. Nagesh H M",
                   "date": "08/10/2025 02:56 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Slides_0a05ca7a.pdf",
+                  "title": "Slides",
+                  "uuid": "0a05ca7a",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/MATLAB/5.Partial derivative; Taylor's and Maclaurin series of functions of single and two/slides/Slides_0a05ca7a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/MATLAB/5.Partial%20derivative%3B%20Taylor%27s%20and%20Maclaurin%20series%20of%20functions%20of%20single%20and%20two/slides/Slides_0a05ca7a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/MATLAB/5.Partial%20derivative%3B%20Taylor%27s%20and%20Maclaurin%20series%20of%20functions%20of%20single%20and%20two/slides/Slides_0a05ca7a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/MATLAB/5.Partial%20derivative%3B%20Taylor%27s%20and%20Maclaurin%20series%20of%20functions%20of%20single%20and%20two/slides/Slides_0a05ca7a.pdf"
                 }
               ],
               "count": 1
@@ -255,6 +255,56 @@
               "count": 1
             }
           }
+        },
+        {
+          "id": "UE25MA141A_MATLAB_7.Partial Differential Equation",
+          "order": 7,
+          "title": "Partial Differential Equation",
+          "folder_name": "7.Partial Differential Equation",
+          "path": "UE25MA141A/MATLAB/7.Partial Differential Equation",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Slides_63b36df2.pdf",
+                  "title": "Slides",
+                  "uuid": "63b36df2",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/MATLAB/7.Partial Differential Equation/slides/Slides_63b36df2.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/MATLAB/7.Partial%20Differential%20Equation/slides/Slides_63b36df2.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/MATLAB/7.Partial%20Differential%20Equation/slides/Slides_63b36df2.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/MATLAB/7.Partial%20Differential%20Equation/slides/Slides_63b36df2.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25MA141A_MATLAB_8.Evaluation of Beta and Gamma functions",
+          "order": 8,
+          "title": "Evaluation of Beta and Gamma functions",
+          "folder_name": "8.Evaluation of Beta and Gamma functions",
+          "path": "UE25MA141A/MATLAB/8.Evaluation of Beta and Gamma functions",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Slides_13d3477d.pdf",
+                  "title": "Slides",
+                  "uuid": "13d3477d",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/MATLAB/8.Evaluation of Beta and Gamma functions/slides/Slides_13d3477d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/MATLAB/8.Evaluation%20of%20Beta%20and%20Gamma%20functions/slides/Slides_13d3477d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/MATLAB/8.Evaluation%20of%20Beta%20and%20Gamma%20functions/slides/Slides_13d3477d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/MATLAB/8.Evaluation%20of%20Beta%20and%20Gamma%20functions/slides/Slides_13d3477d.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
         }
       ]
     },
@@ -270,86 +320,18 @@
           "folder_name": "1.Introduction to Partial Differentiation, Continuity and differentiability of a f",
           "path": "UE25MA141A/Unit 1/1.Introduction to Partial Differentiation, Continuity and differentiability of a f",
           "content": {
-            "slides": {
-              "type": "slides",
+            "qa": {
+              "type": "qa",
               "files": [
                 {
-                  "name": "Introduction to Partial Differentiation_ef61be70.pdf",
-                  "title": "Introduction to Partial Differentiation",
-                  "uuid": "ef61be70",
+                  "name": "Question & Answer_e79f3c17.pdf",
+                  "title": "Question & Answer",
+                  "uuid": "e79f3c17",
                   "extension": "pdf",
-                  "path": "UE25MA141A/Unit 1/1.Introduction to Partial Differentiation, Continuity and differentiability of a f/slides/Introduction to Partial Differentiation_ef61be70.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Introduction%20to%20Partial%20Differentiation_ef61be70.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Introduction%20to%20Partial%20Differentiation_ef61be70.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Introduction%20to%20Partial%20Differentiation_ef61be70.pdf"
-                },
-                {
-                  "name": "Continuity of a function of two variables, Definition of Partial Differentiation_ef61bffe.pdf",
-                  "title": "Continuity of a function of two variables, Definition of Partial Differentiation",
-                  "uuid": "ef61bffe",
-                  "extension": "pdf",
-                  "path": "UE25MA141A/Unit 1/1.Introduction to Partial Differentiation, Continuity and differentiability of a f/slides/Continuity of a function of two variables, Definition of Partial Differentiation_ef61bffe.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Continuity%20of%20a%20function%20of%20two%20variables%2C%20Definition%20of%20Partial%20Differentiation_ef61bffe.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Continuity%20of%20a%20function%20of%20two%20variables%2C%20Definition%20of%20Partial%20Differentiation_ef61bffe.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Continuity%20of%20a%20function%20of%20two%20variables%2C%20Definition%20of%20Partial%20Differentiation_ef61bffe.pdf"
-                },
-                {
-                  "name": "Slides_fbaf9644.pdf",
-                  "title": "Slides",
-                  "uuid": "fbaf9644",
-                  "extension": "pdf",
-                  "path": "UE25MA141A/Unit 1/1.Introduction to Partial Differentiation, Continuity and differentiability of a f/slides/Slides_fbaf9644.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Slides_fbaf9644.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Slides_fbaf9644.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Slides_fbaf9644.pdf"
-                }
-              ],
-              "count": 3
-            },
-            "assignment": {
-              "type": "assignment",
-              "files": [
-                {
-                  "name": "Assignment_c7eb56be.pdf",
-                  "title": "Assignment",
-                  "uuid": "c7eb56be",
-                  "extension": "pdf",
-                  "path": "UE25MA141A/Unit 1/1.Introduction to Partial Differentiation, Continuity and differentiability of a f/assignment/Assignment_c7eb56be.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/assignment/Assignment_c7eb56be.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/assignment/Assignment_c7eb56be.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/assignment/Assignment_c7eb56be.pdf"
-                }
-              ],
-              "count": 1
-            },
-            "questionbank": {
-              "type": "questionbank",
-              "files": [
-                {
-                  "name": "Question Bank_1820218a.pdf",
-                  "title": "Question Bank",
-                  "uuid": "1820218a",
-                  "extension": "pdf",
-                  "path": "UE25MA141A/Unit 1/1.Introduction to Partial Differentiation, Continuity and differentiability of a f/questionbank/Question Bank_1820218a.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/questionbank/Question%20Bank_1820218a.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/questionbank/Question%20Bank_1820218a.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/questionbank/Question%20Bank_1820218a.pdf"
-                }
-              ],
-              "count": 1
-            },
-            "notes": {
-              "type": "notes",
-              "files": [
-                {
-                  "name": "Notes_abf30788.pdf",
-                  "title": "Notes",
-                  "uuid": "abf30788",
-                  "extension": "pdf",
-                  "path": "UE25MA141A/Unit 1/1.Introduction to Partial Differentiation, Continuity and differentiability of a f/notes/Notes_abf30788.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/notes/Notes_abf30788.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/notes/Notes_abf30788.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/notes/Notes_abf30788.pdf"
+                  "path": "UE25MA141A/Unit 1/1.Introduction to Partial Differentiation, Continuity and differentiability of a f/qa/Question & Answer_e79f3c17.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/qa/Question%20%26%20Answer_e79f3c17.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/qa/Question%20%26%20Answer_e79f3c17.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/qa/Question%20%26%20Answer_e79f3c17.pdf"
                 }
               ],
               "count": 1
@@ -396,21 +378,89 @@
               ],
               "count": 1
             },
-            "qa": {
-              "type": "qa",
+            "assignment": {
+              "type": "assignment",
               "files": [
                 {
-                  "name": "Question & Answer_e79f3c17.pdf",
-                  "title": "Question & Answer",
-                  "uuid": "e79f3c17",
+                  "name": "Assignment_c7eb56be.pdf",
+                  "title": "Assignment",
+                  "uuid": "c7eb56be",
                   "extension": "pdf",
-                  "path": "UE25MA141A/Unit 1/1.Introduction to Partial Differentiation, Continuity and differentiability of a f/qa/Question & Answer_e79f3c17.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/qa/Question%20%26%20Answer_e79f3c17.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/qa/Question%20%26%20Answer_e79f3c17.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/qa/Question%20%26%20Answer_e79f3c17.pdf"
+                  "path": "UE25MA141A/Unit 1/1.Introduction to Partial Differentiation, Continuity and differentiability of a f/assignment/Assignment_c7eb56be.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/assignment/Assignment_c7eb56be.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/assignment/Assignment_c7eb56be.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/assignment/Assignment_c7eb56be.pdf"
                 }
               ],
               "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Notes_abf30788.pdf",
+                  "title": "Notes",
+                  "uuid": "abf30788",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/1.Introduction to Partial Differentiation, Continuity and differentiability of a f/notes/Notes_abf30788.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/notes/Notes_abf30788.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/notes/Notes_abf30788.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/notes/Notes_abf30788.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Question Bank_1820218a.pdf",
+                  "title": "Question Bank",
+                  "uuid": "1820218a",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/1.Introduction to Partial Differentiation, Continuity and differentiability of a f/questionbank/Question Bank_1820218a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/questionbank/Question%20Bank_1820218a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/questionbank/Question%20Bank_1820218a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/questionbank/Question%20Bank_1820218a.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Introduction to Partial Differentiation_ef61be70.pdf",
+                  "title": "Introduction to Partial Differentiation",
+                  "uuid": "ef61be70",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/1.Introduction to Partial Differentiation, Continuity and differentiability of a f/slides/Introduction to Partial Differentiation_ef61be70.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Introduction%20to%20Partial%20Differentiation_ef61be70.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Introduction%20to%20Partial%20Differentiation_ef61be70.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Introduction%20to%20Partial%20Differentiation_ef61be70.pdf"
+                },
+                {
+                  "name": "Continuity of a function of two variables, Definition of Partial Differentiation_ef61bffe.pdf",
+                  "title": "Continuity of a function of two variables, Definition of Partial Differentiation",
+                  "uuid": "ef61bffe",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/1.Introduction to Partial Differentiation, Continuity and differentiability of a f/slides/Continuity of a function of two variables, Definition of Partial Differentiation_ef61bffe.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Continuity%20of%20a%20function%20of%20two%20variables%2C%20Definition%20of%20Partial%20Differentiation_ef61bffe.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Continuity%20of%20a%20function%20of%20two%20variables%2C%20Definition%20of%20Partial%20Differentiation_ef61bffe.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Continuity%20of%20a%20function%20of%20two%20variables%2C%20Definition%20of%20Partial%20Differentiation_ef61bffe.pdf"
+                },
+                {
+                  "name": "Slides_fbaf9644.pdf",
+                  "title": "Slides",
+                  "uuid": "fbaf9644",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/1.Introduction to Partial Differentiation, Continuity and differentiability of a f/slides/Slides_fbaf9644.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Slides_fbaf9644.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Slides_fbaf9644.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/1.Introduction%20to%20Partial%20Differentiation%2C%20Continuity%20and%20differentiability%20of%20a%20f/slides/Slides_fbaf9644.pdf"
+                }
+              ],
+              "count": 3
             }
           }
         },
@@ -421,22 +471,6 @@
           "folder_name": "2.Higher Order Partial Derivatives",
           "path": "UE25MA141A/Unit 1/2.Higher Order Partial Derivatives",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Higher order partial derivatives, Geometrical Interpretation_ef6063fb.pdf",
-                  "title": "Higher order partial derivatives, Geometrical Interpretation",
-                  "uuid": "ef6063fb",
-                  "extension": "pdf",
-                  "path": "UE25MA141A/Unit 1/2.Higher Order Partial Derivatives/slides/Higher order partial derivatives, Geometrical Interpretation_ef6063fb.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/2.Higher%20Order%20Partial%20Derivatives/slides/Higher%20order%20partial%20derivatives%2C%20Geometrical%20Interpretation_ef6063fb.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/2.Higher%20Order%20Partial%20Derivatives/slides/Higher%20order%20partial%20derivatives%2C%20Geometrical%20Interpretation_ef6063fb.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/2.Higher%20Order%20Partial%20Derivatives/slides/Higher%20order%20partial%20derivatives%2C%20Geometrical%20Interpretation_ef6063fb.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -452,6 +486,22 @@
                 }
               ],
               "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Higher order partial derivatives, Geometrical Interpretation_ef6063fb.pdf",
+                  "title": "Higher order partial derivatives, Geometrical Interpretation",
+                  "uuid": "ef6063fb",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/2.Higher Order Partial Derivatives/slides/Higher order partial derivatives, Geometrical Interpretation_ef6063fb.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/2.Higher%20Order%20Partial%20Derivatives/slides/Higher%20order%20partial%20derivatives%2C%20Geometrical%20Interpretation_ef6063fb.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/2.Higher%20Order%20Partial%20Derivatives/slides/Higher%20order%20partial%20derivatives%2C%20Geometrical%20Interpretation_ef6063fb.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/2.Higher%20Order%20Partial%20Derivatives/slides/Higher%20order%20partial%20derivatives%2C%20Geometrical%20Interpretation_ef6063fb.pdf"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -462,22 +512,6 @@
           "folder_name": "3.Total Derivative, Chain Rule, Composite Functions",
           "path": "UE25MA141A/Unit 1/3.Total Derivative, Chain Rule, Composite Functions",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Total derivative, Chain rule and Implicit functions",
-                  "provider": "vimeo",
-                  "video_id": "489253560",
-                  "video_url": "https://player.vimeo.com/video/489253560?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/489253560",
-                  "faculty": "Dr. Nagesh H M",
-                  "date": "10/12/2020 09:58 AM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -493,6 +527,22 @@
                 }
               ],
               "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Total derivative, Chain rule and Implicit functions",
+                  "provider": "vimeo",
+                  "video_id": "489253560",
+                  "video_url": "https://player.vimeo.com/video/489253560?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/489253560",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "10/12/2020 09:58 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -503,22 +553,6 @@
           "folder_name": "4.Implicit functions, Problems",
           "path": "UE25MA141A/Unit 1/4.Implicit functions, Problems",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Implicit functions and problems",
-                  "provider": "vimeo",
-                  "video_id": "489255201",
-                  "video_url": "https://player.vimeo.com/video/489255201?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/489255201",
-                  "faculty": "Dr. Nagesh H M",
-                  "date": "10/12/2020 10:04 AM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -531,6 +565,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/4.Implicit%20functions%2C%20Problems/slides/Implicit%20Functions%20-%20Problems_ef60cfdf.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/4.Implicit%20functions%2C%20Problems/slides/Implicit%20Functions%20-%20Problems_ef60cfdf.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/4.Implicit%20functions%2C%20Problems/slides/Implicit%20Functions%20-%20Problems_ef60cfdf.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Implicit functions and problems",
+                  "provider": "vimeo",
+                  "video_id": "489255201",
+                  "video_url": "https://player.vimeo.com/video/489255201?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/489255201",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "10/12/2020 10:04 AM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -585,22 +635,6 @@
           "folder_name": "6.Problems on composite functions",
           "path": "UE25MA141A/Unit 1/6.Problems on composite functions",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Problems on Composite functions_ad107779.pdf",
-                  "title": "Problems on Composite functions",
-                  "uuid": "ad107779",
-                  "extension": "pdf",
-                  "path": "UE25MA141A/Unit 1/6.Problems on composite functions/slides/Problems on Composite functions_ad107779.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/6.Problems%20on%20composite%20functions/slides/Problems%20on%20Composite%20functions_ad107779.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/6.Problems%20on%20composite%20functions/slides/Problems%20on%20Composite%20functions_ad107779.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/6.Problems%20on%20composite%20functions/slides/Problems%20on%20Composite%20functions_ad107779.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -613,6 +647,22 @@
                   "faculty": "Dr. Nagesh H M",
                   "date": "18/08/2025 10:18 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Problems on Composite functions_ad107779.pdf",
+                  "title": "Problems on Composite functions",
+                  "uuid": "ad107779",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/6.Problems on composite functions/slides/Problems on Composite functions_ad107779.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/6.Problems%20on%20composite%20functions/slides/Problems%20on%20Composite%20functions_ad107779.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/6.Problems%20on%20composite%20functions/slides/Problems%20on%20Composite%20functions_ad107779.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/6.Problems%20on%20composite%20functions/slides/Problems%20on%20Composite%20functions_ad107779.pdf"
                 }
               ],
               "count": 1
@@ -667,22 +717,6 @@
           "folder_name": "8.Problems on Euler's Theorem",
           "path": "UE25MA141A/Unit 1/8.Problems on Euler's Theorem",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Problems on Euler's Theorem",
-                  "provider": "vimeo",
-                  "video_id": "489268037",
-                  "video_url": "https://player.vimeo.com/video/489268037?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/489268037",
-                  "faculty": "Jagatheswari G K",
-                  "date": "10/12/2020 10:54 AM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -695,6 +729,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/8.Problems%20on%20Euler%27s%20Theorem/slides/Problems%20on%20Euler%27s%20Theorem_ef610db3.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/8.Problems%20on%20Euler%27s%20Theorem/slides/Problems%20on%20Euler%27s%20Theorem_ef610db3.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/8.Problems%20on%20Euler%27s%20Theorem/slides/Problems%20on%20Euler%27s%20Theorem_ef610db3.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Problems on Euler's Theorem",
+                  "provider": "vimeo",
+                  "video_id": "489268037",
+                  "video_url": "https://player.vimeo.com/video/489268037?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/489268037",
+                  "faculty": "Jagatheswari G K",
+                  "date": "10/12/2020 10:54 AM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -790,22 +840,6 @@
           "folder_name": "11.Problems on homogeneous functions, and Euler's theorem",
           "path": "UE25MA141A/Unit 1/11.Problems on homogeneous functions, and Euler's theorem",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Problems on Homogeneous functions and Euler's theorem_736003cf.pdf",
-                  "title": "Problems on Homogeneous functions and Euler's theorem",
-                  "uuid": "736003cf",
-                  "extension": "pdf",
-                  "path": "UE25MA141A/Unit 1/11.Problems on homogeneous functions, and Euler's theorem/slides/Problems on Homogeneous functions and Euler's theorem_736003cf.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/11.Problems%20on%20homogeneous%20functions%2C%20and%20Euler%27s%20theorem/slides/Problems%20on%20Homogeneous%20functions%20and%20Euler%27s%20theorem_736003cf.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/11.Problems%20on%20homogeneous%20functions%2C%20and%20Euler%27s%20theorem/slides/Problems%20on%20Homogeneous%20functions%20and%20Euler%27s%20theorem_736003cf.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/11.Problems%20on%20homogeneous%20functions%2C%20and%20Euler%27s%20theorem/slides/Problems%20on%20Homogeneous%20functions%20and%20Euler%27s%20theorem_736003cf.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -818,6 +852,22 @@
                   "faculty": "Dr. Nagesh H M",
                   "date": "18/08/2025 04:23 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Problems on Homogeneous functions and Euler's theorem_736003cf.pdf",
+                  "title": "Problems on Homogeneous functions and Euler's theorem",
+                  "uuid": "736003cf",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/11.Problems on homogeneous functions, and Euler's theorem/slides/Problems on Homogeneous functions and Euler's theorem_736003cf.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/11.Problems%20on%20homogeneous%20functions%2C%20and%20Euler%27s%20theorem/slides/Problems%20on%20Homogeneous%20functions%20and%20Euler%27s%20theorem_736003cf.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/11.Problems%20on%20homogeneous%20functions%2C%20and%20Euler%27s%20theorem/slides/Problems%20on%20Homogeneous%20functions%20and%20Euler%27s%20theorem_736003cf.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/11.Problems%20on%20homogeneous%20functions%2C%20and%20Euler%27s%20theorem/slides/Problems%20on%20Homogeneous%20functions%20and%20Euler%27s%20theorem_736003cf.pdf"
                 }
               ],
               "count": 1
@@ -1068,22 +1118,6 @@
           "folder_name": "1.Introduction to higher order differential equations, complementary function and",
           "path": "UE25MA141A/Unit 2/1.Introduction to higher order differential equations, complementary function and",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Introduction to higher order differential equations, complementary function and particular integral",
-                  "provider": "vimeo",
-                  "video_id": "482961727",
-                  "video_url": "https://player.vimeo.com/video/482961727?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/482961727",
-                  "faculty": "Dr. Nagesh H M",
-                  "date": "24/11/2020 01:17 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "notes": {
               "type": "notes",
               "files": [
@@ -1100,18 +1134,18 @@
               ],
               "count": 1
             },
-            "assignment": {
-              "type": "assignment",
-              "files": [
+            "av_summary": {
+              "type": "video",
+              "videos": [
                 {
-                  "name": "Assignment_4323082c.pdf",
-                  "title": "Assignment",
-                  "uuid": "4323082c",
-                  "extension": "pdf",
-                  "path": "UE25MA141A/Unit 2/1.Introduction to higher order differential equations, complementary function and/assignment/Assignment_4323082c.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/1.Introduction%20to%20higher%20order%20differential%20equations%2C%20complementary%20function%20and/assignment/Assignment_4323082c.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%202/1.Introduction%20to%20higher%20order%20differential%20equations%2C%20complementary%20function%20and/assignment/Assignment_4323082c.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/1.Introduction%20to%20higher%20order%20differential%20equations%2C%20complementary%20function%20and/assignment/Assignment_4323082c.pdf"
+                  "title": "Introduction to higher order differential equations, complementary function and particular integral",
+                  "provider": "vimeo",
+                  "video_id": "482961727",
+                  "video_url": "https://player.vimeo.com/video/482961727?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/482961727",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "24/11/2020 01:17 PM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -1148,6 +1182,22 @@
               ],
               "count": 1
             },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Slides_53f1d767.pdf",
+                  "title": "Slides",
+                  "uuid": "53f1d767",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 2/1.Introduction to higher order differential equations, complementary function and/slides/Slides_53f1d767.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/1.Introduction%20to%20higher%20order%20differential%20equations%2C%20complementary%20function%20and/slides/Slides_53f1d767.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%202/1.Introduction%20to%20higher%20order%20differential%20equations%2C%20complementary%20function%20and/slides/Slides_53f1d767.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/1.Introduction%20to%20higher%20order%20differential%20equations%2C%20complementary%20function%20and/slides/Slides_53f1d767.pdf"
+                }
+              ],
+              "count": 1
+            },
             "qa": {
               "type": "qa",
               "files": [
@@ -1163,6 +1213,22 @@
                 }
               ],
               "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Assignment_4323082c.pdf",
+                  "title": "Assignment",
+                  "uuid": "4323082c",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 2/1.Introduction to higher order differential equations, complementary function and/assignment/Assignment_4323082c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/1.Introduction%20to%20higher%20order%20differential%20equations%2C%20complementary%20function%20and/assignment/Assignment_4323082c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%202/1.Introduction%20to%20higher%20order%20differential%20equations%2C%20complementary%20function%20and/assignment/Assignment_4323082c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/1.Introduction%20to%20higher%20order%20differential%20equations%2C%20complementary%20function%20and/assignment/Assignment_4323082c.pdf"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -1173,6 +1239,22 @@
           "folder_name": "2.Rules for finding the Complementary Function, Problems",
           "path": "UE25MA141A/Unit 2/2.Rules for finding the Complementary Function, Problems",
           "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Rules for finding the complementary function - Problems_f3eb50fc.pdf",
+                  "title": "Rules for finding the complementary function - Problems",
+                  "uuid": "f3eb50fc",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 2/2.Rules for finding the Complementary Function, Problems/slides/Rules for finding the complementary function - Problems_f3eb50fc.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/2.Rules%20for%20finding%20the%20Complementary%20Function%2C%20Problems/slides/Rules%20for%20finding%20the%20complementary%20function%20-%20Problems_f3eb50fc.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%202/2.Rules%20for%20finding%20the%20Complementary%20Function%2C%20Problems/slides/Rules%20for%20finding%20the%20complementary%20function%20-%20Problems_f3eb50fc.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/2.Rules%20for%20finding%20the%20Complementary%20Function%2C%20Problems/slides/Rules%20for%20finding%20the%20complementary%20function%20-%20Problems_f3eb50fc.pdf"
+                }
+              ],
+              "count": 1
+            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -1213,6 +1295,22 @@
                 }
               ],
               "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Slides_d3e9decd.pdf",
+                  "title": "Slides",
+                  "uuid": "d3e9decd",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 2/3.Particular Integral of Standard Functions- Type-1/slides/Slides_d3e9decd.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/3.Particular%20Integral%20of%20Standard%20Functions-%20Type-1/slides/Slides_d3e9decd.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%202/3.Particular%20Integral%20of%20Standard%20Functions-%20Type-1/slides/Slides_d3e9decd.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/3.Particular%20Integral%20of%20Standard%20Functions-%20Type-1/slides/Slides_d3e9decd.pdf"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -1235,6 +1333,22 @@
                   "faculty": "Dr. Nagesh H M",
                   "date": "24/11/2020 01:08 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Particular Integrals of Standard functions - Type 2_f3eba338.pdf",
+                  "title": "Particular Integrals of Standard functions - Type 2",
+                  "uuid": "f3eba338",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 2/4.Particular Integral of Standard Functions- Type-2/slides/Particular Integrals of Standard functions - Type 2_f3eba338.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/4.Particular%20Integral%20of%20Standard%20Functions-%20Type-2/slides/Particular%20Integrals%20of%20Standard%20functions%20-%20Type%202_f3eba338.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%202/4.Particular%20Integral%20of%20Standard%20Functions-%20Type-2/slides/Particular%20Integrals%20of%20Standard%20functions%20-%20Type%202_f3eba338.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/4.Particular%20Integral%20of%20Standard%20Functions-%20Type-2/slides/Particular%20Integrals%20of%20Standard%20functions%20-%20Type%202_f3eba338.pdf"
                 }
               ],
               "count": 1
@@ -1263,6 +1377,22 @@
                 }
               ],
               "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Particular Integrals of Standard functions - Type 3_f3ec0839.pdf",
+                  "title": "Particular Integrals of Standard functions - Type 3",
+                  "uuid": "f3ec0839",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 2/5.Particular Integral of Standard Functions- Type-3/slides/Particular Integrals of Standard functions - Type 3_f3ec0839.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/5.Particular%20Integral%20of%20Standard%20Functions-%20Type-3/slides/Particular%20Integrals%20of%20Standard%20functions%20-%20Type%203_f3ec0839.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%202/5.Particular%20Integral%20of%20Standard%20Functions-%20Type-3/slides/Particular%20Integrals%20of%20Standard%20functions%20-%20Type%203_f3ec0839.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/5.Particular%20Integral%20of%20Standard%20Functions-%20Type-3/slides/Particular%20Integrals%20of%20Standard%20functions%20-%20Type%203_f3ec0839.pdf"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -1288,6 +1418,22 @@
                 }
               ],
               "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Particular Integrals of Standard functions - Type 4_f3f090f1.pdf",
+                  "title": "Particular Integrals of Standard functions - Type 4",
+                  "uuid": "f3f090f1",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 2/6.Particular Integral of Standard Functions- Type-4/slides/Particular Integrals of Standard functions - Type 4_f3f090f1.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/6.Particular%20Integral%20of%20Standard%20Functions-%20Type-4/slides/Particular%20Integrals%20of%20Standard%20functions%20-%20Type%204_f3f090f1.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%202/6.Particular%20Integral%20of%20Standard%20Functions-%20Type-4/slides/Particular%20Integrals%20of%20Standard%20functions%20-%20Type%204_f3f090f1.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/6.Particular%20Integral%20of%20Standard%20Functions-%20Type-4/slides/Particular%20Integrals%20of%20Standard%20functions%20-%20Type%204_f3f090f1.pdf"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -1298,22 +1444,6 @@
           "folder_name": "7.Problems on finding PI",
           "path": "UE25MA141A/Unit 2/7.Problems on finding PI",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Video",
-                  "provider": "vimeo",
-                  "video_id": "1111889090",
-                  "video_url": "https://player.vimeo.com/video/1111889090?h=721fd5a7ac&autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/1111889090?h=721fd5a7ac",
-                  "faculty": "Dr. Nagesh H M",
-                  "date": "21/08/2025 12:07 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -1326,6 +1456,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/7.Problems%20on%20finding%20PI/slides/Slides_6f937ad0.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%202/7.Problems%20on%20finding%20PI/slides/Slides_6f937ad0.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/7.Problems%20on%20finding%20PI/slides/Slides_6f937ad0.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Video",
+                  "provider": "vimeo",
+                  "video_id": "1111889090",
+                  "video_url": "https://player.vimeo.com/video/1111889090?h=721fd5a7ac&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111889090?h=721fd5a7ac",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "21/08/2025 12:07 PM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -1421,22 +1567,6 @@
           "folder_name": "10.Problems on finding PI when X is any other form of x",
           "path": "UE25MA141A/Unit 2/10.Problems on finding PI when X is any other form of x",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Video",
-                  "provider": "vimeo",
-                  "video_id": "1111723261",
-                  "video_url": "https://player.vimeo.com/video/1111723261?h=e4bdcce86f&autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/1111723261?h=e4bdcce86f",
-                  "faculty": "Dr. Nagesh H M",
-                  "date": "20/08/2025 10:18 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -1449,6 +1579,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/10.Problems%20on%20finding%20PI%20when%20X%20is%20any%20other%20form%20of%20x/slides/Problems%20on%20finding%20P.I_389aa558.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%202/10.Problems%20on%20finding%20PI%20when%20X%20is%20any%20other%20form%20of%20x/slides/Problems%20on%20finding%20P.I_389aa558.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/10.Problems%20on%20finding%20PI%20when%20X%20is%20any%20other%20form%20of%20x/slides/Problems%20on%20finding%20P.I_389aa558.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Video",
+                  "provider": "vimeo",
+                  "video_id": "1111723261",
+                  "video_url": "https://player.vimeo.com/video/1111723261?h=e4bdcce86f&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111723261?h=e4bdcce86f",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "20/08/2025 10:18 PM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -1477,6 +1623,22 @@
                 }
               ],
               "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Cauchy's and Legendre's differential equations_f3f10ca9.pdf",
+                  "title": "Cauchy's and Legendre's differential equations",
+                  "uuid": "f3f10ca9",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 2/11.Cauchy's and Legendre's Differential Equations/slides/Cauchy's and Legendre's differential equations_f3f10ca9.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/11.Cauchy%27s%20and%20Legendre%27s%20Differential%20Equations/slides/Cauchy%27s%20and%20Legendre%27s%20differential%20equations_f3f10ca9.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%202/11.Cauchy%27s%20and%20Legendre%27s%20Differential%20Equations/slides/Cauchy%27s%20and%20Legendre%27s%20differential%20equations_f3f10ca9.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/11.Cauchy%27s%20and%20Legendre%27s%20Differential%20Equations/slides/Cauchy%27s%20and%20Legendre%27s%20differential%20equations_f3f10ca9.pdf"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -1502,6 +1664,22 @@
                 }
               ],
               "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Cauchy's and Legendre's differential equations_f3f13ea1.pdf",
+                  "title": "Cauchy's and Legendre's differential equations",
+                  "uuid": "f3f13ea1",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 2/12.Cauchy's and Legendre's Differential Equations- continued/slides/Cauchy's and Legendre's differential equations_f3f13ea1.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/12.Cauchy%27s%20and%20Legendre%27s%20Differential%20Equations-%20continued/slides/Cauchy%27s%20and%20Legendre%27s%20differential%20equations_f3f13ea1.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%202/12.Cauchy%27s%20and%20Legendre%27s%20Differential%20Equations-%20continued/slides/Cauchy%27s%20and%20Legendre%27s%20differential%20equations_f3f13ea1.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/12.Cauchy%27s%20and%20Legendre%27s%20Differential%20Equations-%20continued/slides/Cauchy%27s%20and%20Legendre%27s%20differential%20equations_f3f13ea1.pdf"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -1512,22 +1690,6 @@
           "folder_name": "13.Problems on Legendre's and Cauchy's DE's",
           "path": "UE25MA141A/Unit 2/13.Problems on Legendre's and Cauchy's DE's",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Video",
-                  "provider": "vimeo",
-                  "video_id": "1111712939",
-                  "video_url": "https://player.vimeo.com/video/1111712939?h=769991ff15&autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/1111712939?h=769991ff15",
-                  "faculty": "Dr. Nagesh H M",
-                  "date": "20/08/2025 09:43 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -1540,6 +1702,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/13.Problems%20on%20Legendre%27s%20and%20Cauchy%27s%20DE%27s/slides/Slides_36aaefd8.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%202/13.Problems%20on%20Legendre%27s%20and%20Cauchy%27s%20DE%27s/slides/Slides_36aaefd8.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/13.Problems%20on%20Legendre%27s%20and%20Cauchy%27s%20DE%27s/slides/Slides_36aaefd8.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Video",
+                  "provider": "vimeo",
+                  "video_id": "1111712939",
+                  "video_url": "https://player.vimeo.com/video/1111712939?h=769991ff15&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111712939?h=769991ff15",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "20/08/2025 09:43 PM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -1568,6 +1746,22 @@
                 }
               ],
               "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Applications problems on differential equations - LCR circuits_f3f2527d.pdf",
+                  "title": "Applications problems on differential equations - LCR circuits",
+                  "uuid": "f3f2527d",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 2/14.Applications of higher-order linear differential equations (RLC Circuits )/slides/Applications problems on differential equations - LCR circuits_f3f2527d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/14.Applications%20of%20higher-order%20linear%20differential%20equations%20%28RLC%20Circuits%20%29/slides/Applications%20problems%20on%20differential%20equations%20-%20LCR%20circuits_f3f2527d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%202/14.Applications%20of%20higher-order%20linear%20differential%20equations%20%28RLC%20Circuits%20%29/slides/Applications%20problems%20on%20differential%20equations%20-%20LCR%20circuits_f3f2527d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/14.Applications%20of%20higher-order%20linear%20differential%20equations%20%28RLC%20Circuits%20%29/slides/Applications%20problems%20on%20differential%20equations%20-%20LCR%20circuits_f3f2527d.pdf"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -1590,6 +1784,22 @@
                   "faculty": "Dr. Nagesh H M",
                   "date": "30/11/2020 09:36 AM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Applications problems on differential equations - Simple harmonic oscillation_f3f224f1.pdf",
+                  "title": "Applications problems on differential equations - Simple harmonic oscillation",
+                  "uuid": "f3f224f1",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 2/15.Application problems on differential equations (Simple harmonic oscillation)/slides/Applications problems on differential equations - Simple harmonic oscillation_f3f224f1.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/15.Application%20problems%20on%20differential%20equations%20%28Simple%20harmonic%20oscillation%29/slides/Applications%20problems%20on%20differential%20equations%20-%20Simple%20harmonic%20oscillation_f3f224f1.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%202/15.Application%20problems%20on%20differential%20equations%20%28Simple%20harmonic%20oscillation%29/slides/Applications%20problems%20on%20differential%20equations%20-%20Simple%20harmonic%20oscillation_f3f224f1.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%202/15.Application%20problems%20on%20differential%20equations%20%28Simple%20harmonic%20oscillation%29/slides/Applications%20problems%20on%20differential%20equations%20-%20Simple%20harmonic%20oscillation_f3f224f1.pdf"
                 }
               ],
               "count": 1
@@ -1635,22 +1845,6 @@
           "folder_name": "1.Introduction to Partial Differential Equations",
           "path": "UE25MA141A/Unit 3/1.Introduction to Partial Differential Equations",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Introduction",
-                  "provider": "vimeo",
-                  "video_id": "1136192723",
-                  "video_url": "https://player.vimeo.com/video/1136192723?h=e7b2ec936f&autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/1136192723?h=e7b2ec936f",
-                  "faculty": "Dr. Nagesh H M",
-                  "date": "12/11/2025 11:25 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "notes": {
               "type": "notes",
               "files": [
@@ -1667,18 +1861,18 @@
               ],
               "count": 1
             },
-            "qa": {
-              "type": "qa",
+            "assignment": {
+              "type": "assignment",
               "files": [
                 {
-                  "name": "Question & Answer_a0931c65.pdf",
-                  "title": "Question & Answer",
-                  "uuid": "a0931c65",
+                  "name": "Assignment_6bd3217d.pdf",
+                  "title": "Assignment",
+                  "uuid": "6bd3217d",
                   "extension": "pdf",
-                  "path": "UE25MA141A/Unit 3/1.Introduction to Partial Differential Equations/qa/Question & Answer_a0931c65.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%203/1.Introduction%20to%20Partial%20Differential%20Equations/qa/Question%20%26%20Answer_a0931c65.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%203/1.Introduction%20to%20Partial%20Differential%20Equations/qa/Question%20%26%20Answer_a0931c65.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%203/1.Introduction%20to%20Partial%20Differential%20Equations/qa/Question%20%26%20Answer_a0931c65.pdf"
+                  "path": "UE25MA141A/Unit 3/1.Introduction to Partial Differential Equations/assignment/Assignment_6bd3217d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%203/1.Introduction%20to%20Partial%20Differential%20Equations/assignment/Assignment_6bd3217d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%203/1.Introduction%20to%20Partial%20Differential%20Equations/assignment/Assignment_6bd3217d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%203/1.Introduction%20to%20Partial%20Differential%20Equations/assignment/Assignment_6bd3217d.pdf"
                 }
               ],
               "count": 1
@@ -1699,6 +1893,22 @@
               ],
               "count": 1
             },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Introduction",
+                  "provider": "vimeo",
+                  "video_id": "1136192723",
+                  "video_url": "https://player.vimeo.com/video/1136192723?h=e7b2ec936f&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1136192723?h=e7b2ec936f",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "12/11/2025 11:25 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
             "questionbank": {
               "type": "questionbank",
               "files": [
@@ -1715,18 +1925,18 @@
               ],
               "count": 1
             },
-            "assignment": {
-              "type": "assignment",
+            "qa": {
+              "type": "qa",
               "files": [
                 {
-                  "name": "Assignment_6bd3217d.pdf",
-                  "title": "Assignment",
-                  "uuid": "6bd3217d",
+                  "name": "Question & Answer_a0931c65.pdf",
+                  "title": "Question & Answer",
+                  "uuid": "a0931c65",
                   "extension": "pdf",
-                  "path": "UE25MA141A/Unit 3/1.Introduction to Partial Differential Equations/assignment/Assignment_6bd3217d.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%203/1.Introduction%20to%20Partial%20Differential%20Equations/assignment/Assignment_6bd3217d.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%203/1.Introduction%20to%20Partial%20Differential%20Equations/assignment/Assignment_6bd3217d.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%203/1.Introduction%20to%20Partial%20Differential%20Equations/assignment/Assignment_6bd3217d.pdf"
+                  "path": "UE25MA141A/Unit 3/1.Introduction to Partial Differential Equations/qa/Question & Answer_a0931c65.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%203/1.Introduction%20to%20Partial%20Differential%20Equations/qa/Question%20%26%20Answer_a0931c65.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%203/1.Introduction%20to%20Partial%20Differential%20Equations/qa/Question%20%26%20Answer_a0931c65.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%203/1.Introduction%20to%20Partial%20Differential%20Equations/qa/Question%20%26%20Answer_a0931c65.pdf"
                 }
               ],
               "count": 1
@@ -1986,22 +2196,6 @@
           "folder_name": "8.Applications of PDE - Modeling of the one-dimensional Heat equation",
           "path": "UE25MA141A/Unit 3/8.Applications of PDE - Modeling of the one-dimensional Heat equation",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Session-8",
-                  "provider": "vimeo",
-                  "video_id": "1138983589",
-                  "video_url": "https://player.vimeo.com/video/1138983589?h=e822c201ad&autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/1138983589?h=e822c201ad",
-                  "faculty": "Dr. Nagesh H M",
-                  "date": "20/11/2025 10:02 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -2014,6 +2208,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%203/8.Applications%20of%20PDE%20-%20Modeling%20of%20the%20one-dimensional%20Heat%20equation/slides/Slides_6dab3b76.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%203/8.Applications%20of%20PDE%20-%20Modeling%20of%20the%20one-dimensional%20Heat%20equation/slides/Slides_6dab3b76.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%203/8.Applications%20of%20PDE%20-%20Modeling%20of%20the%20one-dimensional%20Heat%20equation/slides/Slides_6dab3b76.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Session-8",
+                  "provider": "vimeo",
+                  "video_id": "1138983589",
+                  "video_url": "https://player.vimeo.com/video/1138983589?h=e822c201ad&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1138983589?h=e822c201ad",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "20/11/2025 10:02 PM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -2355,6 +2565,22 @@
               ],
               "count": 1
             },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Assignment_bc51eef0.pdf",
+                  "title": "Assignment",
+                  "uuid": "bc51eef0",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 4/1.Gamma functions - definition, Graph and properties/assignment/Assignment_bc51eef0.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/assignment/Assignment_bc51eef0.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/assignment/Assignment_bc51eef0.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/assignment/Assignment_bc51eef0.pdf"
+                }
+              ],
+              "count": 1
+            },
             "questionbank": {
               "type": "questionbank",
               "files": [
@@ -2371,18 +2597,18 @@
               ],
               "count": 1
             },
-            "slides": {
-              "type": "slides",
+            "references": {
+              "type": "references",
               "files": [
                 {
-                  "name": "Gamma functions - definition, Graph and properties_fbede88d.pdf",
-                  "title": "Gamma functions - definition, Graph and properties",
-                  "uuid": "fbede88d",
+                  "name": "References_fbeeefd1.pdf",
+                  "title": "References",
+                  "uuid": "fbeeefd1",
                   "extension": "pdf",
-                  "path": "UE25MA141A/Unit 4/1.Gamma functions - definition, Graph and properties/slides/Gamma functions - definition, Graph and properties_fbede88d.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/slides/Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties_fbede88d.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/slides/Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties_fbede88d.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/slides/Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties_fbede88d.pdf"
+                  "path": "UE25MA141A/Unit 4/1.Gamma functions - definition, Graph and properties/references/References_fbeeefd1.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/references/References_fbeeefd1.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/references/References_fbeeefd1.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/references/References_fbeeefd1.pdf"
                 }
               ],
               "count": 1
@@ -2419,34 +2645,18 @@
               ],
               "count": 1
             },
-            "assignment": {
-              "type": "assignment",
+            "slides": {
+              "type": "slides",
               "files": [
                 {
-                  "name": "Assignment_bc51eef0.pdf",
-                  "title": "Assignment",
-                  "uuid": "bc51eef0",
+                  "name": "Gamma functions - definition, Graph and properties_fbede88d.pdf",
+                  "title": "Gamma functions - definition, Graph and properties",
+                  "uuid": "fbede88d",
                   "extension": "pdf",
-                  "path": "UE25MA141A/Unit 4/1.Gamma functions - definition, Graph and properties/assignment/Assignment_bc51eef0.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/assignment/Assignment_bc51eef0.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/assignment/Assignment_bc51eef0.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/assignment/Assignment_bc51eef0.pdf"
-                }
-              ],
-              "count": 1
-            },
-            "references": {
-              "type": "references",
-              "files": [
-                {
-                  "name": "References_fbeeefd1.pdf",
-                  "title": "References",
-                  "uuid": "fbeeefd1",
-                  "extension": "pdf",
-                  "path": "UE25MA141A/Unit 4/1.Gamma functions - definition, Graph and properties/references/References_fbeeefd1.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/references/References_fbeeefd1.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/references/References_fbeeefd1.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/references/References_fbeeefd1.pdf"
+                  "path": "UE25MA141A/Unit 4/1.Gamma functions - definition, Graph and properties/slides/Gamma functions - definition, Graph and properties_fbede88d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/slides/Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties_fbede88d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/slides/Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties_fbede88d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/1.Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties/slides/Gamma%20functions%20-%20definition%2C%20Graph%20and%20properties_fbede88d.pdf"
                 }
               ],
               "count": 1
@@ -2501,22 +2711,6 @@
           "folder_name": "3.Relation between Beta and Gamma functions and Duplication formula",
           "path": "UE25MA141A/Unit 4/3.Relation between Beta and Gamma functions and Duplication formula",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Relation between Beta and Gamma functions, Duplication formula_fbef56a4.pdf",
-                  "title": "Relation between Beta and Gamma functions, Duplication formula",
-                  "uuid": "fbef56a4",
-                  "extension": "pdf",
-                  "path": "UE25MA141A/Unit 4/3.Relation between Beta and Gamma functions and Duplication formula/slides/Relation between Beta and Gamma functions, Duplication formula_fbef56a4.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/3.Relation%20between%20Beta%20and%20Gamma%20functions%20and%20Duplication%20formula/slides/Relation%20between%20Beta%20and%20Gamma%20functions%2C%20Duplication%20formula_fbef56a4.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%204/3.Relation%20between%20Beta%20and%20Gamma%20functions%20and%20Duplication%20formula/slides/Relation%20between%20Beta%20and%20Gamma%20functions%2C%20Duplication%20formula_fbef56a4.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/3.Relation%20between%20Beta%20and%20Gamma%20functions%20and%20Duplication%20formula/slides/Relation%20between%20Beta%20and%20Gamma%20functions%2C%20Duplication%20formula_fbef56a4.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -2529,6 +2723,22 @@
                   "faculty": "Jagatheswari G K",
                   "date": "24/11/2020 11:28 AM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Relation between Beta and Gamma functions, Duplication formula_fbef56a4.pdf",
+                  "title": "Relation between Beta and Gamma functions, Duplication formula",
+                  "uuid": "fbef56a4",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 4/3.Relation between Beta and Gamma functions and Duplication formula/slides/Relation between Beta and Gamma functions, Duplication formula_fbef56a4.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/3.Relation%20between%20Beta%20and%20Gamma%20functions%20and%20Duplication%20formula/slides/Relation%20between%20Beta%20and%20Gamma%20functions%2C%20Duplication%20formula_fbef56a4.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%204/3.Relation%20between%20Beta%20and%20Gamma%20functions%20and%20Duplication%20formula/slides/Relation%20between%20Beta%20and%20Gamma%20functions%2C%20Duplication%20formula_fbef56a4.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/3.Relation%20between%20Beta%20and%20Gamma%20functions%20and%20Duplication%20formula/slides/Relation%20between%20Beta%20and%20Gamma%20functions%2C%20Duplication%20formula_fbef56a4.pdf"
                 }
               ],
               "count": 1
@@ -2675,22 +2885,6 @@
           "folder_name": "7.Problems on Recurrence Relations",
           "path": "UE25MA141A/Unit 4/7.Problems on Recurrence Relations",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Problems on Recurrence relations",
-                  "provider": "vimeo",
-                  "video_id": "483379938",
-                  "video_url": "https://player.vimeo.com/video/483379938?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/483379938",
-                  "faculty": "Jagatheswari G K",
-                  "date": "25/11/2020 09:07 AM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -2706,6 +2900,22 @@
                 }
               ],
               "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Problems on Recurrence relations",
+                  "provider": "vimeo",
+                  "video_id": "483379938",
+                  "video_url": "https://player.vimeo.com/video/483379938?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/483379938",
+                  "faculty": "Jagatheswari G K",
+                  "date": "25/11/2020 09:07 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -2716,22 +2926,6 @@
           "folder_name": "8.Generating Functions, Jacobi series",
           "path": "UE25MA141A/Unit 4/8.Generating Functions, Jacobi series",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Generating Functions, Jacobi series",
-                  "provider": "vimeo",
-                  "video_id": "483380360",
-                  "video_url": "https://player.vimeo.com/video/483380360?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/483380360",
-                  "faculty": "Jagatheswari G K",
-                  "date": "25/11/2020 09:09 AM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -2744,6 +2938,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/8.Generating%20Functions%2C%20Jacobi%20series/slides/Generating%20Functions%2C%20Jacobi%20series_fbef6c25.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%204/8.Generating%20Functions%2C%20Jacobi%20series/slides/Generating%20Functions%2C%20Jacobi%20series_fbef6c25.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%204/8.Generating%20Functions%2C%20Jacobi%20series/slides/Generating%20Functions%2C%20Jacobi%20series_fbef6c25.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Generating Functions, Jacobi series",
+                  "provider": "vimeo",
+                  "video_id": "483380360",
+                  "video_url": "https://player.vimeo.com/video/483380360?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/483380360",
+                  "faculty": "Jagatheswari G K",
+                  "date": "25/11/2020 09:09 AM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -2837,5 +3047,5 @@
   ],
   "total_units": 5,
   "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE25MA141A",
-  "updated_at": "2026-01-22T19:22:47.064267"
+  "updated_at": "2026-01-22T21:01:07.609786"
 }
