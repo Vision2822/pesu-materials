@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UE25MA141A",
+  "course_title": "Engineering Mathematics - I",
+  "semester_name": "Sem-1",
+  "units": [
+    {
+      "id": "UE25MA141A_MATLAB",
+      "title": "MATLAB",
+      "path": "UE25MA141A/MATLAB",
+      "classes": []
+    },
+    {
+      "id": "UE25MA141A_Unit 1",
+      "title": "Unit 1",
+      "path": "UE25MA141A/Unit 1",
+      "classes": []
+    },
+    {
+      "id": "UE25MA141A_Unit 2",
+      "title": "Unit 2",
+      "path": "UE25MA141A/Unit 2",
+      "classes": []
+    },
+    {
+      "id": "UE25MA141A_Unit 3",
+      "title": "Unit 3",
+      "path": "UE25MA141A/Unit 3",
+      "classes": []
+    },
+    {
+      "id": "UE25MA141A_Unit 4",
+      "title": "Unit 4",
+      "path": "UE25MA141A/Unit 4",
+      "classes": []
+    }
+  ],
+  "total_units": 5,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE25MA141A",
+  "updated_at": "2026-01-22T18:52:31.154661"
+}
