@@ -1,0 +1,27 @@
+{
+  "course_code": "UE25PH151A",
+  "unit_title": "Unit 1: Concepts leading to Quantum mechanics",
+  "videos": [
+    {
+      "title": "Class2 Electromagnetic waves",
+      "provider": "vimeo",
+      "video_id": "1119338676",
+      "video_url": "https://player.vimeo.com/video/1119338676?h=bf3a4f0302&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1119338676?h=bf3a4f0302",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "17/09/2025 12:48 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Energy transported by Electromagnetic waves",
+      "provider": "vimeo",
+      "video_id": "1119339122",
+      "video_url": "https://player.vimeo.com/video/1119339122?h=6a4d85e4ac&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1119339122?h=6a4d85e4ac",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "17/09/2025 12:50 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T20:57:31.254252"
+}

@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25PH151A",
+  "unit_title": "Unit 1: Concepts leading to Quantum mechanics",
+  "videos": [
+    {
+      "title": "Class 14_Basics of Quantum Computing",
+      "provider": "vimeo",
+      "video_id": "1114673288",
+      "video_url": "https://player.vimeo.com/video/1114673288?h=22f452ee07&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1114673288?h=22f452ee07",
+      "faculty": "S. Radhakrishna",
+      "date": "31/08/2025 10:07 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T20:57:32.383407"
+}

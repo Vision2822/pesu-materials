@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25PH151A",
+  "unit_title": "Unit 1: Concepts leading to Quantum mechanics",
+  "videos": [
+    {
+      "title": "âSingle particleâ double slit experiment, concept of quantum interference.",
+      "provider": "vimeo",
+      "video_id": "1122575288",
+      "video_url": "https://player.vimeo.com/video/1122575288?h=54958ffc48&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1122575288?h=54958ffc48",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "28/09/2025 01:29 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T20:57:31.639403"
+}

@@ -1,0 +1,37 @@
+{
+  "course_code": "UE25PH151A",
+  "unit_title": "Unit 1: Concepts leading to Quantum mechanics",
+  "videos": [
+    {
+      "title": "atomic spectra",
+      "provider": "vimeo",
+      "video_id": "488089361",
+      "video_url": "https://player.vimeo.com/video/488089361?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/488089361",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "17/11/2025 04:15 PM",
+      "section": "NA"
+    },
+    {
+      "title": "polarisation",
+      "provider": "vimeo",
+      "video_id": "366174413",
+      "video_url": "https://player.vimeo.com/video/366174413?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/366174413",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "17/11/2025 04:13 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Blackbody radiation",
+      "provider": "vimeo",
+      "video_id": "1119339436",
+      "video_url": "https://player.vimeo.com/video/1119339436?h=a2457f6a9c&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1119339436?h=a2457f6a9c",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "17/09/2025 12:52 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T20:57:31.359875"
+}

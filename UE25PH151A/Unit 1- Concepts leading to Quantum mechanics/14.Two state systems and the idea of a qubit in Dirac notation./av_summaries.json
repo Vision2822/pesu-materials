@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25PH151A",
+  "unit_title": "Unit 1: Concepts leading to Quantum mechanics",
+  "videos": [
+    {
+      "title": "Two state systems and the idea of a qubit in Dirac notation.",
+      "provider": "vimeo",
+      "video_id": "1109005633",
+      "video_url": "https://player.vimeo.com/video/1109005633?h=0d4ac2e8a5&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1109005633?h=0d4ac2e8a5",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "11/08/2025 03:49 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T20:57:32.196421"
+}
