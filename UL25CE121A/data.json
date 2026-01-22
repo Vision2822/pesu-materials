@@ -17,22 +17,6 @@
           "folder_name": "1.My India - The India Eternal by Swami Vivekananda",
           "path": "UL25CE121A/1. Introduction to Constitution of India/1.My India - The India Eternal by Swami Vivekananda",
           "content": {
-            "notes": {
-              "type": "notes",
-              "files": [
-                {
-                  "name": "My India - The India Eternal by Swami Vivekananda_e66851b7.pdf",
-                  "title": "My India - The India Eternal by Swami Vivekananda",
-                  "uuid": "e66851b7",
-                  "extension": "pdf",
-                  "path": "UL25CE121A/1. Introduction to Constitution of India/1.My India - The India Eternal by Swami Vivekananda/notes/My India - The India Eternal by Swami Vivekananda_e66851b7.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/1.My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda/notes/My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda_e66851b7.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/1.My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda/notes/My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda_e66851b7.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/1.My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda/notes/My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda_e66851b7.pdf"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -45,6 +29,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/1.My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda/slides/My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda_4fe2a12a.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/1.My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda/slides/My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda_4fe2a12a.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/1.My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda/slides/My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda_4fe2a12a.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "My India - The India Eternal by Swami Vivekananda_e66851b7.pdf",
+                  "title": "My India - The India Eternal by Swami Vivekananda",
+                  "uuid": "e66851b7",
+                  "extension": "pdf",
+                  "path": "UL25CE121A/1. Introduction to Constitution of India/1.My India - The India Eternal by Swami Vivekananda/notes/My India - The India Eternal by Swami Vivekananda_e66851b7.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/1.My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda/notes/My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda_e66851b7.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/1.My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda/notes/My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda_e66851b7.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/1.My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda/notes/My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda_e66851b7.pdf"
                 }
               ],
               "count": 1
@@ -115,5 +115,5 @@
   ],
   "total_units": 4,
   "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UL25CE121A",
-  "updated_at": "2026-01-22T19:22:48.077885"
+  "updated_at": "2026-01-22T19:48:18.445136"
 }
