@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25CY151A",
+  "unit_title": "DUMMY UNIT",
+  "videos": [
+    {
+      "title": "Stress corrosion and Factors affecting rate of corrosion",
+      "provider": "vimeo",
+      "video_id": "460243399",
+      "video_url": "https://player.vimeo.com/video/460243399?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/460243399",
+      "faculty": "Dr. Revanasiddappa M",
+      "date": "21/09/2020 10:20 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:59:25.757821"
+}
