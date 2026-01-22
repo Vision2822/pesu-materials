@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25PH151A(LAB)",
+  "unit_title": "Quantum \nmechanical \ntreatment of \nelectron \ntransport \nand  \nMagnetic \nmaterials",
+  "videos": [
+    {
+      "title": "Understanding electrical conduction in metals",
+      "provider": "vimeo",
+      "video_id": "488090497",
+      "video_url": "https://player.vimeo.com/video/488090497?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/488090497",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "29/11/2025 02:16 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T21:00:57.783234"
+}
