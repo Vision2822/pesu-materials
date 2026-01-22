@@ -1,0 +1,239 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UE25PH151A(LAB)",
+  "course_title": "Engineering Physics integrated with lab",
+  "semester_name": "Sem-1",
+  "units": [
+    {
+      "id": "UE25PH151A(LAB)_Application of Quantum Mechanics to Optical Waves; Dielectrics",
+      "title": "Application \nof \nQuantum \nMechanics \nto Optical \nWaves; \nDielectrics",
+      "path": "UE25PH151A(LAB)/Application of Quantum Mechanics to Optical Waves; Dielectrics",
+      "classes": [
+        {
+          "id": "UE25PH151A(LAB)_Application of Quantum Mechanics to Optical Waves; Dielectrics_1.Characteristics and diffraction of LASER",
+          "order": 1,
+          "title": "Characteristics  and diffraction of LASER  ",
+          "folder_name": "1.Characteristics and diffraction of LASER",
+          "path": "UE25PH151A(LAB)/Application of Quantum Mechanics to Optical Waves; Dielectrics/1.Characteristics and diffraction of LASER",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "laser characteristics",
+                  "provider": "vimeo",
+                  "video_id": "366174882",
+                  "video_url": "https://player.vimeo.com/video/366174882?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/366174882",
+                  "faculty": "Dr. R.Vasudev Iyer",
+                  "date": "29/11/2025 02:19 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25PH151A(LAB)_Application of Quantum Mechanics to Optical Waves; Dielectrics_3.Piezoelectric behaviour",
+          "order": 3,
+          "title": "Piezoelectric behaviour",
+          "folder_name": "3.Piezoelectric behaviour",
+          "path": "UE25PH151A(LAB)/Application of Quantum Mechanics to Optical Waves; Dielectrics/3.Piezoelectric behaviour",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "piezoelectric behaviour",
+                  "provider": "vimeo",
+                  "video_id": "488092709",
+                  "video_url": "https://player.vimeo.com/video/488092709?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/488092709",
+                  "faculty": "Dr. R.Vasudev Iyer",
+                  "date": "29/11/2025 02:21 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE25PH151A(LAB)_Quantum Mechanics and Simple Quantum Mechanical Systems",
+      "title": "Quantum \nMechanics and \nSimple \nQuantum \nMechanical \nSystems ",
+      "path": "UE25PH151A(LAB)/Quantum Mechanics and Simple Quantum Mechanical Systems",
+      "classes": []
+    },
+    {
+      "id": "UE25PH151A(LAB)_Quantum mechanical treatment of electron transport and Magnetic materials",
+      "title": "Quantum \nmechanical \ntreatment of \nelectron \ntransport \nand  \nMagnetic \nmaterials",
+      "path": "UE25PH151A(LAB)/Quantum mechanical treatment of electron transport and Magnetic materials",
+      "classes": [
+        {
+          "id": "UE25PH151A(LAB)_Quantum mechanical treatment of electron transport and Magnetic materials_1.Understand electrical conduction in metals",
+          "order": 1,
+          "title": "Understand electrical conduction in metals  ",
+          "folder_name": "1.Understand electrical conduction in metals",
+          "path": "UE25PH151A(LAB)/Quantum mechanical treatment of electron transport and Magnetic materials/1.Understand electrical conduction in metals",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Understanding electrical conduction in metals",
+                  "provider": "vimeo",
+                  "video_id": "488090497",
+                  "video_url": "https://player.vimeo.com/video/488090497?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/488090497",
+                  "faculty": "Dr. R.Vasudev Iyer",
+                  "date": "29/11/2025 02:16 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE25PH151A(LAB)_Review of concepts leading to Quantum Mechanics",
+      "title": "Review of \nconcepts \nleading to  \nQuantum \nMechanics",
+      "path": "UE25PH151A(LAB)/Review of concepts leading to Quantum Mechanics",
+      "classes": [
+        {
+          "id": "UE25PH151A(LAB)_Review of concepts leading to Quantum Mechanics_1.Measuring instruments, least counts and error analysis",
+          "order": 1,
+          "title": "Measuring instruments, least counts and error analysis",
+          "folder_name": "1.Measuring instruments, least counts and error analysis",
+          "path": "UE25PH151A(LAB)/Review of concepts leading to Quantum Mechanics/1.Measuring instruments, least counts and error analysis",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Errors and measuring instruments",
+                  "provider": "vimeo",
+                  "video_id": "367196391",
+                  "video_url": "https://player.vimeo.com/video/367196391?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/367196391",
+                  "faculty": "Dr. R.Vasudev Iyer",
+                  "date": "29/11/2025 02:03 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25PH151A(LAB)_Review of concepts leading to Quantum Mechanics_2.Graphs- least square fit for scattered data",
+          "order": 2,
+          "title": "Graphs- least square fit for scattered data ",
+          "folder_name": "2.Graphs- least square fit for scattered data",
+          "path": "UE25PH151A(LAB)/Review of concepts leading to Quantum Mechanics/2.Graphs- least square fit for scattered data",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Graphs and linear fit",
+                  "provider": "vimeo",
+                  "video_id": "367195826",
+                  "video_url": "https://player.vimeo.com/video/367195826?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/367195826",
+                  "faculty": "Dr. R.Vasudev Iyer",
+                  "date": "29/11/2025 02:12 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25PH151A(LAB)_Review of concepts leading to Quantum Mechanics_3.Understanding Optical Interference",
+          "order": 3,
+          "title": "Understanding Optical Interference",
+          "folder_name": "3.Understanding Optical Interference",
+          "path": "UE25PH151A(LAB)/Review of concepts leading to Quantum Mechanics/3.Understanding Optical Interference",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Optical interference",
+                  "provider": "vimeo",
+                  "video_id": "359541244",
+                  "video_url": "https://player.vimeo.com/video/359541244?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/359541244",
+                  "faculty": "Dr. R.Vasudev Iyer",
+                  "date": "29/11/2025 02:08 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25PH151A(LAB)_Review of concepts leading to Quantum Mechanics_4.Polarization states of Light with multiple polarizer",
+          "order": 4,
+          "title": "Polarization states of Light with multiple polarizer ",
+          "folder_name": "4.Polarization states of Light with multiple polarizer",
+          "path": "UE25PH151A(LAB)/Review of concepts leading to Quantum Mechanics/4.Polarization states of Light with multiple polarizer",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "polarisation states",
+                  "provider": "vimeo",
+                  "video_id": "366174413",
+                  "video_url": "https://player.vimeo.com/video/366174413?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/366174413",
+                  "faculty": "Dr. R.Vasudev Iyer",
+                  "date": "29/11/2025 02:10 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25PH151A(LAB)_Review of concepts leading to Quantum Mechanics_5.Atomic spectra as a signature of element",
+          "order": 5,
+          "title": "Atomic spectra as a signature of element ",
+          "folder_name": "5.Atomic spectra as a signature of element",
+          "path": "UE25PH151A(LAB)/Review of concepts leading to Quantum Mechanics/5.Atomic spectra as a signature of element",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "atomic spectra",
+                  "provider": "vimeo",
+                  "video_id": "488089361",
+                  "video_url": "https://player.vimeo.com/video/488089361?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/488089361",
+                  "faculty": "Dr. R.Vasudev Iyer",
+                  "date": "29/11/2025 02:11 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "total_units": 4,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE25PH151A(LAB)",
+  "updated_at": "2026-01-22T21:01:10.625730"
+}
