@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UE25EC141A",
+  "course_title": "Electronic Principles and Devices",
+  "semester_name": "Sem-1",
+  "units": [
+    {
+      "id": "UE25EC141A_Digital Electronics",
+      "title": "Digital Electronics ",
+      "path": "UE25EC141A/Digital Electronics",
+      "classes": []
+    },
+    {
+      "id": "UE25EC141A_Diode Applications",
+      "title": "Diode Applications",
+      "path": "UE25EC141A/Diode Applications",
+      "classes": []
+    },
+    {
+      "id": "UE25EC141A_Semiconductor Diode",
+      "title": "Semiconductor Diode",
+      "path": "UE25EC141A/Semiconductor Diode",
+      "classes": []
+    },
+    {
+      "id": "UE25EC141A_Transistor and Operational Amplifier",
+      "title": "Transistor and Operational Amplifier",
+      "path": "UE25EC141A/Transistor and Operational Amplifier",
+      "classes": []
+    }
+  ],
+  "total_units": 4,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE25EC141A",
+  "updated_at": "2026-01-22T18:52:30.470435"
+}
