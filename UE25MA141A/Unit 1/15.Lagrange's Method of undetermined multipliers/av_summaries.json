@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25MA141A",
+  "unit_title": "Unit 1",
+  "videos": [
+    {
+      "title": "Lagrange's method of undetermined coefficient",
+      "provider": "vimeo",
+      "video_id": "460440300",
+      "video_url": "https://player.vimeo.com/video/460440300?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/460440300",
+      "faculty": "Dr. Nagesh H M",
+      "date": "22/09/2020 11:25 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T19:00:39.075227"
+}

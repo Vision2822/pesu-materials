@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25MA141A",
+  "unit_title": "Unit 1",
+  "videos": [
+    {
+      "title": "Euler's theorem problems",
+      "provider": "vimeo",
+      "video_id": "1110913854",
+      "video_url": "https://player.vimeo.com/video/1110913854?h=230b57e2cd&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1110913854?h=230b57e2cd",
+      "faculty": "Dr. Nagesh H M",
+      "date": "18/08/2025 04:23 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T19:00:38.777257"
+}
