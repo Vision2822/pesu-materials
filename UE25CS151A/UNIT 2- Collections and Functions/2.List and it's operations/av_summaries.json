@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25CS151A",
+  "unit_title": "UNIT 2: Collections & Functions",
+  "videos": [
+    {
+      "title": "Lists and Tuples",
+      "provider": "vimeo",
+      "video_id": "651481822",
+      "video_url": "https://player.vimeo.com/video/651481822?h=9054acd100&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/651481822?h=9054acd100",
+      "faculty": "Kundhavai K R",
+      "date": "18/10/2023 09:22 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:47:31.173529"
+}

@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25CS151A",
+  "unit_title": "UNIT 2: Collections & Functions",
+  "videos": [
+    {
+      "title": "Function_Call_Definition_Variable_arguments",
+      "provider": "vimeo",
+      "video_id": "459917308",
+      "video_url": "https://player.vimeo.com/video/459917308?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/459917308",
+      "faculty": "Kundhavai K R",
+      "date": "24/10/2023 06:27 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:47:31.941644"
+}
