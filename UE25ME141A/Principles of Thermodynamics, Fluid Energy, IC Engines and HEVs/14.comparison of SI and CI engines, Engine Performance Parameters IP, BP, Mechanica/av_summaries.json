@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25ME141A",
+  "unit_title": "Principles of Thermodynamics, Fluid Energy, IC Engines and HEVs",
+  "videos": [
+    {
+      "title": "comparison of SI and CI engines",
+      "provider": "vimeo",
+      "video_id": "1121175060",
+      "video_url": "https://player.vimeo.com/video/1121175060?h=bf4018752c&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1121175060?h=bf4018752c",
+      "faculty": "Mahantesh",
+      "date": "23/09/2025 07:10 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T20:51:38.203037"
+}
