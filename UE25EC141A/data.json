@@ -9,28 +9,1507 @@
       "id": "UE25EC141A_Digital Electronics",
       "title": "Digital Electronics ",
       "path": "UE25EC141A/Digital Electronics",
-      "classes": []
+      "classes": [
+        {
+          "id": "UE25EC141A_Digital Electronics_1.Number Systems binary and hexadecimal, Binary Addition and Subtraction, 2s compl",
+          "order": 1,
+          "title": "Number Systems  binary and hexadecimal, Binary Addition and Subtraction, 2?s complement subtraction.",
+          "folder_name": "1.Number Systems binary and hexadecimal, Binary Addition and Subtraction, 2s compl",
+          "path": "UE25EC141A/Digital Electronics/1.Number Systems binary and hexadecimal, Binary Addition and Subtraction, 2s compl",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Unit-4 - Digital Electronics_32e58997.pdf",
+                  "title": "Unit-4 - Digital Electronics",
+                  "uuid": "32e58997",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Digital Electronics/1.Number Systems binary and hexadecimal, Binary Addition and Subtraction, 2s compl/slides/Unit-4 - Digital Electronics_32e58997.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Digital%20Electronics/1.Number%20Systems%20binary%20and%20hexadecimal%2C%20Binary%20Addition%20and%20Subtraction%2C%202s%20compl/slides/Unit-4%20-%20Digital%20Electronics_32e58997.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Digital%20Electronics/1.Number%20Systems%20binary%20and%20hexadecimal%2C%20Binary%20Addition%20and%20Subtraction%2C%202s%20compl/slides/Unit-4%20-%20Digital%20Electronics_32e58997.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Digital%20Electronics/1.Number%20Systems%20binary%20and%20hexadecimal%2C%20Binary%20Addition%20and%20Subtraction%2C%202s%20compl/slides/Unit-4%20-%20Digital%20Electronics_32e58997.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Unit-4 - Digital Electronics_b97b4b9f.pdf",
+                  "title": "Unit-4 - Digital Electronics",
+                  "uuid": "b97b4b9f",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Digital Electronics/1.Number Systems binary and hexadecimal, Binary Addition and Subtraction, 2s compl/assignment/Unit-4 - Digital Electronics_b97b4b9f.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Digital%20Electronics/1.Number%20Systems%20binary%20and%20hexadecimal%2C%20Binary%20Addition%20and%20Subtraction%2C%202s%20compl/assignment/Unit-4%20-%20Digital%20Electronics_b97b4b9f.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Digital%20Electronics/1.Number%20Systems%20binary%20and%20hexadecimal%2C%20Binary%20Addition%20and%20Subtraction%2C%202s%20compl/assignment/Unit-4%20-%20Digital%20Electronics_b97b4b9f.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Digital%20Electronics/1.Number%20Systems%20binary%20and%20hexadecimal%2C%20Binary%20Addition%20and%20Subtraction%2C%202s%20compl/assignment/Unit-4%20-%20Digital%20Electronics_b97b4b9f.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Number Systems",
+                  "provider": "vimeo",
+                  "video_id": "1111597194",
+                  "video_url": "https://player.vimeo.com/video/1111597194?h=ee2bf2b1d9&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111597194?h=ee2bf2b1d9",
+                  "faculty": "Ananda M",
+                  "date": "20/08/2025 02:48 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "1's and 2's complement subtraction.",
+                  "provider": "vimeo",
+                  "video_id": "1111598640",
+                  "video_url": "https://player.vimeo.com/video/1111598640?h=e332eaf6e9&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111598640?h=e332eaf6e9",
+                  "faculty": "Ananda M",
+                  "date": "20/08/2025 02:55 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Unit-4 - Digital Electronics_241d9999.pdf",
+                  "title": "Unit-4 - Digital Electronics",
+                  "uuid": "241d9999",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Digital Electronics/1.Number Systems binary and hexadecimal, Binary Addition and Subtraction, 2s compl/qa/Unit-4 - Digital Electronics_241d9999.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Digital%20Electronics/1.Number%20Systems%20binary%20and%20hexadecimal%2C%20Binary%20Addition%20and%20Subtraction%2C%202s%20compl/qa/Unit-4%20-%20Digital%20Electronics_241d9999.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Digital%20Electronics/1.Number%20Systems%20binary%20and%20hexadecimal%2C%20Binary%20Addition%20and%20Subtraction%2C%202s%20compl/qa/Unit-4%20-%20Digital%20Electronics_241d9999.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Digital%20Electronics/1.Number%20Systems%20binary%20and%20hexadecimal%2C%20Binary%20Addition%20and%20Subtraction%2C%202s%20compl/qa/Unit-4%20-%20Digital%20Electronics_241d9999.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Unit-4 - Digital Electronics_4e9b38d0.pdf",
+                  "title": "Unit-4 - Digital Electronics",
+                  "uuid": "4e9b38d0",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Digital Electronics/1.Number Systems binary and hexadecimal, Binary Addition and Subtraction, 2s compl/notes/Unit-4 - Digital Electronics_4e9b38d0.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Digital%20Electronics/1.Number%20Systems%20binary%20and%20hexadecimal%2C%20Binary%20Addition%20and%20Subtraction%2C%202s%20compl/notes/Unit-4%20-%20Digital%20Electronics_4e9b38d0.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Digital%20Electronics/1.Number%20Systems%20binary%20and%20hexadecimal%2C%20Binary%20Addition%20and%20Subtraction%2C%202s%20compl/notes/Unit-4%20-%20Digital%20Electronics_4e9b38d0.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Digital%20Electronics/1.Number%20Systems%20binary%20and%20hexadecimal%2C%20Binary%20Addition%20and%20Subtraction%2C%202s%20compl/notes/Unit-4%20-%20Digital%20Electronics_4e9b38d0.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Unit-4 - Digital Electronics_9b3442de.pdf",
+                  "title": "Unit-4 - Digital Electronics",
+                  "uuid": "9b3442de",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Digital Electronics/1.Number Systems binary and hexadecimal, Binary Addition and Subtraction, 2s compl/questionbank/Unit-4 - Digital Electronics_9b3442de.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Digital%20Electronics/1.Number%20Systems%20binary%20and%20hexadecimal%2C%20Binary%20Addition%20and%20Subtraction%2C%202s%20compl/questionbank/Unit-4%20-%20Digital%20Electronics_9b3442de.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Digital%20Electronics/1.Number%20Systems%20binary%20and%20hexadecimal%2C%20Binary%20Addition%20and%20Subtraction%2C%202s%20compl/questionbank/Unit-4%20-%20Digital%20Electronics_9b3442de.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Digital%20Electronics/1.Number%20Systems%20binary%20and%20hexadecimal%2C%20Binary%20Addition%20and%20Subtraction%2C%202s%20compl/questionbank/Unit-4%20-%20Digital%20Electronics_9b3442de.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Digital Electronics_2.Boolean Algebra and Logic gates",
+          "order": 2,
+          "title": "Boolean Algebra and Logic gates",
+          "folder_name": "2.Boolean Algebra and Logic gates",
+          "path": "UE25EC141A/Digital Electronics/2.Boolean Algebra and Logic gates",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Boolean Algebra and Logic gates",
+                  "provider": "vimeo",
+                  "video_id": "1111598841",
+                  "video_url": "https://player.vimeo.com/video/1111598841?h=42b7d7b14f&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111598841?h=42b7d7b14f",
+                  "faculty": "Ananda M",
+                  "date": "20/08/2025 02:55 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Digital Electronics_3.Basic Theorem and Properties of Boolean Algebra",
+          "order": 3,
+          "title": "Basic Theorem and Properties of Boolean Algebra",
+          "folder_name": "3.Basic Theorem and Properties of Boolean Algebra",
+          "path": "UE25EC141A/Digital Electronics/3.Basic Theorem and Properties of Boolean Algebra",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Basic Theorem and Properties of Boolean Algebra",
+                  "provider": "vimeo",
+                  "video_id": "1111599001",
+                  "video_url": "https://player.vimeo.com/video/1111599001?h=fdd4fc855a&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111599001?h=fdd4fc855a",
+                  "faculty": "Ananda M",
+                  "date": "20/08/2025 02:56 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Digital Electronics_4.Boolean Functions, Canonical and Standard Form",
+          "order": 4,
+          "title": "Boolean Functions, Canonical and Standard Form",
+          "folder_name": "4.Boolean Functions, Canonical and Standard Form",
+          "path": "UE25EC141A/Digital Electronics/4.Boolean Functions, Canonical and Standard Form",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Boolean Functions, Canonical and Standard Form",
+                  "provider": "vimeo",
+                  "video_id": "1111644481",
+                  "video_url": "https://player.vimeo.com/video/1111644481?h=76cc3013f9&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111644481?h=76cc3013f9",
+                  "faculty": "Ananda M",
+                  "date": "20/08/2025 06:07 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Digital Electronics_5.Other Logical Operation, Digital Logic gates (XOR and XNOR)",
+          "order": 5,
+          "title": "Other Logical Operation, Digital Logic gates (XOR and XNOR)",
+          "folder_name": "5.Other Logical Operation, Digital Logic gates (XOR and XNOR)",
+          "path": "UE25EC141A/Digital Electronics/5.Other Logical Operation, Digital Logic gates (XOR and XNOR)",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Other Logical Operation",
+                  "provider": "vimeo",
+                  "video_id": "1111644772",
+                  "video_url": "https://player.vimeo.com/video/1111644772?h=fab524d9b8&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111644772?h=fab524d9b8",
+                  "faculty": "Ananda M",
+                  "date": "20/08/2025 06:08 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Digital Electronics_6.Realization of Boolean expression using Universal Gates",
+          "order": 6,
+          "title": "Realization of Boolean expression using Universal Gates",
+          "folder_name": "6.Realization of Boolean expression using Universal Gates",
+          "path": "UE25EC141A/Digital Electronics/6.Realization of Boolean expression using Universal Gates",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Numericals",
+                  "provider": "vimeo",
+                  "video_id": "1111646545",
+                  "video_url": "https://player.vimeo.com/video/1111646545?h=d857bc437c&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111646545?h=d857bc437c",
+                  "faculty": "Ananda M",
+                  "date": "20/08/2025 06:14 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Realization of Boolean expression using Universal Gates",
+                  "provider": "vimeo",
+                  "video_id": "1111644955",
+                  "video_url": "https://player.vimeo.com/video/1111644955?h=f4bd6b4a9d&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111644955?h=f4bd6b4a9d",
+                  "faculty": "Ananda M",
+                  "date": "20/08/2025 06:09 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Digital Electronics_7.Combinational Logic Circuits- Half Adder and Full adder (No k-map)",
+          "order": 7,
+          "title": "Combinational Logic Circuits: Half Adder and Full adder (No k-map)",
+          "folder_name": "7.Combinational Logic Circuits- Half Adder and Full adder (No k-map)",
+          "path": "UE25EC141A/Digital Electronics/7.Combinational Logic Circuits- Half Adder and Full adder (No k-map)",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Combinational Logic Circuits: HA and FA",
+                  "provider": "vimeo",
+                  "video_id": "1111645379",
+                  "video_url": "https://player.vimeo.com/video/1111645379?h=8cc852db19&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111645379?h=8cc852db19",
+                  "faculty": "Ananda M",
+                  "date": "20/08/2025 06:12 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Digital Electronics_8.Sequential Logic Circuits- RS-latch and with D",
+          "order": 8,
+          "title": "Sequential Logic Circuits: RS-latch and with D ",
+          "folder_name": "8.Sequential Logic Circuits- RS-latch and with D",
+          "path": "UE25EC141A/Digital Electronics/8.Sequential Logic Circuits- RS-latch and with D",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Sequential Logic Circuits: RS-latch and with D",
+                  "provider": "vimeo",
+                  "video_id": "1111646855",
+                  "video_url": "https://player.vimeo.com/video/1111646855?h=598e3576b6&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111646855?h=598e3576b6",
+                  "faculty": "Ananda M",
+                  "date": "20/08/2025 06:16 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Digital Electronics_9.Flip-Flops JK, T",
+          "order": 9,
+          "title": "Flip-Flops JK, T",
+          "folder_name": "9.Flip-Flops JK, T",
+          "path": "UE25EC141A/Digital Electronics/9.Flip-Flops JK, T",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Flip-Flops JK, T",
+                  "provider": "vimeo",
+                  "video_id": "1111647229",
+                  "video_url": "https://player.vimeo.com/video/1111647229?h=e0212f9395&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111647229?h=e0212f9395",
+                  "faculty": "Ananda M",
+                  "date": "20/08/2025 06:17 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Digital Electronics_10.Registers- SISO",
+          "order": 10,
+          "title": "Registers: SISO",
+          "folder_name": "10.Registers- SISO",
+          "path": "UE25EC141A/Digital Electronics/10.Registers- SISO",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Registers: SISO",
+                  "provider": "vimeo",
+                  "video_id": "1111647438",
+                  "video_url": "https://player.vimeo.com/video/1111647438?h=c9cc5ccc44&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111647438?h=c9cc5ccc44",
+                  "faculty": "Ananda M",
+                  "date": "20/08/2025 06:17 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Digital Electronics_11.Counters- 3Bit Asynchronous UP-DOWN counter",
+          "order": 11,
+          "title": "Counters: 3Bit Asynchronous UP/DOWN counter",
+          "folder_name": "11.Counters- 3Bit Asynchronous UP-DOWN counter",
+          "path": "UE25EC141A/Digital Electronics/11.Counters- 3Bit Asynchronous UP-DOWN counter",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Counters: 3Bit Asynchronous UP/DOWN counter",
+                  "provider": "vimeo",
+                  "video_id": "1111647655",
+                  "video_url": "https://player.vimeo.com/video/1111647655?h=8673bafebd&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111647655?h=8673bafebd",
+                  "faculty": "Ananda M",
+                  "date": "20/08/2025 06:18 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
     },
     {
       "id": "UE25EC141A_Diode Applications",
       "title": "Diode Applications",
       "path": "UE25EC141A/Diode Applications",
-      "classes": []
+      "classes": [
+        {
+          "id": "UE25EC141A_Diode Applications_1.Block diagram of regulated power supply",
+          "order": 1,
+          "title": "Block diagram of regulated power supply",
+          "folder_name": "1.Block diagram of regulated power supply",
+          "path": "UE25EC141A/Diode Applications/1.Block diagram of regulated power supply",
+          "content": {
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Unit-2 Diode Applications_d8f373e9.pdf",
+                  "title": "Unit-2 Diode Applications",
+                  "uuid": "d8f373e9",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Diode Applications/1.Block diagram of regulated power supply/assignment/Unit-2 Diode Applications_d8f373e9.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Diode%20Applications/1.Block%20diagram%20of%20regulated%20power%20supply/assignment/Unit-2%20Diode%20Applications_d8f373e9.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Diode%20Applications/1.Block%20diagram%20of%20regulated%20power%20supply/assignment/Unit-2%20Diode%20Applications_d8f373e9.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Diode%20Applications/1.Block%20diagram%20of%20regulated%20power%20supply/assignment/Unit-2%20Diode%20Applications_d8f373e9.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Unit-2 Diode Applications_63131705.pdf",
+                  "title": "Unit-2 Diode Applications",
+                  "uuid": "63131705",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Diode Applications/1.Block diagram of regulated power supply/notes/Unit-2 Diode Applications_63131705.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Diode%20Applications/1.Block%20diagram%20of%20regulated%20power%20supply/notes/Unit-2%20Diode%20Applications_63131705.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Diode%20Applications/1.Block%20diagram%20of%20regulated%20power%20supply/notes/Unit-2%20Diode%20Applications_63131705.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Diode%20Applications/1.Block%20diagram%20of%20regulated%20power%20supply/notes/Unit-2%20Diode%20Applications_63131705.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Unit-2 Diode Applications_6adb815e.pdf",
+                  "title": "Unit-2 Diode Applications",
+                  "uuid": "6adb815e",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Diode Applications/1.Block diagram of regulated power supply/qa/Unit-2 Diode Applications_6adb815e.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Diode%20Applications/1.Block%20diagram%20of%20regulated%20power%20supply/qa/Unit-2%20Diode%20Applications_6adb815e.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Diode%20Applications/1.Block%20diagram%20of%20regulated%20power%20supply/qa/Unit-2%20Diode%20Applications_6adb815e.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Diode%20Applications/1.Block%20diagram%20of%20regulated%20power%20supply/qa/Unit-2%20Diode%20Applications_6adb815e.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Unit-2 Diode Applications_da15e52d.pdf",
+                  "title": "Unit-2 Diode Applications",
+                  "uuid": "da15e52d",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Diode Applications/1.Block diagram of regulated power supply/slides/Unit-2 Diode Applications_da15e52d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Diode%20Applications/1.Block%20diagram%20of%20regulated%20power%20supply/slides/Unit-2%20Diode%20Applications_da15e52d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Diode%20Applications/1.Block%20diagram%20of%20regulated%20power%20supply/slides/Unit-2%20Diode%20Applications_da15e52d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Diode%20Applications/1.Block%20diagram%20of%20regulated%20power%20supply/slides/Unit-2%20Diode%20Applications_da15e52d.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Block diagram of regulated power supply",
+                  "provider": "vimeo",
+                  "video_id": "1110841719",
+                  "video_url": "https://player.vimeo.com/video/1110841719?h=3d434d901b&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1110841719?h=3d434d901b",
+                  "faculty": "Ananda M",
+                  "date": "18/08/2025 11:09 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Unit-2 Diode Applications_bd7870ec.pdf",
+                  "title": "Unit-2 Diode Applications",
+                  "uuid": "bd7870ec",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Diode Applications/1.Block diagram of regulated power supply/questionbank/Unit-2 Diode Applications_bd7870ec.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Diode%20Applications/1.Block%20diagram%20of%20regulated%20power%20supply/questionbank/Unit-2%20Diode%20Applications_bd7870ec.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Diode%20Applications/1.Block%20diagram%20of%20regulated%20power%20supply/questionbank/Unit-2%20Diode%20Applications_bd7870ec.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Diode%20Applications/1.Block%20diagram%20of%20regulated%20power%20supply/questionbank/Unit-2%20Diode%20Applications_bd7870ec.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Diode Applications_2.Half-wave rectifier using ideal and non ideal diode- ripple factor, Peak inverse",
+          "order": 2,
+          "title": "Half-wave rectifier using ideal and non ? ideal diode: ripple factor, Peak inverse voltage, derivations.",
+          "folder_name": "2.Half-wave rectifier using ideal and non ideal diode- ripple factor, Peak inverse",
+          "path": "UE25EC141A/Diode Applications/2.Half-wave rectifier using ideal and non ideal diode- ripple factor, Peak inverse",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Half-wave rectifier",
+                  "provider": "vimeo",
+                  "video_id": "1110842176",
+                  "video_url": "https://player.vimeo.com/video/1110842176?h=48d11f32da&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1110842176?h=48d11f32da",
+                  "faculty": "Ananda M",
+                  "date": "18/08/2025 11:10 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Diode Applications_3.Centre Tap Full-wave rectifier using ideal and non ideal diode",
+          "order": 3,
+          "title": "Centre Tap Full-wave rectifier using ideal and non ? ideal diode",
+          "folder_name": "3.Centre Tap Full-wave rectifier using ideal and non ideal diode",
+          "path": "UE25EC141A/Diode Applications/3.Centre Tap Full-wave rectifier using ideal and non ideal diode",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Centre Tap Full-wave rectifier using ideal and non â ideal diode",
+                  "provider": "vimeo",
+                  "video_id": "1111164788",
+                  "video_url": "https://player.vimeo.com/video/1111164788?h=8a3a8c3741&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111164788?h=8a3a8c3741",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 08:35 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Diode Applications_4.Bridge rectifier using ideal and non ideal diode; ripple factor, Peak inverse vo",
+          "order": 4,
+          "title": "Bridge rectifier using ideal and non ? ideal diode; ripple factor, Peak inverse voltage, derivations",
+          "folder_name": "4.Bridge rectifier using ideal and non ideal diode; ripple factor, Peak inverse vo",
+          "path": "UE25EC141A/Diode Applications/4.Bridge rectifier using ideal and non ideal diode; ripple factor, Peak inverse vo",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Bridge rectifier using ideal and non â ideal diode;",
+                  "provider": "vimeo",
+                  "video_id": "1111164912",
+                  "video_url": "https://player.vimeo.com/video/1111164912?h=a174ffc5d1&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111164912?h=a174ffc5d1",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 08:36 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Diode Applications_5.Numericals on rectifiers",
+          "order": 5,
+          "title": "Numericals on rectifiers",
+          "folder_name": "5.Numericals on rectifiers",
+          "path": "UE25EC141A/Diode Applications/5.Numericals on rectifiers",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Numericals on rectifiers",
+                  "provider": "vimeo",
+                  "video_id": "1111165139",
+                  "video_url": "https://player.vimeo.com/video/1111165139?h=a06f019b08&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111165139?h=a06f019b08",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 08:37 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Diode Applications_6.Shunt capacitor filter-working, output waveform and ripple factor equation",
+          "order": 6,
+          "title": "Shunt capacitor filter-working, output waveform and ripple factor equation",
+          "folder_name": "6.Shunt capacitor filter-working, output waveform and ripple factor equation",
+          "path": "UE25EC141A/Diode Applications/6.Shunt capacitor filter-working, output waveform and ripple factor equation",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Shunt capacitor filter-working",
+                  "provider": "vimeo",
+                  "video_id": "1111165225",
+                  "video_url": "https://player.vimeo.com/video/1111165225?h=3cb5bea4a2&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111165225?h=3cb5bea4a2",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 08:38 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Diode Applications_7.Numericals on Shunt capacitor filter",
+          "order": 7,
+          "title": "Numericals on Shunt capacitor filter",
+          "folder_name": "7.Numericals on Shunt capacitor filter",
+          "path": "UE25EC141A/Diode Applications/7.Numericals on Shunt capacitor filter",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Numericals on Shunt capacitor filter",
+                  "provider": "vimeo",
+                  "video_id": "1111165329",
+                  "video_url": "https://player.vimeo.com/video/1111165329?h=18dd489651&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111165329?h=18dd489651",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 08:39 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Diode Applications_8.Zener diode characteristics and Zener diode voltage regulator- Case1",
+          "order": 8,
+          "title": "Zener diode characteristics and Zener diode voltage regulator- Case1:",
+          "folder_name": "8.Zener diode characteristics and Zener diode voltage regulator- Case1",
+          "path": "UE25EC141A/Diode Applications/8.Zener diode characteristics and Zener diode voltage regulator- Case1",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Zener diode characteristics and Zener diode voltage regulator- Case1:",
+                  "provider": "vimeo",
+                  "video_id": "1111165452",
+                  "video_url": "https://player.vimeo.com/video/1111165452?h=9b10dbf639&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111165452?h=9b10dbf639",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 08:40 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Diode Applications_9.Working Principle and Case 2 and Case 3",
+          "order": 9,
+          "title": "Working Principle and Case 2 and Case 3:",
+          "folder_name": "9.Working Principle and Case 2 and Case 3",
+          "path": "UE25EC141A/Diode Applications/9.Working Principle and Case 2 and Case 3",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Working Principle and Case 2 and Case 3:",
+                  "provider": "vimeo",
+                  "video_id": "1111165569",
+                  "video_url": "https://player.vimeo.com/video/1111165569?h=9173f90514&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111165569?h=9173f90514",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 08:40 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Diode Applications_10.Zener diode voltage regulator- Case 4 Working Principle, Numericals on Zener dio",
+          "order": 10,
+          "title": "Zener diode voltage regulator- Case 4 Working Principle, Numericals on Zener diode voltage regulator",
+          "folder_name": "10.Zener diode voltage regulator- Case 4 Working Principle, Numericals on Zener dio",
+          "path": "UE25EC141A/Diode Applications/10.Zener diode voltage regulator- Case 4 Working Principle, Numericals on Zener dio",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Case 4 Working Principle,",
+                  "provider": "vimeo",
+                  "video_id": "1111165997",
+                  "video_url": "https://player.vimeo.com/video/1111165997?h=10ed8a6b35&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111165997?h=10ed8a6b35",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 08:43 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
     },
     {
       "id": "UE25EC141A_Semiconductor Diode",
       "title": "Semiconductor Diode",
       "path": "UE25EC141A/Semiconductor Diode",
-      "classes": []
+      "classes": [
+        {
+          "id": "UE25EC141A_Semiconductor Diode_1.Introduction to semiconductors, intrinsic and extrinsic semiconductors",
+          "order": 1,
+          "title": "Introduction to semiconductors, intrinsic and extrinsic semiconductors",
+          "folder_name": "1.Introduction to semiconductors, intrinsic and extrinsic semiconductors",
+          "path": "UE25EC141A/Semiconductor Diode/1.Introduction to semiconductors, intrinsic and extrinsic semiconductors",
+          "content": {
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "UNIT-1 Semiconductor Diode_597fbf40.pdf",
+                  "title": "UNIT-1 Semiconductor Diode",
+                  "uuid": "597fbf40",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Semiconductor Diode/1.Introduction to semiconductors, intrinsic and extrinsic semiconductors/assignment/UNIT-1 Semiconductor Diode_597fbf40.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Semiconductor%20Diode/1.Introduction%20to%20semiconductors%2C%20intrinsic%20and%20extrinsic%20semiconductors/assignment/UNIT-1%20Semiconductor%20Diode_597fbf40.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Semiconductor%20Diode/1.Introduction%20to%20semiconductors%2C%20intrinsic%20and%20extrinsic%20semiconductors/assignment/UNIT-1%20Semiconductor%20Diode_597fbf40.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Semiconductor%20Diode/1.Introduction%20to%20semiconductors%2C%20intrinsic%20and%20extrinsic%20semiconductors/assignment/UNIT-1%20Semiconductor%20Diode_597fbf40.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UNIT-1 Semiconductor Diode_28c79352.pdf",
+                  "title": "UNIT-1 Semiconductor Diode",
+                  "uuid": "28c79352",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Semiconductor Diode/1.Introduction to semiconductors, intrinsic and extrinsic semiconductors/slides/UNIT-1 Semiconductor Diode_28c79352.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Semiconductor%20Diode/1.Introduction%20to%20semiconductors%2C%20intrinsic%20and%20extrinsic%20semiconductors/slides/UNIT-1%20Semiconductor%20Diode_28c79352.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Semiconductor%20Diode/1.Introduction%20to%20semiconductors%2C%20intrinsic%20and%20extrinsic%20semiconductors/slides/UNIT-1%20Semiconductor%20Diode_28c79352.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Semiconductor%20Diode/1.Introduction%20to%20semiconductors%2C%20intrinsic%20and%20extrinsic%20semiconductors/slides/UNIT-1%20Semiconductor%20Diode_28c79352.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Introduction to semiconductors, intrinsic and extrinsic semiconductors",
+                  "provider": "vimeo",
+                  "video_id": "1110828893",
+                  "video_url": "https://player.vimeo.com/video/1110828893?h=1af25563a9&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1110828893?h=1af25563a9",
+                  "faculty": "Ananda M",
+                  "date": "18/08/2025 09:48 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "UNIT-1 Semiconductor Diode_0834275f.pdf",
+                  "title": "UNIT-1 Semiconductor Diode",
+                  "uuid": "0834275f",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Semiconductor Diode/1.Introduction to semiconductors, intrinsic and extrinsic semiconductors/qa/UNIT-1 Semiconductor Diode_0834275f.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Semiconductor%20Diode/1.Introduction%20to%20semiconductors%2C%20intrinsic%20and%20extrinsic%20semiconductors/qa/UNIT-1%20Semiconductor%20Diode_0834275f.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Semiconductor%20Diode/1.Introduction%20to%20semiconductors%2C%20intrinsic%20and%20extrinsic%20semiconductors/qa/UNIT-1%20Semiconductor%20Diode_0834275f.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Semiconductor%20Diode/1.Introduction%20to%20semiconductors%2C%20intrinsic%20and%20extrinsic%20semiconductors/qa/UNIT-1%20Semiconductor%20Diode_0834275f.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "UNIT-1 Semiconductor Diode_ae063643.pdf",
+                  "title": "UNIT-1 Semiconductor Diode",
+                  "uuid": "ae063643",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Semiconductor Diode/1.Introduction to semiconductors, intrinsic and extrinsic semiconductors/notes/UNIT-1 Semiconductor Diode_ae063643.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Semiconductor%20Diode/1.Introduction%20to%20semiconductors%2C%20intrinsic%20and%20extrinsic%20semiconductors/notes/UNIT-1%20Semiconductor%20Diode_ae063643.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Semiconductor%20Diode/1.Introduction%20to%20semiconductors%2C%20intrinsic%20and%20extrinsic%20semiconductors/notes/UNIT-1%20Semiconductor%20Diode_ae063643.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Semiconductor%20Diode/1.Introduction%20to%20semiconductors%2C%20intrinsic%20and%20extrinsic%20semiconductors/notes/UNIT-1%20Semiconductor%20Diode_ae063643.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "UNIT-1 Semiconductor Diode-Question Bank_c671d9c5.pdf",
+                  "title": "UNIT-1 Semiconductor Diode-Question Bank",
+                  "uuid": "c671d9c5",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Semiconductor Diode/1.Introduction to semiconductors, intrinsic and extrinsic semiconductors/questionbank/UNIT-1 Semiconductor Diode-Question Bank_c671d9c5.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Semiconductor%20Diode/1.Introduction%20to%20semiconductors%2C%20intrinsic%20and%20extrinsic%20semiconductors/questionbank/UNIT-1%20Semiconductor%20Diode-Question%20Bank_c671d9c5.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Semiconductor%20Diode/1.Introduction%20to%20semiconductors%2C%20intrinsic%20and%20extrinsic%20semiconductors/questionbank/UNIT-1%20Semiconductor%20Diode-Question%20Bank_c671d9c5.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Semiconductor%20Diode/1.Introduction%20to%20semiconductors%2C%20intrinsic%20and%20extrinsic%20semiconductors/questionbank/UNIT-1%20Semiconductor%20Diode-Question%20Bank_c671d9c5.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Semiconductor Diode_2.Semiconductor diode under no bias, forward bias and reverse bias conditions",
+          "order": 2,
+          "title": "Semiconductor diode under no bias, forward bias and reverse bias conditions",
+          "folder_name": "2.Semiconductor diode under no bias, forward bias and reverse bias conditions",
+          "path": "UE25EC141A/Semiconductor Diode/2.Semiconductor diode under no bias, forward bias and reverse bias conditions",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Semiconductor diode under no bias, forward bias and reverse bias conditions",
+                  "provider": "vimeo",
+                  "video_id": "1110830183",
+                  "video_url": "https://player.vimeo.com/video/1110830183?h=732e73f7ae&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1110830183?h=732e73f7ae",
+                  "faculty": "Ananda M",
+                  "date": "18/08/2025 09:57 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Semiconductor Diode_3.Diode characteristics, Shockley's equation",
+          "order": 3,
+          "title": "Diode characteristics, Shockley's equation",
+          "folder_name": "3.Diode characteristics, Shockley's equation",
+          "path": "UE25EC141A/Semiconductor Diode/3.Diode characteristics, Shockley's equation",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Diode characteristics, Shockley's equation",
+                  "provider": "vimeo",
+                  "video_id": "1110830395",
+                  "video_url": "https://player.vimeo.com/video/1110830395?h=1bf1d327d0&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1110830395?h=1bf1d327d0",
+                  "faculty": "Ananda M",
+                  "date": "18/08/2025 09:58 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Semiconductor Diode_4.Zener and Avalanche breakdown, Temperature effects",
+          "order": 4,
+          "title": "Zener and Avalanche breakdown, Temperature effects",
+          "folder_name": "4.Zener and Avalanche breakdown, Temperature effects",
+          "path": "UE25EC141A/Semiconductor Diode/4.Zener and Avalanche breakdown, Temperature effects",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Zener and Avalanche breakdown, Temperature effects",
+                  "provider": "vimeo",
+                  "video_id": "1110830549",
+                  "video_url": "https://player.vimeo.com/video/1110830549?h=207897244d&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1110830549?h=207897244d",
+                  "faculty": "Ananda M",
+                  "date": "18/08/2025 09:59 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Semiconductor Diode_5.Ideal versus Practical diode, Diode resistances",
+          "order": 5,
+          "title": "Ideal versus Practical diode, Diode resistances",
+          "folder_name": "5.Ideal versus Practical diode, Diode resistances",
+          "path": "UE25EC141A/Semiconductor Diode/5.Ideal versus Practical diode, Diode resistances",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Ideal versus Practical diode, Diode resistances",
+                  "provider": "vimeo",
+                  "video_id": "1110830971",
+                  "video_url": "https://player.vimeo.com/video/1110830971?h=d86b19c881&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1110830971?h=d86b19c881",
+                  "faculty": "Ananda M",
+                  "date": "18/08/2025 10:01 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Semiconductor Diode_6.Diode equivalent circuits Series diode configurations",
+          "order": 6,
+          "title": "Diode equivalent circuits Series diode configurations",
+          "folder_name": "6.Diode equivalent circuits Series diode configurations",
+          "path": "UE25EC141A/Semiconductor Diode/6.Diode equivalent circuits Series diode configurations",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Diode equivalent circuits Series diode configurations",
+                  "provider": "vimeo",
+                  "video_id": "1110831060",
+                  "video_url": "https://player.vimeo.com/video/1110831060?h=104454e8ab&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1110831060?h=104454e8ab",
+                  "faculty": "Ananda M",
+                  "date": "18/08/2025 10:02 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Semiconductor Diode_7.Parallel and Series- Parallel configurations",
+          "order": 7,
+          "title": "Parallel and Series- Parallel configurations",
+          "folder_name": "7.Parallel and Series- Parallel configurations",
+          "path": "UE25EC141A/Semiconductor Diode/7.Parallel and Series- Parallel configurations",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Parallel and Series- Parallel configurations",
+                  "provider": "vimeo",
+                  "video_id": "1110831281",
+                  "video_url": "https://player.vimeo.com/video/1110831281?h=1c1e25dd51&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1110831281?h=1c1e25dd51",
+                  "faculty": "Ananda M",
+                  "date": "18/08/2025 10:03 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Semiconductor Diode_8.Logical Operations using diode",
+          "order": 8,
+          "title": "Logical Operations using diode",
+          "folder_name": "8.Logical Operations using diode",
+          "path": "UE25EC141A/Semiconductor Diode/8.Logical Operations using diode",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Logical Operations using diode",
+                  "provider": "vimeo",
+                  "video_id": "1110831723",
+                  "video_url": "https://player.vimeo.com/video/1110831723?h=7adab831cb&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1110831723?h=7adab831cb",
+                  "faculty": "Ananda M",
+                  "date": "18/08/2025 10:06 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Semiconductor Diode_9.Diode Clippers - Series using Ideal diode",
+          "order": 9,
+          "title": "Diode Clippers : Series using Ideal diode",
+          "folder_name": "9.Diode Clippers - Series using Ideal diode",
+          "path": "UE25EC141A/Semiconductor Diode/9.Diode Clippers - Series using Ideal diode",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Diode Clippers : Series using Ideal diode",
+                  "provider": "vimeo",
+                  "video_id": "1110831905",
+                  "video_url": "https://player.vimeo.com/video/1110831905?h=bb0ef347e8&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1110831905?h=bb0ef347e8",
+                  "faculty": "Ananda M",
+                  "date": "18/08/2025 10:07 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Semiconductor Diode_10.Diode Clippers - Parallel using Ideal diode",
+          "order": 10,
+          "title": "Diode Clippers : Parallel using Ideal diode",
+          "folder_name": "10.Diode Clippers - Parallel using Ideal diode",
+          "path": "UE25EC141A/Semiconductor Diode/10.Diode Clippers - Parallel using Ideal diode",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Diode Clippers : Parallel using Ideal diode",
+                  "provider": "vimeo",
+                  "video_id": "1110832184",
+                  "video_url": "https://player.vimeo.com/video/1110832184?h=97aa27224d&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1110832184?h=97aa27224d",
+                  "faculty": "Ananda M",
+                  "date": "18/08/2025 10:09 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Semiconductor Diode_11.Clampers using Ideal diode",
+          "order": 11,
+          "title": "Clampers using Ideal diode",
+          "folder_name": "11.Clampers using Ideal diode",
+          "path": "UE25EC141A/Semiconductor Diode/11.Clampers using Ideal diode",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Clampers using Ideal diode",
+                  "provider": "vimeo",
+                  "video_id": "1110832296",
+                  "video_url": "https://player.vimeo.com/video/1110832296?h=b4b0333153&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1110832296?h=b4b0333153",
+                  "faculty": "Ananda M",
+                  "date": "18/08/2025 10:10 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Semiconductor Diode_12.Numerical on Clamper circuits",
+          "order": 12,
+          "title": "Numerical on Clamper circuits",
+          "folder_name": "12.Numerical on Clamper circuits",
+          "path": "UE25EC141A/Semiconductor Diode/12.Numerical on Clamper circuits",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Clampers using Ideal diode",
+                  "provider": "vimeo",
+                  "video_id": "1110832451",
+                  "video_url": "https://player.vimeo.com/video/1110832451?h=806fa5b856&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1110832451?h=806fa5b856",
+                  "faculty": "Ananda M",
+                  "date": "18/08/2025 10:11 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
     },
     {
       "id": "UE25EC141A_Transistor and Operational Amplifier",
       "title": "Transistor and Operational Amplifier",
       "path": "UE25EC141A/Transistor and Operational Amplifier",
-      "classes": []
+      "classes": [
+        {
+          "id": "UE25EC141A_Transistor and Operational Amplifier_1.Transistors- Transistor construction, transistor operation",
+          "order": 1,
+          "title": "Transistors: Transistor construction, transistor operation",
+          "folder_name": "1.Transistors- Transistor construction, transistor operation",
+          "path": "UE25EC141A/Transistor and Operational Amplifier/1.Transistors- Transistor construction, transistor operation",
+          "content": {
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Unit- 3 Transistor and Operational Amplifier_9914ec02.pdf",
+                  "title": "Unit- 3 Transistor and Operational Amplifier",
+                  "uuid": "9914ec02",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Transistor and Operational Amplifier/1.Transistors- Transistor construction, transistor operation/assignment/Unit- 3 Transistor and Operational Amplifier_9914ec02.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Transistor%20and%20Operational%20Amplifier/1.Transistors-%20Transistor%20construction%2C%20transistor%20operation/assignment/Unit-%203%20Transistor%20and%20Operational%20Amplifier_9914ec02.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Transistor%20and%20Operational%20Amplifier/1.Transistors-%20Transistor%20construction%2C%20transistor%20operation/assignment/Unit-%203%20Transistor%20and%20Operational%20Amplifier_9914ec02.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Transistor%20and%20Operational%20Amplifier/1.Transistors-%20Transistor%20construction%2C%20transistor%20operation/assignment/Unit-%203%20Transistor%20and%20Operational%20Amplifier_9914ec02.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Transistors: Transistor construction, transistor operation",
+                  "provider": "vimeo",
+                  "video_id": "1111360780",
+                  "video_url": "https://player.vimeo.com/video/1111360780?h=5ca424ed33&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111360780?h=5ca424ed33",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 09:15 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Unit- 3 Transistor and Operational Amplifier_43dcbe26.pdf",
+                  "title": "Unit- 3 Transistor and Operational Amplifier",
+                  "uuid": "43dcbe26",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Transistor and Operational Amplifier/1.Transistors- Transistor construction, transistor operation/notes/Unit- 3 Transistor and Operational Amplifier_43dcbe26.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Transistor%20and%20Operational%20Amplifier/1.Transistors-%20Transistor%20construction%2C%20transistor%20operation/notes/Unit-%203%20Transistor%20and%20Operational%20Amplifier_43dcbe26.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Transistor%20and%20Operational%20Amplifier/1.Transistors-%20Transistor%20construction%2C%20transistor%20operation/notes/Unit-%203%20Transistor%20and%20Operational%20Amplifier_43dcbe26.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Transistor%20and%20Operational%20Amplifier/1.Transistors-%20Transistor%20construction%2C%20transistor%20operation/notes/Unit-%203%20Transistor%20and%20Operational%20Amplifier_43dcbe26.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Unit- 3 Transistor and Operational Amplifier_bcdfe9af.pdf",
+                  "title": "Unit- 3 Transistor and Operational Amplifier",
+                  "uuid": "bcdfe9af",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Transistor and Operational Amplifier/1.Transistors- Transistor construction, transistor operation/qa/Unit- 3 Transistor and Operational Amplifier_bcdfe9af.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Transistor%20and%20Operational%20Amplifier/1.Transistors-%20Transistor%20construction%2C%20transistor%20operation/qa/Unit-%203%20Transistor%20and%20Operational%20Amplifier_bcdfe9af.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Transistor%20and%20Operational%20Amplifier/1.Transistors-%20Transistor%20construction%2C%20transistor%20operation/qa/Unit-%203%20Transistor%20and%20Operational%20Amplifier_bcdfe9af.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Transistor%20and%20Operational%20Amplifier/1.Transistors-%20Transistor%20construction%2C%20transistor%20operation/qa/Unit-%203%20Transistor%20and%20Operational%20Amplifier_bcdfe9af.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Unit- 3 Transistor and Operational Amplifier_edf4ddca.pdf",
+                  "title": "Unit- 3 Transistor and Operational Amplifier",
+                  "uuid": "edf4ddca",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Transistor and Operational Amplifier/1.Transistors- Transistor construction, transistor operation/slides/Unit- 3 Transistor and Operational Amplifier_edf4ddca.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Transistor%20and%20Operational%20Amplifier/1.Transistors-%20Transistor%20construction%2C%20transistor%20operation/slides/Unit-%203%20Transistor%20and%20Operational%20Amplifier_edf4ddca.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Transistor%20and%20Operational%20Amplifier/1.Transistors-%20Transistor%20construction%2C%20transistor%20operation/slides/Unit-%203%20Transistor%20and%20Operational%20Amplifier_edf4ddca.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Transistor%20and%20Operational%20Amplifier/1.Transistors-%20Transistor%20construction%2C%20transistor%20operation/slides/Unit-%203%20Transistor%20and%20Operational%20Amplifier_edf4ddca.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Unit- 3 Transistor and Operational Amplifier_3a2ca368.pdf",
+                  "title": "Unit- 3 Transistor and Operational Amplifier",
+                  "uuid": "3a2ca368",
+                  "extension": "pdf",
+                  "path": "UE25EC141A/Transistor and Operational Amplifier/1.Transistors- Transistor construction, transistor operation/questionbank/Unit- 3 Transistor and Operational Amplifier_3a2ca368.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Transistor%20and%20Operational%20Amplifier/1.Transistors-%20Transistor%20construction%2C%20transistor%20operation/questionbank/Unit-%203%20Transistor%20and%20Operational%20Amplifier_3a2ca368.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EC141A/Transistor%20and%20Operational%20Amplifier/1.Transistors-%20Transistor%20construction%2C%20transistor%20operation/questionbank/Unit-%203%20Transistor%20and%20Operational%20Amplifier_3a2ca368.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EC141A/Transistor%20and%20Operational%20Amplifier/1.Transistors-%20Transistor%20construction%2C%20transistor%20operation/questionbank/Unit-%203%20Transistor%20and%20Operational%20Amplifier_3a2ca368.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Transistor and Operational Amplifier_2.Transistor configurations Common base configurations input and output characteri",
+          "order": 2,
+          "title": "Transistor configurations  Common base configurations ? input and output characteristics",
+          "folder_name": "2.Transistor configurations Common base configurations input and output characteri",
+          "path": "UE25EC141A/Transistor and Operational Amplifier/2.Transistor configurations Common base configurations input and output characteri",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Transistor configurations Common base configurations : input and output",
+                  "provider": "vimeo",
+                  "video_id": "1111361079",
+                  "video_url": "https://player.vimeo.com/video/1111361079?h=b8a021bb90&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111361079?h=b8a021bb90",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 09:16 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Transistor and Operational Amplifier_3.Transistor amplifying action Transistor configurations Common emitter configurat",
+          "order": 3,
+          "title": "Transistor amplifying action  Transistor configurations ? Common emitter configuration ? input and output characteristics, ",
+          "folder_name": "3.Transistor amplifying action Transistor configurations Common emitter configurat",
+          "path": "UE25EC141A/Transistor and Operational Amplifier/3.Transistor amplifying action Transistor configurations Common emitter configurat",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Common emitter configuration â input and output characteristics,",
+                  "provider": "vimeo",
+                  "video_id": "1111361511",
+                  "video_url": "https://player.vimeo.com/video/1111361511?h=a1897a6190&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111361511?h=a1897a6190",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 09:17 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Transistor and Operational Amplifier_4.Limits of operation Operating point",
+          "order": 4,
+          "title": "Limits of operation Operating point",
+          "folder_name": "4.Limits of operation Operating point",
+          "path": "UE25EC141A/Transistor and Operational Amplifier/4.Limits of operation Operating point",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Limits of operation Operating point",
+                  "provider": "vimeo",
+                  "video_id": "1111361714",
+                  "video_url": "https://player.vimeo.com/video/1111361714?h=264d110626&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111361714?h=264d110626",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 09:18 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Transistor and Operational Amplifier_5.Biasing circuits- Fixed bias",
+          "order": 5,
+          "title": "Biasing circuits: Fixed bias",
+          "folder_name": "5.Biasing circuits- Fixed bias",
+          "path": "UE25EC141A/Transistor and Operational Amplifier/5.Biasing circuits- Fixed bias",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Biasing circuits: Fixed bias",
+                  "provider": "vimeo",
+                  "video_id": "1111361909",
+                  "video_url": "https://player.vimeo.com/video/1111361909?h=90845e3e49&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111361909?h=90845e3e49",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 09:19 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Transistor and Operational Amplifier_6.Emitter bias Voltage divider bias (Approximate analysis)",
+          "order": 6,
+          "title": "Emitter bias  Voltage divider bias (Approximate analysis)",
+          "folder_name": "6.Emitter bias Voltage divider bias (Approximate analysis)",
+          "path": "UE25EC141A/Transistor and Operational Amplifier/6.Emitter bias Voltage divider bias (Approximate analysis)",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Emitter bias Voltage divider bias (Approximate analysis)",
+                  "provider": "vimeo",
+                  "video_id": "1111362085",
+                  "video_url": "https://player.vimeo.com/video/1111362085?h=286675389f&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111362085?h=286675389f",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 09:19 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Transistor and Operational Amplifier_7.Bias circuit design, Bias stabilization",
+          "order": 7,
+          "title": "Bias circuit design, Bias stabilization ",
+          "folder_name": "7.Bias circuit design, Bias stabilization",
+          "path": "UE25EC141A/Transistor and Operational Amplifier/7.Bias circuit design, Bias stabilization",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Bias circuit design, Bias stabilization",
+                  "provider": "vimeo",
+                  "video_id": "1111362531",
+                  "video_url": "https://player.vimeo.com/video/1111362531?h=45100b5773&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111362531?h=45100b5773",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 09:21 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Transistor and Operational Amplifier_8.Single stage CE Amplifier",
+          "order": 8,
+          "title": "Single stage CE Amplifier",
+          "folder_name": "8.Single stage CE Amplifier",
+          "path": "UE25EC141A/Transistor and Operational Amplifier/8.Single stage CE Amplifier",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Single stage CE Amplifier",
+                  "provider": "vimeo",
+                  "video_id": "1111362716",
+                  "video_url": "https://player.vimeo.com/video/1111362716?h=ee8bc7b13b&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111362716?h=ee8bc7b13b",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 09:21 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Transistor and Operational Amplifier_9.Op-Amp- Introduction, Op-Amp Basics, Ideal voltage transfer curve",
+          "order": 9,
+          "title": "Op-Amp: Introduction, Op-Amp Basics, Ideal voltage transfer curve",
+          "folder_name": "9.Op-Amp- Introduction, Op-Amp Basics, Ideal voltage transfer curve",
+          "path": "UE25EC141A/Transistor and Operational Amplifier/9.Op-Amp- Introduction, Op-Amp Basics, Ideal voltage transfer curve",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Op-Amp: Introduction, Op-Amp Basics,",
+                  "provider": "vimeo",
+                  "video_id": "1111362995",
+                  "video_url": "https://player.vimeo.com/video/1111362995?h=c4b9a73151&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111362995?h=c4b9a73151",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 09:22 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Transistor and Operational Amplifier_10.Op-Amp parameters and its values for Op-Amp 741 Input and output offset voltages",
+          "order": 10,
+          "title": "Op-Amp parameters and its values for Op-Amp 741 ? Input and output offset voltages, Input and output resistances, GBW, SR, CMRR (Definitions and significance only)",
+          "folder_name": "10.Op-Amp parameters and its values for Op-Amp 741 Input and output offset voltages",
+          "path": "UE25EC141A/Transistor and Operational Amplifier/10.Op-Amp parameters and its values for Op-Amp 741 Input and output offset voltages",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Op-Amp parameters",
+                  "provider": "vimeo",
+                  "video_id": "1111363239",
+                  "video_url": "https://player.vimeo.com/video/1111363239?h=b746070287&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111363239?h=b746070287",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 09:23 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Transistor and Operational Amplifier_11.Ideal Op-amp, Negative feedback",
+          "order": 11,
+          "title": "Ideal Op-amp, Negative feedback",
+          "folder_name": "11.Ideal Op-amp, Negative feedback",
+          "path": "UE25EC141A/Transistor and Operational Amplifier/11.Ideal Op-amp, Negative feedback",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Ideal Op-amp, Negative feedback",
+                  "provider": "vimeo",
+                  "video_id": "1111363610",
+                  "video_url": "https://player.vimeo.com/video/1111363610?h=7527365c7d&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111363610?h=7527365c7d",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 09:24 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EC141A_Transistor and Operational Amplifier_12.Practical Op-Amp circuits- Inverting Amplifier, Non-inverting Amplifier, Voltage",
+          "order": 12,
+          "title": "Practical Op-Amp circuits: Inverting Amplifier, Non-inverting Amplifier, Voltage follower, Summing Amplifier, Constant Gain Amplifier, Voltage Subtraction, Comparator.",
+          "folder_name": "12.Practical Op-Amp circuits- Inverting Amplifier, Non-inverting Amplifier, Voltage",
+          "path": "UE25EC141A/Transistor and Operational Amplifier/12.Practical Op-Amp circuits- Inverting Amplifier, Non-inverting Amplifier, Voltage",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Practical Op-Amp circuits:",
+                  "provider": "vimeo",
+                  "video_id": "1111363792",
+                  "video_url": "https://player.vimeo.com/video/1111363792?h=0d70f7cdc2&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111363792?h=0d70f7cdc2",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 09:25 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Practical Op-Amp circuits:",
+                  "provider": "vimeo",
+                  "video_id": "1111363968",
+                  "video_url": "https://player.vimeo.com/video/1111363968?h=33e376c885&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111363968?h=33e376c885",
+                  "faculty": "Ananda M",
+                  "date": "19/08/2025 09:26 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            }
+          }
+        }
+      ]
     }
   ],
   "total_units": 4,
   "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE25EC141A",
-  "updated_at": "2026-01-22T18:52:30.470435"
+  "updated_at": "2026-01-22T19:00:48.022344"
 }
