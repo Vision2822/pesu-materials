@@ -1,0 +1,27 @@
+{
+  "course_code": "UE25PH151A",
+  "unit_title": "Unit 3: Quantum mechanical treatment of electron\ntransport and  Magnetic materials              ",
+  "videos": [
+    {
+      "title": "Ferromagnetism",
+      "provider": "vimeo",
+      "video_id": "483510479",
+      "video_url": "https://player.vimeo.com/video/483510479?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/483510479",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "25/11/2020 04:50 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Ferromagnetic materials",
+      "provider": "vimeo",
+      "video_id": "525407574",
+      "video_url": "https://player.vimeo.com/video/525407574?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/525407574",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "18/03/2021 12:38 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T20:59:18.225259"
+}

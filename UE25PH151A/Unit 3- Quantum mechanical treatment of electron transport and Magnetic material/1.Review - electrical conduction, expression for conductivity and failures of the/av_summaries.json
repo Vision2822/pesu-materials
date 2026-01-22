@@ -1,0 +1,27 @@
+{
+  "course_code": "UE25PH151A",
+  "unit_title": "Unit 3: Quantum mechanical treatment of electron\ntransport and  Magnetic materials              ",
+  "videos": [
+    {
+      "title": "Classical free electron theory",
+      "provider": "vimeo",
+      "video_id": "482972625",
+      "video_url": "https://player.vimeo.com/video/482972625?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/482972625",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "24/11/2020 01:59 PM",
+      "section": "NA"
+    },
+    {
+      "title": "electrical conductivity in metals",
+      "provider": "vimeo",
+      "video_id": "488090497",
+      "video_url": "https://player.vimeo.com/video/488090497?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/488090497",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "17/11/2025 04:16 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T20:59:17.214279"
+}
