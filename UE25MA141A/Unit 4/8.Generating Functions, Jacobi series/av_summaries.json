@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25MA141A",
+  "unit_title": "Unit 4",
+  "videos": [
+    {
+      "title": "Generating Functions, Jacobi series",
+      "provider": "vimeo",
+      "video_id": "483380360",
+      "video_url": "https://player.vimeo.com/video/483380360?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/483380360",
+      "faculty": "Jagatheswari G K",
+      "date": "25/11/2020 09:09 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T19:22:07.344990"
+}
