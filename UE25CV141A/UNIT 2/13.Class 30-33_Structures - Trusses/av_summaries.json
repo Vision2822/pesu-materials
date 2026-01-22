@@ -1,0 +1,47 @@
+{
+  "course_code": "UE25CV141A",
+  "unit_title": "UNIT 2",
+  "videos": [
+    {
+      "title": "UE25CV141A_Unit 2_Class 31_AV Summary",
+      "provider": "vimeo",
+      "video_id": "1131290229",
+      "video_url": "https://player.vimeo.com/video/1131290229?h=1a5dc8a42a&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1131290229?h=1a5dc8a42a",
+      "faculty": "S V Venkatesh",
+      "date": "28/10/2025 05:54 PM",
+      "section": "NA"
+    },
+    {
+      "title": "UE25CV141A_Unit 2_Class 30_AV Summary",
+      "provider": "vimeo",
+      "video_id": "1130877855",
+      "video_url": "https://player.vimeo.com/video/1130877855?h=08b1f4b793&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1130877855?h=08b1f4b793",
+      "faculty": "S V Venkatesh",
+      "date": "27/10/2025 05:29 PM",
+      "section": "NA"
+    },
+    {
+      "title": "UE25CV141A_Unit 2_Class 32_AV Summary",
+      "provider": "vimeo",
+      "video_id": "1131293134",
+      "video_url": "https://player.vimeo.com/video/1131293134?h=10782ca203&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1131293134?h=10782ca203",
+      "faculty": "S V Venkatesh",
+      "date": "28/10/2025 06:03 PM",
+      "section": "NA"
+    },
+    {
+      "title": "UE25CV141A_Unit 2_Class 33_AV Summary",
+      "provider": "vimeo",
+      "video_id": "1131632210",
+      "video_url": "https://player.vimeo.com/video/1131632210?h=bf1ba58556&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1131632210?h=bf1ba58556",
+      "faculty": "S V Venkatesh",
+      "date": "29/10/2025 03:54 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:49:30.431032"
+}
