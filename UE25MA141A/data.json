@@ -15,7 +15,493 @@
       "id": "UE25MA141A_Unit 1",
       "title": "Unit 1",
       "path": "UE25MA141A/Unit 1",
-      "classes": []
+      "classes": [
+        {
+          "id": "UE25MA141A_Unit 1_4.Implicit functions, Problems",
+          "order": 4,
+          "title": "Implicit functions, Problems",
+          "folder_name": "4.Implicit functions, Problems",
+          "path": "UE25MA141A/Unit 1/4.Implicit functions, Problems",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Implicit Functions - Problems_ef60cfdf.pdf",
+                  "title": "Implicit Functions - Problems",
+                  "uuid": "ef60cfdf",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/4.Implicit functions, Problems/slides/Implicit Functions - Problems_ef60cfdf.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/4.Implicit%20functions%2C%20Problems/slides/Implicit%20Functions%20-%20Problems_ef60cfdf.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/4.Implicit%20functions%2C%20Problems/slides/Implicit%20Functions%20-%20Problems_ef60cfdf.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/4.Implicit%20functions%2C%20Problems/slides/Implicit%20Functions%20-%20Problems_ef60cfdf.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25MA141A_Unit 1_5.Problems on total derivative, chain rule",
+          "order": 5,
+          "title": "Problems on total derivative, chain rule ",
+          "folder_name": "5.Problems on total derivative, chain rule",
+          "path": "UE25MA141A/Unit 1/5.Problems on total derivative, chain rule",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Video",
+                  "provider": "vimeo",
+                  "video_id": "1111189029",
+                  "video_url": "https://player.vimeo.com/video/1111189029?h=554a269bb7&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111189029?h=554a269bb7",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "19/08/2025 10:53 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Problems on Total derivative, Chain Rule and Implicit functions_d424f6c0.pdf",
+                  "title": "Problems on Total derivative, Chain Rule and Implicit functions",
+                  "uuid": "d424f6c0",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/5.Problems on total derivative, chain rule/slides/Problems on Total derivative, Chain Rule and Implicit functions_d424f6c0.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/5.Problems%20on%20total%20derivative%2C%20chain%20rule/slides/Problems%20on%20Total%20derivative%2C%20Chain%20Rule%20and%20Implicit%20functions_d424f6c0.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/5.Problems%20on%20total%20derivative%2C%20chain%20rule/slides/Problems%20on%20Total%20derivative%2C%20Chain%20Rule%20and%20Implicit%20functions_d424f6c0.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/5.Problems%20on%20total%20derivative%2C%20chain%20rule/slides/Problems%20on%20Total%20derivative%2C%20Chain%20Rule%20and%20Implicit%20functions_d424f6c0.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25MA141A_Unit 1_6.Problems on composite functions",
+          "order": 6,
+          "title": "Problems on composite functions",
+          "folder_name": "6.Problems on composite functions",
+          "path": "UE25MA141A/Unit 1/6.Problems on composite functions",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "video",
+                  "provider": "vimeo",
+                  "video_id": "1111024194",
+                  "video_url": "https://player.vimeo.com/video/1111024194?h=5a4b2ee07d&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111024194?h=5a4b2ee07d",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "18/08/2025 10:18 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25MA141A_Unit 1_8.Problems on Euler's Theorem",
+          "order": 8,
+          "title": "Problems on Euler's Theorem",
+          "folder_name": "8.Problems on Euler's Theorem",
+          "path": "UE25MA141A/Unit 1/8.Problems on Euler's Theorem",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Problems on Euler's Theorem",
+                  "provider": "vimeo",
+                  "video_id": "489268037",
+                  "video_url": "https://player.vimeo.com/video/489268037?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/489268037",
+                  "faculty": "Jagatheswari G K",
+                  "date": "10/12/2020 10:54 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Problems on Euler's Theorem_ef610db3.pdf",
+                  "title": "Problems on Euler's Theorem",
+                  "uuid": "ef610db3",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/8.Problems on Euler's Theorem/slides/Problems on Euler's Theorem_ef610db3.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/8.Problems%20on%20Euler%27s%20Theorem/slides/Problems%20on%20Euler%27s%20Theorem_ef610db3.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/8.Problems%20on%20Euler%27s%20Theorem/slides/Problems%20on%20Euler%27s%20Theorem_ef610db3.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/8.Problems%20on%20Euler%27s%20Theorem/slides/Problems%20on%20Euler%27s%20Theorem_ef610db3.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25MA141A_Unit 1_9.Taylor's and Maclaurin's expansion for a function of two variables",
+          "order": 9,
+          "title": "Taylor's and Maclaurin's expansion for a function of two variables",
+          "folder_name": "9.Taylor's and Maclaurin's expansion for a function of two variables",
+          "path": "UE25MA141A/Unit 1/9.Taylor's and Maclaurin's expansion for a function of two variables",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Taylor's and Maclaurin's expansion",
+                  "provider": "vimeo",
+                  "video_id": "489269135",
+                  "video_url": "https://player.vimeo.com/video/489269135?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/489269135",
+                  "faculty": "Jagatheswari G K",
+                  "date": "10/12/2020 10:58 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Taylor's and Maclaurin's expansion for a function of two variables_ef61165f.pdf",
+                  "title": "Taylor's and Maclaurin's expansion for a function of two variables",
+                  "uuid": "ef61165f",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/9.Taylor's and Maclaurin's expansion for a function of two variables/slides/Taylor's and Maclaurin's expansion for a function of two variables_ef61165f.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/9.Taylor%27s%20and%20Maclaurin%27s%20expansion%20for%20a%20function%20of%20two%20variables/slides/Taylor%27s%20and%20Maclaurin%27s%20expansion%20for%20a%20function%20of%20two%20variables_ef61165f.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/9.Taylor%27s%20and%20Maclaurin%27s%20expansion%20for%20a%20function%20of%20two%20variables/slides/Taylor%27s%20and%20Maclaurin%27s%20expansion%20for%20a%20function%20of%20two%20variables_ef61165f.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/9.Taylor%27s%20and%20Maclaurin%27s%20expansion%20for%20a%20function%20of%20two%20variables/slides/Taylor%27s%20and%20Maclaurin%27s%20expansion%20for%20a%20function%20of%20two%20variables_ef61165f.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25MA141A_Unit 1_10.Taylor's and Maclaurin's expansion for a function of two variables - continued",
+          "order": 10,
+          "title": "Taylor's and Maclaurin's expansion for a function of two variables - continued",
+          "folder_name": "10.Taylor's and Maclaurin's expansion for a function of two variables - continued",
+          "path": "UE25MA141A/Unit 1/10.Taylor's and Maclaurin's expansion for a function of two variables - continued",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Problems on Taylor's and Maclaurin's series",
+                  "provider": "vimeo",
+                  "video_id": "489270543",
+                  "video_url": "https://player.vimeo.com/video/489270543?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/489270543",
+                  "faculty": "Jagatheswari G K",
+                  "date": "10/12/2020 11:03 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Taylor's and Maclaurin's expansion for a function of two variables - continued_ef611bb3.pdf",
+                  "title": "Taylor's and Maclaurin's expansion for a function of two variables - continued",
+                  "uuid": "ef611bb3",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/10.Taylor's and Maclaurin's expansion for a function of two variables - continued/slides/Taylor's and Maclaurin's expansion for a function of two variables - continued_ef611bb3.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/10.Taylor%27s%20and%20Maclaurin%27s%20expansion%20for%20a%20function%20of%20two%20variables%20-%20continued/slides/Taylor%27s%20and%20Maclaurin%27s%20expansion%20for%20a%20function%20of%20two%20variables%20-%20continued_ef611bb3.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/10.Taylor%27s%20and%20Maclaurin%27s%20expansion%20for%20a%20function%20of%20two%20variables%20-%20continued/slides/Taylor%27s%20and%20Maclaurin%27s%20expansion%20for%20a%20function%20of%20two%20variables%20-%20continued_ef611bb3.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/10.Taylor%27s%20and%20Maclaurin%27s%20expansion%20for%20a%20function%20of%20two%20variables%20-%20continued/slides/Taylor%27s%20and%20Maclaurin%27s%20expansion%20for%20a%20function%20of%20two%20variables%20-%20continued_ef611bb3.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25MA141A_Unit 1_11.Problems on homogeneous functions, and Euler's theorem",
+          "order": 11,
+          "title": "Problems on homogeneous functions, and Euler's theorem",
+          "folder_name": "11.Problems on homogeneous functions, and Euler's theorem",
+          "path": "UE25MA141A/Unit 1/11.Problems on homogeneous functions, and Euler's theorem",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Euler's theorem problems",
+                  "provider": "vimeo",
+                  "video_id": "1110913854",
+                  "video_url": "https://player.vimeo.com/video/1110913854?h=230b57e2cd&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1110913854?h=230b57e2cd",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "18/08/2025 04:23 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Problems on Homogeneous functions and Euler's theorem_736003cf.pdf",
+                  "title": "Problems on Homogeneous functions and Euler's theorem",
+                  "uuid": "736003cf",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/11.Problems on homogeneous functions, and Euler's theorem/slides/Problems on Homogeneous functions and Euler's theorem_736003cf.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/11.Problems%20on%20homogeneous%20functions%2C%20and%20Euler%27s%20theorem/slides/Problems%20on%20Homogeneous%20functions%20and%20Euler%27s%20theorem_736003cf.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/11.Problems%20on%20homogeneous%20functions%2C%20and%20Euler%27s%20theorem/slides/Problems%20on%20Homogeneous%20functions%20and%20Euler%27s%20theorem_736003cf.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/11.Problems%20on%20homogeneous%20functions%2C%20and%20Euler%27s%20theorem/slides/Problems%20on%20Homogeneous%20functions%20and%20Euler%27s%20theorem_736003cf.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25MA141A_Unit 1_12.Problems on Taylor's and Maclaurin series for a function of two variables",
+          "order": 12,
+          "title": "Problems on Taylor's and Maclaurin series for a function of two variables",
+          "folder_name": "12.Problems on Taylor's and Maclaurin series for a function of two variables",
+          "path": "UE25MA141A/Unit 1/12.Problems on Taylor's and Maclaurin series for a function of two variables",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Problems on Taylor and Maclaurin series of f(x,y)_f018677c.pdf",
+                  "title": "Problems on Taylor and Maclaurin series of f(x,y)",
+                  "uuid": "f018677c",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/12.Problems on Taylor's and Maclaurin series for a function of two variables/slides/Problems on Taylor and Maclaurin series of f(x,y)_f018677c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/12.Problems%20on%20Taylor%27s%20and%20Maclaurin%20series%20for%20a%20function%20of%20two%20variables/slides/Problems%20on%20Taylor%20and%20Maclaurin%20series%20of%20f%28x%2Cy%29_f018677c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/12.Problems%20on%20Taylor%27s%20and%20Maclaurin%20series%20for%20a%20function%20of%20two%20variables/slides/Problems%20on%20Taylor%20and%20Maclaurin%20series%20of%20f%28x%2Cy%29_f018677c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/12.Problems%20on%20Taylor%27s%20and%20Maclaurin%20series%20for%20a%20function%20of%20two%20variables/slides/Problems%20on%20Taylor%20and%20Maclaurin%20series%20of%20f%28x%2Cy%29_f018677c.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25MA141A_Unit 1_13.Maxima and minima of a function of two variables",
+          "order": 13,
+          "title": "Maxima and minima of a function of two variables",
+          "folder_name": "13.Maxima and minima of a function of two variables",
+          "path": "UE25MA141A/Unit 1/13.Maxima and minima of a function of two variables",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Extremas of functions",
+                  "provider": "vimeo",
+                  "video_id": "489288358",
+                  "video_url": "https://player.vimeo.com/video/489288358?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/489288358",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "10/12/2020 12:14 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Maxima and Minima of a function of 2 variables_ef6149a5.pdf",
+                  "title": "Maxima and Minima of a function of 2 variables",
+                  "uuid": "ef6149a5",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/13.Maxima and minima of a function of two variables/slides/Maxima and Minima of a function of 2 variables_ef6149a5.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/13.Maxima%20and%20minima%20of%20a%20function%20of%20two%20variables/slides/Maxima%20and%20Minima%20of%20a%20function%20of%202%20variables_ef6149a5.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/13.Maxima%20and%20minima%20of%20a%20function%20of%20two%20variables/slides/Maxima%20and%20Minima%20of%20a%20function%20of%202%20variables_ef6149a5.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/13.Maxima%20and%20minima%20of%20a%20function%20of%20two%20variables/slides/Maxima%20and%20Minima%20of%20a%20function%20of%202%20variables_ef6149a5.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25MA141A_Unit 1_14.Maxima and Minima of a function of 2 variables",
+          "order": 14,
+          "title": "Maxima and Minima of a function of 2 variables",
+          "folder_name": "14.Maxima and Minima of a function of 2 variables",
+          "path": "UE25MA141A/Unit 1/14.Maxima and Minima of a function of 2 variables",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Extremas of functions continued",
+                  "provider": "vimeo",
+                  "video_id": "489298019",
+                  "video_url": "https://player.vimeo.com/video/489298019?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/489298019",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "10/12/2020 12:54 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Maxima and Minima of a Function of Two Variables_ef61515d.pdf",
+                  "title": "Maxima and Minima of a Function of Two Variables",
+                  "uuid": "ef61515d",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/14.Maxima and Minima of a function of 2 variables/slides/Maxima and Minima of a Function of Two Variables_ef61515d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/14.Maxima%20and%20Minima%20of%20a%20function%20of%202%20variables/slides/Maxima%20and%20Minima%20of%20a%20Function%20of%20Two%20Variables_ef61515d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/14.Maxima%20and%20Minima%20of%20a%20function%20of%202%20variables/slides/Maxima%20and%20Minima%20of%20a%20Function%20of%20Two%20Variables_ef61515d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/14.Maxima%20and%20Minima%20of%20a%20function%20of%202%20variables/slides/Maxima%20and%20Minima%20of%20a%20Function%20of%20Two%20Variables_ef61515d.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25MA141A_Unit 1_15.Lagrange's Method of undetermined multipliers",
+          "order": 15,
+          "title": " Lagrange's Method of undetermined multipliers",
+          "folder_name": "15.Lagrange's Method of undetermined multipliers",
+          "path": "UE25MA141A/Unit 1/15.Lagrange's Method of undetermined multipliers",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Lagrange's method of undetermined coefficient",
+                  "provider": "vimeo",
+                  "video_id": "460440300",
+                  "video_url": "https://player.vimeo.com/video/460440300?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/460440300",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "22/09/2020 11:25 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Lagrange's Method of Multipliers_ef6156a6.pdf",
+                  "title": "Lagrange's Method of Multipliers",
+                  "uuid": "ef6156a6",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/15.Lagrange's Method of undetermined multipliers/slides/Lagrange's Method of Multipliers_ef6156a6.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/15.Lagrange%27s%20Method%20of%20undetermined%20multipliers/slides/Lagrange%27s%20Method%20of%20Multipliers_ef6156a6.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/15.Lagrange%27s%20Method%20of%20undetermined%20multipliers/slides/Lagrange%27s%20Method%20of%20Multipliers_ef6156a6.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/15.Lagrange%27s%20Method%20of%20undetermined%20multipliers/slides/Lagrange%27s%20Method%20of%20Multipliers_ef6156a6.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25MA141A_Unit 1_16.Problems on maxima and minima for a function of two variables",
+          "order": 16,
+          "title": "Problems on maxima and minima for a function of two variables ",
+          "folder_name": "16.Problems on maxima and minima for a function of two variables",
+          "path": "UE25MA141A/Unit 1/16.Problems on maxima and minima for a function of two variables",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Slides_9be0cd79.pdf",
+                  "title": "Slides",
+                  "uuid": "9be0cd79",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/16.Problems on maxima and minima for a function of two variables/slides/Slides_9be0cd79.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/16.Problems%20on%20maxima%20and%20minima%20for%20a%20function%20of%20two%20variables/slides/Slides_9be0cd79.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/16.Problems%20on%20maxima%20and%20minima%20for%20a%20function%20of%20two%20variables/slides/Slides_9be0cd79.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/16.Problems%20on%20maxima%20and%20minima%20for%20a%20function%20of%20two%20variables/slides/Slides_9be0cd79.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Video",
+                  "provider": "vimeo",
+                  "video_id": "1111196425",
+                  "video_url": "https://player.vimeo.com/video/1111196425?h=01a25558fe&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111196425?h=01a25558fe",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "19/08/2025 11:40 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25MA141A_Unit 1_17.Problems on Lagrange's method of undetermined multipliers",
+          "order": 17,
+          "title": "Problems on Lagrange's method of undetermined multipliers",
+          "folder_name": "17.Problems on Lagrange's method of undetermined multipliers",
+          "path": "UE25MA141A/Unit 1/17.Problems on Lagrange's method of undetermined multipliers",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Video",
+                  "provider": "vimeo",
+                  "video_id": "1111240032",
+                  "video_url": "https://player.vimeo.com/video/1111240032?h=7edba183d3&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1111240032?h=7edba183d3",
+                  "faculty": "Dr. Nagesh H M",
+                  "date": "19/08/2025 02:37 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Slides_5262574f.pdf",
+                  "title": "Slides",
+                  "uuid": "5262574f",
+                  "extension": "pdf",
+                  "path": "UE25MA141A/Unit 1/17.Problems on Lagrange's method of undetermined multipliers/slides/Slides_5262574f.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/17.Problems%20on%20Lagrange%27s%20method%20of%20undetermined%20multipliers/slides/Slides_5262574f.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25MA141A/Unit%201/17.Problems%20on%20Lagrange%27s%20method%20of%20undetermined%20multipliers/slides/Slides_5262574f.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25MA141A/Unit%201/17.Problems%20on%20Lagrange%27s%20method%20of%20undetermined%20multipliers/slides/Slides_5262574f.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
     },
     {
       "id": "UE25MA141A_Unit 2",
@@ -38,5 +524,5 @@
   ],
   "total_units": 5,
   "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE25MA141A",
-  "updated_at": "2026-01-22T18:52:31.154661"
+  "updated_at": "2026-01-22T19:00:48.737635"
 }
