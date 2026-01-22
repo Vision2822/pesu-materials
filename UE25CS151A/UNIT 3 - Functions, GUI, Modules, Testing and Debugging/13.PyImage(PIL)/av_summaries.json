@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25CS151A",
+  "unit_title": "UNIT 3 : Functions, GUI, Modules, Testing and Debugging ",
+  "videos": [
+    {
+      "title": "PIL",
+      "provider": "vimeo",
+      "video_id": "1144445311",
+      "video_url": "https://player.vimeo.com/video/1144445311?h=18e20517c9&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1144445311?h=18e20517c9",
+      "faculty": "Kundhavai K R",
+      "date": "08/12/2025 02:59 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:48:03.610592"
+}

@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25CS151A",
+  "unit_title": "UNIT 3 : Functions, GUI, Modules, Testing and Debugging ",
+  "videos": [
+    {
+      "title": "Closure",
+      "provider": "vimeo",
+      "video_id": "460462530",
+      "video_url": "https://player.vimeo.com/video/460462530?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/460462530",
+      "faculty": "Prof Sindhu Pai",
+      "date": "09/11/2023 03:27 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:48:03.033542"
+}
