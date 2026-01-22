@@ -1,0 +1,27 @@
+{
+  "course_code": "UE25PH151A",
+  "unit_title": "Unit 4:  Application of Quantum Mechanics to Optical Waves;\nDielectrics:   ",
+  "videos": [
+    {
+      "title": "piezoelectric behaviour",
+      "provider": "vimeo",
+      "video_id": "488092709",
+      "video_url": "https://player.vimeo.com/video/488092709?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/488092709",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "17/11/2025 04:20 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Non linear dielectrics",
+      "provider": "vimeo",
+      "video_id": "483512616",
+      "video_url": "https://player.vimeo.com/video/483512616?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/483512616",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "25/11/2020 04:57 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T21:00:06.365172"
+}
