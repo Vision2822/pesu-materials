@@ -9,7 +9,83 @@
       "id": "UE25CY151A_DUMMY UNIT",
       "title": "DUMMY UNIT",
       "path": "UE25CY151A/DUMMY UNIT",
-      "classes": []
+      "classes": [
+        {
+          "id": "UE25CY151A_DUMMY UNIT_1.Rotational spectrum",
+          "order": 1,
+          "title": "Rotational spectrum",
+          "folder_name": "1.Rotational spectrum",
+          "path": "UE25CY151A/DUMMY UNIT/1.Rotational spectrum",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Rotational spectrum_017a4094.pdf",
+                  "title": "Rotational spectrum",
+                  "uuid": "017a4094",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/DUMMY UNIT/1.Rotational spectrum/slides/Rotational spectrum_017a4094.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/DUMMY%20UNIT/1.Rotational%20spectrum/slides/Rotational%20spectrum_017a4094.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/DUMMY%20UNIT/1.Rotational%20spectrum/slides/Rotational%20spectrum_017a4094.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/DUMMY%20UNIT/1.Rotational%20spectrum/slides/Rotational%20spectrum_017a4094.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CY151A_DUMMY UNIT_2.Structure - property relationship",
+          "order": 2,
+          "title": "Structure - property relationship",
+          "folder_name": "2.Structure - property relationship",
+          "path": "UE25CY151A/DUMMY UNIT/2.Structure - property relationship",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Structure - property relationship_8c5e3fcf.pdf",
+                  "title": "Structure - property relationship",
+                  "uuid": "8c5e3fcf",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/DUMMY UNIT/2.Structure - property relationship/slides/Structure - property relationship_8c5e3fcf.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/DUMMY%20UNIT/2.Structure%20-%20property%20relationship/slides/Structure%20-%20property%20relationship_8c5e3fcf.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/DUMMY%20UNIT/2.Structure%20-%20property%20relationship/slides/Structure%20-%20property%20relationship_8c5e3fcf.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/DUMMY%20UNIT/2.Structure%20-%20property%20relationship/slides/Structure%20-%20property%20relationship_8c5e3fcf.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CY151A_DUMMY UNIT_4.Stress corrosion",
+          "order": 4,
+          "title": "Stress corrosion",
+          "folder_name": "4.Stress corrosion",
+          "path": "UE25CY151A/DUMMY UNIT/4.Stress corrosion",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Stress corrosion and Factors affecting rate of corrosion",
+                  "provider": "vimeo",
+                  "video_id": "460243399",
+                  "video_url": "https://player.vimeo.com/video/460243399?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/460243399",
+                  "faculty": "Dr. Revanasiddappa M",
+                  "date": "21/09/2020 10:20 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
     },
     {
       "id": "UE25CY151A_Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry",
@@ -35,22 +111,6 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/1.Molecular%20spectroscopy-%20Interaction%20of%20electromagnetic%20radiation%20with%20matter/slides/Interaction%20of%20electromagnetic%20radiation%20with%20matter_dee02fa9.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/1.Molecular%20spectroscopy-%20Interaction%20of%20electromagnetic%20radiation%20with%20matter/slides/Interaction%20of%20electromagnetic%20radiation%20with%20matter_dee02fa9.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/1.Molecular%20spectroscopy-%20Interaction%20of%20electromagnetic%20radiation%20with%20matter/slides/Interaction%20of%20electromagnetic%20radiation%20with%20matter_dee02fa9.pdf"
-                }
-              ],
-              "count": 1
-            },
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Interaction of radiation with matter",
-                  "provider": "vimeo",
-                  "video_id": "453567955",
-                  "video_url": "https://player.vimeo.com/video/453567955?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/453567955",
-                  "faculty": "Dr. Revanasiddappa M",
-                  "date": "01/09/2020 01:47 PM",
-                  "section": "NA"
                 }
               ],
               "count": 1
@@ -93,6 +153,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/1.Molecular%20spectroscopy-%20Interaction%20of%20electromagnetic%20radiation%20with%20matter/notes/Molecular%20spectroscopy%2C%20Phase%20diagram%20and%20Computational%20Chemistry_5c9003a6.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/1.Molecular%20spectroscopy-%20Interaction%20of%20electromagnetic%20radiation%20with%20matter/notes/Molecular%20spectroscopy%2C%20Phase%20diagram%20and%20Computational%20Chemistry_5c9003a6.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/1.Molecular%20spectroscopy-%20Interaction%20of%20electromagnetic%20radiation%20with%20matter/notes/Molecular%20spectroscopy%2C%20Phase%20diagram%20and%20Computational%20Chemistry_5c9003a6.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Interaction of radiation with matter",
+                  "provider": "vimeo",
+                  "video_id": "453567955",
+                  "video_url": "https://player.vimeo.com/video/453567955?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/453567955",
+                  "faculty": "Dr. Revanasiddappa M",
+                  "date": "01/09/2020 01:47 PM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -188,22 +264,6 @@
           "folder_name": "4.Born-Oppenheimer approximation and Introduction to Rotational Spectroscopy",
           "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/4.Born-Oppenheimer approximation and Introduction to Rotational Spectroscopy",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "B.O approximation_3fef4cbd.pdf",
-                  "title": "B.O approximation",
-                  "uuid": "3fef4cbd",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/4.Born-Oppenheimer approximation and Introduction to Rotational Spectroscopy/slides/B.O approximation_3fef4cbd.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/4.Born-Oppenheimer%20approximation%20and%20Introduction%20to%20Rotational%20Spectroscopy/slides/B.O%20approximation_3fef4cbd.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/4.Born-Oppenheimer%20approximation%20and%20Introduction%20to%20Rotational%20Spectroscopy/slides/B.O%20approximation_3fef4cbd.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/4.Born-Oppenheimer%20approximation%20and%20Introduction%20to%20Rotational%20Spectroscopy/slides/B.O%20approximation_3fef4cbd.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -216,6 +276,22 @@
                   "faculty": "Dr. Revanasiddappa M",
                   "date": "10/09/2022 03:20 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "B.O approximation_3fef4cbd.pdf",
+                  "title": "B.O approximation",
+                  "uuid": "3fef4cbd",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/4.Born-Oppenheimer approximation and Introduction to Rotational Spectroscopy/slides/B.O approximation_3fef4cbd.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/4.Born-Oppenheimer%20approximation%20and%20Introduction%20to%20Rotational%20Spectroscopy/slides/B.O%20approximation_3fef4cbd.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/4.Born-Oppenheimer%20approximation%20and%20Introduction%20to%20Rotational%20Spectroscopy/slides/B.O%20approximation_3fef4cbd.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/4.Born-Oppenheimer%20approximation%20and%20Introduction%20to%20Rotational%20Spectroscopy/slides/B.O%20approximation_3fef4cbd.pdf"
                 }
               ],
               "count": 1
@@ -418,22 +494,6 @@
           "folder_name": "10.Franck-Condon Principle",
           "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/10.Franck-Condon Principle",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Electronic Spectroscopy(Franck-Condon Principle)_b8aad616.pdf",
-                  "title": "Electronic Spectroscopy(Franck-Condon Principle)",
-                  "uuid": "b8aad616",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/10.Franck-Condon Principle/slides/Electronic Spectroscopy(Franck-Condon Principle)_b8aad616.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/10.Franck-Condon%20Principle/slides/Electronic%20Spectroscopy%28Franck-Condon%20Principle%29_b8aad616.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/10.Franck-Condon%20Principle/slides/Electronic%20Spectroscopy%28Franck-Condon%20Principle%29_b8aad616.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/10.Franck-Condon%20Principle/slides/Electronic%20Spectroscopy%28Franck-Condon%20Principle%29_b8aad616.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -446,6 +506,22 @@
                   "faculty": "Dr. Revanasiddappa M",
                   "date": "02/11/2020 02:34 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Electronic Spectroscopy(Franck-Condon Principle)_b8aad616.pdf",
+                  "title": "Electronic Spectroscopy(Franck-Condon Principle)",
+                  "uuid": "b8aad616",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/10.Franck-Condon Principle/slides/Electronic Spectroscopy(Franck-Condon Principle)_b8aad616.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/10.Franck-Condon%20Principle/slides/Electronic%20Spectroscopy%28Franck-Condon%20Principle%29_b8aad616.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/10.Franck-Condon%20Principle/slides/Electronic%20Spectroscopy%28Franck-Condon%20Principle%29_b8aad616.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/10.Franck-Condon%20Principle/slides/Electronic%20Spectroscopy%28Franck-Condon%20Principle%29_b8aad616.pdf"
                 }
               ],
               "count": 1
@@ -516,6 +592,22 @@
               ],
               "count": 1
             },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Phase rule_2b50eabc.pdf",
+                  "title": "Phase rule",
+                  "uuid": "2b50eabc",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/12.Phase equilibria - Statement of Gibbs phase rule, Chemical Potential/qa/Phase rule_2b50eabc.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/12.Phase%20equilibria%20-%20Statement%20of%20Gibbs%20phase%20rule%2C%20Chemical%20Potential/qa/Phase%20rule_2b50eabc.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/12.Phase%20equilibria%20-%20Statement%20of%20Gibbs%20phase%20rule%2C%20Chemical%20Potential/qa/Phase%20rule_2b50eabc.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/12.Phase%20equilibria%20-%20Statement%20of%20Gibbs%20phase%20rule%2C%20Chemical%20Potential/qa/Phase%20rule_2b50eabc.pdf"
+                }
+              ],
+              "count": 1
+            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -547,22 +639,6 @@
                 }
               ],
               "count": 1
-            },
-            "qa": {
-              "type": "qa",
-              "files": [
-                {
-                  "name": "Phase rule_2b50eabc.pdf",
-                  "title": "Phase rule",
-                  "uuid": "2b50eabc",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/12.Phase equilibria - Statement of Gibbs phase rule, Chemical Potential/qa/Phase rule_2b50eabc.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/12.Phase%20equilibria%20-%20Statement%20of%20Gibbs%20phase%20rule%2C%20Chemical%20Potential/qa/Phase%20rule_2b50eabc.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/12.Phase%20equilibria%20-%20Statement%20of%20Gibbs%20phase%20rule%2C%20Chemical%20Potential/qa/Phase%20rule_2b50eabc.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/12.Phase%20equilibria%20-%20Statement%20of%20Gibbs%20phase%20rule%2C%20Chemical%20Potential/qa/Phase%20rule_2b50eabc.pdf"
-                }
-              ],
-              "count": 1
             }
           }
         },
@@ -573,22 +649,6 @@
           "folder_name": "13.Derivation of Gibbs phase rule",
           "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/13.Derivation of Gibbs phase rule",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Derivation of Gibbs phase rule_5a71099d.pdf",
-                  "title": "Derivation of Gibbs phase rule",
-                  "uuid": "5a71099d",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/13.Derivation of Gibbs phase rule/slides/Derivation of Gibbs phase rule_5a71099d.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/13.Derivation%20of%20Gibbs%20phase%20rule/slides/Derivation%20of%20Gibbs%20phase%20rule_5a71099d.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/13.Derivation%20of%20Gibbs%20phase%20rule/slides/Derivation%20of%20Gibbs%20phase%20rule_5a71099d.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/13.Derivation%20of%20Gibbs%20phase%20rule/slides/Derivation%20of%20Gibbs%20phase%20rule_5a71099d.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -601,6 +661,22 @@
                   "faculty": "Dr. Revanasiddappa M",
                   "date": "05/11/2020 02:35 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Derivation of Gibbs phase rule_5a71099d.pdf",
+                  "title": "Derivation of Gibbs phase rule",
+                  "uuid": "5a71099d",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/13.Derivation of Gibbs phase rule/slides/Derivation of Gibbs phase rule_5a71099d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/13.Derivation%20of%20Gibbs%20phase%20rule/slides/Derivation%20of%20Gibbs%20phase%20rule_5a71099d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/13.Derivation%20of%20Gibbs%20phase%20rule/slides/Derivation%20of%20Gibbs%20phase%20rule_5a71099d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/13.Derivation%20of%20Gibbs%20phase%20rule/slides/Derivation%20of%20Gibbs%20phase%20rule_5a71099d.pdf"
                 }
               ],
               "count": 1
@@ -655,22 +731,6 @@
           "folder_name": "15.Reduced Phase rule, Phase diagram of two- component system-Pb-Ag system",
           "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/15.Reduced Phase rule, Phase diagram of two- component system-Pb-Ag system",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Reduced phase rule, Phase diagram of two component system_3bf7d87a.pdf",
-                  "title": "Reduced phase rule, Phase diagram of two component system",
-                  "uuid": "3bf7d87a",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/15.Reduced Phase rule, Phase diagram of two- component system-Pb-Ag system/slides/Reduced phase rule, Phase diagram of two component system_3bf7d87a.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/15.Reduced%20Phase%20rule%2C%20Phase%20diagram%20of%20two-%20component%20system-Pb-Ag%20system/slides/Reduced%20phase%20rule%2C%20Phase%20diagram%20of%20two%20component%20system_3bf7d87a.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/15.Reduced%20Phase%20rule%2C%20Phase%20diagram%20of%20two-%20component%20system-Pb-Ag%20system/slides/Reduced%20phase%20rule%2C%20Phase%20diagram%20of%20two%20component%20system_3bf7d87a.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/15.Reduced%20Phase%20rule%2C%20Phase%20diagram%20of%20two-%20component%20system-Pb-Ag%20system/slides/Reduced%20phase%20rule%2C%20Phase%20diagram%20of%20two%20component%20system_3bf7d87a.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -683,6 +743,22 @@
                   "faculty": "Dr. Revanasiddappa M",
                   "date": "02/11/2020 03:34 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Reduced phase rule, Phase diagram of two component system_3bf7d87a.pdf",
+                  "title": "Reduced phase rule, Phase diagram of two component system",
+                  "uuid": "3bf7d87a",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/15.Reduced Phase rule, Phase diagram of two- component system-Pb-Ag system/slides/Reduced phase rule, Phase diagram of two component system_3bf7d87a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/15.Reduced%20Phase%20rule%2C%20Phase%20diagram%20of%20two-%20component%20system-Pb-Ag%20system/slides/Reduced%20phase%20rule%2C%20Phase%20diagram%20of%20two%20component%20system_3bf7d87a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/15.Reduced%20Phase%20rule%2C%20Phase%20diagram%20of%20two-%20component%20system-Pb-Ag%20system/slides/Reduced%20phase%20rule%2C%20Phase%20diagram%20of%20two%20component%20system_3bf7d87a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/15.Reduced%20Phase%20rule%2C%20Phase%20diagram%20of%20two-%20component%20system-Pb-Ag%20system/slides/Reduced%20phase%20rule%2C%20Phase%20diagram%20of%20two%20component%20system_3bf7d87a.pdf"
                 }
               ],
               "count": 1
@@ -737,22 +813,6 @@
           "folder_name": "17.Computational methods",
           "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/17.Computational methods",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Computational Methods_196e84eb.pdf",
-                  "title": "Computational Methods",
-                  "uuid": "196e84eb",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/17.Computational methods/slides/Computational Methods_196e84eb.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/17.Computational%20methods/slides/Computational%20Methods_196e84eb.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/17.Computational%20methods/slides/Computational%20Methods_196e84eb.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/17.Computational%20methods/slides/Computational%20Methods_196e84eb.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -765,6 +825,22 @@
                   "faculty": "Dr. Revanasiddappa M",
                   "date": "18/09/2025 05:54 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Computational Methods_196e84eb.pdf",
+                  "title": "Computational Methods",
+                  "uuid": "196e84eb",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit I- Molecular Spectroscopy, Phase Equilibria and Computational Chemistry/17.Computational methods/slides/Computational Methods_196e84eb.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/17.Computational%20methods/slides/Computational%20Methods_196e84eb.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/17.Computational%20methods/slides/Computational%20Methods_196e84eb.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20I-%20Molecular%20Spectroscopy%2C%20Phase%20Equilibria%20and%20Computational%20Chemistry/17.Computational%20methods/slides/Computational%20Methods_196e84eb.pdf"
                 }
               ],
               "count": 1
@@ -826,6 +902,22 @@
           "folder_name": "1.Electrochemical equilibria- Origin of electrode potential",
           "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/1.Electrochemical equilibria- Origin of electrode potential",
           "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Electrochemical equilibria Origin of electrode potential_9407c52b.pdf",
+                  "title": "Electrochemical equilibria Origin of electrode potential",
+                  "uuid": "9407c52b",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/1.Electrochemical equilibria- Origin of electrode potential/slides/Electrochemical equilibria Origin of electrode potential_9407c52b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/1.Electrochemical%20equilibria-%20Origin%20of%20electrode%20potential/slides/Electrochemical%20equilibria%20Origin%20of%20electrode%20potential_9407c52b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/1.Electrochemical%20equilibria-%20Origin%20of%20electrode%20potential/slides/Electrochemical%20equilibria%20Origin%20of%20electrode%20potential_9407c52b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/1.Electrochemical%20equilibria-%20Origin%20of%20electrode%20potential/slides/Electrochemical%20equilibria%20Origin%20of%20electrode%20potential_9407c52b.pdf"
+                }
+              ],
+              "count": 1
+            },
             "notes": {
               "type": "notes",
               "files": [
@@ -854,22 +946,6 @@
                   "faculty": "Dr. Revanasiddappa M",
                   "date": "09/11/2020 03:39 PM",
                   "section": "NA"
-                }
-              ],
-              "count": 1
-            },
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Electrochemical equilibria Origin of electrode potential_9407c52b.pdf",
-                  "title": "Electrochemical equilibria Origin of electrode potential",
-                  "uuid": "9407c52b",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/1.Electrochemical equilibria- Origin of electrode potential/slides/Electrochemical equilibria Origin of electrode potential_9407c52b.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/1.Electrochemical%20equilibria-%20Origin%20of%20electrode%20potential/slides/Electrochemical%20equilibria%20Origin%20of%20electrode%20potential_9407c52b.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/1.Electrochemical%20equilibria-%20Origin%20of%20electrode%20potential/slides/Electrochemical%20equilibria%20Origin%20of%20electrode%20potential_9407c52b.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/1.Electrochemical%20equilibria-%20Origin%20of%20electrode%20potential/slides/Electrochemical%20equilibria%20Origin%20of%20electrode%20potential_9407c52b.pdf"
                 }
               ],
               "count": 1
@@ -1047,22 +1123,6 @@
           "folder_name": "6.Concentration cells- Types of concentration cells",
           "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/6.Concentration cells- Types of concentration cells",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Concentration cells Types of concentration cells_f7c645c6.pdf",
-                  "title": "Concentration cells Types of concentration cells",
-                  "uuid": "f7c645c6",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/6.Concentration cells- Types of concentration cells/slides/Concentration cells Types of concentration cells_f7c645c6.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/6.Concentration%20cells-%20Types%20of%20concentration%20cells/slides/Concentration%20cells%20Types%20of%20concentration%20cells_f7c645c6.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/6.Concentration%20cells-%20Types%20of%20concentration%20cells/slides/Concentration%20cells%20Types%20of%20concentration%20cells_f7c645c6.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/6.Concentration%20cells-%20Types%20of%20concentration%20cells/slides/Concentration%20cells%20Types%20of%20concentration%20cells_f7c645c6.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -1078,6 +1138,22 @@
                 }
               ],
               "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Concentration cells Types of concentration cells_f7c645c6.pdf",
+                  "title": "Concentration cells Types of concentration cells",
+                  "uuid": "f7c645c6",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/6.Concentration cells- Types of concentration cells/slides/Concentration cells Types of concentration cells_f7c645c6.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/6.Concentration%20cells-%20Types%20of%20concentration%20cells/slides/Concentration%20cells%20Types%20of%20concentration%20cells_f7c645c6.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/6.Concentration%20cells-%20Types%20of%20concentration%20cells/slides/Concentration%20cells%20Types%20of%20concentration%20cells_f7c645c6.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/6.Concentration%20cells-%20Types%20of%20concentration%20cells/slides/Concentration%20cells%20Types%20of%20concentration%20cells_f7c645c6.pdf"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -1088,22 +1164,6 @@
           "folder_name": "7.Ion selective electrodes Glass electrode",
           "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/7.Ion selective electrodes Glass electrode",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Ion selective electrodes Glass electrode_6cdad9f5.pdf",
-                  "title": "Ion selective electrodes Glass electrode",
-                  "uuid": "6cdad9f5",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/7.Ion selective electrodes Glass electrode/slides/Ion selective electrodes Glass electrode_6cdad9f5.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/7.Ion%20selective%20electrodes%20Glass%20electrode/slides/Ion%20selective%20electrodes%20Glass%20electrode_6cdad9f5.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/7.Ion%20selective%20electrodes%20Glass%20electrode/slides/Ion%20selective%20electrodes%20Glass%20electrode_6cdad9f5.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/7.Ion%20selective%20electrodes%20Glass%20electrode/slides/Ion%20selective%20electrodes%20Glass%20electrode_6cdad9f5.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -1116,6 +1176,22 @@
                   "faculty": "Dr. Revanasiddappa M",
                   "date": "01/08/2020 05:45 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Ion selective electrodes Glass electrode_6cdad9f5.pdf",
+                  "title": "Ion selective electrodes Glass electrode",
+                  "uuid": "6cdad9f5",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/7.Ion selective electrodes Glass electrode/slides/Ion selective electrodes Glass electrode_6cdad9f5.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/7.Ion%20selective%20electrodes%20Glass%20electrode/slides/Ion%20selective%20electrodes%20Glass%20electrode_6cdad9f5.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/7.Ion%20selective%20electrodes%20Glass%20electrode/slides/Ion%20selective%20electrodes%20Glass%20electrode_6cdad9f5.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/7.Ion%20selective%20electrodes%20Glass%20electrode/slides/Ion%20selective%20electrodes%20Glass%20electrode_6cdad9f5.pdf"
                 }
               ],
               "count": 1
@@ -1170,38 +1246,6 @@
           "folder_name": "10.Corrosion- Elelctrochemical theory of corrosion",
           "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/10.Corrosion- Elelctrochemical theory of corrosion",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Corrosion Electrochemical theory of corrosion_0fb06ce2.pdf",
-                  "title": "Corrosion Electrochemical theory of corrosion",
-                  "uuid": "0fb06ce2",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/10.Corrosion- Elelctrochemical theory of corrosion/slides/Corrosion Electrochemical theory of corrosion_0fb06ce2.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/10.Corrosion-%20Elelctrochemical%20theory%20of%20corrosion/slides/Corrosion%20Electrochemical%20theory%20of%20corrosion_0fb06ce2.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/10.Corrosion-%20Elelctrochemical%20theory%20of%20corrosion/slides/Corrosion%20Electrochemical%20theory%20of%20corrosion_0fb06ce2.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/10.Corrosion-%20Elelctrochemical%20theory%20of%20corrosion/slides/Corrosion%20Electrochemical%20theory%20of%20corrosion_0fb06ce2.pdf"
-                }
-              ],
-              "count": 1
-            },
-            "questionbank": {
-              "type": "questionbank",
-              "files": [
-                {
-                  "name": "UE22CY151_Question Bank_Unit IV- Corrosion Science_30de425c.pdf",
-                  "title": "UE22CY151 Question Bank Unit IV- Corrosion Science",
-                  "uuid": "30de425c",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/10.Corrosion- Elelctrochemical theory of corrosion/questionbank/UE22CY151_Question Bank_Unit IV- Corrosion Science_30de425c.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/10.Corrosion-%20Elelctrochemical%20theory%20of%20corrosion/questionbank/UE22CY151_Question%20Bank_Unit%20IV-%20Corrosion%20Science_30de425c.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/10.Corrosion-%20Elelctrochemical%20theory%20of%20corrosion/questionbank/UE22CY151_Question%20Bank_Unit%20IV-%20Corrosion%20Science_30de425c.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/10.Corrosion-%20Elelctrochemical%20theory%20of%20corrosion/questionbank/UE22CY151_Question%20Bank_Unit%20IV-%20Corrosion%20Science_30de425c.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -1218,6 +1262,22 @@
               ],
               "count": 1
             },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Corrosion Electrochemical theory of corrosion_0fb06ce2.pdf",
+                  "title": "Corrosion Electrochemical theory of corrosion",
+                  "uuid": "0fb06ce2",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/10.Corrosion- Elelctrochemical theory of corrosion/slides/Corrosion Electrochemical theory of corrosion_0fb06ce2.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/10.Corrosion-%20Elelctrochemical%20theory%20of%20corrosion/slides/Corrosion%20Electrochemical%20theory%20of%20corrosion_0fb06ce2.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/10.Corrosion-%20Elelctrochemical%20theory%20of%20corrosion/slides/Corrosion%20Electrochemical%20theory%20of%20corrosion_0fb06ce2.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/10.Corrosion-%20Elelctrochemical%20theory%20of%20corrosion/slides/Corrosion%20Electrochemical%20theory%20of%20corrosion_0fb06ce2.pdf"
+                }
+              ],
+              "count": 1
+            },
             "qa": {
               "type": "qa",
               "files": [
@@ -1230,6 +1290,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/10.Corrosion-%20Elelctrochemical%20theory%20of%20corrosion/qa/Question%20and%20Answer_Corrosion%20Chemistry_Unit-4_30de43c5.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/10.Corrosion-%20Elelctrochemical%20theory%20of%20corrosion/qa/Question%20and%20Answer_Corrosion%20Chemistry_Unit-4_30de43c5.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/10.Corrosion-%20Elelctrochemical%20theory%20of%20corrosion/qa/Question%20and%20Answer_Corrosion%20Chemistry_Unit-4_30de43c5.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "UE22CY151_Question Bank_Unit IV- Corrosion Science_30de425c.pdf",
+                  "title": "UE22CY151 Question Bank Unit IV- Corrosion Science",
+                  "uuid": "30de425c",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/10.Corrosion- Elelctrochemical theory of corrosion/questionbank/UE22CY151_Question Bank_Unit IV- Corrosion Science_30de425c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/10.Corrosion-%20Elelctrochemical%20theory%20of%20corrosion/questionbank/UE22CY151_Question%20Bank_Unit%20IV-%20Corrosion%20Science_30de425c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/10.Corrosion-%20Elelctrochemical%20theory%20of%20corrosion/questionbank/UE22CY151_Question%20Bank_Unit%20IV-%20Corrosion%20Science_30de425c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/10.Corrosion-%20Elelctrochemical%20theory%20of%20corrosion/questionbank/UE22CY151_Question%20Bank_Unit%20IV-%20Corrosion%20Science_30de425c.pdf"
                 }
               ],
               "count": 1
@@ -1325,22 +1401,6 @@
           "folder_name": "13.Factors affecting rate of corrosion (Nature of metal, nature of corrosion produc",
           "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/13.Factors affecting rate of corrosion (Nature of metal, nature of corrosion produc",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Factors affecting rate of corrosion (Nature of metal, nature of corrosion product)_9336d4b8.pdf",
-                  "title": "Factors affecting rate of corrosion (Nature of metal, nature of corrosion product)",
-                  "uuid": "9336d4b8",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/13.Factors affecting rate of corrosion (Nature of metal, nature of corrosion produc/slides/Factors affecting rate of corrosion (Nature of metal, nature of corrosion product)_9336d4b8.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/13.Factors%20affecting%20rate%20of%20corrosion%20%28Nature%20of%20metal%2C%20nature%20of%20corrosion%20produc/slides/Factors%20affecting%20rate%20of%20corrosion%20%28Nature%20of%20metal%2C%20nature%20of%20corrosion%20product%29_9336d4b8.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/13.Factors%20affecting%20rate%20of%20corrosion%20%28Nature%20of%20metal%2C%20nature%20of%20corrosion%20produc/slides/Factors%20affecting%20rate%20of%20corrosion%20%28Nature%20of%20metal%2C%20nature%20of%20corrosion%20product%29_9336d4b8.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/13.Factors%20affecting%20rate%20of%20corrosion%20%28Nature%20of%20metal%2C%20nature%20of%20corrosion%20produc/slides/Factors%20affecting%20rate%20of%20corrosion%20%28Nature%20of%20metal%2C%20nature%20of%20corrosion%20product%29_9336d4b8.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -1353,6 +1413,22 @@
                   "faculty": "Dr. Revanasiddappa M",
                   "date": "15/09/2020 01:55 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Factors affecting rate of corrosion (Nature of metal, nature of corrosion product)_9336d4b8.pdf",
+                  "title": "Factors affecting rate of corrosion (Nature of metal, nature of corrosion product)",
+                  "uuid": "9336d4b8",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/13.Factors affecting rate of corrosion (Nature of metal, nature of corrosion produc/slides/Factors affecting rate of corrosion (Nature of metal, nature of corrosion product)_9336d4b8.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/13.Factors%20affecting%20rate%20of%20corrosion%20%28Nature%20of%20metal%2C%20nature%20of%20corrosion%20produc/slides/Factors%20affecting%20rate%20of%20corrosion%20%28Nature%20of%20metal%2C%20nature%20of%20corrosion%20product%29_9336d4b8.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/13.Factors%20affecting%20rate%20of%20corrosion%20%28Nature%20of%20metal%2C%20nature%20of%20corrosion%20produc/slides/Factors%20affecting%20rate%20of%20corrosion%20%28Nature%20of%20metal%2C%20nature%20of%20corrosion%20product%29_9336d4b8.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/13.Factors%20affecting%20rate%20of%20corrosion%20%28Nature%20of%20metal%2C%20nature%20of%20corrosion%20produc/slides/Factors%20affecting%20rate%20of%20corrosion%20%28Nature%20of%20metal%2C%20nature%20of%20corrosion%20product%29_9336d4b8.pdf"
                 }
               ],
               "count": 1
@@ -1473,22 +1549,6 @@
           "folder_name": "17.Corrosion Inhibitors",
           "path": "UE25CY151A/Unit II- Electrochemistry and Corrosion/17.Corrosion Inhibitors",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Corrosion inhibitors",
-                  "provider": "vimeo",
-                  "video_id": "459289429",
-                  "video_url": "https://player.vimeo.com/video/459289429?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/459289429",
-                  "faculty": "Dr. Revanasiddappa M",
-                  "date": "18/09/2020 02:14 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -1501,6 +1561,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/17.Corrosion%20Inhibitors/slides/Corrosion%20inhibitors_28a32d40.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/17.Corrosion%20Inhibitors/slides/Corrosion%20inhibitors_28a32d40.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20II-%20Electrochemistry%20and%20Corrosion/17.Corrosion%20Inhibitors/slides/Corrosion%20inhibitors_28a32d40.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Corrosion inhibitors",
+                  "provider": "vimeo",
+                  "video_id": "459289429",
+                  "video_url": "https://player.vimeo.com/video/459289429?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/459289429",
+                  "faculty": "Dr. Revanasiddappa M",
+                  "date": "18/09/2020 02:14 PM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -1562,22 +1638,6 @@
           "folder_name": "1.Batteries- Components and working of a battery",
           "path": "UE25CY151A/Unit III- Energy storage devices, Hydrogen storage and Sensors/1.Batteries- Components and working of a battery",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Batteries- components, working and some battery characteristics",
-                  "provider": "vimeo",
-                  "video_id": "448768993",
-                  "video_url": "https://player.vimeo.com/video/448768993?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/448768993",
-                  "faculty": "Dr. Revanasiddappa M",
-                  "date": "18/08/2020 09:55 AM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -1594,18 +1654,18 @@
               ],
               "count": 1
             },
-            "questionbank": {
-              "type": "questionbank",
-              "files": [
+            "av_summary": {
+              "type": "video",
+              "videos": [
                 {
-                  "name": "Unit III Question Bank UE25CY151A Energy storage devices, Hydrogen storage and Sensors_87203deb.pdf",
-                  "title": "Unit III Question Bank UE25CY151A Energy storage devices, Hydrogen storage and Sensors",
-                  "uuid": "87203deb",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit III- Energy storage devices, Hydrogen storage and Sensors/1.Batteries- Components and working of a battery/questionbank/Unit III Question Bank UE25CY151A Energy storage devices, Hydrogen storage and Sensors_87203deb.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/1.Batteries-%20Components%20and%20working%20of%20a%20battery/questionbank/Unit%20III%20Question%20Bank%20UE25CY151A%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors_87203deb.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/1.Batteries-%20Components%20and%20working%20of%20a%20battery/questionbank/Unit%20III%20Question%20Bank%20UE25CY151A%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors_87203deb.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/1.Batteries-%20Components%20and%20working%20of%20a%20battery/questionbank/Unit%20III%20Question%20Bank%20UE25CY151A%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors_87203deb.pdf"
+                  "title": "Batteries- components, working and some battery characteristics",
+                  "provider": "vimeo",
+                  "video_id": "448768993",
+                  "video_url": "https://player.vimeo.com/video/448768993?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/448768993",
+                  "faculty": "Dr. Revanasiddappa M",
+                  "date": "18/08/2020 09:55 AM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -1622,6 +1682,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/1.Batteries-%20Components%20and%20working%20of%20a%20battery/notes/Unit%20III%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors%20Notes_d2286f79.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/1.Batteries-%20Components%20and%20working%20of%20a%20battery/notes/Unit%20III%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors%20Notes_d2286f79.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/1.Batteries-%20Components%20and%20working%20of%20a%20battery/notes/Unit%20III%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors%20Notes_d2286f79.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Unit III Question Bank UE25CY151A Energy storage devices, Hydrogen storage and Sensors_87203deb.pdf",
+                  "title": "Unit III Question Bank UE25CY151A Energy storage devices, Hydrogen storage and Sensors",
+                  "uuid": "87203deb",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit III- Energy storage devices, Hydrogen storage and Sensors/1.Batteries- Components and working of a battery/questionbank/Unit III Question Bank UE25CY151A Energy storage devices, Hydrogen storage and Sensors_87203deb.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/1.Batteries-%20Components%20and%20working%20of%20a%20battery/questionbank/Unit%20III%20Question%20Bank%20UE25CY151A%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors_87203deb.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/1.Batteries-%20Components%20and%20working%20of%20a%20battery/questionbank/Unit%20III%20Question%20Bank%20UE25CY151A%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors_87203deb.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/1.Batteries-%20Components%20and%20working%20of%20a%20battery/questionbank/Unit%20III%20Question%20Bank%20UE25CY151A%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors_87203deb.pdf"
                 }
               ],
               "count": 1
@@ -2007,22 +2083,6 @@
           "folder_name": "12.H2-O2 alkaline fuel cell",
           "path": "UE25CY151A/Unit III- Energy storage devices, Hydrogen storage and Sensors/12.H2-O2 alkaline fuel cell",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "H2-O2-alkaline fuel cell",
-                  "provider": "vimeo",
-                  "video_id": "477479708",
-                  "video_url": "https://player.vimeo.com/video/477479708?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/477479708",
-                  "faculty": "Dr. Revanasiddappa M",
-                  "date": "10/11/2020 01:34 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -2035,6 +2095,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/12.H2-O2%20alkaline%20fuel%20cell/slides/H2-O2%20alkaline%20fuel%20cell_8f74631e.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/12.H2-O2%20alkaline%20fuel%20cell/slides/H2-O2%20alkaline%20fuel%20cell_8f74631e.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/12.H2-O2%20alkaline%20fuel%20cell/slides/H2-O2%20alkaline%20fuel%20cell_8f74631e.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "H2-O2-alkaline fuel cell",
+                  "provider": "vimeo",
+                  "video_id": "477479708",
+                  "video_url": "https://player.vimeo.com/video/477479708?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/477479708",
+                  "faculty": "Dr. Revanasiddappa M",
+                  "date": "10/11/2020 01:34 PM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -2164,6 +2240,22 @@
           "folder_name": "17.Sensors- Classification, Types of electrochemical sensors",
           "path": "UE25CY151A/Unit III- Energy storage devices, Hydrogen storage and Sensors/17.Sensors- Classification, Types of electrochemical sensors",
           "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "SENSORS AND TYPES OF SENSORS_361c77fd.pdf",
+                  "title": "SENSORS AND TYPES OF SENSORS",
+                  "uuid": "361c77fd",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit III- Energy storage devices, Hydrogen storage and Sensors/17.Sensors- Classification, Types of electrochemical sensors/notes/SENSORS AND TYPES OF SENSORS_361c77fd.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/17.Sensors-%20Classification%2C%20Types%20of%20electrochemical%20sensors/notes/SENSORS%20AND%20TYPES%20OF%20SENSORS_361c77fd.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/17.Sensors-%20Classification%2C%20Types%20of%20electrochemical%20sensors/notes/SENSORS%20AND%20TYPES%20OF%20SENSORS_361c77fd.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/17.Sensors-%20Classification%2C%20Types%20of%20electrochemical%20sensors/notes/SENSORS%20AND%20TYPES%20OF%20SENSORS_361c77fd.pdf"
+                }
+              ],
+              "count": 1
+            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -2192,22 +2284,6 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/17.Sensors-%20Classification%2C%20Types%20of%20electrochemical%20sensors/slides/Sensors%20Classification%2C%20Types%20of%20electrochemical%20sensors_44fea882.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/17.Sensors-%20Classification%2C%20Types%20of%20electrochemical%20sensors/slides/Sensors%20Classification%2C%20Types%20of%20electrochemical%20sensors_44fea882.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/17.Sensors-%20Classification%2C%20Types%20of%20electrochemical%20sensors/slides/Sensors%20Classification%2C%20Types%20of%20electrochemical%20sensors_44fea882.pdf"
-                }
-              ],
-              "count": 1
-            },
-            "notes": {
-              "type": "notes",
-              "files": [
-                {
-                  "name": "SENSORS AND TYPES OF SENSORS_361c77fd.pdf",
-                  "title": "SENSORS AND TYPES OF SENSORS",
-                  "uuid": "361c77fd",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit III- Energy storage devices, Hydrogen storage and Sensors/17.Sensors- Classification, Types of electrochemical sensors/notes/SENSORS AND TYPES OF SENSORS_361c77fd.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/17.Sensors-%20Classification%2C%20Types%20of%20electrochemical%20sensors/notes/SENSORS%20AND%20TYPES%20OF%20SENSORS_361c77fd.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/17.Sensors-%20Classification%2C%20Types%20of%20electrochemical%20sensors/notes/SENSORS%20AND%20TYPES%20OF%20SENSORS_361c77fd.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/17.Sensors-%20Classification%2C%20Types%20of%20electrochemical%20sensors/notes/SENSORS%20AND%20TYPES%20OF%20SENSORS_361c77fd.pdf"
                 }
               ],
               "count": 1
@@ -2262,22 +2338,6 @@
           "folder_name": "19.Biosensor- Glucose sensor",
           "path": "UE25CY151A/Unit III- Energy storage devices, Hydrogen storage and Sensors/19.Biosensor- Glucose sensor",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Biosensor- Glucose sensor_bdf5585f.pdf",
-                  "title": "Biosensor- Glucose sensor",
-                  "uuid": "bdf5585f",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit III- Energy storage devices, Hydrogen storage and Sensors/19.Biosensor- Glucose sensor/slides/Biosensor- Glucose sensor_bdf5585f.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/19.Biosensor-%20Glucose%20sensor/slides/Biosensor-%20Glucose%20sensor_bdf5585f.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/19.Biosensor-%20Glucose%20sensor/slides/Biosensor-%20Glucose%20sensor_bdf5585f.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/19.Biosensor-%20Glucose%20sensor/slides/Biosensor-%20Glucose%20sensor_bdf5585f.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -2290,6 +2350,22 @@
                   "faculty": "Lata Pasupulety",
                   "date": "17/01/2023 10:46 AM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Biosensor- Glucose sensor_bdf5585f.pdf",
+                  "title": "Biosensor- Glucose sensor",
+                  "uuid": "bdf5585f",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit III- Energy storage devices, Hydrogen storage and Sensors/19.Biosensor- Glucose sensor/slides/Biosensor- Glucose sensor_bdf5585f.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/19.Biosensor-%20Glucose%20sensor/slides/Biosensor-%20Glucose%20sensor_bdf5585f.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/19.Biosensor-%20Glucose%20sensor/slides/Biosensor-%20Glucose%20sensor_bdf5585f.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20III-%20Energy%20storage%20devices%2C%20Hydrogen%20storage%20and%20Sensors/19.Biosensor-%20Glucose%20sensor/slides/Biosensor-%20Glucose%20sensor_bdf5585f.pdf"
                 }
               ],
               "count": 1
@@ -2310,6 +2386,22 @@
           "folder_name": "1.Nanomaterials- Introduction, classification",
           "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/1.Nanomaterials- Introduction, classification",
           "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Nanomaterials(Classification ,deviation from bulk properties)",
+                  "provider": "vimeo",
+                  "video_id": "455246966",
+                  "video_url": "https://player.vimeo.com/video/455246966?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/455246966",
+                  "faculty": "Dr. Revanasiddappa M",
+                  "date": "06/09/2020 09:09 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
             "notes": {
               "type": "notes",
               "files": [
@@ -2322,22 +2414,6 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/1.Nanomaterials-%20Introduction%2C%20classification/notes/Nanomaterials_3c7e465f.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/1.Nanomaterials-%20Introduction%2C%20classification/notes/Nanomaterials_3c7e465f.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/1.Nanomaterials-%20Introduction%2C%20classification/notes/Nanomaterials_3c7e465f.pdf"
-                }
-              ],
-              "count": 1
-            },
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Nanomaterials Introduction, classification_825b93e1.pdf",
-                  "title": "Nanomaterials Introduction, classification",
-                  "uuid": "825b93e1",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/1.Nanomaterials- Introduction, classification/slides/Nanomaterials Introduction, classification_825b93e1.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/1.Nanomaterials-%20Introduction%2C%20classification/slides/Nanomaterials%20Introduction%2C%20classification_825b93e1.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/1.Nanomaterials-%20Introduction%2C%20classification/slides/Nanomaterials%20Introduction%2C%20classification_825b93e1.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/1.Nanomaterials-%20Introduction%2C%20classification/slides/Nanomaterials%20Introduction%2C%20classification_825b93e1.pdf"
                 }
               ],
               "count": 1
@@ -2358,18 +2434,18 @@
               ],
               "count": 1
             },
-            "av_summary": {
-              "type": "video",
-              "videos": [
+            "slides": {
+              "type": "slides",
+              "files": [
                 {
-                  "title": "Nanomaterials(Classification ,deviation from bulk properties)",
-                  "provider": "vimeo",
-                  "video_id": "455246966",
-                  "video_url": "https://player.vimeo.com/video/455246966?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/455246966",
-                  "faculty": "Dr. Revanasiddappa M",
-                  "date": "06/09/2020 09:09 PM",
-                  "section": "NA"
+                  "name": "Nanomaterials Introduction, classification_825b93e1.pdf",
+                  "title": "Nanomaterials Introduction, classification",
+                  "uuid": "825b93e1",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/1.Nanomaterials- Introduction, classification/slides/Nanomaterials Introduction, classification_825b93e1.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/1.Nanomaterials-%20Introduction%2C%20classification/slides/Nanomaterials%20Introduction%2C%20classification_825b93e1.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/1.Nanomaterials-%20Introduction%2C%20classification/slides/Nanomaterials%20Introduction%2C%20classification_825b93e1.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/1.Nanomaterials-%20Introduction%2C%20classification/slides/Nanomaterials%20Introduction%2C%20classification_825b93e1.pdf"
                 }
               ],
               "count": 1
@@ -2434,6 +2510,47 @@
           }
         },
         {
+          "id": "UE25CY151A_Unit IV- Functional materials and Green Chemistry_3.Optical properties, electrical properties, mechanical properties and magnetic pr",
+          "order": 3,
+          "title": "Optical properties, electrical properties, mechanical properties and magnetic properties",
+          "folder_name": "3.Optical properties, electrical properties, mechanical properties and magnetic pr",
+          "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/3.Optical properties, electrical properties, mechanical properties and magnetic pr",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Nanomaterials(Mechanical,Thermal,Magnetic properties and applications)",
+                  "provider": "vimeo",
+                  "video_id": "459291918",
+                  "video_url": "https://player.vimeo.com/video/459291918?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/459291918",
+                  "faculty": "Dr. Revanasiddappa M",
+                  "date": "18/09/2020 02:24 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Optical properties, electrical properties, mechanical properties and magnetic properties_e7ce504d.pdf",
+                  "title": "Optical properties, electrical properties, mechanical properties and magnetic properties",
+                  "uuid": "e7ce504d",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/3.Optical properties, electrical properties, mechanical properties and magnetic pr/slides/Optical properties, electrical properties, mechanical properties and magnetic properties_e7ce504d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/3.Optical%20properties%2C%20electrical%20properties%2C%20mechanical%20properties%20and%20magnetic%20pr/slides/Optical%20properties%2C%20electrical%20properties%2C%20mechanical%20properties%20and%20magnetic%20properties_e7ce504d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/3.Optical%20properties%2C%20electrical%20properties%2C%20mechanical%20properties%20and%20magnetic%20pr/slides/Optical%20properties%2C%20electrical%20properties%2C%20mechanical%20properties%20and%20magnetic%20properties_e7ce504d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/3.Optical%20properties%2C%20electrical%20properties%2C%20mechanical%20properties%20and%20magnetic%20pr/slides/Optical%20properties%2C%20electrical%20properties%2C%20mechanical%20properties%20and%20magnetic%20properties_e7ce504d.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
           "id": "UE25CY151A_Unit IV- Functional materials and Green Chemistry_4.Graphene- structure and synthesis",
           "order": 4,
           "title": "Graphene- structure and synthesis",
@@ -2490,6 +2607,22 @@
           "folder_name": "7.Polymers- Introduction, Types of polymerization, Definition of Glass transition",
           "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/7.Polymers- Introduction, Types of polymerization, Definition of Glass transition",
           "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Polymers(Types of Polymerisation, Glass Transition Temperature)",
+                  "provider": "vimeo",
+                  "video_id": "462107314",
+                  "video_url": "https://player.vimeo.com/video/462107314?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/462107314",
+                  "faculty": "Dr. Revanasiddappa M",
+                  "date": "26/09/2020 03:54 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
             "slides": {
               "type": "slides",
               "files": [
@@ -2502,6 +2635,47 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/7.Polymers-%20Introduction%2C%20Types%20of%20polymerization%2C%20Definition%20of%20Glass%20transition/slides/Polymers%20Introduction%2C%20Types%20of%20polymerization%2C%20Definition%20of%20Glass%20transition%20temperature_14afa994.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/7.Polymers-%20Introduction%2C%20Types%20of%20polymerization%2C%20Definition%20of%20Glass%20transition/slides/Polymers%20Introduction%2C%20Types%20of%20polymerization%2C%20Definition%20of%20Glass%20transition%20temperature_14afa994.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/7.Polymers-%20Introduction%2C%20Types%20of%20polymerization%2C%20Definition%20of%20Glass%20transition/slides/Polymers%20Introduction%2C%20Types%20of%20polymerization%2C%20Definition%20of%20Glass%20transition%20temperature_14afa994.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CY151A_Unit IV- Functional materials and Green Chemistry_8.Structure - property relationship",
+          "order": 8,
+          "title": "Structure - property relationship ",
+          "folder_name": "8.Structure - property relationship",
+          "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/8.Structure - property relationship",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Commercial polymers(Butyl rubber ,Biodegradable polymers)",
+                  "provider": "vimeo",
+                  "video_id": "466101754",
+                  "video_url": "https://player.vimeo.com/video/466101754?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/466101754",
+                  "faculty": "Dr. Revanasiddappa M",
+                  "date": "08/10/2020 03:00 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Structure - property relationship contd._98e11c07.pdf",
+                  "title": "Structure - property relationship contd.",
+                  "uuid": "98e11c07",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/8.Structure - property relationship/slides/Structure - property relationship contd._98e11c07.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/8.Structure%20-%20property%20relationship/slides/Structure%20-%20property%20relationship%20contd._98e11c07.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/8.Structure%20-%20property%20relationship/slides/Structure%20-%20property%20relationship%20contd._98e11c07.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/8.Structure%20-%20property%20relationship/slides/Structure%20-%20property%20relationship%20contd._98e11c07.pdf"
                 }
               ],
               "count": 1
@@ -2527,6 +2701,22 @@
                   "faculty": "Dr. Revanasiddappa M",
                   "date": "26/09/2020 03:09 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Structure property Relationship_210ea2ad.pdf",
+                  "title": "Structure property Relationship",
+                  "uuid": "210ea2ad",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/9.Structure property Relationship/slides/Structure property Relationship_210ea2ad.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/9.Structure%20property%20Relationship/slides/Structure%20property%20Relationship_210ea2ad.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/9.Structure%20property%20Relationship/slides/Structure%20property%20Relationship_210ea2ad.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/9.Structure%20property%20Relationship/slides/Structure%20property%20Relationship_210ea2ad.pdf"
                 }
               ],
               "count": 1
@@ -2565,6 +2755,22 @@
           "folder_name": "11.Synthesis and properties of epoxy resin",
           "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/11.Synthesis and properties of epoxy resin",
           "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Epoxy resin",
+                  "provider": "vimeo",
+                  "video_id": "462956566",
+                  "video_url": "https://player.vimeo.com/video/462956566?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/462956566",
+                  "faculty": "Dr. Revanasiddappa M",
+                  "date": "29/09/2020 02:23 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
             "slides": {
               "type": "slides",
               "files": [
@@ -2584,12 +2790,69 @@
           }
         },
         {
+          "id": "UE25CY151A_Unit IV- Functional materials and Green Chemistry_12.Polymer Composites- Synthesis, properties of Kevlar",
+          "order": 12,
+          "title": "Polymer Composites: Synthesis, properties of Kevlar",
+          "folder_name": "12.Polymer Composites- Synthesis, properties of Kevlar",
+          "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/12.Polymer Composites- Synthesis, properties of Kevlar",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Polymer Composites Synthesis, properties of Kevlar_fb7f4e05.pdf",
+                  "title": "Polymer Composites Synthesis, properties of Kevlar",
+                  "uuid": "fb7f4e05",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/12.Polymer Composites- Synthesis, properties of Kevlar/slides/Polymer Composites Synthesis, properties of Kevlar_fb7f4e05.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/12.Polymer%20Composites-%20Synthesis%2C%20properties%20of%20Kevlar/slides/Polymer%20Composites%20Synthesis%2C%20properties%20of%20Kevlar_fb7f4e05.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/12.Polymer%20Composites-%20Synthesis%2C%20properties%20of%20Kevlar/slides/Polymer%20Composites%20Synthesis%2C%20properties%20of%20Kevlar_fb7f4e05.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/12.Polymer%20Composites-%20Synthesis%2C%20properties%20of%20Kevlar/slides/Polymer%20Composites%20Synthesis%2C%20properties%20of%20Kevlar_fb7f4e05.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Polymer composites(Kevlar)",
+                  "provider": "vimeo",
+                  "video_id": "465304995",
+                  "video_url": "https://player.vimeo.com/video/465304995?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/465304995",
+                  "faculty": "Dr. Revanasiddappa M",
+                  "date": "06/10/2020 02:16 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
           "id": "UE25CY151A_Unit IV- Functional materials and Green Chemistry_13.Synthesis, properties of Carbon fibres",
           "order": 13,
           "title": "Synthesis, properties of Carbon fibres",
           "folder_name": "13.Synthesis, properties of Carbon fibres",
           "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/13.Synthesis, properties of Carbon fibres",
           "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Carbon fibres",
+                  "provider": "vimeo",
+                  "video_id": "462939809",
+                  "video_url": "https://player.vimeo.com/video/462939809?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/462939809",
+                  "faculty": "Dr. Revanasiddappa M",
+                  "date": "29/09/2020 01:15 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
             "slides": {
               "type": "slides",
               "files": [
@@ -2627,6 +2890,22 @@
                   "faculty": "Dr. Revanasiddappa M",
                   "date": "06/10/2020 03:04 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Conducting polymers-examples, types of doping_6929d94b.pdf",
+                  "title": "Conducting polymers-examples, types of doping",
+                  "uuid": "6929d94b",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/14.Conducting polymers-examples, types of doping/slides/Conducting polymers-examples, types of doping_6929d94b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/14.Conducting%20polymers-examples%2C%20types%20of%20doping/slides/Conducting%20polymers-examples%2C%20types%20of%20doping_6929d94b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/14.Conducting%20polymers-examples%2C%20types%20of%20doping/slides/Conducting%20polymers-examples%2C%20types%20of%20doping_6929d94b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/14.Conducting%20polymers-examples%2C%20types%20of%20doping/slides/Conducting%20polymers-examples%2C%20types%20of%20doping_6929d94b.pdf"
                 }
               ],
               "count": 1
@@ -2680,6 +2959,22 @@
                 }
               ],
               "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Average molecular weight of polymers - Number average molecular weight, Weight average molecular_4bf2308d.pdf",
+                  "title": "Average molecular weight of polymers - Number average molecular weight, Weight average molecular",
+                  "uuid": "4bf2308d",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/16.Average molecular weight of polymers - Number average molecular weight, Weight a/slides/Average molecular weight of polymers - Number average molecular weight, Weight average molecular_4bf2308d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/16.Average%20molecular%20weight%20of%20polymers%20-%20Number%20average%20molecular%20weight%2C%20Weight%20a/slides/Average%20molecular%20weight%20of%20polymers%20-%20Number%20average%20molecular%20weight%2C%20Weight%20average%20molecular_4bf2308d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/16.Average%20molecular%20weight%20of%20polymers%20-%20Number%20average%20molecular%20weight%2C%20Weight%20a/slides/Average%20molecular%20weight%20of%20polymers%20-%20Number%20average%20molecular%20weight%2C%20Weight%20average%20molecular_4bf2308d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/16.Average%20molecular%20weight%20of%20polymers%20-%20Number%20average%20molecular%20weight%2C%20Weight%20a/slides/Average%20molecular%20weight%20of%20polymers%20-%20Number%20average%20molecular%20weight%2C%20Weight%20average%20molecular_4bf2308d.pdf"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -2702,22 +2997,6 @@
                   "faculty": "Dr. Revanasiddappa M",
                   "date": "17/10/2020 01:25 PM",
                   "section": "NA"
-                }
-              ],
-              "count": 1
-            },
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Organic Light emitting diodes (OLEDs)- Construction_f1f01f9c.pdf",
-                  "title": "Organic Light emitting diodes (OLEDs)- Construction",
-                  "uuid": "f1f01f9c",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/17.Organic Light emitting diodes (OLEDs)- Construction/slides/Organic Light emitting diodes (OLEDs)- Construction_f1f01f9c.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/17.Organic%20Light%20emitting%20diodes%20%28OLEDs%29-%20Construction/slides/Organic%20Light%20emitting%20diodes%20%28OLEDs%29-%20Construction_f1f01f9c.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/17.Organic%20Light%20emitting%20diodes%20%28OLEDs%29-%20Construction/slides/Organic%20Light%20emitting%20diodes%20%28OLEDs%29-%20Construction_f1f01f9c.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/17.Organic%20Light%20emitting%20diodes%20%28OLEDs%29-%20Construction/slides/Organic%20Light%20emitting%20diodes%20%28OLEDs%29-%20Construction_f1f01f9c.pdf"
                 }
               ],
               "count": 1
@@ -2750,6 +3029,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/17.Organic%20Light%20emitting%20diodes%20%28OLEDs%29-%20Construction/questionbank/OLEDs_3c82d908.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/17.Organic%20Light%20emitting%20diodes%20%28OLEDs%29-%20Construction/questionbank/OLEDs_3c82d908.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/17.Organic%20Light%20emitting%20diodes%20%28OLEDs%29-%20Construction/questionbank/OLEDs_3c82d908.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Organic Light emitting diodes (OLEDs)- Construction_f1f01f9c.pdf",
+                  "title": "Organic Light emitting diodes (OLEDs)- Construction",
+                  "uuid": "f1f01f9c",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/17.Organic Light emitting diodes (OLEDs)- Construction/slides/Organic Light emitting diodes (OLEDs)- Construction_f1f01f9c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/17.Organic%20Light%20emitting%20diodes%20%28OLEDs%29-%20Construction/slides/Organic%20Light%20emitting%20diodes%20%28OLEDs%29-%20Construction_f1f01f9c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/17.Organic%20Light%20emitting%20diodes%20%28OLEDs%29-%20Construction/slides/Organic%20Light%20emitting%20diodes%20%28OLEDs%29-%20Construction_f1f01f9c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/17.Organic%20Light%20emitting%20diodes%20%28OLEDs%29-%20Construction/slides/Organic%20Light%20emitting%20diodes%20%28OLEDs%29-%20Construction_f1f01f9c.pdf"
                 }
               ],
               "count": 1
@@ -2804,18 +3099,18 @@
           "folder_name": "19.Green Chemistry- Introduction, Twelve principles of green chemistry with example",
           "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/19.Green Chemistry- Introduction, Twelve principles of green chemistry with example",
           "content": {
-            "notes": {
-              "type": "notes",
-              "files": [
+            "av_summary": {
+              "type": "video",
+              "videos": [
                 {
-                  "name": "Green Chemistry_3c830920.pdf",
                   "title": "Green Chemistry",
-                  "uuid": "3c830920",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/19.Green Chemistry- Introduction, Twelve principles of green chemistry with example/notes/Green Chemistry_3c830920.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/19.Green%20Chemistry-%20Introduction%2C%20Twelve%20principles%20of%20green%20chemistry%20with%20example/notes/Green%20Chemistry_3c830920.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/19.Green%20Chemistry-%20Introduction%2C%20Twelve%20principles%20of%20green%20chemistry%20with%20example/notes/Green%20Chemistry_3c830920.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/19.Green%20Chemistry-%20Introduction%2C%20Twelve%20principles%20of%20green%20chemistry%20with%20example/notes/Green%20Chemistry_3c830920.pdf"
+                  "provider": "vimeo",
+                  "video_id": "465307069",
+                  "video_url": "https://player.vimeo.com/video/465307069?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/465307069",
+                  "faculty": "Dr. Revanasiddappa M",
+                  "date": "06/10/2020 02:24 PM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -2836,18 +3131,34 @@
               ],
               "count": 1
             },
-            "av_summary": {
-              "type": "video",
-              "videos": [
+            "qa": {
+              "type": "qa",
+              "files": [
                 {
+                  "name": "Green Chemistry_3c833b2b.pdf",
                   "title": "Green Chemistry",
-                  "provider": "vimeo",
-                  "video_id": "465307069",
-                  "video_url": "https://player.vimeo.com/video/465307069?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/465307069",
-                  "faculty": "Dr. Revanasiddappa M",
-                  "date": "06/10/2020 02:24 PM",
-                  "section": "NA"
+                  "uuid": "3c833b2b",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/19.Green Chemistry- Introduction, Twelve principles of green chemistry with example/qa/Green Chemistry_3c833b2b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/19.Green%20Chemistry-%20Introduction%2C%20Twelve%20principles%20of%20green%20chemistry%20with%20example/qa/Green%20Chemistry_3c833b2b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/19.Green%20Chemistry-%20Introduction%2C%20Twelve%20principles%20of%20green%20chemistry%20with%20example/qa/Green%20Chemistry_3c833b2b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/19.Green%20Chemistry-%20Introduction%2C%20Twelve%20principles%20of%20green%20chemistry%20with%20example/qa/Green%20Chemistry_3c833b2b.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Green Chemistry_3c830920.pdf",
+                  "title": "Green Chemistry",
+                  "uuid": "3c830920",
+                  "extension": "pdf",
+                  "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/19.Green Chemistry- Introduction, Twelve principles of green chemistry with example/notes/Green Chemistry_3c830920.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/19.Green%20Chemistry-%20Introduction%2C%20Twelve%20principles%20of%20green%20chemistry%20with%20example/notes/Green%20Chemistry_3c830920.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/19.Green%20Chemistry-%20Introduction%2C%20Twelve%20principles%20of%20green%20chemistry%20with%20example/notes/Green%20Chemistry_3c830920.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/19.Green%20Chemistry-%20Introduction%2C%20Twelve%20principles%20of%20green%20chemistry%20with%20example/notes/Green%20Chemistry_3c830920.pdf"
                 }
               ],
               "count": 1
@@ -2867,22 +3178,6 @@
                 }
               ],
               "count": 1
-            },
-            "qa": {
-              "type": "qa",
-              "files": [
-                {
-                  "name": "Green Chemistry_3c833b2b.pdf",
-                  "title": "Green Chemistry",
-                  "uuid": "3c833b2b",
-                  "extension": "pdf",
-                  "path": "UE25CY151A/Unit IV- Functional materials and Green Chemistry/19.Green Chemistry- Introduction, Twelve principles of green chemistry with example/qa/Green Chemistry_3c833b2b.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/19.Green%20Chemistry-%20Introduction%2C%20Twelve%20principles%20of%20green%20chemistry%20with%20example/qa/Green%20Chemistry_3c833b2b.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/19.Green%20Chemistry-%20Introduction%2C%20Twelve%20principles%20of%20green%20chemistry%20with%20example/qa/Green%20Chemistry_3c833b2b.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CY151A/Unit%20IV-%20Functional%20materials%20and%20Green%20Chemistry/19.Green%20Chemistry-%20Introduction%2C%20Twelve%20principles%20of%20green%20chemistry%20with%20example/qa/Green%20Chemistry_3c833b2b.pdf"
-                }
-              ],
-              "count": 1
             }
           }
         }
@@ -2891,5 +3186,5 @@
   ],
   "total_units": 5,
   "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE25CY151A",
-  "updated_at": "2026-01-22T18:52:29.544569"
+  "updated_at": "2026-01-22T19:00:47.216176"
 }
