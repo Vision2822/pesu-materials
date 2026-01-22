@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25ME141A",
+  "unit_title": "Engineering Materials, Stress Analysis, and Power Transmission",
+  "videos": [
+    {
+      "title": "materials",
+      "provider": "vimeo",
+      "video_id": "1121175957",
+      "video_url": "https://player.vimeo.com/video/1121175957?h=3c667ae9db&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1121175957?h=3c667ae9db",
+      "faculty": "Mahantesh",
+      "date": "23/09/2025 07:12 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T20:52:04.333130"
+}
