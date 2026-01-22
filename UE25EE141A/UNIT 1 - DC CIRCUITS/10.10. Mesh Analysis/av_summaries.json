@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25EE141A",
+  "unit_title": "UNIT 1 : DC CIRCUITS",
+  "videos": [
+    {
+      "title": "Mesh Analysis",
+      "provider": "vimeo",
+      "video_id": "1114672502",
+      "video_url": "https://player.vimeo.com/video/1114672502?h=a5e111ac13&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1114672502?h=a5e111ac13",
+      "faculty": "Mrs Jyothi T.N",
+      "date": "31/08/2025 10:03 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T20:45:06.236680"
+}
