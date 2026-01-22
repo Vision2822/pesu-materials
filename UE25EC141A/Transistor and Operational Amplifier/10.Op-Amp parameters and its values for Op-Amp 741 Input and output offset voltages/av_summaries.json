@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25EC141A",
+  "unit_title": "Transistor and Operational Amplifier",
+  "videos": [
+    {
+      "title": "Op-Amp parameters",
+      "provider": "vimeo",
+      "video_id": "1111363239",
+      "video_url": "https://player.vimeo.com/video/1111363239?h=b746070287&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1111363239?h=b746070287",
+      "faculty": "Ananda M",
+      "date": "19/08/2025 09:23 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T19:00:06.122433"
+}

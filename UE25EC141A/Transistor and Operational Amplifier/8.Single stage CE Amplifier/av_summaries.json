@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25EC141A",
+  "unit_title": "Transistor and Operational Amplifier",
+  "videos": [
+    {
+      "title": "Single stage CE Amplifier",
+      "provider": "vimeo",
+      "video_id": "1111362716",
+      "video_url": "https://player.vimeo.com/video/1111362716?h=ee8bc7b13b&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1111362716?h=ee8bc7b13b",
+      "faculty": "Ananda M",
+      "date": "19/08/2025 09:21 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T19:00:05.724880"
+}

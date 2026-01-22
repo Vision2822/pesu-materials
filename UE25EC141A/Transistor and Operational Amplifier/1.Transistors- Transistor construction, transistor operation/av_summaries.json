@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25EC141A",
+  "unit_title": "Transistor and Operational Amplifier",
+  "videos": [
+    {
+      "title": "Transistors: Transistor construction, transistor operation",
+      "provider": "vimeo",
+      "video_id": "1111360780",
+      "video_url": "https://player.vimeo.com/video/1111360780?h=5ca424ed33&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1111360780?h=5ca424ed33",
+      "faculty": "Ananda M",
+      "date": "19/08/2025 09:15 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T19:00:05.200244"
+}
