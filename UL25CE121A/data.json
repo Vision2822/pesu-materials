@@ -1,0 +1,372 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UL25CE121A",
+  "course_title": "Constitution of India, Cyber Law and Professional Ethics",
+  "semester_name": "Sem-1",
+  "units": [
+    {
+      "id": "UL25CE121A_1. Introduction to Constitution of India",
+      "title": "1. Introduction to Constitution of India",
+      "path": "UL25CE121A/1. Introduction to Constitution of India",
+      "classes": [
+        {
+          "id": "UL25CE121A_1. Introduction to Constitution of India_1.My India - The India Eternal by Swami Vivekananda",
+          "order": 1,
+          "title": "My India - The India Eternal by Swami Vivekananda",
+          "folder_name": "1.My India - The India Eternal by Swami Vivekananda",
+          "path": "UL25CE121A/1. Introduction to Constitution of India/1.My India - The India Eternal by Swami Vivekananda",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "My India - The India Eternal by Swami Vivekananda_4fe2a12a.pdf",
+                  "title": "My India - The India Eternal by Swami Vivekananda",
+                  "uuid": "4fe2a12a",
+                  "extension": "pdf",
+                  "path": "UL25CE121A/1. Introduction to Constitution of India/1.My India - The India Eternal by Swami Vivekananda/slides/My India - The India Eternal by Swami Vivekananda_4fe2a12a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/1.My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda/slides/My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda_4fe2a12a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/1.My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda/slides/My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda_4fe2a12a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/1.My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda/slides/My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda_4fe2a12a.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "My India - The India Eternal by Swami Vivekananda_e66851b7.pdf",
+                  "title": "My India - The India Eternal by Swami Vivekananda",
+                  "uuid": "e66851b7",
+                  "extension": "pdf",
+                  "path": "UL25CE121A/1. Introduction to Constitution of India/1.My India - The India Eternal by Swami Vivekananda/notes/My India - The India Eternal by Swami Vivekananda_e66851b7.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/1.My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda/notes/My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda_e66851b7.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/1.My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda/notes/My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda_e66851b7.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/1.My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda/notes/My%20India%20-%20The%20India%20Eternal%20by%20Swami%20Vivekananda_e66851b7.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UL25CE121A_1. Introduction to Constitution of India_2.Constitutional History",
+          "order": 2,
+          "title": "Constitutional History",
+          "folder_name": "2.Constitutional History",
+          "path": "UL25CE121A/1. Introduction to Constitution of India/2.Constitutional History",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Constitutional History_b1042445.pdf",
+                  "title": "Constitutional History",
+                  "uuid": "b1042445",
+                  "extension": "pdf",
+                  "path": "UL25CE121A/1. Introduction to Constitution of India/2.Constitutional History/slides/Constitutional History_b1042445.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/2.Constitutional%20History/slides/Constitutional%20History_b1042445.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/2.Constitutional%20History/slides/Constitutional%20History_b1042445.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/2.Constitutional%20History/slides/Constitutional%20History_b1042445.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UL25CE121A_1. Introduction to Constitution of India_4.The Story of My Experiments with Truth by Mahatma Gandhi",
+          "order": 4,
+          "title": "The Story of My Experiments with Truth by Mahatma Gandhi",
+          "folder_name": "4.The Story of My Experiments with Truth by Mahatma Gandhi",
+          "path": "UL25CE121A/1. Introduction to Constitution of India/4.The Story of My Experiments with Truth by Mahatma Gandhi",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "The Story of My Experiments with Truth by Mahatma Gandhi_9b74a1ae.pdf",
+                  "title": "The Story of My Experiments with Truth by Mahatma Gandhi",
+                  "uuid": "9b74a1ae",
+                  "extension": "pdf",
+                  "path": "UL25CE121A/1. Introduction to Constitution of India/4.The Story of My Experiments with Truth by Mahatma Gandhi/slides/The Story of My Experiments with Truth by Mahatma Gandhi_9b74a1ae.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/4.The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi/slides/The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi_9b74a1ae.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/4.The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi/slides/The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi_9b74a1ae.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/4.The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi/slides/The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi_9b74a1ae.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "The Story of My Experiments with Truth by Mahatma Gandhi_78dd7594.pdf",
+                  "title": "The Story of My Experiments with Truth by Mahatma Gandhi",
+                  "uuid": "78dd7594",
+                  "extension": "pdf",
+                  "path": "UL25CE121A/1. Introduction to Constitution of India/4.The Story of My Experiments with Truth by Mahatma Gandhi/notes/The Story of My Experiments with Truth by Mahatma Gandhi_78dd7594.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/4.The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi/notes/The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi_78dd7594.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/4.The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi/notes/The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi_78dd7594.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/4.The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi/notes/The%20Story%20of%20My%20Experiments%20with%20Truth%20by%20Mahatma%20Gandhi_78dd7594.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UL25CE121A_1. Introduction to Constitution of India_5.Constitutional interpretation State, Judicial Review, Right to Equality, Right t",
+          "order": 5,
+          "title": "Constitutional interpretation State, Judicial Review, Right to Equality, Right to reservation.",
+          "folder_name": "5.Constitutional interpretation State, Judicial Review, Right to Equality, Right t",
+          "path": "UL25CE121A/1. Introduction to Constitution of India/5.Constitutional interpretation State, Judicial Review, Right to Equality, Right t",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Constitutional Interpretation of State and Right to Equality_26e862ae.pdf",
+                  "title": "Constitutional Interpretation of State and Right to Equality",
+                  "uuid": "26e862ae",
+                  "extension": "pdf",
+                  "path": "UL25CE121A/1. Introduction to Constitution of India/5.Constitutional interpretation State, Judicial Review, Right to Equality, Right t/slides/Constitutional Interpretation of State and Right to Equality_26e862ae.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/5.Constitutional%20interpretation%20State%2C%20Judicial%20Review%2C%20Right%20to%20Equality%2C%20Right%20t/slides/Constitutional%20Interpretation%20of%20State%20and%20Right%20to%20Equality_26e862ae.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/5.Constitutional%20interpretation%20State%2C%20Judicial%20Review%2C%20Right%20to%20Equality%2C%20Right%20t/slides/Constitutional%20Interpretation%20of%20State%20and%20Right%20to%20Equality_26e862ae.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/5.Constitutional%20interpretation%20State%2C%20Judicial%20Review%2C%20Right%20to%20Equality%2C%20Right%20t/slides/Constitutional%20Interpretation%20of%20State%20and%20Right%20to%20Equality_26e862ae.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UL25CE121A_1. Introduction to Constitution of India_6.Right Against Discrimination, Right to Freedoms",
+          "order": 6,
+          "title": "Right Against Discrimination, Right to Freedoms",
+          "folder_name": "6.Right Against Discrimination, Right to Freedoms",
+          "path": "UL25CE121A/1. Introduction to Constitution of India/6.Right Against Discrimination, Right to Freedoms",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Right to freedom of speech and Expression to Right of an arrested person_954e619c.pdf",
+                  "title": "Right to freedom of speech and Expression to Right of an arrested person",
+                  "uuid": "954e619c",
+                  "extension": "pdf",
+                  "path": "UL25CE121A/1. Introduction to Constitution of India/6.Right Against Discrimination, Right to Freedoms/slides/Right to freedom of speech and Expression to Right of an arrested person_954e619c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/6.Right%20Against%20Discrimination%2C%20Right%20to%20Freedoms/slides/Right%20to%20freedom%20of%20speech%20and%20Expression%20to%20Right%20of%20an%20arrested%20person_954e619c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/6.Right%20Against%20Discrimination%2C%20Right%20to%20Freedoms/slides/Right%20to%20freedom%20of%20speech%20and%20Expression%20to%20Right%20of%20an%20arrested%20person_954e619c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/6.Right%20Against%20Discrimination%2C%20Right%20to%20Freedoms/slides/Right%20to%20freedom%20of%20speech%20and%20Expression%20to%20Right%20of%20an%20arrested%20person_954e619c.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UL25CE121A_1. Introduction to Constitution of India_9.Right to religion, Right of minorities",
+          "order": 9,
+          "title": "Right to religion, Right of minorities",
+          "folder_name": "9.Right to religion, Right of minorities",
+          "path": "UL25CE121A/1. Introduction to Constitution of India/9.Right to religion, Right of minorities",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Right to freedom of religion, Constitutional Remedies, DPSP and Fundamental Duties_7c23fefe.pdf",
+                  "title": "Right to freedom of religion, Constitutional Remedies, DPSP and Fundamental Duties",
+                  "uuid": "7c23fefe",
+                  "extension": "pdf",
+                  "path": "UL25CE121A/1. Introduction to Constitution of India/9.Right to religion, Right of minorities/slides/Right to freedom of religion, Constitutional Remedies, DPSP and Fundamental Duties_7c23fefe.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/9.Right%20to%20religion%2C%20Right%20of%20minorities/slides/Right%20to%20freedom%20of%20religion%2C%20Constitutional%20Remedies%2C%20DPSP%20and%20Fundamental%20Duties_7c23fefe.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/9.Right%20to%20religion%2C%20Right%20of%20minorities/slides/Right%20to%20freedom%20of%20religion%2C%20Constitutional%20Remedies%2C%20DPSP%20and%20Fundamental%20Duties_7c23fefe.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/1.%20Introduction%20to%20Constitution%20of%20India/9.Right%20to%20religion%2C%20Right%20of%20minorities/slides/Right%20to%20freedom%20of%20religion%2C%20Constitutional%20Remedies%2C%20DPSP%20and%20Fundamental%20Duties_7c23fefe.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UL25CE121A_2. Federal System - Legislature, Executive and Judiciary",
+      "title": "2. Federal System - Legislature, Executive and Judiciary",
+      "path": "UL25CE121A/2. Federal System - Legislature, Executive and Judiciary",
+      "classes": [
+        {
+          "id": "UL25CE121A_2. Federal System - Legislature, Executive and Judiciary_1.Union Executive and State Executive - President, Union Cabinet,",
+          "order": 1,
+          "title": "Union Executive and State Executive - President, Union Cabinet,",
+          "folder_name": "1.Union Executive and State Executive - President, Union Cabinet,",
+          "path": "UL25CE121A/2. Federal System - Legislature, Executive and Judiciary/1.Union Executive and State Executive - President, Union Cabinet,",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Union and State Executive_d2f5a84e.pdf",
+                  "title": "Union and State Executive",
+                  "uuid": "d2f5a84e",
+                  "extension": "pdf",
+                  "path": "UL25CE121A/2. Federal System - Legislature, Executive and Judiciary/1.Union Executive and State Executive - President, Union Cabinet,/slides/Union and State Executive_d2f5a84e.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/2.%20Federal%20System%20-%20Legislature%2C%20Executive%20and%20Judiciary/1.Union%20Executive%20and%20State%20Executive%20-%20President%2C%20Union%20Cabinet%2C/slides/Union%20and%20State%20Executive_d2f5a84e.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/2.%20Federal%20System%20-%20Legislature%2C%20Executive%20and%20Judiciary/1.Union%20Executive%20and%20State%20Executive%20-%20President%2C%20Union%20Cabinet%2C/slides/Union%20and%20State%20Executive_d2f5a84e.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/2.%20Federal%20System%20-%20Legislature%2C%20Executive%20and%20Judiciary/1.Union%20Executive%20and%20State%20Executive%20-%20President%2C%20Union%20Cabinet%2C/slides/Union%20and%20State%20Executive_d2f5a84e.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UL25CE121A_2. Federal System - Legislature, Executive and Judiciary_5.Judiciary - Supreme Court and High Court",
+          "order": 5,
+          "title": "Judiciary - Supreme Court and High Court",
+          "folder_name": "5.Judiciary - Supreme Court and High Court",
+          "path": "UL25CE121A/2. Federal System - Legislature, Executive and Judiciary/5.Judiciary - Supreme Court and High Court",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Judiciary, Emergency provisions, Amendments_c36f3632.pdf",
+                  "title": "Judiciary, Emergency provisions, Amendments",
+                  "uuid": "c36f3632",
+                  "extension": "pdf",
+                  "path": "UL25CE121A/2. Federal System - Legislature, Executive and Judiciary/5.Judiciary - Supreme Court and High Court/slides/Judiciary, Emergency provisions, Amendments_c36f3632.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/2.%20Federal%20System%20-%20Legislature%2C%20Executive%20and%20Judiciary/5.Judiciary%20-%20Supreme%20Court%20and%20High%20Court/slides/Judiciary%2C%20Emergency%20provisions%2C%20Amendments_c36f3632.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/2.%20Federal%20System%20-%20Legislature%2C%20Executive%20and%20Judiciary/5.Judiciary%20-%20Supreme%20Court%20and%20High%20Court/slides/Judiciary%2C%20Emergency%20provisions%2C%20Amendments_c36f3632.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/2.%20Federal%20System%20-%20Legislature%2C%20Executive%20and%20Judiciary/5.Judiciary%20-%20Supreme%20Court%20and%20High%20Court/slides/Judiciary%2C%20Emergency%20provisions%2C%20Amendments_c36f3632.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UL25CE121A_3. Cyber Law and IP Regime",
+      "title": "3. Cyber Law and IP Regime",
+      "path": "UL25CE121A/3. Cyber Law and IP Regime",
+      "classes": [
+        {
+          "id": "UL25CE121A_3. Cyber Law and IP Regime_1.Overview of the Information Technology Act (IT Act), 2000 and Post-2008 Amendmen",
+          "order": 1,
+          "title": "Overview of the Information Technology Act (IT Act), 2000 and Post-2008 Amendments",
+          "folder_name": "1.Overview of the Information Technology Act (IT Act), 2000 and Post-2008 Amendmen",
+          "path": "UL25CE121A/3. Cyber Law and IP Regime/1.Overview of the Information Technology Act (IT Act), 2000 and Post-2008 Amendmen",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Overview of IT Act, 2000; Cyber Crimes, DPDP Act 2023_7b866091.pdf",
+                  "title": "Overview of IT Act, 2000; Cyber Crimes, DPDP Act 2023",
+                  "uuid": "7b866091",
+                  "extension": "pdf",
+                  "path": "UL25CE121A/3. Cyber Law and IP Regime/1.Overview of the Information Technology Act (IT Act), 2000 and Post-2008 Amendmen/slides/Overview of IT Act, 2000; Cyber Crimes, DPDP Act 2023_7b866091.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/3.%20Cyber%20Law%20and%20IP%20Regime/1.Overview%20of%20the%20Information%20Technology%20Act%20%28IT%20Act%29%2C%202000%20and%20Post-2008%20Amendmen/slides/Overview%20of%20IT%20Act%2C%202000%3B%20Cyber%20Crimes%2C%20DPDP%20Act%202023_7b866091.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/3.%20Cyber%20Law%20and%20IP%20Regime/1.Overview%20of%20the%20Information%20Technology%20Act%20%28IT%20Act%29%2C%202000%20and%20Post-2008%20Amendmen/slides/Overview%20of%20IT%20Act%2C%202000%3B%20Cyber%20Crimes%2C%20DPDP%20Act%202023_7b866091.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/3.%20Cyber%20Law%20and%20IP%20Regime/1.Overview%20of%20the%20Information%20Technology%20Act%20%28IT%20Act%29%2C%202000%20and%20Post-2008%20Amendmen/slides/Overview%20of%20IT%20Act%2C%202000%3B%20Cyber%20Crimes%2C%20DPDP%20Act%202023_7b866091.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UL25CE121A_3. Cyber Law and IP Regime_5.Intellectual Property Rights - Introduction, Meaning and Nature, Trademark- Intr",
+          "order": 5,
+          "title": "Intellectual Property Rights - Introduction, Meaning and Nature, Trademark: Introduction, Trademarks Act 1999, Conventional and Non-conventional Trademark,",
+          "folder_name": "5.Intellectual Property Rights - Introduction, Meaning and Nature, Trademark- Intr",
+          "path": "UL25CE121A/3. Cyber Law and IP Regime/5.Intellectual Property Rights - Introduction, Meaning and Nature, Trademark- Intr",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Intellectual Property Rights (3.2)_a3f64a91.pdf",
+                  "title": "Intellectual Property Rights (3.2)",
+                  "uuid": "a3f64a91",
+                  "extension": "pdf",
+                  "path": "UL25CE121A/3. Cyber Law and IP Regime/5.Intellectual Property Rights - Introduction, Meaning and Nature, Trademark- Intr/slides/Intellectual Property Rights (3.2)_a3f64a91.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/3.%20Cyber%20Law%20and%20IP%20Regime/5.Intellectual%20Property%20Rights%20-%20Introduction%2C%20Meaning%20and%20Nature%2C%20Trademark-%20Intr/slides/Intellectual%20Property%20Rights%20%283.2%29_a3f64a91.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/3.%20Cyber%20Law%20and%20IP%20Regime/5.Intellectual%20Property%20Rights%20-%20Introduction%2C%20Meaning%20and%20Nature%2C%20Trademark-%20Intr/slides/Intellectual%20Property%20Rights%20%283.2%29_a3f64a91.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/3.%20Cyber%20Law%20and%20IP%20Regime/5.Intellectual%20Property%20Rights%20-%20Introduction%2C%20Meaning%20and%20Nature%2C%20Trademark-%20Intr/slides/Intellectual%20Property%20Rights%20%283.2%29_a3f64a91.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UL25CE121A_4. Introduction to E-Commerce and Professional Ethics",
+      "title": "4. Introduction to E-Commerce and Professional Ethics",
+      "path": "UL25CE121A/4. Introduction to E-Commerce and Professional Ethics",
+      "classes": [
+        {
+          "id": "UL25CE121A_4. Introduction to E-Commerce and Professional Ethics_1.Laws relating to e-commerce- Privacy, Authentication, Payment;",
+          "order": 1,
+          "title": "Laws relating to e-commerce: Privacy, Authentication, Payment;",
+          "folder_name": "1.Laws relating to e-commerce- Privacy, Authentication, Payment;",
+          "path": "UL25CE121A/4. Introduction to E-Commerce and Professional Ethics/1.Laws relating to e-commerce- Privacy, Authentication, Payment;",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Consumer Protection Act, Contracts, E Contract, E Commerce_9711ca04.pdf",
+                  "title": "Consumer Protection Act, Contracts, E Contract, E Commerce",
+                  "uuid": "9711ca04",
+                  "extension": "pdf",
+                  "path": "UL25CE121A/4. Introduction to E-Commerce and Professional Ethics/1.Laws relating to e-commerce- Privacy, Authentication, Payment;/slides/Consumer Protection Act, Contracts, E Contract, E Commerce_9711ca04.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/4.%20Introduction%20to%20E-Commerce%20and%20Professional%20Ethics/1.Laws%20relating%20to%20e-commerce-%20Privacy%2C%20Authentication%2C%20Payment%3B/slides/Consumer%20Protection%20Act%2C%20Contracts%2C%20E%20Contract%2C%20E%20Commerce_9711ca04.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/4.%20Introduction%20to%20E-Commerce%20and%20Professional%20Ethics/1.Laws%20relating%20to%20e-commerce-%20Privacy%2C%20Authentication%2C%20Payment%3B/slides/Consumer%20Protection%20Act%2C%20Contracts%2C%20E%20Contract%2C%20E%20Commerce_9711ca04.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/4.%20Introduction%20to%20E-Commerce%20and%20Professional%20Ethics/1.Laws%20relating%20to%20e-commerce-%20Privacy%2C%20Authentication%2C%20Payment%3B/slides/Consumer%20Protection%20Act%2C%20Contracts%2C%20E%20Contract%2C%20E%20Commerce_9711ca04.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UL25CE121A_4. Introduction to E-Commerce and Professional Ethics_7.Introduction to Professional Ethics, Personal vs. Business ethics",
+          "order": 7,
+          "title": "Introduction to Professional Ethics, Personal vs. Business ethics",
+          "folder_name": "7.Introduction to Professional Ethics, Personal vs. Business ethics",
+          "path": "UL25CE121A/4. Introduction to E-Commerce and Professional Ethics/7.Introduction to Professional Ethics, Personal vs. Business ethics",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Professional Ethics_a401baf1.pdf",
+                  "title": "Professional Ethics",
+                  "uuid": "a401baf1",
+                  "extension": "pdf",
+                  "path": "UL25CE121A/4. Introduction to E-Commerce and Professional Ethics/7.Introduction to Professional Ethics, Personal vs. Business ethics/slides/Professional Ethics_a401baf1.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/4.%20Introduction%20to%20E-Commerce%20and%20Professional%20Ethics/7.Introduction%20to%20Professional%20Ethics%2C%20Personal%20vs.%20Business%20ethics/slides/Professional%20Ethics_a401baf1.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UL25CE121A/4.%20Introduction%20to%20E-Commerce%20and%20Professional%20Ethics/7.Introduction%20to%20Professional%20Ethics%2C%20Personal%20vs.%20Business%20ethics/slides/Professional%20Ethics_a401baf1.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UL25CE121A/4.%20Introduction%20to%20E-Commerce%20and%20Professional%20Ethics/7.Introduction%20to%20Professional%20Ethics%2C%20Personal%20vs.%20Business%20ethics/slides/Professional%20Ethics_a401baf1.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "total_units": 4,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UL25CE121A",
+  "updated_at": "2026-01-22T20:16:25.336405"
+}
