@@ -1,0 +1,809 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UE25EV121A",
+  "course_title": "Environmental Studies and Life Sciences",
+  "semester_name": "Sem-1",
+  "units": [
+    {
+      "id": "UE25EV121A_Unit 1- Environment, Pollution and Disaster management",
+      "title": "Unit 1: Environment, Pollution & Disaster management",
+      "path": "UE25EV121A/Unit 1- Environment, Pollution and Disaster management",
+      "classes": [
+        {
+          "id": "UE25EV121A_Unit 1- Environment, Pollution and Disaster management_1.Basic concepts of ecosystem",
+          "order": 1,
+          "title": "Basic concepts of ecosystem",
+          "folder_name": "1.Basic concepts of ecosystem",
+          "path": "UE25EV121A/Unit 1- Environment, Pollution and Disaster management/1.Basic concepts of ecosystem",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Basics Concepts of Ecosystem_49170184.pdf",
+                  "title": "Basics Concepts of Ecosystem",
+                  "uuid": "49170184",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 1- Environment, Pollution and Disaster management/1.Basic concepts of ecosystem/slides/Basics Concepts of Ecosystem_49170184.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/1.Basic%20concepts%20of%20ecosystem/slides/Basics%20Concepts%20of%20Ecosystem_49170184.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/1.Basic%20concepts%20of%20ecosystem/slides/Basics%20Concepts%20of%20Ecosystem_49170184.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/1.Basic%20concepts%20of%20ecosystem/slides/Basics%20Concepts%20of%20Ecosystem_49170184.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "UE25EV111A_QB_6dcf9e9f.pdf",
+                  "title": "UE25EV111A QB",
+                  "uuid": "6dcf9e9f",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 1- Environment, Pollution and Disaster management/1.Basic concepts of ecosystem/questionbank/UE25EV111A_QB_6dcf9e9f.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/1.Basic%20concepts%20of%20ecosystem/questionbank/UE25EV111A_QB_6dcf9e9f.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/1.Basic%20concepts%20of%20ecosystem/questionbank/UE25EV111A_QB_6dcf9e9f.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/1.Basic%20concepts%20of%20ecosystem/questionbank/UE25EV111A_QB_6dcf9e9f.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "UC22EV111A_Unit 1_6dcf9c58.pdf",
+                  "title": "UC22EV111A Unit 1",
+                  "uuid": "6dcf9c58",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 1- Environment, Pollution and Disaster management/1.Basic concepts of ecosystem/notes/UC22EV111A_Unit 1_6dcf9c58.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/1.Basic%20concepts%20of%20ecosystem/notes/UC22EV111A_Unit%201_6dcf9c58.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/1.Basic%20concepts%20of%20ecosystem/notes/UC22EV111A_Unit%201_6dcf9c58.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/1.Basic%20concepts%20of%20ecosystem/notes/UC22EV111A_Unit%201_6dcf9c58.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 1- Environment, Pollution and Disaster management_2.Energy resources",
+          "order": 2,
+          "title": "Energy resources",
+          "folder_name": "2.Energy resources",
+          "path": "UE25EV121A/Unit 1- Environment, Pollution and Disaster management/2.Energy resources",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Energy Sources_b359f185.pdf",
+                  "title": "Energy Sources",
+                  "uuid": "b359f185",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 1- Environment, Pollution and Disaster management/2.Energy resources/slides/Energy Sources_b359f185.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/2.Energy%20resources/slides/Energy%20Sources_b359f185.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/2.Energy%20resources/slides/Energy%20Sources_b359f185.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/2.Energy%20resources/slides/Energy%20Sources_b359f185.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Unit 1 Notes_6dcfedaa.pdf",
+                  "title": "Unit 1 Notes",
+                  "uuid": "6dcfedaa",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 1- Environment, Pollution and Disaster management/2.Energy resources/notes/Unit 1 Notes_6dcfedaa.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/2.Energy%20resources/notes/Unit%201%20Notes_6dcfedaa.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/2.Energy%20resources/notes/Unit%201%20Notes_6dcfedaa.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/2.Energy%20resources/notes/Unit%201%20Notes_6dcfedaa.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 1- Environment, Pollution and Disaster management_3.Natural and Manmade Disasters",
+          "order": 3,
+          "title": "Natural and Manmade Disasters",
+          "folder_name": "3.Natural and Manmade Disasters",
+          "path": "UE25EV121A/Unit 1- Environment, Pollution and Disaster management/3.Natural and Manmade Disasters",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Natural and Manmade disaster_a5b2f9e5.pdf",
+                  "title": "Natural and Manmade disaster",
+                  "uuid": "a5b2f9e5",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 1- Environment, Pollution and Disaster management/3.Natural and Manmade Disasters/slides/Natural and Manmade disaster_a5b2f9e5.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/3.Natural%20and%20Manmade%20Disasters/slides/Natural%20and%20Manmade%20disaster_a5b2f9e5.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/3.Natural%20and%20Manmade%20Disasters/slides/Natural%20and%20Manmade%20disaster_a5b2f9e5.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/3.Natural%20and%20Manmade%20Disasters/slides/Natural%20and%20Manmade%20disaster_a5b2f9e5.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 1- Environment, Pollution and Disaster management_4.Overview of pollution- Environmental pollution and Effects",
+          "order": 4,
+          "title": "Overview of pollution- Environmental pollution and Effects",
+          "folder_name": "4.Overview of pollution- Environmental pollution and Effects",
+          "path": "UE25EV121A/Unit 1- Environment, Pollution and Disaster management/4.Overview of pollution- Environmental pollution and Effects",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Overview of pollution_6e0a36f6.pdf",
+                  "title": "Overview of pollution",
+                  "uuid": "6e0a36f6",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 1- Environment, Pollution and Disaster management/4.Overview of pollution- Environmental pollution and Effects/slides/Overview of pollution_6e0a36f6.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/4.Overview%20of%20pollution-%20Environmental%20pollution%20and%20Effects/slides/Overview%20of%20pollution_6e0a36f6.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/4.Overview%20of%20pollution-%20Environmental%20pollution%20and%20Effects/slides/Overview%20of%20pollution_6e0a36f6.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/4.Overview%20of%20pollution-%20Environmental%20pollution%20and%20Effects/slides/Overview%20of%20pollution_6e0a36f6.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 1- Environment, Pollution and Disaster management_5.Types of pollution and management",
+          "order": 5,
+          "title": "Types of pollution and  management",
+          "folder_name": "5.Types of pollution and management",
+          "path": "UE25EV121A/Unit 1- Environment, Pollution and Disaster management/5.Types of pollution and management",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Pollution Management_99f31d26.pdf",
+                  "title": "Pollution Management",
+                  "uuid": "99f31d26",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 1- Environment, Pollution and Disaster management/5.Types of pollution and management/slides/Pollution Management_99f31d26.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/5.Types%20of%20pollution%20and%20management/slides/Pollution%20Management_99f31d26.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/5.Types%20of%20pollution%20and%20management/slides/Pollution%20Management_99f31d26.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%201-%20Environment%2C%20Pollution%20and%20Disaster%20management/5.Types%20of%20pollution%20and%20management/slides/Pollution%20Management_99f31d26.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE25EV121A_Unit 2- Bio-innovation and IPR",
+      "title": "Unit 2: Bio-innovation & IPR                                              \n\n",
+      "path": "UE25EV121A/Unit 2- Bio-innovation and IPR",
+      "classes": [
+        {
+          "id": "UE25EV121A_Unit 2- Bio-innovation and IPR_1.Biomimetics",
+          "order": 1,
+          "title": "Biomimetics ",
+          "folder_name": "1.Biomimetics",
+          "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/1.Biomimetics",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Biomimetics_f48aa28c.pdf",
+                  "title": "Biomimetics",
+                  "uuid": "f48aa28c",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/1.Biomimetics/slides/Biomimetics_f48aa28c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/1.Biomimetics/slides/Biomimetics_f48aa28c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/1.Biomimetics/slides/Biomimetics_f48aa28c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/1.Biomimetics/slides/Biomimetics_f48aa28c.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Unit 2 Notes_72a57a8e.pdf",
+                  "title": "Unit 2 Notes",
+                  "uuid": "72a57a8e",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/1.Biomimetics/notes/Unit 2 Notes_72a57a8e.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/1.Biomimetics/notes/Unit%202%20Notes_72a57a8e.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/1.Biomimetics/notes/Unit%202%20Notes_72a57a8e.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/1.Biomimetics/notes/Unit%202%20Notes_72a57a8e.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Bio innovations_72a5b670.pdf",
+                  "title": "Bio innovations",
+                  "uuid": "72a5b670",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/1.Biomimetics/questionbank/Bio innovations_72a5b670.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/1.Biomimetics/questionbank/Bio%20innovations_72a5b670.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/1.Biomimetics/questionbank/Bio%20innovations_72a5b670.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/1.Biomimetics/questionbank/Bio%20innovations_72a5b670.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 2- Bio-innovation and IPR_2.Bioinspired ANN",
+          "order": 2,
+          "title": "Bioinspired ANN",
+          "folder_name": "2.Bioinspired ANN",
+          "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/2.Bioinspired ANN",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Bioinspired ANN_d9ed6448.pdf",
+                  "title": "Bioinspired ANN",
+                  "uuid": "d9ed6448",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/2.Bioinspired ANN/slides/Bioinspired ANN_d9ed6448.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/2.Bioinspired%20ANN/slides/Bioinspired%20ANN_d9ed6448.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/2.Bioinspired%20ANN/slides/Bioinspired%20ANN_d9ed6448.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/2.Bioinspired%20ANN/slides/Bioinspired%20ANN_d9ed6448.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 2- Bio-innovation and IPR_3.Biosensors",
+          "order": 3,
+          "title": "Biosensors",
+          "folder_name": "3.Biosensors",
+          "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/3.Biosensors",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "11-12.Biosensors_72a51334.pdf",
+                  "title": "11-12.Biosensors",
+                  "uuid": "72a51334",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/3.Biosensors/slides/11-12.Biosensors_72a51334.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/3.Biosensors/slides/11-12.Biosensors_72a51334.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/3.Biosensors/slides/11-12.Biosensors_72a51334.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/3.Biosensors/slides/11-12.Biosensors_72a51334.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Unit 2 Notes_72a51583.pdf",
+                  "title": "Unit 2 Notes",
+                  "uuid": "72a51583",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/3.Biosensors/notes/Unit 2 Notes_72a51583.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/3.Biosensors/notes/Unit%202%20Notes_72a51583.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/3.Biosensors/notes/Unit%202%20Notes_72a51583.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/3.Biosensors/notes/Unit%202%20Notes_72a51583.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 2- Bio-innovation and IPR_4.3-D printing of organs",
+          "order": 4,
+          "title": "3-D printing of organs ",
+          "folder_name": "4.3-D printing of organs",
+          "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/4.3-D printing of organs",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Unit 2 Notes_72a4eebf.pdf",
+                  "title": "Unit 2 Notes",
+                  "uuid": "72a4eebf",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/4.3-D printing of organs/notes/Unit 2 Notes_72a4eebf.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/4.3-D%20printing%20of%20organs/notes/Unit%202%20Notes_72a4eebf.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/4.3-D%20printing%20of%20organs/notes/Unit%202%20Notes_72a4eebf.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/4.3-D%20printing%20of%20organs/notes/Unit%202%20Notes_72a4eebf.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "13. 3D Bioprinting_72a4ed0c.pdf",
+                  "title": "13. 3D Bioprinting",
+                  "uuid": "72a4ed0c",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/4.3-D printing of organs/slides/13. 3D Bioprinting_72a4ed0c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/4.3-D%20printing%20of%20organs/slides/13.%203D%20Bioprinting_72a4ed0c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/4.3-D%20printing%20of%20organs/slides/13.%203D%20Bioprinting_72a4ed0c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/4.3-D%20printing%20of%20organs/slides/13.%203D%20Bioprinting_72a4ed0c.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 2- Bio-innovation and IPR_5.Mechanobiology",
+          "order": 5,
+          "title": "Mechanobiology",
+          "folder_name": "5.Mechanobiology",
+          "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/5.Mechanobiology",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Mechanobiology_7b943726.pdf",
+                  "title": "Mechanobiology",
+                  "uuid": "7b943726",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/5.Mechanobiology/slides/Mechanobiology_7b943726.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/5.Mechanobiology/slides/Mechanobiology_7b943726.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/5.Mechanobiology/slides/Mechanobiology_7b943726.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/5.Mechanobiology/slides/Mechanobiology_7b943726.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 2- Bio-innovation and IPR_6.Bio entrepreneurship",
+          "order": 6,
+          "title": "Bio entrepreneurship",
+          "folder_name": "6.Bio entrepreneurship",
+          "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/6.Bio entrepreneurship",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "14. Bioentrepreneurship_72a45c0b.pdf",
+                  "title": "14. Bioentrepreneurship",
+                  "uuid": "72a45c0b",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/6.Bio entrepreneurship/slides/14. Bioentrepreneurship_72a45c0b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/6.Bio%20entrepreneurship/slides/14.%20Bioentrepreneurship_72a45c0b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/6.Bio%20entrepreneurship/slides/14.%20Bioentrepreneurship_72a45c0b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/6.Bio%20entrepreneurship/slides/14.%20Bioentrepreneurship_72a45c0b.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 2- Bio-innovation and IPR_7.Intellectual Property Rights",
+          "order": 7,
+          "title": "Intellectual Property Rights",
+          "folder_name": "7.Intellectual Property Rights",
+          "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/7.Intellectual Property Rights",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "IPR_7aa0b874.pdf",
+                  "title": "IPR",
+                  "uuid": "7aa0b874",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 2- Bio-innovation and IPR/7.Intellectual Property Rights/slides/IPR_7aa0b874.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/7.Intellectual%20Property%20Rights/slides/IPR_7aa0b874.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/7.Intellectual%20Property%20Rights/slides/IPR_7aa0b874.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%202-%20Bio-innovation%20and%20IPR/7.Intellectual%20Property%20Rights/slides/IPR_7aa0b874.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE25EV121A_Unit 3- Bio-sustainability",
+      "title": "Unit 3: Bio-sustainability\n\n",
+      "path": "UE25EV121A/Unit 3- Bio-sustainability",
+      "classes": [
+        {
+          "id": "UE25EV121A_Unit 3- Bio-sustainability_1.Organic farming and Vermicomposting",
+          "order": 1,
+          "title": "Organic farming & Vermicomposting",
+          "folder_name": "1.Organic farming and Vermicomposting",
+          "path": "UE25EV121A/Unit 3- Bio-sustainability/1.Organic farming and Vermicomposting",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Unit 3 Notes_76b61863.pdf",
+                  "title": "Unit 3 Notes",
+                  "uuid": "76b61863",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 3- Bio-sustainability/1.Organic farming and Vermicomposting/notes/Unit 3 Notes_76b61863.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/1.Organic%20farming%20and%20Vermicomposting/notes/Unit%203%20Notes_76b61863.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%203-%20Bio-sustainability/1.Organic%20farming%20and%20Vermicomposting/notes/Unit%203%20Notes_76b61863.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/1.Organic%20farming%20and%20Vermicomposting/notes/Unit%203%20Notes_76b61863.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Organic Farming_76b5cc34.pdf",
+                  "title": "Organic Farming",
+                  "uuid": "76b5cc34",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 3- Bio-sustainability/1.Organic farming and Vermicomposting/slides/Organic Farming_76b5cc34.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/1.Organic%20farming%20and%20Vermicomposting/slides/Organic%20Farming_76b5cc34.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%203-%20Bio-sustainability/1.Organic%20farming%20and%20Vermicomposting/slides/Organic%20Farming_76b5cc34.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/1.Organic%20farming%20and%20Vermicomposting/slides/Organic%20Farming_76b5cc34.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 3- Bio-sustainability_2.Smart Farming",
+          "order": 2,
+          "title": "Smart Farming",
+          "folder_name": "2.Smart Farming",
+          "path": "UE25EV121A/Unit 3- Bio-sustainability/2.Smart Farming",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Smart Farming_76b41343.pdf",
+                  "title": "Smart Farming",
+                  "uuid": "76b41343",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 3- Bio-sustainability/2.Smart Farming/slides/Smart Farming_76b41343.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/2.Smart%20Farming/slides/Smart%20Farming_76b41343.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%203-%20Bio-sustainability/2.Smart%20Farming/slides/Smart%20Farming_76b41343.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/2.Smart%20Farming/slides/Smart%20Farming_76b41343.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 3- Bio-sustainability_3.Hydroponics",
+          "order": 3,
+          "title": "Hydroponics",
+          "folder_name": "3.Hydroponics",
+          "path": "UE25EV121A/Unit 3- Bio-sustainability/3.Hydroponics",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Hydroponics_76b48809.pdf",
+                  "title": "Hydroponics",
+                  "uuid": "76b48809",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 3- Bio-sustainability/3.Hydroponics/slides/Hydroponics_76b48809.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/3.Hydroponics/slides/Hydroponics_76b48809.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%203-%20Bio-sustainability/3.Hydroponics/slides/Hydroponics_76b48809.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/3.Hydroponics/slides/Hydroponics_76b48809.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 3- Bio-sustainability_4.Rain water harvesting",
+          "order": 4,
+          "title": "Rain water harvesting",
+          "folder_name": "4.Rain water harvesting",
+          "path": "UE25EV121A/Unit 3- Bio-sustainability/4.Rain water harvesting",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Rain Water Harvesting_76b4f49d.pdf",
+                  "title": "Rain Water Harvesting",
+                  "uuid": "76b4f49d",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 3- Bio-sustainability/4.Rain water harvesting/slides/Rain Water Harvesting_76b4f49d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/4.Rain%20water%20harvesting/slides/Rain%20Water%20Harvesting_76b4f49d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%203-%20Bio-sustainability/4.Rain%20water%20harvesting/slides/Rain%20Water%20Harvesting_76b4f49d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/4.Rain%20water%20harvesting/slides/Rain%20Water%20Harvesting_76b4f49d.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 3- Bio-sustainability_5.Biofuels",
+          "order": 5,
+          "title": "Biofuels",
+          "folder_name": "5.Biofuels",
+          "path": "UE25EV121A/Unit 3- Bio-sustainability/5.Biofuels",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Biofuels_76b68de7.pdf",
+                  "title": "Biofuels",
+                  "uuid": "76b68de7",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 3- Bio-sustainability/5.Biofuels/slides/Biofuels_76b68de7.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/5.Biofuels/slides/Biofuels_76b68de7.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%203-%20Bio-sustainability/5.Biofuels/slides/Biofuels_76b68de7.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/5.Biofuels/slides/Biofuels_76b68de7.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 3- Bio-sustainability_6.IoT",
+          "order": 6,
+          "title": "IoT",
+          "folder_name": "6.IoT",
+          "path": "UE25EV121A/Unit 3- Bio-sustainability/6.IoT",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "IoT_76b5613a.pdf",
+                  "title": "IoT",
+                  "uuid": "76b5613a",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 3- Bio-sustainability/6.IoT/slides/IoT_76b5613a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/6.IoT/slides/IoT_76b5613a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%203-%20Bio-sustainability/6.IoT/slides/IoT_76b5613a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/6.IoT/slides/IoT_76b5613a.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 3- Bio-sustainability_7.Bioremediation",
+          "order": 7,
+          "title": "Bioremediation ",
+          "folder_name": "7.Bioremediation",
+          "path": "UE25EV121A/Unit 3- Bio-sustainability/7.Bioremediation",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Bioremediation_76b6b813.pdf",
+                  "title": "Bioremediation",
+                  "uuid": "76b6b813",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 3- Bio-sustainability/7.Bioremediation/slides/Bioremediation_76b6b813.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/7.Bioremediation/slides/Bioremediation_76b6b813.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%203-%20Bio-sustainability/7.Bioremediation/slides/Bioremediation_76b6b813.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/7.Bioremediation/slides/Bioremediation_76b6b813.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 3- Bio-sustainability_8.Biohydrogen-Green Energy",
+          "order": 8,
+          "title": "Biohydrogen-Green Energy",
+          "folder_name": "8.Biohydrogen-Green Energy",
+          "path": "UE25EV121A/Unit 3- Bio-sustainability/8.Biohydrogen-Green Energy",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Biohydrogen_126306f6.pdf",
+                  "title": "Biohydrogen",
+                  "uuid": "126306f6",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 3- Bio-sustainability/8.Biohydrogen-Green Energy/slides/Biohydrogen_126306f6.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/8.Biohydrogen-Green%20Energy/slides/Biohydrogen_126306f6.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%203-%20Bio-sustainability/8.Biohydrogen-Green%20Energy/slides/Biohydrogen_126306f6.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%203-%20Bio-sustainability/8.Biohydrogen-Green%20Energy/slides/Biohydrogen_126306f6.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE25EV121A_Unit 4- Disease management",
+      "title": "Unit 4: Disease\nmanagement \n\n",
+      "path": "UE25EV121A/Unit 4- Disease management",
+      "classes": [
+        {
+          "id": "UE25EV121A_Unit 4- Disease management_1.Types of diseases",
+          "order": 1,
+          "title": "Types of diseases",
+          "folder_name": "1.Types of diseases",
+          "path": "UE25EV121A/Unit 4- Disease management/1.Types of diseases",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Types of diseases_7aa1339a.pdf",
+                  "title": "Types of diseases",
+                  "uuid": "7aa1339a",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 4- Disease management/1.Types of diseases/slides/Types of diseases_7aa1339a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%204-%20Disease%20management/1.Types%20of%20diseases/slides/Types%20of%20diseases_7aa1339a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%204-%20Disease%20management/1.Types%20of%20diseases/slides/Types%20of%20diseases_7aa1339a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%204-%20Disease%20management/1.Types%20of%20diseases/slides/Types%20of%20diseases_7aa1339a.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Unit 4 Notes_7aa159f0.pdf",
+                  "title": "Unit 4 Notes",
+                  "uuid": "7aa159f0",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 4- Disease management/1.Types of diseases/notes/Unit 4 Notes_7aa159f0.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%204-%20Disease%20management/1.Types%20of%20diseases/notes/Unit%204%20Notes_7aa159f0.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%204-%20Disease%20management/1.Types%20of%20diseases/notes/Unit%204%20Notes_7aa159f0.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%204-%20Disease%20management/1.Types%20of%20diseases/notes/Unit%204%20Notes_7aa159f0.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 4- Disease management_2.Disease management",
+          "order": 2,
+          "title": "Disease management",
+          "folder_name": "2.Disease management",
+          "path": "UE25EV121A/Unit 4- Disease management/2.Disease management",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Disease management_7aa0f94a.pdf",
+                  "title": "Disease management",
+                  "uuid": "7aa0f94a",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 4- Disease management/2.Disease management/slides/Disease management_7aa0f94a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%204-%20Disease%20management/2.Disease%20management/slides/Disease%20management_7aa0f94a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%204-%20Disease%20management/2.Disease%20management/slides/Disease%20management_7aa0f94a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%204-%20Disease%20management/2.Disease%20management/slides/Disease%20management_7aa0f94a.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 4- Disease management_3.Introduction to Telemedicine",
+          "order": 3,
+          "title": "Introduction to Telemedicine",
+          "folder_name": "3.Introduction to Telemedicine",
+          "path": "UE25EV121A/Unit 4- Disease management/3.Introduction to Telemedicine",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Introduction to Telemedicine_7aa1e439.pdf",
+                  "title": "Introduction to Telemedicine",
+                  "uuid": "7aa1e439",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 4- Disease management/3.Introduction to Telemedicine/slides/Introduction to Telemedicine_7aa1e439.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%204-%20Disease%20management/3.Introduction%20to%20Telemedicine/slides/Introduction%20to%20Telemedicine_7aa1e439.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%204-%20Disease%20management/3.Introduction%20to%20Telemedicine/slides/Introduction%20to%20Telemedicine_7aa1e439.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%204-%20Disease%20management/3.Introduction%20to%20Telemedicine/slides/Introduction%20to%20Telemedicine_7aa1e439.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 4- Disease management_4.AI in Disease Diagnosis",
+          "order": 4,
+          "title": "AI in Disease Diagnosis",
+          "folder_name": "4.AI in Disease Diagnosis",
+          "path": "UE25EV121A/Unit 4- Disease management/4.AI in Disease Diagnosis",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "AI in Disease Diagnosis_7aa22e7e.pdf",
+                  "title": "AI in Disease Diagnosis",
+                  "uuid": "7aa22e7e",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 4- Disease management/4.AI in Disease Diagnosis/slides/AI in Disease Diagnosis_7aa22e7e.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%204-%20Disease%20management/4.AI%20in%20Disease%20Diagnosis/slides/AI%20in%20Disease%20Diagnosis_7aa22e7e.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%204-%20Disease%20management/4.AI%20in%20Disease%20Diagnosis/slides/AI%20in%20Disease%20Diagnosis_7aa22e7e.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%204-%20Disease%20management/4.AI%20in%20Disease%20Diagnosis/slides/AI%20in%20Disease%20Diagnosis_7aa22e7e.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25EV121A_Unit 4- Disease management_5.AI tool Application",
+          "order": 5,
+          "title": "AI tool Application",
+          "folder_name": "5.AI tool Application",
+          "path": "UE25EV121A/Unit 4- Disease management/5.AI tool Application",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "AI Tools Application_a2bb9725.pdf",
+                  "title": "AI Tools Application",
+                  "uuid": "a2bb9725",
+                  "extension": "pdf",
+                  "path": "UE25EV121A/Unit 4- Disease management/5.AI tool Application/slides/AI Tools Application_a2bb9725.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%204-%20Disease%20management/5.AI%20tool%20Application/slides/AI%20Tools%20Application_a2bb9725.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25EV121A/Unit%204-%20Disease%20management/5.AI%20tool%20Application/slides/AI%20Tools%20Application_a2bb9725.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25EV121A/Unit%204-%20Disease%20management/5.AI%20tool%20Application/slides/AI%20Tools%20Application_a2bb9725.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "total_units": 4,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE25EV121A",
+  "updated_at": "2026-01-22T21:01:06.806955"
+}
