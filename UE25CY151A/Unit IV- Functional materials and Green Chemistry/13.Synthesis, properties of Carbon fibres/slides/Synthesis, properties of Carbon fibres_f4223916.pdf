@@ -1,0 +1,410 @@
+
+
+<!doctype html>
+
+
+
+
+<html>
+<head>
+<style>
+#formStatus, #formStatus1 {
+    color: #a93400;
+ }
+.login-msg {
+	background-color: #ffeeee;
+    margin-left: -31px;
+    margin-right: -31px;
+    margin-top: -50px;
+    margin-bottom: 10px;
+    padding: 15px 30px;
+    color: #a93400;
+    font-size: 14px;
+}
+
+@media only screen and (max-height:500px){
+.login-body .lgn-wrapper-half {
+    padding-top: 104px;
+}
+}
+</style>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="csrf-token" content="341da13a-0808-4b7a-ac9a-f1bc5aa13be2">
+
+
+<title>PES University</title>
+ <link rel='shortcut icon' type='image/x-icon' href='/Academy/images/favicon.png' />
+
+<link href="/Academy/css/bootstrap.css" rel="stylesheet">
+<link href="/Academy/css/font-awesome.css" rel="stylesheet">
+<link href="/Academy/css/pesu-ico.css" rel="stylesheet">
+<link href="/Academy/css/style.css" rel="stylesheet">
+<link href="/Academy/css/academy_login.css" rel="stylesheet">
+</head>
+
+
+<body>
+
+<div class="login-header">
+        <div class="col-md-12 col-sm-12">
+                <img src="/Academy/images/pesuimages/logoPesu.png" alt="PES University" style="height: 88px; width: 201px;">
+        </div>
+    </div>
+    <div class="login-body">
+            <div class="col-sm-6 col-md-6 col-lg-6 lgn-wrapper-half">
+                <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-2 col-sm-10 col-md-10 col-lg-8 lgn-form-wrap">
+                        <h2 id="HeaderId" class="lgn_link_title">Sign in</h2>
+                        <div class="login-msg" hidden>&nbsp;</div>
+                        <div class="login-form">
+                                    <form role="form" method="post" autocomplete="off">
+                                        <fieldset>
+                                        <input type="hidden" name="_csrf"
+								value="341da13a-0808-4b7a-ac9a-f1bc5aa13be2" />
+                                            <div class="form-group">
+                                                <input class="form-control login-form-control" placeholder="Username"
+												name="j_username" id="j_scriptusername" type="text" required 
+												autofocus>
+                                            </div>
+                                            <div class="form-group">
+                                                <input class="form-control login-form-control" placeholder="Password"
+												name="j_password" type="password" value="" required>
+<!--                                                 <input name="bmode" type="hidden" id="bmode"> -->
+                                            </div>
+                                            <div class="form-group">
+                                                <button id="postloginform#/Academy/j_spring_security_check"  onClick="javascript:loadUserData()"
+											class="btn btn-lg btn-primary btn-block" disabled="">Sign In</button>
+                                            </div>
+                                            <div  id="ordiv" class="lgn-separator-text"><span>or</span></div>
+                                            <div class="form-group">
+                                                    
+                                                    <a id="googleSignUp" href="#" class="googlelnk" disabled=""><img
+									src="/Academy//images/google_logo.png" />Sign in with Google</a>
+                                            </div>
+                                            <a href="#" class="login-frm-lnk" id="forgotPass1">Forgot your Password?</a>
+
+                                        </fieldset>
+                                    </form>
+                                    
+                                    
+                                </div>
+                </div>
+                </div>
+
+		<div class="col-sm-6 col-md-6 col-lg-6 lgn-wrapper-half">
+			<div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-2 col-sm-10 col-md-10 col-lg-8 lgn-support-lnk" id="lgnSupportLinks">
+				<div class="lgn_link_wrapper">
+					<!-- <a href="/Academy/r/ar" id="forgotPass"><span class="pesu-ico-file" aria-hidden="true"></span> New Admission</a> -->
+					<!-- <a href="/Academy/gethelppage" href="/Academy/gethelppage" id="forgotPass11"><span class="pesu-ico-chat" aria-hidden="true"></span> Grievances</a> -->
+					<a href="javascript:void(0)" id="trbLogIn"><span class="pesu-ico-help" aria-hidden="true"></span> FAQs</a>
+				    <a href="https://forum.pesu.io" id="forumId"><span class="pesu-ico-group" aria-hidden="true"></span>Sign In PESU Forums</a>
+					
+					
+					<!-- <a href="javascript:void(0)" id="visitorDetails"><span class="pesu-ico-user-no-circle" aria-hidden="true"></span> Visitor</a> -->
+				</div>
+			</div>
+			
+			<!-- <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-2 col-sm-10 col-md-10 col-lg-8 lgn-visitor-wrap lgn-float-wrap" id="lgnVisitorFormWrap">
+				<div class="lgn_link_wrapper">
+					<a href="/Academy/getVisitorDetails"><span class="pesu-ico-user-no-circle" aria-hidden="true"></span> New Visitor</a>
+				</div>
+				<h2 class="lgn-visitor-title"> Existing Visitor</h2>
+				<div class="login-existingvisitor-form">
+					<form role="form" id="visitortokenNum" method="post" autocomplete="off">
+						<fieldset>
+							<div class="form-group">
+								<input type="text" id="referenceNo" name="referenceNo" class="form-control login-form-control"
+									style="border-radius: 0px;" placeholder="Reference No." autocomplete="off" autofocus="autofocus">
+							</div>
+							<div class="form-group">
+								<input type="text" id="emailId" name="emailId" class="form-control login-form-control"
+									style="border-radius: 0px;" placeholder="Email Id" autocomplete="off">
+							</div>
+							<div class="form-group">
+								<a href="javascript:showTokenNumberForVisitor()" id="showTokenNumBt" class="btn btn-lg btn-primary btn-block">Book Appointment</a>
+							</div>
+						</fieldset>
+					</form>
+				</div>
+				
+				<div class="login-existingvisitor-error-msg" id="showErrorMsg" style="display: none"></div>
+				<div class="login-existingvisitor-success-msg" id="showSuccessMsg" style="display: none"></div>
+			</div> -->
+			<!-- <a href="javascript:void(0)" class="lnk-visitor-close" id="lnkVisitorClose"><span class="pesu-ico-close-o" aria-hidden="true"></span></a> -->
+		</div>
+	</div>
+
+	<div class="login-footer">
+        <div class="container-fluid">
+            <div class="row">
+                <p class="pull-left">Copyright © PES University, Bengaluru, India.</p>
+            </div>
+        </div>
+    </div>
+	
+	<script src="/Academy/js/jquery.v1.12.4.js"></script>
+	
+	<script src="/Academy/js/bootstrap.min.js"></script>
+	
+	<script src="/Academy/js/academy_login.js"></script>
+	<script src="/Academy/js/bootstrapValidator.js"></script>
+
+	<script>
+	
+	
+		$(document).ready(function() {
+			var isso=null;
+			
+			if(isso==1)
+				{
+				var title='';
+				$("#HeaderId").html(title);
+				$("#forumId").hide();
+				$("#googleSignUp").hide();
+				$("#ordiv").hide();
+
+				}
+			else
+				{
+				$("#HeaderId").html("Sign in");
+				$("#forumId").show();
+				$("#googleSignUp").show();
+				$("#ordiv").show();
+
+                }
+
+			$('#forgotPass1').click(function() {
+				$('#formStatus').text('');
+				$('#loginId').val('');
+				$('#forgotPassModal').modal('show');
+			});
+
+			$('#validatePass').click(function() {
+				$('#email_Id').val('');
+				$('#validatePassModal').modal('show');
+			});
+
+			$('#googleSignUp').on('click', function() {
+				if($(this).attr('disabled') == "disabled") {
+					return false;
+				}
+				handleGoogleSignUp();
+			});
+
+			/* $('#visitorDetails').on('click', function() {
+				$('#lgnSupportLinks').addClass('hideform');
+				$('#lgnVisitorFormWrap').addClass('showform');
+				$('#lnkVisitorClose').addClass('showlnk')
+			});
+
+			$('#lnkVisitorClose').on('click', function() {
+				$('#lgnSupportLinks').removeClass('hideform');
+				$('#lgnVisitorFormWrap').removeClass('showform');
+				$(this).removeClass('showlnk');
+			}); */
+		});
+	</script>
+
+	<div class="modal fade" id="forgotPassModal">
+		<div class="modal-dialog" style="max-width: 400px">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" id="forgotPassModelClose" class="close"	data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+					<h4 class="modal-title">Forgot Password</h4>
+				</div>
+				<div class="modal-body">
+					<div>
+						<p id="formStatus" class="text-left" style="padding-left:48px;"></p>
+					</div>
+					<form id="forgotPassForm" method="post" class="form-horizontal">
+						<div class="form-group">
+							<label class="col-xs-4 control-label">Login Id</label>
+							<div class="col-xs-7">
+								<input type="text" class="form-control" name="loginId" id="loginId" required="required" onkeypress="return loginCheck(event)"/>
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="col-xs-4 col-xs-offset-4">
+
+								<!-- Initially, the submit button is disabled -->
+								<button type="submit" class="btn btn-default" id="saveForgotPass_forgotPassword">Submit</button>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="modal fade" id="validatePassModal">
+		<div class="modal-dialog" style="max-width: 400px">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" id="forgotPassModelClose" class="close"	data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+					<h4 class="modal-title">Verify Your Account</h4>
+				</div>
+				<div class="modal-body">
+					<div>
+						<p id="formStatus1" class="text-center"></p>
+					</div>
+					<form id="validatePassForm" method="post" class="form-horizontal">
+						<div class="form-group" id="validatePassModalemaildiv">
+							<label class="col-xs-4 control-label">Email Id</label>
+							<div class="col-xs-7">
+								<input type="text" class="form-control" name="email_Id" id="email_Id" required="required"/>
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="col-xs-4 col-xs-offset-4">
+
+								<!-- Initially, the submit button is disabled -->
+								<button type="submit" class="btn btn-default" id="saveValidatePass_reSendVerificationMail">Submit</button>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="modal fade" id="respModal">
+		<div class="modal-dialog" style="max-width: 400px">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+					<h4 class="modal-title">Forgot Password</h4>
+				</div>
+												
+<!-- PESU Student with the best educational platform available today. -->
+
+<!-- Your Account Needs to Be Verified Click Here to verify account -->
+				<div class="modal-body">
+
+					<h5 class="text-success" id="respStatus" style="word-break: break-all; line-height: 1.8;">Email has been sent to registered Email Id</h5>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal"
+						aria-label="Close">Ok</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	<div class="modal fade" id="respModal1">
+		<div class="modal-dialog" style="max-width: 400px">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+					<h4 class="modal-title">Verify Your Account</h4>
+				</div>				
+<!-- PESU Student with the best educational platform available today. -->
+<!-- Your Account Needs to Be Verified Click Here to verify account -->
+				<div class="modal-body">
+					<h5 class="modal-title" id="respStatus1">Verification mail has been sent to your email address.</h5>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal"
+						aria-label="Close">Ok</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	<div class="bootbox modal fade" id="faqsSectionModal">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" id="faqsModelClose" class="close"
+						data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+					<h4 class="modal-title">Frequently Asked Questions</h4>
+				</div>
+				<div class="modal-body">
+					<div class="bootbox-body">
+				<!-- 	<div class="form-horizontal">
+						
+						</div> -->
+						<div id="faqsSectionModalTable" style="max-height: 500px; overflow-x: hidden;overflow-y: auto;" >
+						</div>
+						</div>
+						
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal"
+						aria-label="Close">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+	<script>
+	$(document).ready(function() {
+		initAcademyCalls();
+		
+		$('[id^=postloginform], #googleSignUp').removeAttr('disabled')
+	});
+		function showError(msg) {
+			$('.login-msg').html(msg);
+			$('.login-msg').css('display', 'block')
+		}
+	
+		
+	
+	
+	function verifyAccount(){
+		var loginId=$('#j_scriptusername').val();
+		$('#email_Id').val('');
+		$('#email_Id').val(loginId);
+	}
+
+	
+	$('#trbLogIn').click(function() {
+		faqsModalClicked();
+	});
+	
+	
+	</script>
+<script>
+function loginCheck(e) {
+	var k;
+	document.all ? k = e.keyCode : k = e.which;
+	return ((k > 63 && k < 91) || (k > 96 && k < 123) || k == 95 || k == 45 || k == 46 || (k >= 48 && k <= 57));
+}
+</script>
+</body>
+</html>
+
+
+<style type="text/css">
+.bootbox .form-horizontal .form-group {
+    margin-bottom: 15px;
+}
+
+.bootbox .form-horizontal .control-label {
+	text-align: right;
+    line-height: 16px;
+}
+
+.bootbox .table {
+	width:100%;
+}
+
+.bootbox .modal-body .btn {
+    padding: 5px 20px;
+}
+</style>
+</body>
+</html>
