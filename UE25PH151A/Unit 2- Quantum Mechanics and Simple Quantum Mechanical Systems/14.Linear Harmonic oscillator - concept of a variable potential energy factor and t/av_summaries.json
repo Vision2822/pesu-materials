@@ -1,0 +1,27 @@
+{
+  "course_code": "UE25PH151A",
+  "unit_title": "Unit 2: Quantum Mechanics and\nSimple Quantum Mechanical Systems:        ",
+  "videos": [
+    {
+      "title": "UE20PH101_Unit2_Class21_Concepts of Harmonic Oscillator",
+      "provider": "vimeo",
+      "video_id": "466104432",
+      "video_url": "https://player.vimeo.com/video/466104432?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/466104432",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "08/10/2020 03:09 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Concept of Quantum Harmonic Oscillators",
+      "provider": "vimeo",
+      "video_id": "559851561",
+      "video_url": "https://player.vimeo.com/video/559851561?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/559851561",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "07/06/2021 01:18 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T20:58:27.677827"
+}
