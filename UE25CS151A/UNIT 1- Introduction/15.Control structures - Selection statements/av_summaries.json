@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25CS151A",
+  "unit_title": "UNIT 1: Introduction",
+  "videos": [
+    {
+      "title": "sequential, selection control",
+      "provider": "vimeo",
+      "video_id": "488893016",
+      "video_url": "https://player.vimeo.com/video/488893016?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/488893016",
+      "faculty": "Prof Sindhu Pai",
+      "date": "22/09/2023 03:28 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:46:56.401527"
+}

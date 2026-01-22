@@ -1,0 +1,27 @@
+{
+  "course_code": "UE25CS151A",
+  "unit_title": "UNIT 1: Introduction",
+  "videos": [
+    {
+      "title": "Process of Computation Problem Solving - Analysis, Design, Implementation, Testing",
+      "provider": "vimeo",
+      "video_id": "437806635",
+      "video_url": "https://player.vimeo.com/video/437806635?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/437806635",
+      "faculty": "Prof Sindhu Pai",
+      "date": "22/09/2023 02:40 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Process of Computation Problem Solving - Analysis, Design, Implementation, Testing",
+      "provider": "vimeo",
+      "video_id": "459311158",
+      "video_url": "https://player.vimeo.com/video/459311158?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/459311158",
+      "faculty": "Prof Sindhu Pai",
+      "date": "30/09/2023 05:59 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:46:55.827671"
+}

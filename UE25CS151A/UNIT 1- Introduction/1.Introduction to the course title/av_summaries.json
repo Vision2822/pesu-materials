@@ -1,0 +1,27 @@
+{
+  "course_code": "UE25CS151A",
+  "unit_title": "UNIT 1: Introduction",
+  "videos": [
+    {
+      "title": "Introduction",
+      "provider": "vimeo",
+      "video_id": "456152075",
+      "video_url": "https://player.vimeo.com/video/456152075?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/456152075",
+      "faculty": "Prof Sindhu Pai",
+      "date": "22/09/2023 02:18 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Man Cabbage Goat Wolf Problem",
+      "provider": "vimeo",
+      "video_id": "491098362",
+      "video_url": "https://player.vimeo.com/video/491098362?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/491098362",
+      "faculty": "Prof Sindhu Pai",
+      "date": "22/09/2023 02:23 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:46:55.423465"
+}

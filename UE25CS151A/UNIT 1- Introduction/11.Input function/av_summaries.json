@@ -1,0 +1,27 @@
+{
+  "course_code": "UE25CS151A",
+  "unit_title": "UNIT 1: Introduction",
+  "videos": [
+    {
+      "title": "input function",
+      "provider": "vimeo",
+      "video_id": "459315199",
+      "video_url": "https://player.vimeo.com/video/459315199?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/459315199",
+      "faculty": "Prof Sindhu Pai",
+      "date": "22/09/2023 03:01 PM",
+      "section": "NA"
+    },
+    {
+      "title": "input function",
+      "provider": "vimeo",
+      "video_id": "495012974",
+      "video_url": "https://player.vimeo.com/video/495012974?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/495012974",
+      "faculty": "Prof Sindhu Pai",
+      "date": "22/09/2023 03:04 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:46:56.215165"
+}

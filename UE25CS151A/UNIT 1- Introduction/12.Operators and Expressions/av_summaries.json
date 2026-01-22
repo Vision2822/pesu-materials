@@ -1,0 +1,47 @@
+{
+  "course_code": "UE25CS151A",
+  "unit_title": "UNIT 1: Introduction",
+  "videos": [
+    {
+      "title": "logical operators and short circuit evaluation",
+      "provider": "vimeo",
+      "video_id": "459308363",
+      "video_url": "https://player.vimeo.com/video/459308363?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/459308363",
+      "faculty": "Prof Sindhu Pai",
+      "date": "22/09/2023 03:19 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Arithmetic, membership and relational operators",
+      "provider": "vimeo",
+      "video_id": "459308775",
+      "video_url": "https://player.vimeo.com/video/459308775?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/459308775",
+      "faculty": "Prof Sindhu Pai",
+      "date": "22/09/2023 03:22 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Bitwise operators",
+      "provider": "vimeo",
+      "video_id": "459309103",
+      "video_url": "https://player.vimeo.com/video/459309103?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/459309103",
+      "faculty": "Prof Sindhu Pai",
+      "date": "22/09/2023 03:23 PM",
+      "section": "NA"
+    },
+    {
+      "title": "operators and expressions",
+      "provider": "vimeo",
+      "video_id": "478803203",
+      "video_url": "https://player.vimeo.com/video/478803203?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/478803203",
+      "faculty": "Prof Sindhu Pai",
+      "date": "22/09/2023 03:16 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:46:56.309802"
+}

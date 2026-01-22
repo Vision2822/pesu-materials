@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25CS151A",
+  "unit_title": "UNIT 1: Introduction",
+  "videos": [
+    {
+      "title": "iterative control structure",
+      "provider": "vimeo",
+      "video_id": "445169987",
+      "video_url": "https://player.vimeo.com/video/445169987?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/445169987",
+      "faculty": "Prof Sindhu Pai",
+      "date": "22/09/2023 03:29 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:46:56.499524"
+}
