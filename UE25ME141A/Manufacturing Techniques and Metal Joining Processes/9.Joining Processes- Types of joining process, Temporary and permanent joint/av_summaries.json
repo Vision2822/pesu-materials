@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25ME141A",
+  "unit_title": "Manufacturing Techniques and Metal Joining Processes",
+  "videos": [
+    {
+      "title": "Joining Processes",
+      "provider": "vimeo",
+      "video_id": "1139203899",
+      "video_url": "https://player.vimeo.com/video/1139203899?h=50360a05c0&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1139203899?h=50360a05c0",
+      "faculty": "Mahantesh",
+      "date": "21/11/2025 12:03 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T20:54:14.834748"
+}
