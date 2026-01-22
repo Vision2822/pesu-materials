@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25EC141A",
+  "unit_title": "Semiconductor Diode",
+  "videos": [
+    {
+      "title": "Ideal versus Practical diode, Diode resistances",
+      "provider": "vimeo",
+      "video_id": "1110830971",
+      "video_url": "https://player.vimeo.com/video/1110830971?h=d86b19c881&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1110830971?h=d86b19c881",
+      "faculty": "Ananda M",
+      "date": "18/08/2025 10:01 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:59:36.866797"
+}

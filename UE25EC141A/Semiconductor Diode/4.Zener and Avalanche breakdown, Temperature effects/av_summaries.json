@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25EC141A",
+  "unit_title": "Semiconductor Diode",
+  "videos": [
+    {
+      "title": "Zener and Avalanche breakdown, Temperature effects",
+      "provider": "vimeo",
+      "video_id": "1110830549",
+      "video_url": "https://player.vimeo.com/video/1110830549?h=207897244d&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1110830549?h=207897244d",
+      "faculty": "Ananda M",
+      "date": "18/08/2025 09:59 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:59:36.773718"
+}

@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25EC141A",
+  "unit_title": "Semiconductor Diode",
+  "videos": [
+    {
+      "title": "Semiconductor diode under no bias, forward bias and reverse bias conditions",
+      "provider": "vimeo",
+      "video_id": "1110830183",
+      "video_url": "https://player.vimeo.com/video/1110830183?h=732e73f7ae&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1110830183?h=732e73f7ae",
+      "faculty": "Ananda M",
+      "date": "18/08/2025 09:57 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:59:35.980257"
+}

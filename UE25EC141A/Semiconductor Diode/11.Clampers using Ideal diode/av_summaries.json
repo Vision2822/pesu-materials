@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25EC141A",
+  "unit_title": "Semiconductor Diode",
+  "videos": [
+    {
+      "title": "Clampers using Ideal diode",
+      "provider": "vimeo",
+      "video_id": "1110832296",
+      "video_url": "https://player.vimeo.com/video/1110832296?h=b4b0333153&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1110832296?h=b4b0333153",
+      "faculty": "Ananda M",
+      "date": "18/08/2025 10:10 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:59:36.967087"
+}

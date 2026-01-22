@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25EC141A",
+  "unit_title": "Semiconductor Diode",
+  "videos": [
+    {
+      "title": "Diode characteristics, Shockley's equation",
+      "provider": "vimeo",
+      "video_id": "1110830395",
+      "video_url": "https://player.vimeo.com/video/1110830395?h=1bf1d327d0&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1110830395?h=1bf1d327d0",
+      "faculty": "Ananda M",
+      "date": "18/08/2025 09:58 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:59:36.673737"
+}
