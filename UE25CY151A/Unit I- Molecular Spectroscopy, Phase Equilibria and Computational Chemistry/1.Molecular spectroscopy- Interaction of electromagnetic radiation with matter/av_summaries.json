@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25CY151A",
+  "unit_title": "Unit I: Molecular Spectroscopy, Phase Equilibria and Computational Chemistry",
+  "videos": [
+    {
+      "title": "Interaction of radiation with matter",
+      "provider": "vimeo",
+      "video_id": "453567955",
+      "video_url": "https://player.vimeo.com/video/453567955?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/453567955",
+      "faculty": "Dr. Revanasiddappa M",
+      "date": "01/09/2020 01:47 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:50:51.432002"
+}

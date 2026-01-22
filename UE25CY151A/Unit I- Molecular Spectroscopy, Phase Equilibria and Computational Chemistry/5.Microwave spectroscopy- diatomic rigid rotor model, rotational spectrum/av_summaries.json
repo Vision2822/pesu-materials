@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25CY151A",
+  "unit_title": "Unit I: Molecular Spectroscopy, Phase Equilibria and Computational Chemistry",
+  "videos": [
+    {
+      "title": "Rotational spectroscopy",
+      "provider": "vimeo",
+      "video_id": "454316103",
+      "video_url": "https://player.vimeo.com/video/454316103?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/454316103",
+      "faculty": "Dr. Revanasiddappa M",
+      "date": "03/09/2020 02:53 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:50:51.727527"
+}
