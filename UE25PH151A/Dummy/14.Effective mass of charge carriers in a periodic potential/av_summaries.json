@@ -1,0 +1,47 @@
+{
+  "course_code": "UE25PH151A",
+  "unit_title": "Dummy",
+  "videos": [
+    {
+      "title": "Effective Mass",
+      "provider": "vimeo",
+      "video_id": "487503440",
+      "video_url": "https://player.vimeo.com/video/487503440?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/487503440",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "05/12/2020 11:14 AM",
+      "section": "NA"
+    },
+    {
+      "title": "Effective Mass",
+      "provider": "vimeo",
+      "video_id": "487503429",
+      "video_url": "https://player.vimeo.com/video/487503429?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/487503429",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "05/12/2020 11:14 AM",
+      "section": "NA"
+    },
+    {
+      "title": "Effective mass of charge carriers",
+      "provider": "vimeo",
+      "video_id": "508263329",
+      "video_url": "https://player.vimeo.com/video/508263329?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/508263329",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "04/02/2021 10:08 AM",
+      "section": "NA"
+    },
+    {
+      "title": "UE21PH141A_27122021_Class#32_KRR",
+      "provider": "vimeo",
+      "video_id": "686193719",
+      "video_url": "https://player.vimeo.com/video/686193719?h=f491c7996f&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/686193719?h=f491c7996f",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "09/03/2022 02:33 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T21:00:40.819540"
+}

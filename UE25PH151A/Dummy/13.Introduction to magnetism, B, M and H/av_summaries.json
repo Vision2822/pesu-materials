@@ -1,0 +1,27 @@
+{
+  "course_code": "UE25PH151A",
+  "unit_title": "Dummy",
+  "videos": [
+    {
+      "title": "Introduction to Magnetism-Phase transitions",
+      "provider": "vimeo",
+      "video_id": "483506631",
+      "video_url": "https://player.vimeo.com/video/483506631?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/483506631",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "25/11/2020 04:39 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Magnetisation",
+      "provider": "vimeo",
+      "video_id": "483514317",
+      "video_url": "https://player.vimeo.com/video/483514317?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/483514317",
+      "faculty": "Dr. R.Vasudev Iyer",
+      "date": "25/11/2020 05:01 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T21:00:40.724988"
+}
