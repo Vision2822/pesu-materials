@@ -1,0 +1,27 @@
+{
+  "course_code": "UE25CY151A",
+  "unit_title": "Unit III: Energy storage devices, Hydrogen storage and Sensors",
+  "videos": [
+    {
+      "title": "Fuel cells(principle, working and efficiency)",
+      "provider": "vimeo",
+      "video_id": "485414563",
+      "video_url": "https://player.vimeo.com/video/485414563?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/485414563",
+      "faculty": "Lata Pasupulety",
+      "date": "30/11/2020 04:15 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Fuel cells-principle,working and efficiency",
+      "provider": "vimeo",
+      "video_id": "449370312",
+      "video_url": "https://player.vimeo.com/video/449370312?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/449370312",
+      "faculty": "Lata Pasupulety",
+      "date": "19/08/2020 11:13 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:51:50.257156"
+}
