@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UL25CE121A",
+  "course_title": "Constitution of India, Cyber Law and Professional Ethics",
+  "semester_name": "Sem-1",
+  "units": [
+    {
+      "id": "UL25CE121A_1. Introduction to Constitution of India",
+      "title": "1. Introduction to Constitution of India",
+      "path": "UL25CE121A/1. Introduction to Constitution of India",
+      "classes": []
+    },
+    {
+      "id": "UL25CE121A_2. Federal System - Legislature, Executive and Judiciary",
+      "title": "2. Federal System - Legislature, Executive and Judiciary",
+      "path": "UL25CE121A/2. Federal System - Legislature, Executive and Judiciary",
+      "classes": []
+    },
+    {
+      "id": "UL25CE121A_3. Cyber Law and IP Regime",
+      "title": "3. Cyber Law and IP Regime",
+      "path": "UL25CE121A/3. Cyber Law and IP Regime",
+      "classes": []
+    },
+    {
+      "id": "UL25CE121A_4. Introduction to E-Commerce and Professional Ethics",
+      "title": "4. Introduction to E-Commerce and Professional Ethics",
+      "path": "UL25CE121A/4. Introduction to E-Commerce and Professional Ethics",
+      "classes": []
+    }
+  ],
+  "total_units": 4,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UL25CE121A",
+  "updated_at": "2026-01-22T18:52:31.943174"
+}
