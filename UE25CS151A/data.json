@@ -149,22 +149,6 @@
           "folder_name": "5.Lab 5 - List and Tuples - 2025",
           "path": "UE25CS151A/LAB - 2025/5.Lab 5 - List and Tuples - 2025",
           "content": {
-            "qa": {
-              "type": "qa",
-              "files": [
-                {
-                  "name": "Lab - Week 5 - Solution_42b47ba3.pdf",
-                  "title": "Lab - Week 5 - Solution",
-                  "uuid": "42b47ba3",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/LAB - 2025/5.Lab 5 - List and Tuples - 2025/qa/Lab - Week 5 - Solution_42b47ba3.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/5.Lab%205%20-%20List%20and%20Tuples%20-%202025/qa/Lab%20-%20Week%205%20-%20Solution_42b47ba3.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/LAB%20-%202025/5.Lab%205%20-%20List%20and%20Tuples%20-%202025/qa/Lab%20-%20Week%205%20-%20Solution_42b47ba3.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/5.Lab%205%20-%20List%20and%20Tuples%20-%202025/qa/Lab%20-%20Week%205%20-%20Solution_42b47ba3.pdf"
-                }
-              ],
-              "count": 1
-            },
             "questionbank": {
               "type": "questionbank",
               "files": [
@@ -177,6 +161,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/5.Lab%205%20-%20List%20and%20Tuples%20-%202025/questionbank/Week%205%20-%20Lab%20manual_f2cb4151.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/LAB%20-%202025/5.Lab%205%20-%20List%20and%20Tuples%20-%202025/questionbank/Week%205%20-%20Lab%20manual_f2cb4151.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/5.Lab%205%20-%20List%20and%20Tuples%20-%202025/questionbank/Week%205%20-%20Lab%20manual_f2cb4151.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Lab - Week 5 - Solution_42b47ba3.pdf",
+                  "title": "Lab - Week 5 - Solution",
+                  "uuid": "42b47ba3",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/LAB - 2025/5.Lab 5 - List and Tuples - 2025/qa/Lab - Week 5 - Solution_42b47ba3.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/5.Lab%205%20-%20List%20and%20Tuples%20-%202025/qa/Lab%20-%20Week%205%20-%20Solution_42b47ba3.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/LAB%20-%202025/5.Lab%205%20-%20List%20and%20Tuples%20-%202025/qa/Lab%20-%20Week%205%20-%20Solution_42b47ba3.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/5.Lab%205%20-%20List%20and%20Tuples%20-%202025/qa/Lab%20-%20Week%205%20-%20Solution_42b47ba3.pdf"
                 }
               ],
               "count": 1
@@ -231,22 +231,6 @@
           "folder_name": "7.Lab 7 - File and File manipulations - 2025",
           "path": "UE25CS151A/LAB - 2025/7.Lab 7 - File and File manipulations - 2025",
           "content": {
-            "qa": {
-              "type": "qa",
-              "files": [
-                {
-                  "name": "Solution - Lab 7_dc2bbf2c.pdf",
-                  "title": "Solution - Lab 7",
-                  "uuid": "dc2bbf2c",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/LAB - 2025/7.Lab 7 - File and File manipulations - 2025/qa/Solution - Lab 7_dc2bbf2c.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/7.Lab%207%20-%20File%20and%20File%20manipulations%20-%202025/qa/Solution%20-%20Lab%207_dc2bbf2c.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/LAB%20-%202025/7.Lab%207%20-%20File%20and%20File%20manipulations%20-%202025/qa/Solution%20-%20Lab%207_dc2bbf2c.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/7.Lab%207%20-%20File%20and%20File%20manipulations%20-%202025/qa/Solution%20-%20Lab%207_dc2bbf2c.pdf"
-                }
-              ],
-              "count": 1
-            },
             "questionbank": {
               "type": "questionbank",
               "files": [
@@ -259,6 +243,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/7.Lab%207%20-%20File%20and%20File%20manipulations%20-%202025/questionbank/Lab%20-%207%20-Files_da499b35.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/LAB%20-%202025/7.Lab%207%20-%20File%20and%20File%20manipulations%20-%202025/questionbank/Lab%20-%207%20-Files_da499b35.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/7.Lab%207%20-%20File%20and%20File%20manipulations%20-%202025/questionbank/Lab%20-%207%20-Files_da499b35.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Solution - Lab 7_dc2bbf2c.pdf",
+                  "title": "Solution - Lab 7",
+                  "uuid": "dc2bbf2c",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/LAB - 2025/7.Lab 7 - File and File manipulations - 2025/qa/Solution - Lab 7_dc2bbf2c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/7.Lab%207%20-%20File%20and%20File%20manipulations%20-%202025/qa/Solution%20-%20Lab%207_dc2bbf2c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/LAB%20-%202025/7.Lab%207%20-%20File%20and%20File%20manipulations%20-%202025/qa/Solution%20-%20Lab%207_dc2bbf2c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/7.Lab%207%20-%20File%20and%20File%20manipulations%20-%202025/qa/Solution%20-%20Lab%207_dc2bbf2c.pdf"
                 }
               ],
               "count": 1
@@ -313,22 +313,6 @@
           "folder_name": "10.Lab 12 - Callbacks, Generators and Decorators",
           "path": "UE25CS151A/LAB - 2025/10.Lab 12 - Callbacks, Generators and Decorators",
           "content": {
-            "questionbank": {
-              "type": "questionbank",
-              "files": [
-                {
-                  "name": "Callbacks, Generators, Decorators_a9c748a5.pdf",
-                  "title": "Callbacks, Generators, Decorators",
-                  "uuid": "a9c748a5",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/LAB - 2025/10.Lab 12 - Callbacks, Generators and Decorators/questionbank/Callbacks, Generators, Decorators_a9c748a5.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/10.Lab%2012%20-%20Callbacks%2C%20Generators%20and%20Decorators/questionbank/Callbacks%2C%20Generators%2C%20Decorators_a9c748a5.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/LAB%20-%202025/10.Lab%2012%20-%20Callbacks%2C%20Generators%20and%20Decorators/questionbank/Callbacks%2C%20Generators%2C%20Decorators_a9c748a5.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/10.Lab%2012%20-%20Callbacks%2C%20Generators%20and%20Decorators/questionbank/Callbacks%2C%20Generators%2C%20Decorators_a9c748a5.pdf"
-                }
-              ],
-              "count": 1
-            },
             "qa": {
               "type": "qa",
               "files": [
@@ -341,6 +325,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/10.Lab%2012%20-%20Callbacks%2C%20Generators%20and%20Decorators/qa/Callbacks%2C%20Generators%2C%20Decorators_038cabb6.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/LAB%20-%202025/10.Lab%2012%20-%20Callbacks%2C%20Generators%20and%20Decorators/qa/Callbacks%2C%20Generators%2C%20Decorators_038cabb6.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/10.Lab%2012%20-%20Callbacks%2C%20Generators%20and%20Decorators/qa/Callbacks%2C%20Generators%2C%20Decorators_038cabb6.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Callbacks, Generators, Decorators_a9c748a5.pdf",
+                  "title": "Callbacks, Generators, Decorators",
+                  "uuid": "a9c748a5",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/LAB - 2025/10.Lab 12 - Callbacks, Generators and Decorators/questionbank/Callbacks, Generators, Decorators_a9c748a5.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/10.Lab%2012%20-%20Callbacks%2C%20Generators%20and%20Decorators/questionbank/Callbacks%2C%20Generators%2C%20Decorators_a9c748a5.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/LAB%20-%202025/10.Lab%2012%20-%20Callbacks%2C%20Generators%20and%20Decorators/questionbank/Callbacks%2C%20Generators%2C%20Decorators_a9c748a5.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/LAB%20-%202025/10.Lab%2012%20-%20Callbacks%2C%20Generators%20and%20Decorators/questionbank/Callbacks%2C%20Generators%2C%20Decorators_a9c748a5.pdf"
                 }
               ],
               "count": 1
@@ -428,6 +428,32 @@
               ],
               "count": 2
             },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_10_intro_to_Programming_language_and_python_c11dfbd7.pdf",
+                  "title": "UE23CS151A PCPS Unit 1 SindhuRPai Class 10 intro to Programming language and python",
+                  "uuid": "c11dfbd7",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 1- Introduction/1.Introduction to the course title/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_10_intro_to_Programming_language_and_python_c11dfbd7.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_10_intro_to_Programming_language_and_python_c11dfbd7.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_10_intro_to_Programming_language_and_python_c11dfbd7.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_10_intro_to_Programming_language_and_python_c11dfbd7.pdf"
+                },
+                {
+                  "name": "UE24CS151A_PCPS_Unit_1_QUIZ_Sindhu_R_Pai_c11e21d0.pdf",
+                  "title": "UE24CS151A PCPS Unit 1 QUIZ Sindhu R Pai",
+                  "uuid": "c11e21d0",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 1- Introduction/1.Introduction to the course title/notes/UE24CS151A_PCPS_Unit_1_QUIZ_Sindhu_R_Pai_c11e21d0.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/notes/UE24CS151A_PCPS_Unit_1_QUIZ_Sindhu_R_Pai_c11e21d0.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/notes/UE24CS151A_PCPS_Unit_1_QUIZ_Sindhu_R_Pai_c11e21d0.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/notes/UE24CS151A_PCPS_Unit_1_QUIZ_Sindhu_R_Pai_c11e21d0.pdf"
+                }
+              ],
+              "count": 2
+            },
             "questionbank": {
               "type": "questionbank",
               "files": [
@@ -440,22 +466,6 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/questionbank/Unit%20-%201_Question%20Bank_c11e2381.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/questionbank/Unit%20-%201_Question%20Bank_c11e2381.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/questionbank/Unit%20-%201_Question%20Bank_c11e2381.pdf"
-                }
-              ],
-              "count": 1
-            },
-            "qa": {
-              "type": "qa",
-              "files": [
-                {
-                  "name": "Unit - 1_Answer_Key_c11e2442.pdf",
-                  "title": "Unit - 1 Answer Key",
-                  "uuid": "c11e2442",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 1- Introduction/1.Introduction to the course title/qa/Unit - 1_Answer_Key_c11e2442.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/qa/Unit%20-%201_Answer_Key_c11e2442.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/qa/Unit%20-%201_Answer_Key_c11e2442.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/qa/Unit%20-%201_Answer_Key_c11e2442.pdf"
                 }
               ],
               "count": 1
@@ -496,31 +506,21 @@
               ],
               "count": 3
             },
-            "notes": {
-              "type": "notes",
+            "qa": {
+              "type": "qa",
               "files": [
                 {
-                  "name": "UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_10_intro_to_Programming_language_and_python_c11dfbd7.pdf",
-                  "title": "UE23CS151A PCPS Unit 1 SindhuRPai Class 10 intro to Programming language and python",
-                  "uuid": "c11dfbd7",
+                  "name": "Unit - 1_Answer_Key_c11e2442.pdf",
+                  "title": "Unit - 1 Answer Key",
+                  "uuid": "c11e2442",
                   "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 1- Introduction/1.Introduction to the course title/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_10_intro_to_Programming_language_and_python_c11dfbd7.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_10_intro_to_Programming_language_and_python_c11dfbd7.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_10_intro_to_Programming_language_and_python_c11dfbd7.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_10_intro_to_Programming_language_and_python_c11dfbd7.pdf"
-                },
-                {
-                  "name": "UE24CS151A_PCPS_Unit_1_QUIZ_Sindhu_R_Pai_c11e21d0.pdf",
-                  "title": "UE24CS151A PCPS Unit 1 QUIZ Sindhu R Pai",
-                  "uuid": "c11e21d0",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 1- Introduction/1.Introduction to the course title/notes/UE24CS151A_PCPS_Unit_1_QUIZ_Sindhu_R_Pai_c11e21d0.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/notes/UE24CS151A_PCPS_Unit_1_QUIZ_Sindhu_R_Pai_c11e21d0.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/notes/UE24CS151A_PCPS_Unit_1_QUIZ_Sindhu_R_Pai_c11e21d0.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/notes/UE24CS151A_PCPS_Unit_1_QUIZ_Sindhu_R_Pai_c11e21d0.pdf"
+                  "path": "UE25CS151A/UNIT 1- Introduction/1.Introduction to the course title/qa/Unit - 1_Answer_Key_c11e2442.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/qa/Unit%20-%201_Answer_Key_c11e2442.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/qa/Unit%20-%201_Answer_Key_c11e2442.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/1.Introduction%20to%20the%20course%20title/qa/Unit%20-%201_Answer_Key_c11e2442.pdf"
                 }
               ],
-              "count": 2
+              "count": 1
             }
           }
         },
@@ -572,32 +572,6 @@
           "folder_name": "3.Process of Computational Problem Solving - Analysis, Design, Implementation, Tes",
           "path": "UE25CS151A/UNIT 1- Introduction/3.Process of Computational Problem Solving - Analysis, Design, Implementation, Tes",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Process of Computation Problem Solving - Analysis, Design, Implementation, Testing",
-                  "provider": "vimeo",
-                  "video_id": "437806635",
-                  "video_url": "https://player.vimeo.com/video/437806635?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/437806635",
-                  "faculty": "Prof Sindhu Pai",
-                  "date": "22/09/2023 02:40 PM",
-                  "section": "NA"
-                },
-                {
-                  "title": "Process of Computation Problem Solving - Analysis, Design, Implementation, Testing",
-                  "provider": "vimeo",
-                  "video_id": "459311158",
-                  "video_url": "https://player.vimeo.com/video/459311158?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/459311158",
-                  "faculty": "Prof Sindhu Pai",
-                  "date": "30/09/2023 05:59 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 2
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -629,6 +603,32 @@
                 }
               ],
               "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Process of Computation Problem Solving - Analysis, Design, Implementation, Testing",
+                  "provider": "vimeo",
+                  "video_id": "437806635",
+                  "video_url": "https://player.vimeo.com/video/437806635?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/437806635",
+                  "faculty": "Prof Sindhu Pai",
+                  "date": "22/09/2023 02:40 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Process of Computation Problem Solving - Analysis, Design, Implementation, Testing",
+                  "provider": "vimeo",
+                  "video_id": "459311158",
+                  "video_url": "https://player.vimeo.com/video/459311158?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/459311158",
+                  "faculty": "Prof Sindhu Pai",
+                  "date": "30/09/2023 05:59 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
             }
           }
         },
@@ -716,22 +716,6 @@
           "folder_name": "5.Digital Computer - Computer Software- Operating System",
           "path": "UE25CS151A/UNIT 1- Introduction/5.Digital Computer - Computer Software- Operating System",
           "content": {
-            "notes": {
-              "type": "notes",
-              "files": [
-                {
-                  "name": "UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_5_Computer_software_OS_c11ebc51.pdf",
-                  "title": "UE23CS151A PCPS Unit 1 SindhuRPai Class 5 Computer software OS",
-                  "uuid": "c11ebc51",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 1- Introduction/5.Digital Computer - Computer Software- Operating System/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_5_Computer_software_OS_c11ebc51.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/5.Digital%20Computer%20-%20Computer%20Software-%20Operating%20System/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_5_Computer_software_OS_c11ebc51.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/5.Digital%20Computer%20-%20Computer%20Software-%20Operating%20System/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_5_Computer_software_OS_c11ebc51.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/5.Digital%20Computer%20-%20Computer%20Software-%20Operating%20System/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_5_Computer_software_OS_c11ebc51.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -744,6 +728,22 @@
                   "faculty": "Kundhavai K R",
                   "date": "22/09/2023 02:36 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_5_Computer_software_OS_c11ebc51.pdf",
+                  "title": "UE23CS151A PCPS Unit 1 SindhuRPai Class 5 Computer software OS",
+                  "uuid": "c11ebc51",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 1- Introduction/5.Digital Computer - Computer Software- Operating System/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_5_Computer_software_OS_c11ebc51.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/5.Digital%20Computer%20-%20Computer%20Software-%20Operating%20System/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_5_Computer_software_OS_c11ebc51.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/5.Digital%20Computer%20-%20Computer%20Software-%20Operating%20System/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_5_Computer_software_OS_c11ebc51.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/5.Digital%20Computer%20-%20Computer%20Software-%20Operating%20System/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_5_Computer_software_OS_c11ebc51.pdf"
                 }
               ],
               "count": 1
@@ -843,6 +843,58 @@
           "folder_name": "8.Python installation, Different modes of Running the python code, First Program i",
           "path": "UE25CS151A/UNIT 1- Introduction/8.Python installation, Different modes of Running the python code, First Program i",
           "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Program_structure_c11c6b42.pdf",
+                  "title": "UE24CS151A PCPS Unit 1 SindhuRPai Class 8 Program structure",
+                  "uuid": "c11c6b42",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 1- Introduction/8.Python installation, Different modes of Running the python code, First Program i/slides/UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Program_structure_c11c6b42.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/slides/UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Program_structure_c11c6b42.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/slides/UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Program_structure_c11c6b42.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/slides/UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Program_structure_c11c6b42.pdf"
+                },
+                {
+                  "name": "UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Installation_and_execution_c11c8f2a.pdf",
+                  "title": "UE24CS151A PCPS Unit 1 SindhuRPai Class 8 Installation and execution",
+                  "uuid": "c11c8f2a",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 1- Introduction/8.Python installation, Different modes of Running the python code, First Program i/slides/UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Installation_and_execution_c11c8f2a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/slides/UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Installation_and_execution_c11c8f2a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/slides/UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Installation_and_execution_c11c8f2a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/slides/UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Installation_and_execution_c11c8f2a.pdf"
+                }
+              ],
+              "count": 2
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Lecture_9_a72861e2.pdf",
+                  "title": "Lecture 9",
+                  "uuid": "a72861e2",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 1- Introduction/8.Python installation, Different modes of Running the python code, First Program i/notes/Lecture_9_a72861e2.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/notes/Lecture_9_a72861e2.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/notes/Lecture_9_a72861e2.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/notes/Lecture_9_a72861e2.pdf"
+                },
+                {
+                  "name": "UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_11_Program_structure_First_program_Running_python_code_c11c90bf.pdf",
+                  "title": "UE23CS151A PCPS Unit 1 SindhuRPai Class 11 Program structure First program Running python code",
+                  "uuid": "c11c90bf",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 1- Introduction/8.Python installation, Different modes of Running the python code, First Program i/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_11_Program_structure_First_program_Running_python_code_c11c90bf.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_11_Program_structure_First_program_Running_python_code_c11c90bf.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_11_Program_structure_First_program_Running_python_code_c11c90bf.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_11_Program_structure_First_program_Running_python_code_c11c90bf.pdf"
+                }
+              ],
+              "count": 2
+            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -878,58 +930,6 @@
                 }
               ],
               "count": 3
-            },
-            "notes": {
-              "type": "notes",
-              "files": [
-                {
-                  "name": "Lecture_9_a72861e2.pdf",
-                  "title": "Lecture 9",
-                  "uuid": "a72861e2",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 1- Introduction/8.Python installation, Different modes of Running the python code, First Program i/notes/Lecture_9_a72861e2.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/notes/Lecture_9_a72861e2.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/notes/Lecture_9_a72861e2.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/notes/Lecture_9_a72861e2.pdf"
-                },
-                {
-                  "name": "UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_11_Program_structure_First_program_Running_python_code_c11c90bf.pdf",
-                  "title": "UE23CS151A PCPS Unit 1 SindhuRPai Class 11 Program structure First program Running python code",
-                  "uuid": "c11c90bf",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 1- Introduction/8.Python installation, Different modes of Running the python code, First Program i/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_11_Program_structure_First_program_Running_python_code_c11c90bf.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_11_Program_structure_First_program_Running_python_code_c11c90bf.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_11_Program_structure_First_program_Running_python_code_c11c90bf.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_11_Program_structure_First_program_Running_python_code_c11c90bf.pdf"
-                }
-              ],
-              "count": 2
-            },
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Program_structure_c11c6b42.pdf",
-                  "title": "UE24CS151A PCPS Unit 1 SindhuRPai Class 8 Program structure",
-                  "uuid": "c11c6b42",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 1- Introduction/8.Python installation, Different modes of Running the python code, First Program i/slides/UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Program_structure_c11c6b42.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/slides/UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Program_structure_c11c6b42.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/slides/UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Program_structure_c11c6b42.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/slides/UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Program_structure_c11c6b42.pdf"
-                },
-                {
-                  "name": "UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Installation_and_execution_c11c8f2a.pdf",
-                  "title": "UE24CS151A PCPS Unit 1 SindhuRPai Class 8 Installation and execution",
-                  "uuid": "c11c8f2a",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 1- Introduction/8.Python installation, Different modes of Running the python code, First Program i/slides/UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Installation_and_execution_c11c8f2a.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/slides/UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Installation_and_execution_c11c8f2a.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/slides/UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Installation_and_execution_c11c8f2a.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/8.Python%20installation%2C%20Different%20modes%20of%20Running%20the%20python%20code%2C%20First%20Program%20i/slides/UE24CS151A_PCPS_Unit_1_SindhuRPai_Class_8_Installation_and_execution_c11c8f2a.pdf"
-                }
-              ],
-              "count": 2
             }
           }
         },
@@ -997,6 +997,32 @@
           "folder_name": "10.Variables, type and id functions",
           "path": "UE25CS151A/UNIT 1- Introduction/10.Variables, type and id functions",
           "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Variable video 1",
+                  "provider": "vimeo",
+                  "video_id": "478803520",
+                  "video_url": "https://player.vimeo.com/video/478803520?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/478803520",
+                  "faculty": "Prof Sindhu Pai",
+                  "date": "22/09/2023 02:54 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "variable and id function",
+                  "provider": "vimeo",
+                  "video_id": "478804150",
+                  "video_url": "https://player.vimeo.com/video/478804150?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/478804150",
+                  "faculty": "Prof Sindhu Pai",
+                  "date": "22/09/2023 02:57 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            },
             "slides": {
               "type": "slides",
               "files": [
@@ -1028,32 +1054,6 @@
                 }
               ],
               "count": 1
-            },
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Variable video 1",
-                  "provider": "vimeo",
-                  "video_id": "478803520",
-                  "video_url": "https://player.vimeo.com/video/478803520?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/478803520",
-                  "faculty": "Prof Sindhu Pai",
-                  "date": "22/09/2023 02:54 PM",
-                  "section": "NA"
-                },
-                {
-                  "title": "variable and id function",
-                  "provider": "vimeo",
-                  "video_id": "478804150",
-                  "video_url": "https://player.vimeo.com/video/478804150?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/478804150",
-                  "faculty": "Prof Sindhu Pai",
-                  "date": "22/09/2023 02:57 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 2
             }
           }
         },
@@ -1064,32 +1064,6 @@
           "folder_name": "11.Input function",
           "path": "UE25CS151A/UNIT 1- Introduction/11.Input function",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "input function",
-                  "provider": "vimeo",
-                  "video_id": "459315199",
-                  "video_url": "https://player.vimeo.com/video/459315199?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/459315199",
-                  "faculty": "Prof Sindhu Pai",
-                  "date": "22/09/2023 03:01 PM",
-                  "section": "NA"
-                },
-                {
-                  "title": "input function",
-                  "provider": "vimeo",
-                  "video_id": "495012974",
-                  "video_url": "https://player.vimeo.com/video/495012974?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/495012974",
-                  "faculty": "Prof Sindhu Pai",
-                  "date": "22/09/2023 03:04 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 2
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -1121,6 +1095,32 @@
                 }
               ],
               "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "input function",
+                  "provider": "vimeo",
+                  "video_id": "459315199",
+                  "video_url": "https://player.vimeo.com/video/459315199?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/459315199",
+                  "faculty": "Prof Sindhu Pai",
+                  "date": "22/09/2023 03:01 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "input function",
+                  "provider": "vimeo",
+                  "video_id": "495012974",
+                  "video_url": "https://player.vimeo.com/video/495012974?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/495012974",
+                  "faculty": "Prof Sindhu Pai",
+                  "date": "22/09/2023 03:04 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
             }
           }
         },
@@ -1326,22 +1326,6 @@
           "folder_name": "16.Control structures - Looping statements",
           "path": "UE25CS151A/UNIT 1- Introduction/16.Control structures - Looping statements",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "iterative control structure",
-                  "provider": "vimeo",
-                  "video_id": "445169987",
-                  "video_url": "https://player.vimeo.com/video/445169987?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/445169987",
-                  "faculty": "Prof Sindhu Pai",
-                  "date": "22/09/2023 03:29 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "notes": {
               "type": "notes",
               "files": [
@@ -1354,6 +1338,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/16.Control%20structures%20-%20Looping%20statements/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_21_Control_structure_Looping_statements_c11937e2.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/16.Control%20structures%20-%20Looping%20statements/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_21_Control_structure_Looping_statements_c11937e2.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/16.Control%20structures%20-%20Looping%20statements/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_21_Control_structure_Looping_statements_c11937e2.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "iterative control structure",
+                  "provider": "vimeo",
+                  "video_id": "445169987",
+                  "video_url": "https://player.vimeo.com/video/445169987?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/445169987",
+                  "faculty": "Prof Sindhu Pai",
+                  "date": "22/09/2023 03:29 PM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -1379,6 +1379,41 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/17.Problem%20solving%20using%20Control%20structures%20and%20input%20functions/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_22_25_26_Problem_solving_using_control_structures_practice_s_c1165e7e.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/17.Problem%20solving%20using%20Control%20structures%20and%20input%20functions/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_22_25_26_Problem_solving_using_control_structures_practice_s_c1165e7e.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/17.Problem%20solving%20using%20Control%20structures%20and%20input%20functions/notes/UE23CS151A_PCPS_Unit_1_SindhuRPai_Class_22_25_26_Problem_solving_using_control_structures_practice_s_c1165e7e.pdf"
+                },
+                {
+                  "name": "UE23CS151A_PCPS_Unit_1_Practice_programs_solutions_c1165b56.pdf",
+                  "title": "UE23CS151A PCPS Unit 1 Practice programs solutions",
+                  "uuid": "c1165b56",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 1- Introduction/17.Problem solving using Control structures and input functions/notes/UE23CS151A_PCPS_Unit_1_Practice_programs_solutions_c1165b56.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/17.Problem%20solving%20using%20Control%20structures%20and%20input%20functions/notes/UE23CS151A_PCPS_Unit_1_Practice_programs_solutions_c1165b56.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/17.Problem%20solving%20using%20Control%20structures%20and%20input%20functions/notes/UE23CS151A_PCPS_Unit_1_Practice_programs_solutions_c1165b56.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/17.Problem%20solving%20using%20Control%20structures%20and%20input%20functions/notes/UE23CS151A_PCPS_Unit_1_Practice_programs_solutions_c1165b56.pdf"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE25CS151A_UNIT 1- Introduction_18.Standards and Guidelines for pythonic solution",
+          "order": 18,
+          "title": "Standards and Guidelines for pythonic solution",
+          "folder_name": "18.Standards and Guidelines for pythonic solution",
+          "path": "UE25CS151A/UNIT 1- Introduction/18.Standards and Guidelines for pythonic solution",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Pythonic Solutions_eb6c63ab.pdf",
+                  "title": "Pythonic Solutions",
+                  "uuid": "eb6c63ab",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 1- Introduction/18.Standards and Guidelines for pythonic solution/slides/Pythonic Solutions_eb6c63ab.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/18.Standards%20and%20Guidelines%20for%20pythonic%20solution/slides/Pythonic%20Solutions_eb6c63ab.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%201-%20Introduction/18.Standards%20and%20Guidelines%20for%20pythonic%20solution/slides/Pythonic%20Solutions_eb6c63ab.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%201-%20Introduction/18.Standards%20and%20Guidelines%20for%20pythonic%20solution/slides/Pythonic%20Solutions_eb6c63ab.pdf"
                 }
               ],
               "count": 1
@@ -1399,38 +1434,6 @@
           "folder_name": "1.General introduction to Data Structures in python",
           "path": "UE25CS151A/UNIT 2- Collections and Functions/1.General introduction to Data Structures in python",
           "content": {
-            "notes": {
-              "type": "notes",
-              "files": [
-                {
-                  "name": "UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_27_Introduction_to_Data_structures_in_python_c6aff9bd.pdf",
-                  "title": "UE23CS151A PCPS Unit 2 SindhuRPai Class 27 Introduction to Data structures in python",
-                  "uuid": "c6aff9bd",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 2- Collections and Functions/1.General introduction to Data Structures in python/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_27_Introduction_to_Data_structures_in_python_c6aff9bd.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/1.General%20introduction%20to%20Data%20Structures%20in%20python/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_27_Introduction_to_Data_structures_in_python_c6aff9bd.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/1.General%20introduction%20to%20Data%20Structures%20in%20python/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_27_Introduction_to_Data_structures_in_python_c6aff9bd.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/1.General%20introduction%20to%20Data%20Structures%20in%20python/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_27_Introduction_to_Data_structures_in_python_c6aff9bd.pdf"
-                }
-              ],
-              "count": 1
-            },
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_1_General_intro_to_data_structures_in_python_c6aff7de.pdf",
-                  "title": "UE24CS151A PCPS Unit 2 SindhuRPai Class 1 General intro to data structures in python",
-                  "uuid": "c6aff7de",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 2- Collections and Functions/1.General introduction to Data Structures in python/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_1_General_intro_to_data_structures_in_python_c6aff7de.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/1.General%20introduction%20to%20Data%20Structures%20in%20python/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_1_General_intro_to_data_structures_in_python_c6aff7de.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/1.General%20introduction%20to%20Data%20Structures%20in%20python/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_1_General_intro_to_data_structures_in_python_c6aff7de.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/1.General%20introduction%20to%20Data%20Structures%20in%20python/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_1_General_intro_to_data_structures_in_python_c6aff7de.pdf"
-                }
-              ],
-              "count": 1
-            },
             "qa": {
               "type": "qa",
               "files": [
@@ -1462,6 +1465,38 @@
                 }
               ],
               "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_27_Introduction_to_Data_structures_in_python_c6aff9bd.pdf",
+                  "title": "UE23CS151A PCPS Unit 2 SindhuRPai Class 27 Introduction to Data structures in python",
+                  "uuid": "c6aff9bd",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 2- Collections and Functions/1.General introduction to Data Structures in python/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_27_Introduction_to_Data_structures_in_python_c6aff9bd.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/1.General%20introduction%20to%20Data%20Structures%20in%20python/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_27_Introduction_to_Data_structures_in_python_c6aff9bd.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/1.General%20introduction%20to%20Data%20Structures%20in%20python/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_27_Introduction_to_Data_structures_in_python_c6aff9bd.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/1.General%20introduction%20to%20Data%20Structures%20in%20python/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_27_Introduction_to_Data_structures_in_python_c6aff9bd.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_1_General_intro_to_data_structures_in_python_c6aff7de.pdf",
+                  "title": "UE24CS151A PCPS Unit 2 SindhuRPai Class 1 General intro to data structures in python",
+                  "uuid": "c6aff7de",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 2- Collections and Functions/1.General introduction to Data Structures in python/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_1_General_intro_to_data_structures_in_python_c6aff7de.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/1.General%20introduction%20to%20Data%20Structures%20in%20python/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_1_General_intro_to_data_structures_in_python_c6aff7de.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/1.General%20introduction%20to%20Data%20Structures%20in%20python/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_1_General_intro_to_data_structures_in_python_c6aff7de.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/1.General%20introduction%20to%20Data%20Structures%20in%20python/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_1_General_intro_to_data_structures_in_python_c6aff7de.pdf"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -1472,6 +1507,22 @@
           "folder_name": "2.List and it's operations",
           "path": "UE25CS151A/UNIT 2- Collections and Functions/2.List and it's operations",
           "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Lists and Tuples",
+                  "provider": "vimeo",
+                  "video_id": "651481822",
+                  "video_url": "https://player.vimeo.com/video/651481822?h=9054acd100&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/651481822?h=9054acd100",
+                  "faculty": "Kundhavai K R",
+                  "date": "18/10/2023 09:22 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
             "notes": {
               "type": "notes",
               "files": [
@@ -1503,22 +1554,6 @@
                 }
               ],
               "count": 1
-            },
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Lists and Tuples",
-                  "provider": "vimeo",
-                  "video_id": "651481822",
-                  "video_url": "https://player.vimeo.com/video/651481822?h=9054acd100&autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/651481822?h=9054acd100",
-                  "faculty": "Kundhavai K R",
-                  "date": "18/10/2023 09:22 AM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
             }
           }
         },
@@ -1529,22 +1564,6 @@
           "folder_name": "3.List continuation, Tuple and it's operations",
           "path": "UE25CS151A/UNIT 2- Collections and Functions/3.List continuation, Tuple and it's operations",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Lists and Tuples",
-                  "provider": "vimeo",
-                  "video_id": "460056288",
-                  "video_url": "https://player.vimeo.com/video/460056288?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/460056288",
-                  "faculty": "Kundhavai K R",
-                  "date": "18/10/2023 12:39 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -1557,6 +1576,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/3.List%20continuation%2C%20Tuple%20and%20it%27s%20operations/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_3_tuples_c6b09cdf.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/3.List%20continuation%2C%20Tuple%20and%20it%27s%20operations/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_3_tuples_c6b09cdf.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/3.List%20continuation%2C%20Tuple%20and%20it%27s%20operations/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_3_tuples_c6b09cdf.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Lists and Tuples",
+                  "provider": "vimeo",
+                  "video_id": "460056288",
+                  "video_url": "https://player.vimeo.com/video/460056288?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/460056288",
+                  "faculty": "Kundhavai K R",
+                  "date": "18/10/2023 12:39 PM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -1643,22 +1678,6 @@
               ],
               "count": 1
             },
-            "notes": {
-              "type": "notes",
-              "files": [
-                {
-                  "name": "UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_34_Dictionary_Operations_c6b1e13f.pdf",
-                  "title": "UE23CS151A PCPS Unit 2 SindhuRPai Class 34 Dictionary Operations",
-                  "uuid": "c6b1e13f",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 2- Collections and Functions/5.Dictionary and it's operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_34_Dictionary_Operations_c6b1e13f.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/5.Dictionary%20and%20it%27s%20operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_34_Dictionary_Operations_c6b1e13f.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/5.Dictionary%20and%20it%27s%20operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_34_Dictionary_Operations_c6b1e13f.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/5.Dictionary%20and%20it%27s%20operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_34_Dictionary_Operations_c6b1e13f.pdf"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -1671,6 +1690,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/5.Dictionary%20and%20it%27s%20operations/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_5_Dictionary_c6b1b497.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/5.Dictionary%20and%20it%27s%20operations/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_5_Dictionary_c6b1b497.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/5.Dictionary%20and%20it%27s%20operations/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_5_Dictionary_c6b1b497.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_34_Dictionary_Operations_c6b1e13f.pdf",
+                  "title": "UE23CS151A PCPS Unit 2 SindhuRPai Class 34 Dictionary Operations",
+                  "uuid": "c6b1e13f",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 2- Collections and Functions/5.Dictionary and it's operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_34_Dictionary_Operations_c6b1e13f.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/5.Dictionary%20and%20it%27s%20operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_34_Dictionary_Operations_c6b1e13f.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/5.Dictionary%20and%20it%27s%20operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_34_Dictionary_Operations_c6b1e13f.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/5.Dictionary%20and%20it%27s%20operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_34_Dictionary_Operations_c6b1e13f.pdf"
                 }
               ],
               "count": 1
@@ -1709,6 +1744,22 @@
           "folder_name": "7.Set and it's operations",
           "path": "UE25CS151A/UNIT 2- Collections and Functions/7.Set and it's operations",
           "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_7_sets_c6b24f45.pdf",
+                  "title": "UE24CS151A PCPS Unit 2 SindhuRPai Class 7 sets",
+                  "uuid": "c6b24f45",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 2- Collections and Functions/7.Set and it's operations/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_7_sets_c6b24f45.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/7.Set%20and%20it%27s%20operations/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_7_sets_c6b24f45.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/7.Set%20and%20it%27s%20operations/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_7_sets_c6b24f45.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/7.Set%20and%20it%27s%20operations/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_7_sets_c6b24f45.pdf"
+                }
+              ],
+              "count": 1
+            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -1737,22 +1788,6 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/7.Set%20and%20it%27s%20operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_36_set_and_its_operations_c6b2512e.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/7.Set%20and%20it%27s%20operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_36_set_and_its_operations_c6b2512e.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/7.Set%20and%20it%27s%20operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_36_set_and_its_operations_c6b2512e.pdf"
-                }
-              ],
-              "count": 1
-            },
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_7_sets_c6b24f45.pdf",
-                  "title": "UE24CS151A PCPS Unit 2 SindhuRPai Class 7 sets",
-                  "uuid": "c6b24f45",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 2- Collections and Functions/7.Set and it's operations/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_7_sets_c6b24f45.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/7.Set%20and%20it%27s%20operations/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_7_sets_c6b24f45.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/7.Set%20and%20it%27s%20operations/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_7_sets_c6b24f45.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/7.Set%20and%20it%27s%20operations/slides/UE24CS151A_PCPS_Unit_2_SindhuRPai_Class_7_sets_c6b24f45.pdf"
                 }
               ],
               "count": 1
@@ -1832,22 +1867,6 @@
           "folder_name": "10.String Operations",
           "path": "UE25CS151A/UNIT 2- Collections and Functions/10.String Operations",
           "content": {
-            "notes": {
-              "type": "notes",
-              "files": [
-                {
-                  "name": "UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_42_String_operations_c6b18fa7.pdf",
-                  "title": "UE23CS151A PCPS Unit 2 SindhuRPai Class 42 String operations",
-                  "uuid": "c6b18fa7",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 2- Collections and Functions/10.String Operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_42_String_operations_c6b18fa7.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/10.String%20Operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_42_String_operations_c6b18fa7.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/10.String%20Operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_42_String_operations_c6b18fa7.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/10.String%20Operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_42_String_operations_c6b18fa7.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -1860,6 +1879,22 @@
                   "faculty": "Kundhavai K R",
                   "date": "16/10/2023 01:30 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_42_String_operations_c6b18fa7.pdf",
+                  "title": "UE23CS151A PCPS Unit 2 SindhuRPai Class 42 String operations",
+                  "uuid": "c6b18fa7",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 2- Collections and Functions/10.String Operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_42_String_operations_c6b18fa7.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/10.String%20Operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_42_String_operations_c6b18fa7.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/10.String%20Operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_42_String_operations_c6b18fa7.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%202-%20Collections%20and%20Functions/10.String%20Operations/notes/UE23CS151A_PCPS_Unit_2_SindhuRPai_Class_42_String_operations_c6b18fa7.pdf"
                 }
               ],
               "count": 1
@@ -2227,22 +2262,6 @@
               ],
               "count": 1
             },
-            "notes": {
-              "type": "notes",
-              "files": [
-                {
-                  "name": "UE23CS151A_PCPS_Unit_3_ApoorvaMS_Class_59_Recursion_cb96ba50.pdf",
-                  "title": "UE23CS151A PCPS Unit 3 ApoorvaMS Class 59 Recursion",
-                  "uuid": "cb96ba50",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/1.Recursion/notes/UE23CS151A_PCPS_Unit_3_ApoorvaMS_Class_59_Recursion_cb96ba50.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/1.Recursion/notes/UE23CS151A_PCPS_Unit_3_ApoorvaMS_Class_59_Recursion_cb96ba50.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/1.Recursion/notes/UE23CS151A_PCPS_Unit_3_ApoorvaMS_Class_59_Recursion_cb96ba50.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/1.Recursion/notes/UE23CS151A_PCPS_Unit_3_ApoorvaMS_Class_59_Recursion_cb96ba50.pdf"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -2287,6 +2306,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/1.Recursion/qa/Unit3_QB%20with%20answers_4197193b.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/1.Recursion/qa/Unit3_QB%20with%20answers_4197193b.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/1.Recursion/qa/Unit3_QB%20with%20answers_4197193b.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "UE23CS151A_PCPS_Unit_3_ApoorvaMS_Class_59_Recursion_cb96ba50.pdf",
+                  "title": "UE23CS151A PCPS Unit 3 ApoorvaMS Class 59 Recursion",
+                  "uuid": "cb96ba50",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/1.Recursion/notes/UE23CS151A_PCPS_Unit_3_ApoorvaMS_Class_59_Recursion_cb96ba50.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/1.Recursion/notes/UE23CS151A_PCPS_Unit_3_ApoorvaMS_Class_59_Recursion_cb96ba50.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/1.Recursion/notes/UE23CS151A_PCPS_Unit_3_ApoorvaMS_Class_59_Recursion_cb96ba50.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/1.Recursion/notes/UE23CS151A_PCPS_Unit_3_ApoorvaMS_Class_59_Recursion_cb96ba50.pdf"
                 }
               ],
               "count": 1
@@ -2398,22 +2433,6 @@
               ],
               "count": 1
             },
-            "notes": {
-              "type": "notes",
-              "files": [
-                {
-                  "name": "UE23CS151A_PCPS_Unit_3_Apoorva_MS_SP_Class_65_Closures_cb981e3a.pdf",
-                  "title": "UE23CS151A PCPS Unit 3 Apoorva MS SP Class 65 Closures",
-                  "uuid": "cb981e3a",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/5.Closures/notes/UE23CS151A_PCPS_Unit_3_Apoorva_MS_SP_Class_65_Closures_cb981e3a.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/5.Closures/notes/UE23CS151A_PCPS_Unit_3_Apoorva_MS_SP_Class_65_Closures_cb981e3a.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/5.Closures/notes/UE23CS151A_PCPS_Unit_3_Apoorva_MS_SP_Class_65_Closures_cb981e3a.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/5.Closures/notes/UE23CS151A_PCPS_Unit_3_Apoorva_MS_SP_Class_65_Closures_cb981e3a.pdf"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -2426,6 +2445,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/5.Closures/slides/UE24CS151A_PCPS_Unit_3_Sindhu_Class_5_Closures_cb981c39.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/5.Closures/slides/UE24CS151A_PCPS_Unit_3_Sindhu_Class_5_Closures_cb981c39.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/5.Closures/slides/UE24CS151A_PCPS_Unit_3_Sindhu_Class_5_Closures_cb981c39.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "UE23CS151A_PCPS_Unit_3_Apoorva_MS_SP_Class_65_Closures_cb981e3a.pdf",
+                  "title": "UE23CS151A PCPS Unit 3 Apoorva MS SP Class 65 Closures",
+                  "uuid": "cb981e3a",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/5.Closures/notes/UE23CS151A_PCPS_Unit_3_Apoorva_MS_SP_Class_65_Closures_cb981e3a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/5.Closures/notes/UE23CS151A_PCPS_Unit_3_Apoorva_MS_SP_Class_65_Closures_cb981e3a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/5.Closures/notes/UE23CS151A_PCPS_Unit_3_Apoorva_MS_SP_Class_65_Closures_cb981e3a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/5.Closures/notes/UE23CS151A_PCPS_Unit_3_Apoorva_MS_SP_Class_65_Closures_cb981e3a.pdf"
                 }
               ],
               "count": 1
@@ -2496,18 +2531,18 @@
           "folder_name": "7.Generators",
           "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/7.Generators",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
+            "slides": {
+              "type": "slides",
+              "files": [
                 {
-                  "title": "Generators",
-                  "provider": "vimeo",
-                  "video_id": "470063398",
-                  "video_url": "https://player.vimeo.com/video/470063398?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/470063398",
-                  "faculty": "Prof Sindhu Pai",
-                  "date": "09/11/2023 03:27 PM",
-                  "section": "NA"
+                  "name": "UE24CS151A_PCPS_Unit_3_Sindhu_Class_7_Generators_cb9784e5.pdf",
+                  "title": "UE24CS151A PCPS Unit 3 Sindhu Class 7 Generators",
+                  "uuid": "cb9784e5",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/7.Generators/slides/UE24CS151A_PCPS_Unit_3_Sindhu_Class_7_Generators_cb9784e5.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/7.Generators/slides/UE24CS151A_PCPS_Unit_3_Sindhu_Class_7_Generators_cb9784e5.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/7.Generators/slides/UE24CS151A_PCPS_Unit_3_Sindhu_Class_7_Generators_cb9784e5.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/7.Generators/slides/UE24CS151A_PCPS_Unit_3_Sindhu_Class_7_Generators_cb9784e5.pdf"
                 }
               ],
               "count": 1
@@ -2528,18 +2563,18 @@
               ],
               "count": 1
             },
-            "slides": {
-              "type": "slides",
-              "files": [
+            "av_summary": {
+              "type": "video",
+              "videos": [
                 {
-                  "name": "UE24CS151A_PCPS_Unit_3_Sindhu_Class_7_Generators_cb9784e5.pdf",
-                  "title": "UE24CS151A PCPS Unit 3 Sindhu Class 7 Generators",
-                  "uuid": "cb9784e5",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/7.Generators/slides/UE24CS151A_PCPS_Unit_3_Sindhu_Class_7_Generators_cb9784e5.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/7.Generators/slides/UE24CS151A_PCPS_Unit_3_Sindhu_Class_7_Generators_cb9784e5.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/7.Generators/slides/UE24CS151A_PCPS_Unit_3_Sindhu_Class_7_Generators_cb9784e5.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/7.Generators/slides/UE24CS151A_PCPS_Unit_3_Sindhu_Class_7_Generators_cb9784e5.pdf"
+                  "title": "Generators",
+                  "provider": "vimeo",
+                  "video_id": "470063398",
+                  "video_url": "https://player.vimeo.com/video/470063398?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/470063398",
+                  "faculty": "Prof Sindhu Pai",
+                  "date": "09/11/2023 03:27 PM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -2590,6 +2625,31 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/9.Problem%20solving%20using%20Generators/notes/UE24CS151A_PCPS_Unit_3_PriyankaS_SindhuRPai_Class_69_Problem_Solving_using_generators_cb94fe9f.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/9.Problem%20solving%20using%20Generators/notes/UE24CS151A_PCPS_Unit_3_PriyankaS_SindhuRPai_Class_69_Problem_Solving_using_generators_cb94fe9f.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/9.Problem%20solving%20using%20Generators/notes/UE24CS151A_PCPS_Unit_3_PriyankaS_SindhuRPai_Class_69_Problem_Solving_using_generators_cb94fe9f.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151A_UNIT 3 - Functions, GUI, Modules, Testing and Debugging_10.Import mechanisms",
+          "order": 10,
+          "title": "Import mechanisms",
+          "folder_name": "10.Import mechanisms",
+          "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/10.Import mechanisms",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Intro to Modules_815367ee.pdf",
+                  "title": "Intro to Modules",
+                  "uuid": "815367ee",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/10.Import mechanisms/slides/Intro to Modules_815367ee.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/10.Import%20mechanisms/slides/Intro%20to%20Modules_815367ee.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/10.Import%20mechanisms/slides/Intro%20to%20Modules_815367ee.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/10.Import%20mechanisms/slides/Intro%20to%20Modules_815367ee.pdf"
                 }
               ],
               "count": 1
@@ -2660,6 +2720,22 @@
               ],
               "count": 1
             },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Numpy_b7db32cb.pdf",
+                  "title": "Numpy",
+                  "uuid": "b7db32cb",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/12.NumPy/slides/Numpy_b7db32cb.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/12.NumPy/slides/Numpy_b7db32cb.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/12.NumPy/slides/Numpy_b7db32cb.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/12.NumPy/slides/Numpy_b7db32cb.pdf"
+                }
+              ],
+              "count": 1
+            },
             "notes": {
               "type": "notes",
               "files": [
@@ -2685,22 +2761,6 @@
           "folder_name": "13.PyImage(PIL)",
           "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/13.PyImage(PIL)",
           "content": {
-            "notes": {
-              "type": "notes",
-              "files": [
-                {
-                  "name": "PIL_993894ad.pdf",
-                  "title": "PIL",
-                  "uuid": "993894ad",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/13.PyImage(PIL)/notes/PIL_993894ad.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/13.PyImage%28PIL%29/notes/PIL_993894ad.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/13.PyImage%28PIL%29/notes/PIL_993894ad.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/13.PyImage%28PIL%29/notes/PIL_993894ad.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -2713,6 +2773,38 @@
                   "faculty": "Kundhavai K R",
                   "date": "08/12/2025 02:59 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "PIL_799d6cd5.pdf",
+                  "title": "PIL",
+                  "uuid": "799d6cd5",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/13.PyImage(PIL)/slides/PIL_799d6cd5.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/13.PyImage%28PIL%29/slides/PIL_799d6cd5.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/13.PyImage%28PIL%29/slides/PIL_799d6cd5.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/13.PyImage%28PIL%29/slides/PIL_799d6cd5.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "PIL_993894ad.pdf",
+                  "title": "PIL",
+                  "uuid": "993894ad",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/13.PyImage(PIL)/notes/PIL_993894ad.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/13.PyImage%28PIL%29/notes/PIL_993894ad.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/13.PyImage%28PIL%29/notes/PIL_993894ad.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/13.PyImage%28PIL%29/notes/PIL_993894ad.pdf"
                 }
               ],
               "count": 1
@@ -2742,6 +2834,22 @@
               ],
               "count": 1
             },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "NLTK_101c6f6b.pdf",
+                  "title": "NLTK",
+                  "uuid": "101c6f6b",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/14.NLTK - Natural Language Toolkit/slides/NLTK_101c6f6b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/14.NLTK%20-%20Natural%20Language%20Toolkit/slides/NLTK_101c6f6b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/14.NLTK%20-%20Natural%20Language%20Toolkit/slides/NLTK_101c6f6b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/14.NLTK%20-%20Natural%20Language%20Toolkit/slides/NLTK_101c6f6b.pdf"
+                }
+              ],
+              "count": 1
+            },
             "notes": {
               "type": "notes",
               "files": [
@@ -2767,6 +2875,22 @@
           "folder_name": "15.Overview of machine learning in Python, Loading datasets Simple model building.",
           "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/15.Overview of machine learning in Python, Loading datasets Simple model building.",
           "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "ML and Sklearn_d35cea37.pdf",
+                  "title": "ML and Sklearn",
+                  "uuid": "d35cea37",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/15.Overview of machine learning in Python, Loading datasets Simple model building./slides/ML and Sklearn_d35cea37.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/15.Overview%20of%20machine%20learning%20in%20Python%2C%20Loading%20datasets%20Simple%20model%20building./slides/ML%20and%20Sklearn_d35cea37.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/15.Overview%20of%20machine%20learning%20in%20Python%2C%20Loading%20datasets%20Simple%20model%20building./slides/ML%20and%20Sklearn_d35cea37.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/15.Overview%20of%20machine%20learning%20in%20Python%2C%20Loading%20datasets%20Simple%20model%20building./slides/ML%20and%20Sklearn_d35cea37.pdf"
+                }
+              ],
+              "count": 1
+            },
             "notes": {
               "type": "notes",
               "files": [
@@ -2792,6 +2916,22 @@
           "folder_name": "16.Introduction to Re Module - Regular Expression",
           "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/16.Introduction to Re Module - Regular Expression",
           "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Re Module_90427799.pdf",
+                  "title": "Re Module",
+                  "uuid": "90427799",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/16.Introduction to Re Module - Regular Expression/slides/Re Module_90427799.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/16.Introduction%20to%20Re%20Module%20-%20Regular%20Expression/slides/Re%20Module_90427799.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/16.Introduction%20to%20Re%20Module%20-%20Regular%20Expression/slides/Re%20Module_90427799.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/16.Introduction%20to%20Re%20Module%20-%20Regular%20Expression/slides/Re%20Module_90427799.pdf"
+                }
+              ],
+              "count": 1
+            },
             "notes": {
               "type": "notes",
               "files": [
@@ -2959,22 +3099,6 @@
           "folder_name": "21.Graphical User Interface with WxPython",
           "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/21.Graphical User Interface with WxPython",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "wxPython_Slides_621d9a27.pdf",
-                  "title": "wxPython Slides",
-                  "uuid": "621d9a27",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/21.Graphical User Interface with WxPython/slides/wxPython_Slides_621d9a27.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/21.Graphical%20User%20Interface%20with%20WxPython/slides/wxPython_Slides_621d9a27.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/21.Graphical%20User%20Interface%20with%20WxPython/slides/wxPython_Slides_621d9a27.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/21.Graphical%20User%20Interface%20with%20WxPython/slides/wxPython_Slides_621d9a27.pdf"
-                }
-              ],
-              "count": 1
-            },
             "notes": {
               "type": "notes",
               "files": [
@@ -2987,6 +3111,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/21.Graphical%20User%20Interface%20with%20WxPython/notes/WxPython_26160c04.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/21.Graphical%20User%20Interface%20with%20WxPython/notes/WxPython_26160c04.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/21.Graphical%20User%20Interface%20with%20WxPython/notes/WxPython_26160c04.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "wxPython_Slides_621d9a27.pdf",
+                  "title": "wxPython Slides",
+                  "uuid": "621d9a27",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 3 - Functions, GUI, Modules, Testing and Debugging/21.Graphical User Interface with WxPython/slides/wxPython_Slides_621d9a27.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/21.Graphical%20User%20Interface%20with%20WxPython/slides/wxPython_Slides_621d9a27.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/21.Graphical%20User%20Interface%20with%20WxPython/slides/wxPython_Slides_621d9a27.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%203%20-%20Functions%2C%20GUI%2C%20Modules%2C%20Testing%20and%20Debugging/21.Graphical%20User%20Interface%20with%20WxPython/slides/wxPython_Slides_621d9a27.pdf"
                 }
               ],
               "count": 1
@@ -3007,22 +3147,6 @@
           "folder_name": "1.Functional programming,Lambda,Map Functions",
           "path": "UE25CS151A/UNIT 4- Functional and Object Oriented Programming/1.Functional programming,Lambda,Map Functions",
           "content": {
-            "qa": {
-              "type": "qa",
-              "files": [
-                {
-                  "name": "UNIT_4_Questionbank_Answer_d13099f5.pdf",
-                  "title": "UNIT 4 Questionbank Answer",
-                  "uuid": "d13099f5",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 4- Functional and Object Oriented Programming/1.Functional programming,Lambda,Map Functions/qa/UNIT_4_Questionbank_Answer_d13099f5.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/1.Functional%20programming%2CLambda%2CMap%20Functions/qa/UNIT_4_Questionbank_Answer_d13099f5.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/1.Functional%20programming%2CLambda%2CMap%20Functions/qa/UNIT_4_Questionbank_Answer_d13099f5.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/1.Functional%20programming%2CLambda%2CMap%20Functions/qa/UNIT_4_Questionbank_Answer_d13099f5.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -3035,22 +3159,6 @@
                   "faculty": "Manju More E",
                   "date": "12/12/2023 10:48 AM",
                   "section": "NA"
-                }
-              ],
-              "count": 1
-            },
-            "notes": {
-              "type": "notes",
-              "files": [
-                {
-                  "name": "UE23CS151A_PCPS_Unit_4_SindhuRPai_ManjuMore_Class_91_Functional_programming_map_lambda_d1309888.pdf",
-                  "title": "UE23CS151A PCPS Unit 4 SindhuRPai ManjuMore Class 91 Functional programming map lambda",
-                  "uuid": "d1309888",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 4- Functional and Object Oriented Programming/1.Functional programming,Lambda,Map Functions/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_ManjuMore_Class_91_Functional_programming_map_lambda_d1309888.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/1.Functional%20programming%2CLambda%2CMap%20Functions/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_ManjuMore_Class_91_Functional_programming_map_lambda_d1309888.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/1.Functional%20programming%2CLambda%2CMap%20Functions/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_ManjuMore_Class_91_Functional_programming_map_lambda_d1309888.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/1.Functional%20programming%2CLambda%2CMap%20Functions/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_ManjuMore_Class_91_Functional_programming_map_lambda_d1309888.pdf"
                 }
               ],
               "count": 1
@@ -3086,6 +3194,38 @@
                 }
               ],
               "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "UE23CS151A_PCPS_Unit_4_SindhuRPai_ManjuMore_Class_91_Functional_programming_map_lambda_d1309888.pdf",
+                  "title": "UE23CS151A PCPS Unit 4 SindhuRPai ManjuMore Class 91 Functional programming map lambda",
+                  "uuid": "d1309888",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 4- Functional and Object Oriented Programming/1.Functional programming,Lambda,Map Functions/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_ManjuMore_Class_91_Functional_programming_map_lambda_d1309888.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/1.Functional%20programming%2CLambda%2CMap%20Functions/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_ManjuMore_Class_91_Functional_programming_map_lambda_d1309888.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/1.Functional%20programming%2CLambda%2CMap%20Functions/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_ManjuMore_Class_91_Functional_programming_map_lambda_d1309888.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/1.Functional%20programming%2CLambda%2CMap%20Functions/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_ManjuMore_Class_91_Functional_programming_map_lambda_d1309888.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "UNIT_4_Questionbank_Answer_d13099f5.pdf",
+                  "title": "UNIT 4 Questionbank Answer",
+                  "uuid": "d13099f5",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 4- Functional and Object Oriented Programming/1.Functional programming,Lambda,Map Functions/qa/UNIT_4_Questionbank_Answer_d13099f5.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/1.Functional%20programming%2CLambda%2CMap%20Functions/qa/UNIT_4_Questionbank_Answer_d13099f5.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/1.Functional%20programming%2CLambda%2CMap%20Functions/qa/UNIT_4_Questionbank_Answer_d13099f5.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/1.Functional%20programming%2CLambda%2CMap%20Functions/qa/UNIT_4_Questionbank_Answer_d13099f5.pdf"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -3112,22 +3252,6 @@
               ],
               "count": 1
             },
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "Lambda Function",
-                  "provider": "vimeo",
-                  "video_id": "478786988",
-                  "video_url": "https://player.vimeo.com/video/478786988?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/478786988",
-                  "faculty": "Prof Sindhu Pai",
-                  "date": "20/12/2023 08:42 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -3140,6 +3264,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/2.Filter/slides/UE24CS151A_PCPS_Unit_4_Sindhu_Class_2_Functional_programming_filter_d131a669.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/2.Filter/slides/UE24CS151A_PCPS_Unit_4_Sindhu_Class_2_Functional_programming_filter_d131a669.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/2.Filter/slides/UE24CS151A_PCPS_Unit_4_Sindhu_Class_2_Functional_programming_filter_d131a669.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Lambda Function",
+                  "provider": "vimeo",
+                  "video_id": "478786988",
+                  "video_url": "https://player.vimeo.com/video/478786988?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/478786988",
+                  "faculty": "Prof Sindhu Pai",
+                  "date": "20/12/2023 08:42 PM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -3228,6 +3368,22 @@
           "folder_name": "6.Zip and List Comprehension",
           "path": "UE25CS151A/UNIT 4- Functional and Object Oriented Programming/6.Zip and List Comprehension",
           "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "List Comprehension",
+                  "provider": "vimeo",
+                  "video_id": "469724714",
+                  "video_url": "https://player.vimeo.com/video/469724714?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/469724714",
+                  "faculty": "Prof Sindhu Pai",
+                  "date": "20/12/2023 08:48 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
             "notes": {
               "type": "notes",
               "files": [
@@ -3253,22 +3409,6 @@
                 }
               ],
               "count": 2
-            },
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "List Comprehension",
-                  "provider": "vimeo",
-                  "video_id": "469724714",
-                  "video_url": "https://player.vimeo.com/video/469724714?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/469724714",
-                  "faculty": "Prof Sindhu Pai",
-                  "date": "20/12/2023 08:48 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
             },
             "slides": {
               "type": "slides",
@@ -3330,22 +3470,6 @@
           "folder_name": "8.Introduction to Object Oriented programming",
           "path": "UE25CS151A/UNIT 4- Functional and Object Oriented Programming/8.Introduction to Object Oriented programming",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "UE24CS151A_PCPS_Unit_4_SindhuRPai_Class_8_9_OOP_d1311138.pdf",
-                  "title": "UE24CS151A PCPS Unit 4 SindhuRPai Class 8 9 OOP",
-                  "uuid": "d1311138",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 4- Functional and Object Oriented Programming/8.Introduction to Object Oriented programming/slides/UE24CS151A_PCPS_Unit_4_SindhuRPai_Class_8_9_OOP_d1311138.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/8.Introduction%20to%20Object%20Oriented%20programming/slides/UE24CS151A_PCPS_Unit_4_SindhuRPai_Class_8_9_OOP_d1311138.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/8.Introduction%20to%20Object%20Oriented%20programming/slides/UE24CS151A_PCPS_Unit_4_SindhuRPai_Class_8_9_OOP_d1311138.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/8.Introduction%20to%20Object%20Oriented%20programming/slides/UE24CS151A_PCPS_Unit_4_SindhuRPai_Class_8_9_OOP_d1311138.pdf"
-                }
-              ],
-              "count": 1
-            },
             "notes": {
               "type": "notes",
               "files": [
@@ -3358,6 +3482,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/8.Introduction%20to%20Object%20Oriented%20programming/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_Ramya_Class_98_Intro_to_OOP_d13113c6.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/8.Introduction%20to%20Object%20Oriented%20programming/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_Ramya_Class_98_Intro_to_OOP_d13113c6.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/8.Introduction%20to%20Object%20Oriented%20programming/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_Ramya_Class_98_Intro_to_OOP_d13113c6.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE24CS151A_PCPS_Unit_4_SindhuRPai_Class_8_9_OOP_d1311138.pdf",
+                  "title": "UE24CS151A PCPS Unit 4 SindhuRPai Class 8 9 OOP",
+                  "uuid": "d1311138",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 4- Functional and Object Oriented Programming/8.Introduction to Object Oriented programming/slides/UE24CS151A_PCPS_Unit_4_SindhuRPai_Class_8_9_OOP_d1311138.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/8.Introduction%20to%20Object%20Oriented%20programming/slides/UE24CS151A_PCPS_Unit_4_SindhuRPai_Class_8_9_OOP_d1311138.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/8.Introduction%20to%20Object%20Oriented%20programming/slides/UE24CS151A_PCPS_Unit_4_SindhuRPai_Class_8_9_OOP_d1311138.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/8.Introduction%20to%20Object%20Oriented%20programming/slides/UE24CS151A_PCPS_Unit_4_SindhuRPai_Class_8_9_OOP_d1311138.pdf"
                 }
               ],
               "count": 1
@@ -3576,22 +3716,6 @@
           "folder_name": "14.Exception",
           "path": "UE25CS151A/UNIT 4- Functional and Object Oriented Programming/14.Exception",
           "content": {
-            "notes": {
-              "type": "notes",
-              "files": [
-                {
-                  "name": "UE23CS151A_PCPS_Unit_4_SindhuRPai_Class_107_Exception_handling_d131d3ff.pdf",
-                  "title": "UE23CS151A PCPS Unit 4 SindhuRPai Class 107 Exception handling",
-                  "uuid": "d131d3ff",
-                  "extension": "pdf",
-                  "path": "UE25CS151A/UNIT 4- Functional and Object Oriented Programming/14.Exception/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_Class_107_Exception_handling_d131d3ff.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/14.Exception/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_Class_107_Exception_handling_d131d3ff.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/14.Exception/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_Class_107_Exception_handling_d131d3ff.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/14.Exception/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_Class_107_Exception_handling_d131d3ff.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -3620,6 +3744,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/14.Exception/slides/UE24CS151A_PCPS_Unit_4_SindhuRPai_Class_14_15_Exceptional_Handling_d131d236.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/14.Exception/slides/UE24CS151A_PCPS_Unit_4_SindhuRPai_Class_14_15_Exceptional_Handling_d131d236.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/14.Exception/slides/UE24CS151A_PCPS_Unit_4_SindhuRPai_Class_14_15_Exceptional_Handling_d131d236.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "UE23CS151A_PCPS_Unit_4_SindhuRPai_Class_107_Exception_handling_d131d3ff.pdf",
+                  "title": "UE23CS151A PCPS Unit 4 SindhuRPai Class 107 Exception handling",
+                  "uuid": "d131d3ff",
+                  "extension": "pdf",
+                  "path": "UE25CS151A/UNIT 4- Functional and Object Oriented Programming/14.Exception/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_Class_107_Exception_handling_d131d3ff.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/14.Exception/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_Class_107_Exception_handling_d131d3ff.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/14.Exception/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_Class_107_Exception_handling_d131d3ff.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151A/UNIT%204-%20Functional%20and%20Object%20Oriented%20Programming/14.Exception/notes/UE23CS151A_PCPS_Unit_4_SindhuRPai_Class_107_Exception_handling_d131d3ff.pdf"
                 }
               ],
               "count": 1
@@ -3681,5 +3821,5 @@
   ],
   "total_units": 5,
   "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE25CS151A",
-  "updated_at": "2026-01-22T19:22:42.522259"
+  "updated_at": "2026-01-22T21:01:04.879647"
 }
