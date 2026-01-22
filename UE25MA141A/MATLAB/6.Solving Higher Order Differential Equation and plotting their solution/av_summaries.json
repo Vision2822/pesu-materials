@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25MA141A",
+  "unit_title": "MATLAB",
+  "videos": [
+    {
+      "title": "Video",
+      "provider": "vimeo",
+      "video_id": "1125464880",
+      "video_url": "https://player.vimeo.com/video/1125464880?h=cb269f0d34&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1125464880?h=cb269f0d34",
+      "faculty": "Dr. Nagesh H M",
+      "date": "08/10/2025 03:04 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T19:22:20.887519"
+}

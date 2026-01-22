@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25MA141A",
+  "unit_title": "MATLAB",
+  "videos": [
+    {
+      "title": "Data types; relational operators; logical operators",
+      "provider": "vimeo",
+      "video_id": "1107983252",
+      "video_url": "https://player.vimeo.com/video/1107983252?h=49d2d6a01c&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1107983252?h=49d2d6a01c",
+      "faculty": "Dr. Nagesh H M",
+      "date": "07/08/2025 10:15 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T19:22:20.791578"
+}
