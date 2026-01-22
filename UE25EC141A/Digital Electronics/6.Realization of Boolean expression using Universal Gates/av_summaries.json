@@ -1,0 +1,27 @@
+{
+  "course_code": "UE25EC141A",
+  "unit_title": "Digital Electronics ",
+  "videos": [
+    {
+      "title": "Numericals",
+      "provider": "vimeo",
+      "video_id": "1111646545",
+      "video_url": "https://player.vimeo.com/video/1111646545?h=d857bc437c&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1111646545?h=d857bc437c",
+      "faculty": "Ananda M",
+      "date": "20/08/2025 06:14 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Realization of Boolean expression using Universal Gates",
+      "provider": "vimeo",
+      "video_id": "1111644955",
+      "video_url": "https://player.vimeo.com/video/1111644955?h=f4bd6b4a9d&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1111644955?h=f4bd6b4a9d",
+      "faculty": "Ananda M",
+      "date": "20/08/2025 06:09 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T19:00:21.445047"
+}

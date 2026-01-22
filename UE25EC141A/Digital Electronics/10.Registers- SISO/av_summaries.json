@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25EC141A",
+  "unit_title": "Digital Electronics ",
+  "videos": [
+    {
+      "title": "Registers: SISO",
+      "provider": "vimeo",
+      "video_id": "1111647438",
+      "video_url": "https://player.vimeo.com/video/1111647438?h=c9cc5ccc44&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1111647438?h=c9cc5ccc44",
+      "faculty": "Ananda M",
+      "date": "20/08/2025 06:17 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T19:00:21.666364"
+}

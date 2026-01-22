@@ -1,0 +1,27 @@
+{
+  "course_code": "UE25EC141A",
+  "unit_title": "Digital Electronics ",
+  "videos": [
+    {
+      "title": "Number Systems",
+      "provider": "vimeo",
+      "video_id": "1111597194",
+      "video_url": "https://player.vimeo.com/video/1111597194?h=ee2bf2b1d9&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1111597194?h=ee2bf2b1d9",
+      "faculty": "Ananda M",
+      "date": "20/08/2025 02:48 PM",
+      "section": "NA"
+    },
+    {
+      "title": "1's and 2's complement subtraction.",
+      "provider": "vimeo",
+      "video_id": "1111598640",
+      "video_url": "https://player.vimeo.com/video/1111598640?h=e332eaf6e9&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1111598640?h=e332eaf6e9",
+      "faculty": "Ananda M",
+      "date": "20/08/2025 02:55 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T19:00:21.147262"
+}

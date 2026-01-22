@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25EC141A",
+  "unit_title": "Digital Electronics ",
+  "videos": [
+    {
+      "title": "Boolean Functions, Canonical and Standard Form",
+      "provider": "vimeo",
+      "video_id": "1111644481",
+      "video_url": "https://player.vimeo.com/video/1111644481?h=76cc3013f9&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1111644481?h=76cc3013f9",
+      "faculty": "Ananda M",
+      "date": "20/08/2025 06:07 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T19:00:21.873472"
+}
