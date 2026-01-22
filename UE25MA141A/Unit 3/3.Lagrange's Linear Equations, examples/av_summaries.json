@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25MA141A",
+  "unit_title": "Unit 3",
+  "videos": [
+    {
+      "title": "Session-3",
+      "provider": "vimeo",
+      "video_id": "1136193343",
+      "video_url": "https://player.vimeo.com/video/1136193343?h=72ba7b1962&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1136193343?h=72ba7b1962",
+      "faculty": "Dr. Nagesh H M",
+      "date": "12/11/2025 11:28 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T19:21:45.907791"
+}
