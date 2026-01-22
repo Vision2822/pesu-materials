@@ -653,6 +653,32 @@
           "folder_name": "1.Class 18_Introduction to Equilibrium",
           "path": "UE25CV141A/UNIT 2/1.Class 18_Introduction to Equilibrium",
           "content": {
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "UE20CV101_ UNIT 2_ Assignment_66cdb1c7.pdf",
+                  "title": "UE20CV101  UNIT 2  Assignment",
+                  "uuid": "66cdb1c7",
+                  "extension": "pdf",
+                  "path": "UE25CV141A/UNIT 2/1.Class 18_Introduction to Equilibrium/assignment/UE20CV101_ UNIT 2_ Assignment_66cdb1c7.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%202/1.Class%2018_Introduction%20to%20Equilibrium/assignment/UE20CV101_%20UNIT%202_%20Assignment_66cdb1c7.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%202/1.Class%2018_Introduction%20to%20Equilibrium/assignment/UE20CV101_%20UNIT%202_%20Assignment_66cdb1c7.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%202/1.Class%2018_Introduction%20to%20Equilibrium/assignment/UE20CV101_%20UNIT%202_%20Assignment_66cdb1c7.pdf"
+                },
+                {
+                  "name": "Assignment_66cdb26c.pdf",
+                  "title": "Assignment",
+                  "uuid": "66cdb26c",
+                  "extension": "pdf",
+                  "path": "UE25CV141A/UNIT 2/1.Class 18_Introduction to Equilibrium/assignment/Assignment_66cdb26c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%202/1.Class%2018_Introduction%20to%20Equilibrium/assignment/Assignment_66cdb26c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%202/1.Class%2018_Introduction%20to%20Equilibrium/assignment/Assignment_66cdb26c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%202/1.Class%2018_Introduction%20to%20Equilibrium/assignment/Assignment_66cdb26c.pdf"
+                }
+              ],
+              "count": 2
+            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -684,32 +710,6 @@
                 }
               ],
               "count": 1
-            },
-            "assignment": {
-              "type": "assignment",
-              "files": [
-                {
-                  "name": "UE20CV101_ UNIT 2_ Assignment_66cdb1c7.pdf",
-                  "title": "UE20CV101  UNIT 2  Assignment",
-                  "uuid": "66cdb1c7",
-                  "extension": "pdf",
-                  "path": "UE25CV141A/UNIT 2/1.Class 18_Introduction to Equilibrium/assignment/UE20CV101_ UNIT 2_ Assignment_66cdb1c7.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%202/1.Class%2018_Introduction%20to%20Equilibrium/assignment/UE20CV101_%20UNIT%202_%20Assignment_66cdb1c7.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%202/1.Class%2018_Introduction%20to%20Equilibrium/assignment/UE20CV101_%20UNIT%202_%20Assignment_66cdb1c7.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%202/1.Class%2018_Introduction%20to%20Equilibrium/assignment/UE20CV101_%20UNIT%202_%20Assignment_66cdb1c7.pdf"
-                },
-                {
-                  "name": "Assignment_66cdb26c.pdf",
-                  "title": "Assignment",
-                  "uuid": "66cdb26c",
-                  "extension": "pdf",
-                  "path": "UE25CV141A/UNIT 2/1.Class 18_Introduction to Equilibrium/assignment/Assignment_66cdb26c.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%202/1.Class%2018_Introduction%20to%20Equilibrium/assignment/Assignment_66cdb26c.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%202/1.Class%2018_Introduction%20to%20Equilibrium/assignment/Assignment_66cdb26c.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%202/1.Class%2018_Introduction%20to%20Equilibrium/assignment/Assignment_66cdb26c.pdf"
-                }
-              ],
-              "count": 2
             },
             "references": {
               "type": "references",
@@ -1156,22 +1156,6 @@
           "folder_name": "1.CLASS 41 Introduction to Centroid",
           "path": "UE25CV141A/UNIT 3/1.CLASS 41 Introduction to Centroid",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "Centroid_7668fdd9.pdf",
-                  "title": "Centroid",
-                  "uuid": "7668fdd9",
-                  "extension": "pdf",
-                  "path": "UE25CV141A/UNIT 3/1.CLASS 41 Introduction to Centroid/slides/Centroid_7668fdd9.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/1.CLASS%2041%20Introduction%20to%20Centroid/slides/Centroid_7668fdd9.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%203/1.CLASS%2041%20Introduction%20to%20Centroid/slides/Centroid_7668fdd9.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/1.CLASS%2041%20Introduction%20to%20Centroid/slides/Centroid_7668fdd9.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -1219,6 +1203,22 @@
                 }
               ],
               "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Centroid_7668fdd9.pdf",
+                  "title": "Centroid",
+                  "uuid": "7668fdd9",
+                  "extension": "pdf",
+                  "path": "UE25CV141A/UNIT 3/1.CLASS 41 Introduction to Centroid/slides/Centroid_7668fdd9.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/1.CLASS%2041%20Introduction%20to%20Centroid/slides/Centroid_7668fdd9.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%203/1.CLASS%2041%20Introduction%20to%20Centroid/slides/Centroid_7668fdd9.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/1.CLASS%2041%20Introduction%20to%20Centroid/slides/Centroid_7668fdd9.pdf"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -1245,22 +1245,6 @@
               ],
               "count": 1
             },
-            "assignment": {
-              "type": "assignment",
-              "files": [
-                {
-                  "name": "ASSIGNMENT- 2_7669701d.pdf",
-                  "title": "ASSIGNMENT- 2",
-                  "uuid": "7669701d",
-                  "extension": "pdf",
-                  "path": "UE25CV141A/UNIT 3/2.CLASS 42 Location of the Centroid of a Sector and Semicircular Lamina/assignment/ASSIGNMENT- 2_7669701d.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/2.CLASS%2042%20Location%20of%20the%20Centroid%20of%20a%20Sector%20and%20Semicircular%20Lamina/assignment/ASSIGNMENT-%202_7669701d.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%203/2.CLASS%2042%20Location%20of%20the%20Centroid%20of%20a%20Sector%20and%20Semicircular%20Lamina/assignment/ASSIGNMENT-%202_7669701d.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/2.CLASS%2042%20Location%20of%20the%20Centroid%20of%20a%20Sector%20and%20Semicircular%20Lamina/assignment/ASSIGNMENT-%202_7669701d.pdf"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -1273,6 +1257,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/2.CLASS%2042%20Location%20of%20the%20Centroid%20of%20a%20Sector%20and%20Semicircular%20Lamina/slides/UE20CV101_UNIT%204_%20SESSION-2_76696f3e.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%203/2.CLASS%2042%20Location%20of%20the%20Centroid%20of%20a%20Sector%20and%20Semicircular%20Lamina/slides/UE20CV101_UNIT%204_%20SESSION-2_76696f3e.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/2.CLASS%2042%20Location%20of%20the%20Centroid%20of%20a%20Sector%20and%20Semicircular%20Lamina/slides/UE20CV101_UNIT%204_%20SESSION-2_76696f3e.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "ASSIGNMENT- 2_7669701d.pdf",
+                  "title": "ASSIGNMENT- 2",
+                  "uuid": "7669701d",
+                  "extension": "pdf",
+                  "path": "UE25CV141A/UNIT 3/2.CLASS 42 Location of the Centroid of a Sector and Semicircular Lamina/assignment/ASSIGNMENT- 2_7669701d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/2.CLASS%2042%20Location%20of%20the%20Centroid%20of%20a%20Sector%20and%20Semicircular%20Lamina/assignment/ASSIGNMENT-%202_7669701d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%203/2.CLASS%2042%20Location%20of%20the%20Centroid%20of%20a%20Sector%20and%20Semicircular%20Lamina/assignment/ASSIGNMENT-%202_7669701d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/2.CLASS%2042%20Location%20of%20the%20Centroid%20of%20a%20Sector%20and%20Semicircular%20Lamina/assignment/ASSIGNMENT-%202_7669701d.pdf"
                 }
               ],
               "count": 1
@@ -1343,6 +1343,22 @@
           "folder_name": "4.CLASS 44 Centroid_ Numerical",
           "path": "UE25CV141A/UNIT 3/4.CLASS 44 Centroid_ Numerical",
           "content": {
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "ASSIGNMENT- 4_76697c7d.pdf",
+                  "title": "ASSIGNMENT- 4",
+                  "uuid": "76697c7d",
+                  "extension": "pdf",
+                  "path": "UE25CV141A/UNIT 3/4.CLASS 44 Centroid_ Numerical/assignment/ASSIGNMENT- 4_76697c7d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/4.CLASS%2044%20Centroid_%20Numerical/assignment/ASSIGNMENT-%204_76697c7d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%203/4.CLASS%2044%20Centroid_%20Numerical/assignment/ASSIGNMENT-%204_76697c7d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/4.CLASS%2044%20Centroid_%20Numerical/assignment/ASSIGNMENT-%204_76697c7d.pdf"
+                }
+              ],
+              "count": 1
+            },
             "slides": {
               "type": "slides",
               "files": [
@@ -1371,22 +1387,6 @@
                   "faculty": "S V Venkatesh",
                   "date": "26/06/2021 12:02 PM",
                   "section": "NA"
-                }
-              ],
-              "count": 1
-            },
-            "assignment": {
-              "type": "assignment",
-              "files": [
-                {
-                  "name": "ASSIGNMENT- 4_76697c7d.pdf",
-                  "title": "ASSIGNMENT- 4",
-                  "uuid": "76697c7d",
-                  "extension": "pdf",
-                  "path": "UE25CV141A/UNIT 3/4.CLASS 44 Centroid_ Numerical/assignment/ASSIGNMENT- 4_76697c7d.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/4.CLASS%2044%20Centroid_%20Numerical/assignment/ASSIGNMENT-%204_76697c7d.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%203/4.CLASS%2044%20Centroid_%20Numerical/assignment/ASSIGNMENT-%204_76697c7d.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/4.CLASS%2044%20Centroid_%20Numerical/assignment/ASSIGNMENT-%204_76697c7d.pdf"
                 }
               ],
               "count": 1
@@ -1441,22 +1441,6 @@
           "folder_name": "9.CLASS 49 Beams_Numerical",
           "path": "UE25CV141A/UNIT 3/9.CLASS 49 Beams_Numerical",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "CLASS 30 Beams_Numerical",
-                  "provider": "vimeo",
-                  "video_id": "567369935",
-                  "video_url": "https://player.vimeo.com/video/567369935?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/567369935",
-                  "faculty": "S V Venkatesh",
-                  "date": "25/06/2021 12:30 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -1469,6 +1453,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/9.CLASS%2049%20Beams_Numerical/slides/UE20CV101_UNIT-3%20_ONLINE%20SESSION-%208_766a8ec3.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%203/9.CLASS%2049%20Beams_Numerical/slides/UE20CV101_UNIT-3%20_ONLINE%20SESSION-%208_766a8ec3.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/9.CLASS%2049%20Beams_Numerical/slides/UE20CV101_UNIT-3%20_ONLINE%20SESSION-%208_766a8ec3.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "CLASS 30 Beams_Numerical",
+                  "provider": "vimeo",
+                  "video_id": "567369935",
+                  "video_url": "https://player.vimeo.com/video/567369935?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/567369935",
+                  "faculty": "S V Venkatesh",
+                  "date": "25/06/2021 12:30 PM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -1555,6 +1555,22 @@
           "folder_name": "11.CLASS 51 Beams_Numerical",
           "path": "UE25CV141A/UNIT 3/11.CLASS 51 Beams_Numerical",
           "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "CLASS 32 Beams_Numerical",
+                  "provider": "vimeo",
+                  "video_id": "567373566",
+                  "video_url": "https://player.vimeo.com/video/567373566?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/567373566",
+                  "faculty": "S V Venkatesh",
+                  "date": "25/06/2021 12:43 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
             "slides": {
               "type": "slides",
               "files": [
@@ -1583,22 +1599,6 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/11.CLASS%2051%20Beams_Numerical/assignment/Unit_3.%20Assignment%2010_766ac038.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%203/11.CLASS%2051%20Beams_Numerical/assignment/Unit_3.%20Assignment%2010_766ac038.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%203/11.CLASS%2051%20Beams_Numerical/assignment/Unit_3.%20Assignment%2010_766ac038.pdf"
-                }
-              ],
-              "count": 1
-            },
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "CLASS 32 Beams_Numerical",
-                  "provider": "vimeo",
-                  "video_id": "567373566",
-                  "video_url": "https://player.vimeo.com/video/567373566?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/567373566",
-                  "faculty": "S V Venkatesh",
-                  "date": "25/06/2021 12:43 PM",
-                  "section": "NA"
                 }
               ],
               "count": 1
@@ -1801,22 +1801,6 @@
               ],
               "count": 1
             },
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "CLASS 38 Moment of Inertia_ Numerical",
-                  "provider": "vimeo",
-                  "video_id": "567776483",
-                  "video_url": "https://player.vimeo.com/video/567776483?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/567776483",
-                  "faculty": "S V Venkatesh",
-                  "date": "26/06/2021 12:14 PM",
-                  "section": "NA"
-                }
-              ],
-              "count": 1
-            },
             "assignment": {
               "type": "assignment",
               "files": [
@@ -1832,6 +1816,22 @@
                 }
               ],
               "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "CLASS 38 Moment of Inertia_ Numerical",
+                  "provider": "vimeo",
+                  "video_id": "567776483",
+                  "video_url": "https://player.vimeo.com/video/567776483?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/567776483",
+                  "faculty": "S V Venkatesh",
+                  "date": "26/06/2021 12:14 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -1842,22 +1842,6 @@
           "folder_name": "4.CLASS 63 Moment of Inertia_ Numerical",
           "path": "UE25CV141A/UNIT 4/4.CLASS 63 Moment of Inertia_ Numerical",
           "content": {
-            "assignment": {
-              "type": "assignment",
-              "files": [
-                {
-                  "name": "UNIT 4_ ASSIGNMENT- 8_7669bf44.pdf",
-                  "title": "UNIT 4  ASSIGNMENT- 8",
-                  "uuid": "7669bf44",
-                  "extension": "pdf",
-                  "path": "UE25CV141A/UNIT 4/4.CLASS 63 Moment of Inertia_ Numerical/assignment/UNIT 4_ ASSIGNMENT- 8_7669bf44.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/4.CLASS%2063%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%208_7669bf44.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/4.CLASS%2063%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%208_7669bf44.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/4.CLASS%2063%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%208_7669bf44.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -1884,6 +1868,22 @@
               ],
               "count": 2
             },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "UNIT 4_ ASSIGNMENT- 8_7669bf44.pdf",
+                  "title": "UNIT 4  ASSIGNMENT- 8",
+                  "uuid": "7669bf44",
+                  "extension": "pdf",
+                  "path": "UE25CV141A/UNIT 4/4.CLASS 63 Moment of Inertia_ Numerical/assignment/UNIT 4_ ASSIGNMENT- 8_7669bf44.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/4.CLASS%2063%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%208_7669bf44.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/4.CLASS%2063%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%208_7669bf44.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/4.CLASS%2063%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%208_7669bf44.pdf"
+                }
+              ],
+              "count": 1
+            },
             "slides": {
               "type": "slides",
               "files": [
@@ -1909,18 +1909,18 @@
           "folder_name": "5.CLASS 64 Moment of Inertia_ Numerical",
           "path": "UE25CV141A/UNIT 4/5.CLASS 64 Moment of Inertia_ Numerical",
           "content": {
-            "av_summary": {
-              "type": "video",
-              "videos": [
+            "slides": {
+              "type": "slides",
+              "files": [
                 {
-                  "title": "CLASS 40 Moment of Inertia_ Numerical",
-                  "provider": "vimeo",
-                  "video_id": "567776856",
-                  "video_url": "https://player.vimeo.com/video/567776856?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/567776856",
-                  "faculty": "S V Venkatesh",
-                  "date": "26/06/2021 12:17 PM",
-                  "section": "NA"
+                  "name": "UE20CV101_UNIT 4_ SESSION-9_7669c530.pdf",
+                  "title": "UE20CV101 UNIT 4  SESSION-9",
+                  "uuid": "7669c530",
+                  "extension": "pdf",
+                  "path": "UE25CV141A/UNIT 4/5.CLASS 64 Moment of Inertia_ Numerical/slides/UE20CV101_UNIT 4_ SESSION-9_7669c530.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/5.CLASS%2064%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-9_7669c530.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/5.CLASS%2064%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-9_7669c530.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/5.CLASS%2064%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-9_7669c530.pdf"
                 }
               ],
               "count": 1
@@ -1941,18 +1941,18 @@
               ],
               "count": 1
             },
-            "slides": {
-              "type": "slides",
-              "files": [
+            "av_summary": {
+              "type": "video",
+              "videos": [
                 {
-                  "name": "UE20CV101_UNIT 4_ SESSION-9_7669c530.pdf",
-                  "title": "UE20CV101 UNIT 4  SESSION-9",
-                  "uuid": "7669c530",
-                  "extension": "pdf",
-                  "path": "UE25CV141A/UNIT 4/5.CLASS 64 Moment of Inertia_ Numerical/slides/UE20CV101_UNIT 4_ SESSION-9_7669c530.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/5.CLASS%2064%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-9_7669c530.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/5.CLASS%2064%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-9_7669c530.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/5.CLASS%2064%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-9_7669c530.pdf"
+                  "title": "CLASS 40 Moment of Inertia_ Numerical",
+                  "provider": "vimeo",
+                  "video_id": "567776856",
+                  "video_url": "https://player.vimeo.com/video/567776856?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/567776856",
+                  "faculty": "S V Venkatesh",
+                  "date": "26/06/2021 12:17 PM",
+                  "section": "NA"
                 }
               ],
               "count": 1
@@ -1982,22 +1982,6 @@
               ],
               "count": 1
             },
-            "assignment": {
-              "type": "assignment",
-              "files": [
-                {
-                  "name": "UNIT 4_ ASSIGNMENT- 10_7669ca45.pdf",
-                  "title": "UNIT 4  ASSIGNMENT- 10",
-                  "uuid": "7669ca45",
-                  "extension": "pdf",
-                  "path": "UE25CV141A/UNIT 4/6.CLASS 65 Moment of Inertia_ Numerical/assignment/UNIT 4_ ASSIGNMENT- 10_7669ca45.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/6.CLASS%2065%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%2010_7669ca45.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/6.CLASS%2065%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%2010_7669ca45.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/6.CLASS%2065%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%2010_7669ca45.pdf"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -2010,6 +1994,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/6.CLASS%2065%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-10_7669c9a3.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/6.CLASS%2065%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-10_7669c9a3.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/6.CLASS%2065%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-10_7669c9a3.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "UNIT 4_ ASSIGNMENT- 10_7669ca45.pdf",
+                  "title": "UNIT 4  ASSIGNMENT- 10",
+                  "uuid": "7669ca45",
+                  "extension": "pdf",
+                  "path": "UE25CV141A/UNIT 4/6.CLASS 65 Moment of Inertia_ Numerical/assignment/UNIT 4_ ASSIGNMENT- 10_7669ca45.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/6.CLASS%2065%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%2010_7669ca45.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/6.CLASS%2065%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%2010_7669ca45.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/6.CLASS%2065%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%2010_7669ca45.pdf"
                 }
               ],
               "count": 1
@@ -2039,22 +2039,6 @@
               ],
               "count": 1
             },
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "UE20CV101_UNIT 4_ SESSION-11_7669f726.pdf",
-                  "title": "UE20CV101 UNIT 4  SESSION-11",
-                  "uuid": "7669f726",
-                  "extension": "pdf",
-                  "path": "UE25CV141A/UNIT 4/7.CLASS 66 Moment of Inertia_ Numerical/slides/UE20CV101_UNIT 4_ SESSION-11_7669f726.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/7.CLASS%2066%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-11_7669f726.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/7.CLASS%2066%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-11_7669f726.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/7.CLASS%2066%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-11_7669f726.pdf"
-                }
-              ],
-              "count": 1
-            },
             "assignment": {
               "type": "assignment",
               "files": [
@@ -2067,6 +2051,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/7.CLASS%2066%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%2011_7669f7d4.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/7.CLASS%2066%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%2011_7669f7d4.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/7.CLASS%2066%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%2011_7669f7d4.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE20CV101_UNIT 4_ SESSION-11_7669f726.pdf",
+                  "title": "UE20CV101 UNIT 4  SESSION-11",
+                  "uuid": "7669f726",
+                  "extension": "pdf",
+                  "path": "UE25CV141A/UNIT 4/7.CLASS 66 Moment of Inertia_ Numerical/slides/UE20CV101_UNIT 4_ SESSION-11_7669f726.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/7.CLASS%2066%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-11_7669f726.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/7.CLASS%2066%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-11_7669f726.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/7.CLASS%2066%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-11_7669f726.pdf"
                 }
               ],
               "count": 1
@@ -2096,22 +2096,6 @@
               ],
               "count": 1
             },
-            "assignment": {
-              "type": "assignment",
-              "files": [
-                {
-                  "name": "UNIT 4_ ASSIGNMENT- 6_7669b15a.pdf",
-                  "title": "UNIT 4  ASSIGNMENT- 6",
-                  "uuid": "7669b15a",
-                  "extension": "pdf",
-                  "path": "UE25CV141A/UNIT 4/8.CLASS 67 Moment of Inertia_ Numerical/assignment/UNIT 4_ ASSIGNMENT- 6_7669b15a.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/8.CLASS%2067%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%206_7669b15a.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/8.CLASS%2067%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%206_7669b15a.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/8.CLASS%2067%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%206_7669b15a.pdf"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -2127,6 +2111,22 @@
                 }
               ],
               "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "UNIT 4_ ASSIGNMENT- 6_7669b15a.pdf",
+                  "title": "UNIT 4  ASSIGNMENT- 6",
+                  "uuid": "7669b15a",
+                  "extension": "pdf",
+                  "path": "UE25CV141A/UNIT 4/8.CLASS 67 Moment of Inertia_ Numerical/assignment/UNIT 4_ ASSIGNMENT- 6_7669b15a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/8.CLASS%2067%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%206_7669b15a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/8.CLASS%2067%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%206_7669b15a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/8.CLASS%2067%20Moment%20of%20Inertia_%20Numerical/assignment/UNIT%204_%20ASSIGNMENT-%206_7669b15a.pdf"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -2137,6 +2137,22 @@
           "folder_name": "9.CLASS 68 Moment of Inertia_ Numerical",
           "path": "UE25CV141A/UNIT 4/9.CLASS 68 Moment of Inertia_ Numerical",
           "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "CLASS 43 Moment of Inertia_ Numerical",
+                  "provider": "vimeo",
+                  "video_id": "567777701",
+                  "video_url": "https://player.vimeo.com/video/567777701?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/567777701",
+                  "faculty": "S V Venkatesh",
+                  "date": "26/06/2021 12:23 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
             "assignment": {
               "type": "assignment",
               "files": [
@@ -2165,22 +2181,6 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/9.CLASS%2068%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-12_766a2322.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/9.CLASS%2068%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-12_766a2322.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/9.CLASS%2068%20Moment%20of%20Inertia_%20Numerical/slides/UE20CV101_UNIT%204_%20SESSION-12_766a2322.pdf"
-                }
-              ],
-              "count": 1
-            },
-            "av_summary": {
-              "type": "video",
-              "videos": [
-                {
-                  "title": "CLASS 43 Moment of Inertia_ Numerical",
-                  "provider": "vimeo",
-                  "video_id": "567777701",
-                  "video_url": "https://player.vimeo.com/video/567777701?autoplay=0&loop=1&autopause=0&quality=240p",
-                  "embed_url": "https://player.vimeo.com/video/567777701",
-                  "faculty": "S V Venkatesh",
-                  "date": "26/06/2021 12:23 PM",
-                  "section": "NA"
                 }
               ],
               "count": 1
@@ -2235,22 +2235,6 @@
           "folder_name": "13.CLASS 72 Angle of Repose and Numerical on Friction",
           "path": "UE25CV141A/UNIT 4/13.CLASS 72 Angle of Repose and Numerical on Friction",
           "content": {
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "UE20CV101_UNIT-5_ SESSION-2_907f50ef.pdf",
-                  "title": "UE20CV101 UNIT-5  SESSION-2",
-                  "uuid": "907f50ef",
-                  "extension": "pdf",
-                  "path": "UE25CV141A/UNIT 4/13.CLASS 72 Angle of Repose and Numerical on Friction/slides/UE20CV101_UNIT-5_ SESSION-2_907f50ef.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/13.CLASS%2072%20Angle%20of%20Repose%20and%20Numerical%20on%20Friction/slides/UE20CV101_UNIT-5_%20SESSION-2_907f50ef.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/13.CLASS%2072%20Angle%20of%20Repose%20and%20Numerical%20on%20Friction/slides/UE20CV101_UNIT-5_%20SESSION-2_907f50ef.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/13.CLASS%2072%20Angle%20of%20Repose%20and%20Numerical%20on%20Friction/slides/UE20CV101_UNIT-5_%20SESSION-2_907f50ef.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -2263,6 +2247,22 @@
                   "faculty": "S V Venkatesh",
                   "date": "07/07/2021 05:34 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE20CV101_UNIT-5_ SESSION-2_907f50ef.pdf",
+                  "title": "UE20CV101 UNIT-5  SESSION-2",
+                  "uuid": "907f50ef",
+                  "extension": "pdf",
+                  "path": "UE25CV141A/UNIT 4/13.CLASS 72 Angle of Repose and Numerical on Friction/slides/UE20CV101_UNIT-5_ SESSION-2_907f50ef.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/13.CLASS%2072%20Angle%20of%20Repose%20and%20Numerical%20on%20Friction/slides/UE20CV101_UNIT-5_%20SESSION-2_907f50ef.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/13.CLASS%2072%20Angle%20of%20Repose%20and%20Numerical%20on%20Friction/slides/UE20CV101_UNIT-5_%20SESSION-2_907f50ef.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/13.CLASS%2072%20Angle%20of%20Repose%20and%20Numerical%20on%20Friction/slides/UE20CV101_UNIT-5_%20SESSION-2_907f50ef.pdf"
                 }
               ],
               "count": 1
@@ -2292,22 +2292,6 @@
           "folder_name": "14.CLASS 73 Friction_ Numerical",
           "path": "UE25CV141A/UNIT 4/14.CLASS 73 Friction_ Numerical",
           "content": {
-            "assignment": {
-              "type": "assignment",
-              "files": [
-                {
-                  "name": "UNIT-4_ Assignment-4_907f8266.pdf",
-                  "title": "UNIT-4  Assignment-4",
-                  "uuid": "907f8266",
-                  "extension": "pdf",
-                  "path": "UE25CV141A/UNIT 4/14.CLASS 73 Friction_ Numerical/assignment/UNIT-4_ Assignment-4_907f8266.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/14.CLASS%2073%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-4_907f8266.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/14.CLASS%2073%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-4_907f8266.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/14.CLASS%2073%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-4_907f8266.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -2339,6 +2323,22 @@
                 }
               ],
               "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "UNIT-4_ Assignment-4_907f8266.pdf",
+                  "title": "UNIT-4  Assignment-4",
+                  "uuid": "907f8266",
+                  "extension": "pdf",
+                  "path": "UE25CV141A/UNIT 4/14.CLASS 73 Friction_ Numerical/assignment/UNIT-4_ Assignment-4_907f8266.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/14.CLASS%2073%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-4_907f8266.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/14.CLASS%2073%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-4_907f8266.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/14.CLASS%2073%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-4_907f8266.pdf"
+                }
+              ],
+              "count": 1
             }
           }
         },
@@ -2365,22 +2365,6 @@
               ],
               "count": 1
             },
-            "assignment": {
-              "type": "assignment",
-              "files": [
-                {
-                  "name": "UNIT-4_ Assignment-5_907f8b15.pdf",
-                  "title": "UNIT-4  Assignment-5",
-                  "uuid": "907f8b15",
-                  "extension": "pdf",
-                  "path": "UE25CV141A/UNIT 4/15.CLASS 74 Friction_ Numerical/assignment/UNIT-4_ Assignment-5_907f8b15.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/15.CLASS%2074%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-5_907f8b15.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/15.CLASS%2074%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-5_907f8b15.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/15.CLASS%2074%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-5_907f8b15.pdf"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -2393,6 +2377,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/15.CLASS%2074%20Friction_%20Numerical/slides/UE20CV101_UNIT-5_%20SESSION-5_907f87ca.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/15.CLASS%2074%20Friction_%20Numerical/slides/UE20CV101_UNIT-5_%20SESSION-5_907f87ca.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/15.CLASS%2074%20Friction_%20Numerical/slides/UE20CV101_UNIT-5_%20SESSION-5_907f87ca.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "UNIT-4_ Assignment-5_907f8b15.pdf",
+                  "title": "UNIT-4  Assignment-5",
+                  "uuid": "907f8b15",
+                  "extension": "pdf",
+                  "path": "UE25CV141A/UNIT 4/15.CLASS 74 Friction_ Numerical/assignment/UNIT-4_ Assignment-5_907f8b15.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/15.CLASS%2074%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-5_907f8b15.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/15.CLASS%2074%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-5_907f8b15.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/15.CLASS%2074%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-5_907f8b15.pdf"
                 }
               ],
               "count": 1
@@ -2422,22 +2422,6 @@
               ],
               "count": 1
             },
-            "assignment": {
-              "type": "assignment",
-              "files": [
-                {
-                  "name": "UNIT-4_ Assignment-6_907f954a.pdf",
-                  "title": "UNIT-4  Assignment-6",
-                  "uuid": "907f954a",
-                  "extension": "pdf",
-                  "path": "UE25CV141A/UNIT 4/16.CLASS 75 Friction_ Numerical/assignment/UNIT-4_ Assignment-6_907f954a.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/16.CLASS%2075%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-6_907f954a.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/16.CLASS%2075%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-6_907f954a.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/16.CLASS%2075%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-6_907f954a.pdf"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -2450,6 +2434,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/16.CLASS%2075%20Friction_%20Numerical/slides/UE20CV101_UNIT-5_%20SESSION-6_907f909a.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/16.CLASS%2075%20Friction_%20Numerical/slides/UE20CV101_UNIT-5_%20SESSION-6_907f909a.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/16.CLASS%2075%20Friction_%20Numerical/slides/UE20CV101_UNIT-5_%20SESSION-6_907f909a.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "UNIT-4_ Assignment-6_907f954a.pdf",
+                  "title": "UNIT-4  Assignment-6",
+                  "uuid": "907f954a",
+                  "extension": "pdf",
+                  "path": "UE25CV141A/UNIT 4/16.CLASS 75 Friction_ Numerical/assignment/UNIT-4_ Assignment-6_907f954a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/16.CLASS%2075%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-6_907f954a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CV141A/UNIT%204/16.CLASS%2075%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-6_907f954a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CV141A/UNIT%204/16.CLASS%2075%20Friction_%20Numerical/assignment/UNIT-4_%20Assignment-6_907f954a.pdf"
                 }
               ],
               "count": 1
@@ -2518,5 +2518,5 @@
   ],
   "total_units": 4,
   "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE25CV141A",
-  "updated_at": "2026-01-22T18:52:28.743426"
+  "updated_at": "2026-01-22T19:00:46.464831"
 }
