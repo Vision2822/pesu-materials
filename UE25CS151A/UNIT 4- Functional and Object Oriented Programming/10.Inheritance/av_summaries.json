@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25CS151A",
+  "unit_title": "UNIT 4: Functional & Object Oriented Programming",
+  "videos": [
+    {
+      "title": "Inheritance",
+      "provider": "vimeo",
+      "video_id": "468464232",
+      "video_url": "https://player.vimeo.com/video/468464232?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/468464232",
+      "faculty": "Prof Sindhu Pai",
+      "date": "20/12/2023 08:59 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-01-22T18:48:34.764299"
+}
