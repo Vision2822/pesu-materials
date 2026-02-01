@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25MA141B",
+  "unit_title": "LAPLACE TRANSFORMS",
+  "videos": [
+    {
+      "title": "Class 1- Introduction to Laplace transform",
+      "provider": "vimeo",
+      "video_id": "551888570",
+      "video_url": "https://player.vimeo.com/video/551888570?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/551888570",
+      "faculty": "Anitha N",
+      "date": "18/05/2021 04:47 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-01T17:55:55.435626"
+}
