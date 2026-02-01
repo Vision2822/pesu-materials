@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25MA141B",
+  "unit_title": "MATLAB",
+  "videos": [
+    {
+      "title": "Fourier Transforms",
+      "provider": "vimeo",
+      "video_id": "833593144",
+      "video_url": "https://player.vimeo.com/video/833593144?h=f1026fc1a3&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/833593144?h=f1026fc1a3",
+      "faculty": "Dr. Nagesh H M",
+      "date": "06/06/2023 02:24 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-01T17:57:19.243277"
+}

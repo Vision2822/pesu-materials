@@ -1,0 +1,17 @@
+{
+  "course_code": "UE25MA141B",
+  "unit_title": "MATLAB",
+  "videos": [
+    {
+      "title": "Random Number Generation and Probability Distributions",
+      "provider": "vimeo",
+      "video_id": "822858123",
+      "video_url": "https://player.vimeo.com/video/822858123?h=cd910e6c3a&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/822858123?h=cd910e6c3a",
+      "faculty": "Dr. Nagesh H M",
+      "date": "02/05/2023 08:14 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-01T17:57:18.960493"
+}
