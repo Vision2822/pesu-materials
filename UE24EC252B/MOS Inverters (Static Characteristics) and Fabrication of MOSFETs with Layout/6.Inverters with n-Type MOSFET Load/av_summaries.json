@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24EC252B",
+  "unit_title": "MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout",
+  "videos": [
+    {
+      "title": "NMOS Inverters",
+      "provider": "vimeo",
+      "video_id": "1162129995",
+      "video_url": "https://player.vimeo.com/video/1162129995?h=571a9724c6&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1162129995?h=571a9724c6",
+      "faculty": "Mahesh A Awati",
+      "date": "05/02/2026 04:29 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T14:21:30.280211"
+}

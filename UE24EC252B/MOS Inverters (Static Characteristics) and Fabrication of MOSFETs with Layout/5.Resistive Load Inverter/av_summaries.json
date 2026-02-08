@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24EC252B",
+  "unit_title": "MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout",
+  "videos": [
+    {
+      "title": "Resistive Load Inverters Part 2",
+      "provider": "vimeo",
+      "video_id": "1162129521",
+      "video_url": "https://player.vimeo.com/video/1162129521?h=4daf3fae52&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1162129521?h=4daf3fae52",
+      "faculty": "Mahesh A Awati",
+      "date": "05/02/2026 04:27 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Resistive Load Inverters Part 3",
+      "provider": "vimeo",
+      "video_id": "1162130343",
+      "video_url": "https://player.vimeo.com/video/1162130343?h=d3ee09353a&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1162130343?h=d3ee09353a",
+      "faculty": "Mahesh A Awati",
+      "date": "05/02/2026 04:30 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T14:21:30.086563"
+}
