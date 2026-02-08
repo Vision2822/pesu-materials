@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS252B",
+  "unit_title": "Application Layer, Transport Layer  UDP",
+  "videos": [
+    {
+      "title": "Transport layer",
+      "provider": "vimeo",
+      "video_id": "912142536",
+      "video_url": "https://player.vimeo.com/video/912142536?h=ed5cbde166&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/912142536?h=ed5cbde166",
+      "faculty": "vadiraja",
+      "date": "12/02/2024 12:01 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:30:47.044788"
+}

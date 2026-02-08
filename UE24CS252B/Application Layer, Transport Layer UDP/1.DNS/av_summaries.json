@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24CS252B",
+  "unit_title": "Application Layer, Transport Layer  UDP",
+  "videos": [
+    {
+      "title": "dns",
+      "provider": "vimeo",
+      "video_id": "912140936",
+      "video_url": "https://player.vimeo.com/video/912140936?h=3038a9fff5&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/912140936?h=3038a9fff5",
+      "faculty": "vadiraja",
+      "date": "12/02/2024 11:49 AM",
+      "section": "NA"
+    },
+    {
+      "title": "DNS query types",
+      "provider": "vimeo",
+      "video_id": "912141977",
+      "video_url": "https://player.vimeo.com/video/912141977?h=2927ac7d16&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/912141977?h=2927ac7d16",
+      "faculty": "vadiraja",
+      "date": "12/02/2024 11:56 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:30:46.948801"
+}
