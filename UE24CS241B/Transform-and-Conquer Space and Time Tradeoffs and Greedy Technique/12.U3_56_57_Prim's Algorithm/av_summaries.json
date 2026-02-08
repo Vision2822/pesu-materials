@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24CS241B",
+  "unit_title": "Transform-and-Conquer\nSpace and Time Tradeoffs & Greedy Technique ",
+  "videos": [
+    {
+      "title": "Prim's Algorithm",
+      "provider": "vimeo",
+      "video_id": "535728848",
+      "video_url": "https://player.vimeo.com/video/535728848?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/535728848",
+      "faculty": "Jayapriya D",
+      "date": "12/04/2021 11:30 AM",
+      "section": "NA"
+    },
+    {
+      "title": "UE19CS251_310321_Class40_DS_Prims Algorithm",
+      "provider": "vimeo",
+      "video_id": "568822853",
+      "video_url": "https://player.vimeo.com/video/568822853?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/568822853",
+      "faculty": "Jayapriya D",
+      "date": "29/06/2021 02:47 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:24:54.628789"
+}
