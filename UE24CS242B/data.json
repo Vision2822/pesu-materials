@@ -1,0 +1,1327 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UE24CS242B",
+  "course_title": "Operating Systems",
+  "semester_name": "Sem-4",
+  "units": [
+    {
+      "id": "UE24CS242B_Unit 1- Introduction and Process Management",
+      "title": "Unit 1: Introduction and Process Management ",
+      "path": "UE24CS242B/Unit 1- Introduction and Process Management",
+      "classes": [
+        {
+          "id": "UE24CS242B_Unit 1- Introduction and Process Management_1.Introduction, Computer System Organization",
+          "order": 1,
+          "title": "Introduction, Computer System Organization",
+          "folder_name": "1.Introduction, Computer System Organization",
+          "path": "UE24CS242B/Unit 1- Introduction and Process Management/1.Introduction, Computer System Organization",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Deadlocks : Part - 2 (Detection)",
+                  "provider": "vimeo",
+                  "video_id": "509690263",
+                  "video_url": "https://player.vimeo.com/video/509690263?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/509690263",
+                  "faculty": "Pavan A C",
+                  "date": "02/02/2026 02:36 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Deadlocks : Part - 3 (Prevention)",
+                  "provider": "vimeo",
+                  "video_id": "509688650",
+                  "video_url": "https://player.vimeo.com/video/509688650?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/509688650",
+                  "faculty": "Pavan A C",
+                  "date": "02/02/2026 02:36 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Introduction, Computer System Organization",
+                  "provider": "vimeo",
+                  "video_id": "499129693",
+                  "video_url": "https://player.vimeo.com/video/499129693?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/499129693",
+                  "faculty": "Pavan A C",
+                  "date": "06/01/2026 01:55 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 3
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Introduction, Computer System Organization_698dd8e7.pdf",
+                  "title": "Introduction, Computer System Organization",
+                  "uuid": "698dd8e7",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/1.Introduction, Computer System Organization/slides/Introduction, Computer System Organization_698dd8e7.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/slides/Introduction%2C%20Computer%20System%20Organization_698dd8e7.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/slides/Introduction%2C%20Computer%20System%20Organization_698dd8e7.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/slides/Introduction%2C%20Computer%20System%20Organization_698dd8e7.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Introduction, Computer System Organization_79348bfc.pdf",
+                  "title": "Introduction, Computer System Organization",
+                  "uuid": "79348bfc",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/1.Introduction, Computer System Organization/notes/Introduction, Computer System Organization_79348bfc.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/notes/Introduction%2C%20Computer%20System%20Organization_79348bfc.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/notes/Introduction%2C%20Computer%20System%20Organization_79348bfc.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/notes/Introduction%2C%20Computer%20System%20Organization_79348bfc.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Unit - 1 Question Bank_785e1095.pdf",
+                  "title": "Unit - 1 Question Bank",
+                  "uuid": "785e1095",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/1.Introduction, Computer System Organization/questionbank/Unit - 1 Question Bank_785e1095.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/questionbank/Unit%20-%201%20Question%20Bank_785e1095.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/questionbank/Unit%20-%201%20Question%20Bank_785e1095.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/questionbank/Unit%20-%201%20Question%20Bank_785e1095.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "references": {
+              "type": "references",
+              "files": [
+                {
+                  "name": "Textbook - 2 Advanced Programming in the Unix Environment, Richard Stevens and Stephen A Rago, Pears_2bd1fd1e.pdf",
+                  "title": "Textbook - 2 Advanced Programming in the Unix Environment, Richard Stevens and Stephen A Rago, Pears",
+                  "uuid": "2bd1fd1e",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/1.Introduction, Computer System Organization/references/Textbook - 2 Advanced Programming in the Unix Environment, Richard Stevens and Stephen A Rago, Pears_2bd1fd1e.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/references/Textbook%20-%202%20Advanced%20Programming%20in%20the%20Unix%20Environment%2C%20Richard%20Stevens%20and%20Stephen%20A%20Rago%2C%20Pears_2bd1fd1e.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/references/Textbook%20-%202%20Advanced%20Programming%20in%20the%20Unix%20Environment%2C%20Richard%20Stevens%20and%20Stephen%20A%20Rago%2C%20Pears_2bd1fd1e.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/references/Textbook%20-%202%20Advanced%20Programming%20in%20the%20Unix%20Environment%2C%20Richard%20Stevens%20and%20Stephen%20A%20Rago%2C%20Pears_2bd1fd1e.pdf"
+                },
+                {
+                  "name": "Textbook - 1 Operating System Concepts, Abraham Silberschatz, Peter Baer Galvin, Greg Gagne 10th Edi_a7de0288.pdf",
+                  "title": "Textbook - 1 Operating System Concepts, Abraham Silberschatz, Peter Baer Galvin, Greg Gagne 10th Edi",
+                  "uuid": "a7de0288",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/1.Introduction, Computer System Organization/references/Textbook - 1 Operating System Concepts, Abraham Silberschatz, Peter Baer Galvin, Greg Gagne 10th Edi_a7de0288.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/references/Textbook%20-%201%20Operating%20System%20Concepts%2C%20Abraham%20Silberschatz%2C%20Peter%20Baer%20Galvin%2C%20Greg%20Gagne%2010th%20Edi_a7de0288.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/references/Textbook%20-%201%20Operating%20System%20Concepts%2C%20Abraham%20Silberschatz%2C%20Peter%20Baer%20Galvin%2C%20Greg%20Gagne%2010th%20Edi_a7de0288.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/references/Textbook%20-%201%20Operating%20System%20Concepts%2C%20Abraham%20Silberschatz%2C%20Peter%20Baer%20Galvin%2C%20Greg%20Gagne%2010th%20Edi_a7de0288.pdf"
+                },
+                {
+                  "name": "Reference Book - 3 Operating Systems, Internals and Design Principles, William Stallings, 9th Editio_fd548168.pdf",
+                  "title": "Reference Book - 3 Operating Systems, Internals and Design Principles, William Stallings, 9th Editio",
+                  "uuid": "fd548168",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/1.Introduction, Computer System Organization/references/Reference Book - 3 Operating Systems, Internals and Design Principles, William Stallings, 9th Editio_fd548168.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/references/Reference%20Book%20-%203%20Operating%20Systems%2C%20Internals%20and%20Design%20Principles%2C%20William%20Stallings%2C%209th%20Editio_fd548168.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/references/Reference%20Book%20-%203%20Operating%20Systems%2C%20Internals%20and%20Design%20Principles%2C%20William%20Stallings%2C%209th%20Editio_fd548168.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/references/Reference%20Book%20-%203%20Operating%20Systems%2C%20Internals%20and%20Design%20Principles%2C%20William%20Stallings%2C%209th%20Editio_fd548168.pdf"
+                },
+                {
+                  "name": "Reference Book - 2 Modern Operating Systems, Andrew S Tanenbaum, 3rd edition, Pearson, 2007._fe7abb77.pdf",
+                  "title": "Reference Book - 2 Modern Operating Systems, Andrew S Tanenbaum, 3rd edition, Pearson, 2007.",
+                  "uuid": "fe7abb77",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/1.Introduction, Computer System Organization/references/Reference Book - 2 Modern Operating Systems, Andrew S Tanenbaum, 3rd edition, Pearson, 2007._fe7abb77.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/references/Reference%20Book%20-%202%20Modern%20Operating%20Systems%2C%20Andrew%20S%20Tanenbaum%2C%203rd%20edition%2C%20Pearson%2C%202007._fe7abb77.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/references/Reference%20Book%20-%202%20Modern%20Operating%20Systems%2C%20Andrew%20S%20Tanenbaum%2C%203rd%20edition%2C%20Pearson%2C%202007._fe7abb77.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/references/Reference%20Book%20-%202%20Modern%20Operating%20Systems%2C%20Andrew%20S%20Tanenbaum%2C%203rd%20edition%2C%20Pearson%2C%202007._fe7abb77.pdf"
+                }
+              ],
+              "count": 4
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Unit - 1 Question and Answers_aa863951.pdf",
+                  "title": "Unit - 1 Question and Answers",
+                  "uuid": "aa863951",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/1.Introduction, Computer System Organization/qa/Unit - 1 Question and Answers_aa863951.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/qa/Unit%20-%201%20Question%20and%20Answers_aa863951.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/qa/Unit%20-%201%20Question%20and%20Answers_aa863951.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/1.Introduction%2C%20Computer%20System%20Organization/qa/Unit%20-%201%20Question%20and%20Answers_aa863951.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 1- Introduction and Process Management_2.Computer-System Architecture, OS Structure and Operations",
+          "order": 2,
+          "title": "Computer-System Architecture,  OS Structure and Operations",
+          "folder_name": "2.Computer-System Architecture, OS Structure and Operations",
+          "path": "UE24CS242B/Unit 1- Introduction and Process Management/2.Computer-System Architecture, OS Structure and Operations",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Computer-System Architecture, OS Structure and Operations_3201bcd1.pdf",
+                  "title": "Computer-System Architecture, OS Structure and Operations",
+                  "uuid": "3201bcd1",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/2.Computer-System Architecture, OS Structure and Operations/slides/Computer-System Architecture, OS Structure and Operations_3201bcd1.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/2.Computer-System%20Architecture%2C%20OS%20Structure%20and%20Operations/slides/Computer-System%20Architecture%2C%20OS%20Structure%20and%20Operations_3201bcd1.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/2.Computer-System%20Architecture%2C%20OS%20Structure%20and%20Operations/slides/Computer-System%20Architecture%2C%20OS%20Structure%20and%20Operations_3201bcd1.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/2.Computer-System%20Architecture%2C%20OS%20Structure%20and%20Operations/slides/Computer-System%20Architecture%2C%20OS%20Structure%20and%20Operations_3201bcd1.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Computer-System Architecture, OS Structure and Operations",
+                  "provider": "vimeo",
+                  "video_id": "501118621",
+                  "video_url": "https://player.vimeo.com/video/501118621?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/501118621",
+                  "faculty": "Pavan A C",
+                  "date": "06/01/2026 01:56 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Computer-System Architecture, OS Structure and Operations_264e8213.pdf",
+                  "title": "Computer-System Architecture, OS Structure and Operations",
+                  "uuid": "264e8213",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/2.Computer-System Architecture, OS Structure and Operations/notes/Computer-System Architecture, OS Structure and Operations_264e8213.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/2.Computer-System%20Architecture%2C%20OS%20Structure%20and%20Operations/notes/Computer-System%20Architecture%2C%20OS%20Structure%20and%20Operations_264e8213.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/2.Computer-System%20Architecture%2C%20OS%20Structure%20and%20Operations/notes/Computer-System%20Architecture%2C%20OS%20Structure%20and%20Operations_264e8213.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/2.Computer-System%20Architecture%2C%20OS%20Structure%20and%20Operations/notes/Computer-System%20Architecture%2C%20OS%20Structure%20and%20Operations_264e8213.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 1- Introduction and Process Management_3.Kernel Data Structures and Computing Environments",
+          "order": 3,
+          "title": "Kernel Data Structures and  Computing Environments",
+          "folder_name": "3.Kernel Data Structures and Computing Environments",
+          "path": "UE24CS242B/Unit 1- Introduction and Process Management/3.Kernel Data Structures and Computing Environments",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Kernel Data Structures and Computing Environments_94638571.pdf",
+                  "title": "Kernel Data Structures and Computing Environments",
+                  "uuid": "94638571",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/3.Kernel Data Structures and Computing Environments/slides/Kernel Data Structures and Computing Environments_94638571.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/3.Kernel%20Data%20Structures%20and%20Computing%20Environments/slides/Kernel%20Data%20Structures%20and%20Computing%20Environments_94638571.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/3.Kernel%20Data%20Structures%20and%20Computing%20Environments/slides/Kernel%20Data%20Structures%20and%20Computing%20Environments_94638571.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/3.Kernel%20Data%20Structures%20and%20Computing%20Environments/slides/Kernel%20Data%20Structures%20and%20Computing%20Environments_94638571.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Kernel Data Structures and Computing Environments_fb5a6dcc.pdf",
+                  "title": "Kernel Data Structures and Computing Environments",
+                  "uuid": "fb5a6dcc",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/3.Kernel Data Structures and Computing Environments/notes/Kernel Data Structures and Computing Environments_fb5a6dcc.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/3.Kernel%20Data%20Structures%20and%20Computing%20Environments/notes/Kernel%20Data%20Structures%20and%20Computing%20Environments_fb5a6dcc.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/3.Kernel%20Data%20Structures%20and%20Computing%20Environments/notes/Kernel%20Data%20Structures%20and%20Computing%20Environments_fb5a6dcc.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/3.Kernel%20Data%20Structures%20and%20Computing%20Environments/notes/Kernel%20Data%20Structures%20and%20Computing%20Environments_fb5a6dcc.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Kernel Data Structures and Computing Environments",
+                  "provider": "vimeo",
+                  "video_id": "501659324",
+                  "video_url": "https://player.vimeo.com/video/501659324?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/501659324",
+                  "faculty": "Pavan A C",
+                  "date": "06/01/2026 01:57 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 1- Introduction and Process Management_4.Operating-System Services, Design and Implementation",
+          "order": 4,
+          "title": "Operating-System Services, Design and Implementation",
+          "folder_name": "4.Operating-System Services, Design and Implementation",
+          "path": "UE24CS242B/Unit 1- Introduction and Process Management/4.Operating-System Services, Design and Implementation",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Operating-System Services, Design and Implementation",
+                  "provider": "vimeo",
+                  "video_id": "501658563",
+                  "video_url": "https://player.vimeo.com/video/501658563?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/501658563",
+                  "faculty": "Pavan A C",
+                  "date": "06/01/2026 01:58 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Operating-System Services, Design and Implementation_a144e3a7.pdf",
+                  "title": "Operating-System Services, Design and Implementation",
+                  "uuid": "a144e3a7",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/4.Operating-System Services, Design and Implementation/slides/Operating-System Services, Design and Implementation_a144e3a7.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/4.Operating-System%20Services%2C%20Design%20and%20Implementation/slides/Operating-System%20Services%2C%20Design%20and%20Implementation_a144e3a7.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/4.Operating-System%20Services%2C%20Design%20and%20Implementation/slides/Operating-System%20Services%2C%20Design%20and%20Implementation_a144e3a7.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/4.Operating-System%20Services%2C%20Design%20and%20Implementation/slides/Operating-System%20Services%2C%20Design%20and%20Implementation_a144e3a7.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Operating-System Services, Design and Implementation_429d9d52.pdf",
+                  "title": "Operating-System Services, Design and Implementation",
+                  "uuid": "429d9d52",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/4.Operating-System Services, Design and Implementation/notes/Operating-System Services, Design and Implementation_429d9d52.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/4.Operating-System%20Services%2C%20Design%20and%20Implementation/notes/Operating-System%20Services%2C%20Design%20and%20Implementation_429d9d52.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/4.Operating-System%20Services%2C%20Design%20and%20Implementation/notes/Operating-System%20Services%2C%20Design%20and%20Implementation_429d9d52.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/4.Operating-System%20Services%2C%20Design%20and%20Implementation/notes/Operating-System%20Services%2C%20Design%20and%20Implementation_429d9d52.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 1- Introduction and Process Management_5.Process Management",
+          "order": 5,
+          "title": "Process Management",
+          "folder_name": "5.Process Management",
+          "path": "UE24CS242B/Unit 1- Introduction and Process Management/5.Process Management",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Process Management",
+                  "provider": "vimeo",
+                  "video_id": "499148510",
+                  "video_url": "https://player.vimeo.com/video/499148510?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/499148510",
+                  "faculty": "Pavan A C",
+                  "date": "06/01/2026 02:00 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Process Management_4c6f75f8.pdf",
+                  "title": "Process Management",
+                  "uuid": "4c6f75f8",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/5.Process Management/slides/Process Management_4c6f75f8.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/5.Process%20Management/slides/Process%20Management_4c6f75f8.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/5.Process%20Management/slides/Process%20Management_4c6f75f8.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/5.Process%20Management/slides/Process%20Management_4c6f75f8.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Process Management_29621770.pdf",
+                  "title": "Process Management",
+                  "uuid": "29621770",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/5.Process Management/notes/Process Management_29621770.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/5.Process%20Management/notes/Process%20Management_29621770.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/5.Process%20Management/notes/Process%20Management_29621770.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/5.Process%20Management/notes/Process%20Management_29621770.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 1- Introduction and Process Management_6.System calls for Process Management",
+          "order": 6,
+          "title": "System calls for Process Management",
+          "folder_name": "6.System calls for Process Management",
+          "path": "UE24CS242B/Unit 1- Introduction and Process Management/6.System calls for Process Management",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "System calls for Process Management_f4a2dcd2.pdf",
+                  "title": "System calls for Process Management",
+                  "uuid": "f4a2dcd2",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/6.System calls for Process Management/slides/System calls for Process Management_f4a2dcd2.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/6.System%20calls%20for%20Process%20Management/slides/System%20calls%20for%20Process%20Management_f4a2dcd2.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/6.System%20calls%20for%20Process%20Management/slides/System%20calls%20for%20Process%20Management_f4a2dcd2.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/6.System%20calls%20for%20Process%20Management/slides/System%20calls%20for%20Process%20Management_f4a2dcd2.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "System calls for Process Management_377bd5a6.pdf",
+                  "title": "System calls for Process Management",
+                  "uuid": "377bd5a6",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/6.System calls for Process Management/notes/System calls for Process Management_377bd5a6.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/6.System%20calls%20for%20Process%20Management/notes/System%20calls%20for%20Process%20Management_377bd5a6.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/6.System%20calls%20for%20Process%20Management/notes/System%20calls%20for%20Process%20Management_377bd5a6.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/6.System%20calls%20for%20Process%20Management/notes/System%20calls%20for%20Process%20Management_377bd5a6.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "System calls for Process Management",
+                  "provider": "vimeo",
+                  "video_id": "505595728",
+                  "video_url": "https://player.vimeo.com/video/505595728?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/505595728",
+                  "faculty": "Pavan A C",
+                  "date": "06/01/2026 02:00 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 1- Introduction and Process Management_7.CPU Scheduling",
+          "order": 7,
+          "title": "CPU Scheduling",
+          "folder_name": "7.CPU Scheduling",
+          "path": "UE24CS242B/Unit 1- Introduction and Process Management/7.CPU Scheduling",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "CPU Scheduling",
+                  "provider": "vimeo",
+                  "video_id": "500780948",
+                  "video_url": "https://player.vimeo.com/video/500780948?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/500780948",
+                  "faculty": "Pavan A C",
+                  "date": "06/01/2026 02:00 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "CPU Scheduling_fe637bb1.pdf",
+                  "title": "CPU Scheduling",
+                  "uuid": "fe637bb1",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/7.CPU Scheduling/slides/CPU Scheduling_fe637bb1.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/7.CPU%20Scheduling/slides/CPU%20Scheduling_fe637bb1.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/7.CPU%20Scheduling/slides/CPU%20Scheduling_fe637bb1.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/7.CPU%20Scheduling/slides/CPU%20Scheduling_fe637bb1.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "CPU Scheduling_7284ac2b.pdf",
+                  "title": "CPU Scheduling",
+                  "uuid": "7284ac2b",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/7.CPU Scheduling/notes/CPU Scheduling_7284ac2b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/7.CPU%20Scheduling/notes/CPU%20Scheduling_7284ac2b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/7.CPU%20Scheduling/notes/CPU%20Scheduling_7284ac2b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/7.CPU%20Scheduling/notes/CPU%20Scheduling_7284ac2b.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 1- Introduction and Process Management_8.Scheduling Algorithms - FCFS and SJF Scheduling",
+          "order": 8,
+          "title": "Scheduling Algorithms - FCFS and SJF Scheduling",
+          "folder_name": "8.Scheduling Algorithms - FCFS and SJF Scheduling",
+          "path": "UE24CS242B/Unit 1- Introduction and Process Management/8.Scheduling Algorithms - FCFS and SJF Scheduling",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Scheduling Algorithms - FCFS and SJF Scheduling",
+                  "provider": "vimeo",
+                  "video_id": "500783663",
+                  "video_url": "https://player.vimeo.com/video/500783663?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/500783663",
+                  "faculty": "Pavan A C",
+                  "date": "06/01/2026 02:01 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Scheduling Algorithms - FCFS and SJF Scheduling_8abad415.pdf",
+                  "title": "Scheduling Algorithms - FCFS and SJF Scheduling",
+                  "uuid": "8abad415",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/8.Scheduling Algorithms - FCFS and SJF Scheduling/slides/Scheduling Algorithms - FCFS and SJF Scheduling_8abad415.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/8.Scheduling%20Algorithms%20-%20FCFS%20and%20SJF%20Scheduling/slides/Scheduling%20Algorithms%20-%20FCFS%20and%20SJF%20Scheduling_8abad415.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/8.Scheduling%20Algorithms%20-%20FCFS%20and%20SJF%20Scheduling/slides/Scheduling%20Algorithms%20-%20FCFS%20and%20SJF%20Scheduling_8abad415.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/8.Scheduling%20Algorithms%20-%20FCFS%20and%20SJF%20Scheduling/slides/Scheduling%20Algorithms%20-%20FCFS%20and%20SJF%20Scheduling_8abad415.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Scheduling Algorithms - FCFS and SJF Scheduling_1ee45c2a.pdf",
+                  "title": "Scheduling Algorithms - FCFS and SJF Scheduling",
+                  "uuid": "1ee45c2a",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/8.Scheduling Algorithms - FCFS and SJF Scheduling/notes/Scheduling Algorithms - FCFS and SJF Scheduling_1ee45c2a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/8.Scheduling%20Algorithms%20-%20FCFS%20and%20SJF%20Scheduling/notes/Scheduling%20Algorithms%20-%20FCFS%20and%20SJF%20Scheduling_1ee45c2a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/8.Scheduling%20Algorithms%20-%20FCFS%20and%20SJF%20Scheduling/notes/Scheduling%20Algorithms%20-%20FCFS%20and%20SJF%20Scheduling_1ee45c2a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/8.Scheduling%20Algorithms%20-%20FCFS%20and%20SJF%20Scheduling/notes/Scheduling%20Algorithms%20-%20FCFS%20and%20SJF%20Scheduling_1ee45c2a.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 1- Introduction and Process Management_9.Scheduling Algorithms - Priority and Round Robin Scheduling",
+          "order": 9,
+          "title": "Scheduling Algorithms - Priority and Round Robin Scheduling",
+          "folder_name": "9.Scheduling Algorithms - Priority and Round Robin Scheduling",
+          "path": "UE24CS242B/Unit 1- Introduction and Process Management/9.Scheduling Algorithms - Priority and Round Robin Scheduling",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Scheduling Algorithms - Priority Scheduling",
+                  "provider": "vimeo",
+                  "video_id": "500788256",
+                  "video_url": "https://player.vimeo.com/video/500788256?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/500788256",
+                  "faculty": "Pavan A C",
+                  "date": "06/01/2026 02:04 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Scheduling Algorithms - Round Robin Scheduling",
+                  "provider": "vimeo",
+                  "video_id": "501658232",
+                  "video_url": "https://player.vimeo.com/video/501658232?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/501658232",
+                  "faculty": "Pavan A C",
+                  "date": "06/01/2026 02:03 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Scheduling Algorithms - Priority and Round Robin Scheduling_0de3aca1.pdf",
+                  "title": "Scheduling Algorithms - Priority and Round Robin Scheduling",
+                  "uuid": "0de3aca1",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/9.Scheduling Algorithms - Priority and Round Robin Scheduling/slides/Scheduling Algorithms - Priority and Round Robin Scheduling_0de3aca1.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/9.Scheduling%20Algorithms%20-%20Priority%20and%20Round%20Robin%20Scheduling/slides/Scheduling%20Algorithms%20-%20Priority%20and%20Round%20Robin%20Scheduling_0de3aca1.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/9.Scheduling%20Algorithms%20-%20Priority%20and%20Round%20Robin%20Scheduling/slides/Scheduling%20Algorithms%20-%20Priority%20and%20Round%20Robin%20Scheduling_0de3aca1.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/9.Scheduling%20Algorithms%20-%20Priority%20and%20Round%20Robin%20Scheduling/slides/Scheduling%20Algorithms%20-%20Priority%20and%20Round%20Robin%20Scheduling_0de3aca1.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Scheduling Algorithms - Priority and Round Robin Scheduling_6a799754.pdf",
+                  "title": "Scheduling Algorithms - Priority and Round Robin Scheduling",
+                  "uuid": "6a799754",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/9.Scheduling Algorithms - Priority and Round Robin Scheduling/notes/Scheduling Algorithms - Priority and Round Robin Scheduling_6a799754.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/9.Scheduling%20Algorithms%20-%20Priority%20and%20Round%20Robin%20Scheduling/notes/Scheduling%20Algorithms%20-%20Priority%20and%20Round%20Robin%20Scheduling_6a799754.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/9.Scheduling%20Algorithms%20-%20Priority%20and%20Round%20Robin%20Scheduling/notes/Scheduling%20Algorithms%20-%20Priority%20and%20Round%20Robin%20Scheduling_6a799754.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/9.Scheduling%20Algorithms%20-%20Priority%20and%20Round%20Robin%20Scheduling/notes/Scheduling%20Algorithms%20-%20Priority%20and%20Round%20Robin%20Scheduling_6a799754.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 1- Introduction and Process Management_10.Scheduling Algorithms - Multi-level Queue and Feedback Queue Scheduling",
+          "order": 10,
+          "title": "Scheduling Algorithms - Multi-level Queue & Feedback Queue Scheduling",
+          "folder_name": "10.Scheduling Algorithms - Multi-level Queue and Feedback Queue Scheduling",
+          "path": "UE24CS242B/Unit 1- Introduction and Process Management/10.Scheduling Algorithms - Multi-level Queue and Feedback Queue Scheduling",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Scheduling Algorithms - Multi-level Queue & Feedback Queue Scheduling",
+                  "provider": "vimeo",
+                  "video_id": "499919140",
+                  "video_url": "https://player.vimeo.com/video/499919140?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/499919140",
+                  "faculty": "Pavan A C",
+                  "date": "06/01/2026 02:04 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Scheduling Algorithms - Multi-level Queue & Feedback Queue Scheduling_4d229b61.pdf",
+                  "title": "Scheduling Algorithms - Multi-level Queue & Feedback Queue Scheduling",
+                  "uuid": "4d229b61",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/10.Scheduling Algorithms - Multi-level Queue and Feedback Queue Scheduling/slides/Scheduling Algorithms - Multi-level Queue & Feedback Queue Scheduling_4d229b61.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/10.Scheduling%20Algorithms%20-%20Multi-level%20Queue%20and%20Feedback%20Queue%20Scheduling/slides/Scheduling%20Algorithms%20-%20Multi-level%20Queue%20%26%20Feedback%20Queue%20Scheduling_4d229b61.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/10.Scheduling%20Algorithms%20-%20Multi-level%20Queue%20and%20Feedback%20Queue%20Scheduling/slides/Scheduling%20Algorithms%20-%20Multi-level%20Queue%20%26%20Feedback%20Queue%20Scheduling_4d229b61.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/10.Scheduling%20Algorithms%20-%20Multi-level%20Queue%20and%20Feedback%20Queue%20Scheduling/slides/Scheduling%20Algorithms%20-%20Multi-level%20Queue%20%26%20Feedback%20Queue%20Scheduling_4d229b61.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Scheduling Algorithms - Multi-level Queue & Feedback Queue Scheduling_7b6ee8e4.pdf",
+                  "title": "Scheduling Algorithms - Multi-level Queue & Feedback Queue Scheduling",
+                  "uuid": "7b6ee8e4",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/10.Scheduling Algorithms - Multi-level Queue and Feedback Queue Scheduling/notes/Scheduling Algorithms - Multi-level Queue & Feedback Queue Scheduling_7b6ee8e4.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/10.Scheduling%20Algorithms%20-%20Multi-level%20Queue%20and%20Feedback%20Queue%20Scheduling/notes/Scheduling%20Algorithms%20-%20Multi-level%20Queue%20%26%20Feedback%20Queue%20Scheduling_7b6ee8e4.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/10.Scheduling%20Algorithms%20-%20Multi-level%20Queue%20and%20Feedback%20Queue%20Scheduling/notes/Scheduling%20Algorithms%20-%20Multi-level%20Queue%20%26%20Feedback%20Queue%20Scheduling_7b6ee8e4.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/10.Scheduling%20Algorithms%20-%20Multi-level%20Queue%20and%20Feedback%20Queue%20Scheduling/notes/Scheduling%20Algorithms%20-%20Multi-level%20Queue%20%26%20Feedback%20Queue%20Scheduling_7b6ee8e4.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 1- Introduction and Process Management_11.Case Study- Linux- Windows Scheduling Policies",
+          "order": 11,
+          "title": "Case Study: Linux/ Windows Scheduling Policies",
+          "folder_name": "11.Case Study- Linux- Windows Scheduling Policies",
+          "path": "UE24CS242B/Unit 1- Introduction and Process Management/11.Case Study- Linux- Windows Scheduling Policies",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Case Study Linux Windows Scheduling Policies_496ae32c.pdf",
+                  "title": "Case Study Linux Windows Scheduling Policies",
+                  "uuid": "496ae32c",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/11.Case Study- Linux- Windows Scheduling Policies/slides/Case Study Linux Windows Scheduling Policies_496ae32c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/11.Case%20Study-%20Linux-%20Windows%20Scheduling%20Policies/slides/Case%20Study%20Linux%20Windows%20Scheduling%20Policies_496ae32c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/11.Case%20Study-%20Linux-%20Windows%20Scheduling%20Policies/slides/Case%20Study%20Linux%20Windows%20Scheduling%20Policies_496ae32c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/11.Case%20Study-%20Linux-%20Windows%20Scheduling%20Policies/slides/Case%20Study%20Linux%20Windows%20Scheduling%20Policies_496ae32c.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Case Study Linux Windows Scheduling Policies_8649f153.pdf",
+                  "title": "Case Study Linux Windows Scheduling Policies",
+                  "uuid": "8649f153",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/11.Case Study- Linux- Windows Scheduling Policies/notes/Case Study Linux Windows Scheduling Policies_8649f153.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/11.Case%20Study-%20Linux-%20Windows%20Scheduling%20Policies/notes/Case%20Study%20Linux%20Windows%20Scheduling%20Policies_8649f153.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/11.Case%20Study-%20Linux-%20Windows%20Scheduling%20Policies/notes/Case%20Study%20Linux%20Windows%20Scheduling%20Policies_8649f153.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/11.Case%20Study-%20Linux-%20Windows%20Scheduling%20Policies/notes/Case%20Study%20Linux%20Windows%20Scheduling%20Policies_8649f153.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Case Study: Linux/ Windows Scheduling Policies",
+                  "provider": "vimeo",
+                  "video_id": "505499248",
+                  "video_url": "https://player.vimeo.com/video/505499248?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/505499248",
+                  "faculty": "Pavan A C",
+                  "date": "06/01/2026 02:05 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 1- Introduction and Process Management_12.Bash shell and cron",
+          "order": 12,
+          "title": "Bash shell and cron",
+          "folder_name": "12.Bash shell and cron",
+          "path": "UE24CS242B/Unit 1- Introduction and Process Management/12.Bash shell and cron",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Bash shell and cron_4b23dd22.pdf",
+                  "title": "Bash shell and cron",
+                  "uuid": "4b23dd22",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/12.Bash shell and cron/notes/Bash shell and cron_4b23dd22.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/12.Bash%20shell%20and%20cron/notes/Bash%20shell%20and%20cron_4b23dd22.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/12.Bash%20shell%20and%20cron/notes/Bash%20shell%20and%20cron_4b23dd22.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/12.Bash%20shell%20and%20cron/notes/Bash%20shell%20and%20cron_4b23dd22.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Bash shell and cron_4b733157.pdf",
+                  "title": "Bash shell and cron",
+                  "uuid": "4b733157",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 1- Introduction and Process Management/12.Bash shell and cron/slides/Bash shell and cron_4b733157.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/12.Bash%20shell%20and%20cron/slides/Bash%20shell%20and%20cron_4b733157.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/12.Bash%20shell%20and%20cron/slides/Bash%20shell%20and%20cron_4b733157.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%201-%20Introduction%20and%20Process%20Management/12.Bash%20shell%20and%20cron/slides/Bash%20shell%20and%20cron_4b733157.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE24CS242B_Unit 2 - IPC, Threads and Concurrency",
+      "title": "Unit 2 : IPC, Threads and\nConcurrency ",
+      "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency",
+      "classes": [
+        {
+          "id": "UE24CS242B_Unit 2 - IPC, Threads and Concurrency_1.Inter-Process Communication (IPC)",
+          "order": 1,
+          "title": "Inter-Process Communication (IPC)",
+          "folder_name": "1.Inter-Process Communication (IPC)",
+          "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/1.Inter-Process Communication (IPC)",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Inter-Process Communication (IPC)",
+                  "provider": "vimeo",
+                  "video_id": "512192377",
+                  "video_url": "https://player.vimeo.com/video/512192377?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/512192377",
+                  "faculty": "Pavan A C",
+                  "date": "02/02/2026 02:30 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Inter-Process Communication (IPC)_5ca305ac.pdf",
+                  "title": "Inter-Process Communication (IPC)",
+                  "uuid": "5ca305ac",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/1.Inter-Process Communication (IPC)/notes/Inter-Process Communication (IPC)_5ca305ac.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/1.Inter-Process%20Communication%20%28IPC%29/notes/Inter-Process%20Communication%20%28IPC%29_5ca305ac.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/1.Inter-Process%20Communication%20%28IPC%29/notes/Inter-Process%20Communication%20%28IPC%29_5ca305ac.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/1.Inter-Process%20Communication%20%28IPC%29/notes/Inter-Process%20Communication%20%28IPC%29_5ca305ac.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Inter-Process Communication (IPC)_2644640f.pdf",
+                  "title": "Inter-Process Communication (IPC)",
+                  "uuid": "2644640f",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/1.Inter-Process Communication (IPC)/slides/Inter-Process Communication (IPC)_2644640f.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/1.Inter-Process%20Communication%20%28IPC%29/slides/Inter-Process%20Communication%20%28IPC%29_2644640f.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/1.Inter-Process%20Communication%20%28IPC%29/slides/Inter-Process%20Communication%20%28IPC%29_2644640f.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/1.Inter-Process%20Communication%20%28IPC%29/slides/Inter-Process%20Communication%20%28IPC%29_2644640f.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 2 - IPC, Threads and Concurrency_2.System calls for IPC",
+          "order": 2,
+          "title": "System calls for IPC",
+          "folder_name": "2.System calls for IPC",
+          "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/2.System calls for IPC",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "System calls for IPC_c027bd24.pdf",
+                  "title": "System calls for IPC",
+                  "uuid": "c027bd24",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/2.System calls for IPC/slides/System calls for IPC_c027bd24.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/2.System%20calls%20for%20IPC/slides/System%20calls%20for%20IPC_c027bd24.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/2.System%20calls%20for%20IPC/slides/System%20calls%20for%20IPC_c027bd24.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/2.System%20calls%20for%20IPC/slides/System%20calls%20for%20IPC_c027bd24.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "System Calls for Inter-Process Communication_5977cf01.pdf",
+                  "title": "System Calls for Inter-Process Communication",
+                  "uuid": "5977cf01",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/2.System calls for IPC/notes/System Calls for Inter-Process Communication_5977cf01.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/2.System%20calls%20for%20IPC/notes/System%20Calls%20for%20Inter-Process%20Communication_5977cf01.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/2.System%20calls%20for%20IPC/notes/System%20Calls%20for%20Inter-Process%20Communication_5977cf01.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/2.System%20calls%20for%20IPC/notes/System%20Calls%20for%20Inter-Process%20Communication_5977cf01.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 2 - IPC, Threads and Concurrency_3.Threads",
+          "order": 3,
+          "title": "Threads",
+          "folder_name": "3.Threads",
+          "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/3.Threads",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Threads",
+                  "provider": "vimeo",
+                  "video_id": "507052348",
+                  "video_url": "https://player.vimeo.com/video/507052348?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/507052348",
+                  "faculty": "Pavan A C",
+                  "date": "02/02/2026 02:31 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Threads_bcc86d60.pdf",
+                  "title": "Threads",
+                  "uuid": "bcc86d60",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/3.Threads/slides/Threads_bcc86d60.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/3.Threads/slides/Threads_bcc86d60.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/3.Threads/slides/Threads_bcc86d60.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/3.Threads/slides/Threads_bcc86d60.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Threads_2092142e.pdf",
+                  "title": "Threads",
+                  "uuid": "2092142e",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/3.Threads/notes/Threads_2092142e.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/3.Threads/notes/Threads_2092142e.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/3.Threads/notes/Threads_2092142e.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/3.Threads/notes/Threads_2092142e.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 2 - IPC, Threads and Concurrency_4.Multithreading models",
+          "order": 4,
+          "title": "Multithreading models",
+          "folder_name": "4.Multithreading models",
+          "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/4.Multithreading models",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Multithreading Models_f5a84998.pdf",
+                  "title": "Multithreading Models",
+                  "uuid": "f5a84998",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/4.Multithreading models/slides/Multithreading Models_f5a84998.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/4.Multithreading%20models/slides/Multithreading%20Models_f5a84998.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/4.Multithreading%20models/slides/Multithreading%20Models_f5a84998.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/4.Multithreading%20models/slides/Multithreading%20Models_f5a84998.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Multithreading models",
+                  "provider": "vimeo",
+                  "video_id": "507057274",
+                  "video_url": "https://player.vimeo.com/video/507057274?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/507057274",
+                  "faculty": "Pavan A C",
+                  "date": "02/02/2026 02:31 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Multithreading models_f0890c63.pdf",
+                  "title": "Multithreading models",
+                  "uuid": "f0890c63",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/4.Multithreading models/notes/Multithreading models_f0890c63.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/4.Multithreading%20models/notes/Multithreading%20models_f0890c63.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/4.Multithreading%20models/notes/Multithreading%20models_f0890c63.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/4.Multithreading%20models/notes/Multithreading%20models_f0890c63.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 2 - IPC, Threads and Concurrency_5.Pthreads",
+          "order": 5,
+          "title": "Pthreads",
+          "folder_name": "5.Pthreads",
+          "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/5.Pthreads",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Pthreads",
+                  "provider": "vimeo",
+                  "video_id": "507519366",
+                  "video_url": "https://player.vimeo.com/video/507519366?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/507519366",
+                  "faculty": "Pavan A C",
+                  "date": "02/02/2026 02:32 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Pthreads_30ea11b4.pdf",
+                  "title": "Pthreads",
+                  "uuid": "30ea11b4",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/5.Pthreads/slides/Pthreads_30ea11b4.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/5.Pthreads/slides/Pthreads_30ea11b4.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/5.Pthreads/slides/Pthreads_30ea11b4.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/5.Pthreads/slides/Pthreads_30ea11b4.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 2 - IPC, Threads and Concurrency_6.Mutual Exclusion and Synchronization",
+          "order": 6,
+          "title": "Mutual Exclusion and Synchronization",
+          "folder_name": "6.Mutual Exclusion and Synchronization",
+          "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/6.Mutual Exclusion and Synchronization",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Mutual Exclusion and Synchronization",
+                  "provider": "vimeo",
+                  "video_id": "508712447",
+                  "video_url": "https://player.vimeo.com/video/508712447?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/508712447",
+                  "faculty": "Pavan A C",
+                  "date": "02/02/2026 02:32 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Mutual Exclusion and Synchronization_4e244169.pdf",
+                  "title": "Mutual Exclusion and Synchronization",
+                  "uuid": "4e244169",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/6.Mutual Exclusion and Synchronization/slides/Mutual Exclusion and Synchronization_4e244169.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/6.Mutual%20Exclusion%20and%20Synchronization/slides/Mutual%20Exclusion%20and%20Synchronization_4e244169.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/6.Mutual%20Exclusion%20and%20Synchronization/slides/Mutual%20Exclusion%20and%20Synchronization_4e244169.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/6.Mutual%20Exclusion%20and%20Synchronization/slides/Mutual%20Exclusion%20and%20Synchronization_4e244169.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 2 - IPC, Threads and Concurrency_7.Concurrency HW Support",
+          "order": 7,
+          "title": "Concurrency HW Support",
+          "folder_name": "7.Concurrency HW Support",
+          "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/7.Concurrency HW Support",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Concurrency HW Support",
+                  "provider": "vimeo",
+                  "video_id": "508714284",
+                  "video_url": "https://player.vimeo.com/video/508714284?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/508714284",
+                  "faculty": "Pavan A C",
+                  "date": "02/02/2026 02:33 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Concurrency HW Support_efe0be67.pdf",
+                  "title": "Concurrency HW Support",
+                  "uuid": "efe0be67",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/7.Concurrency HW Support/slides/Concurrency HW Support_efe0be67.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/7.Concurrency%20HW%20Support/slides/Concurrency%20HW%20Support_efe0be67.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/7.Concurrency%20HW%20Support/slides/Concurrency%20HW%20Support_efe0be67.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/7.Concurrency%20HW%20Support/slides/Concurrency%20HW%20Support_efe0be67.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 2 - IPC, Threads and Concurrency_8.Mutex Locks and Semaphores",
+          "order": 8,
+          "title": "Mutex Locks and Semaphores",
+          "folder_name": "8.Mutex Locks and Semaphores",
+          "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/8.Mutex Locks and Semaphores",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Mutex Locks and Semaphores_07f0c3f4.pdf",
+                  "title": "Mutex Locks and Semaphores",
+                  "uuid": "07f0c3f4",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/8.Mutex Locks and Semaphores/slides/Mutex Locks and Semaphores_07f0c3f4.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/8.Mutex%20Locks%20and%20Semaphores/slides/Mutex%20Locks%20and%20Semaphores_07f0c3f4.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/8.Mutex%20Locks%20and%20Semaphores/slides/Mutex%20Locks%20and%20Semaphores_07f0c3f4.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/8.Mutex%20Locks%20and%20Semaphores/slides/Mutex%20Locks%20and%20Semaphores_07f0c3f4.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Mutex Locks and Semaphores",
+                  "provider": "vimeo",
+                  "video_id": "509640882",
+                  "video_url": "https://player.vimeo.com/video/509640882?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/509640882",
+                  "faculty": "Pavan A C",
+                  "date": "02/02/2026 02:33 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 2 - IPC, Threads and Concurrency_9.Classic Problems of Synchronization",
+          "order": 9,
+          "title": "Classic Problems of Synchronization",
+          "folder_name": "9.Classic Problems of Synchronization",
+          "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/9.Classic Problems of Synchronization",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Classic Problems of Synchronization - Reader Writer Problem",
+                  "provider": "vimeo",
+                  "video_id": "509680203",
+                  "video_url": "https://player.vimeo.com/video/509680203?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/509680203",
+                  "faculty": "Pavan A C",
+                  "date": "02/02/2026 02:34 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Classic Problems of Synchronization - Dining philosophers problem",
+                  "provider": "vimeo",
+                  "video_id": "509682283",
+                  "video_url": "https://player.vimeo.com/video/509682283?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/509682283",
+                  "faculty": "Pavan A C",
+                  "date": "02/02/2026 02:35 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Classic Problems of Synchronization_5665f06a.pdf",
+                  "title": "Classic Problems of Synchronization",
+                  "uuid": "5665f06a",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/9.Classic Problems of Synchronization/slides/Classic Problems of Synchronization_5665f06a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/9.Classic%20Problems%20of%20Synchronization/slides/Classic%20Problems%20of%20Synchronization_5665f06a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/9.Classic%20Problems%20of%20Synchronization/slides/Classic%20Problems%20of%20Synchronization_5665f06a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/9.Classic%20Problems%20of%20Synchronization/slides/Classic%20Problems%20of%20Synchronization_5665f06a.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 2 - IPC, Threads and Concurrency_10.Deadlocks - Principles, Detection, Prevention and Avoidance",
+          "order": 10,
+          "title": "Deadlocks : Principles, Detection, Prevention and Avoidance ",
+          "folder_name": "10.Deadlocks - Principles, Detection, Prevention and Avoidance",
+          "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/10.Deadlocks - Principles, Detection, Prevention and Avoidance",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Deadlocks : Part - 1",
+                  "provider": "vimeo",
+                  "video_id": "509699654",
+                  "video_url": "https://player.vimeo.com/video/509699654?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/509699654",
+                  "faculty": "Pavan A C",
+                  "date": "02/02/2026 02:35 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Deadlocks : Part - 3 (Prevention)",
+                  "provider": "vimeo",
+                  "video_id": "509688650",
+                  "video_url": "https://player.vimeo.com/video/509688650?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/509688650",
+                  "faculty": "Pavan A C",
+                  "date": "02/02/2026 02:38 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Deadlocks : Part - 2 (Detection)",
+                  "provider": "vimeo",
+                  "video_id": "509690263",
+                  "video_url": "https://player.vimeo.com/video/509690263?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/509690263",
+                  "faculty": "Pavan A C",
+                  "date": "02/02/2026 02:38 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 3
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Deadlocks_021712ca.pdf",
+                  "title": "Deadlocks",
+                  "uuid": "021712ca",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/10.Deadlocks - Principles, Detection, Prevention and Avoidance/slides/Deadlocks_021712ca.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/10.Deadlocks%20-%20Principles%2C%20Detection%2C%20Prevention%20and%20Avoidance/slides/Deadlocks_021712ca.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/10.Deadlocks%20-%20Principles%2C%20Detection%2C%20Prevention%20and%20Avoidance/slides/Deadlocks_021712ca.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/10.Deadlocks%20-%20Principles%2C%20Detection%2C%20Prevention%20and%20Avoidance/slides/Deadlocks_021712ca.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS242B_Unit 2 - IPC, Threads and Concurrency_11.Signals",
+          "order": 11,
+          "title": "Signals",
+          "folder_name": "11.Signals",
+          "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/11.Signals",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Signals_5fdbb5c3.pdf",
+                  "title": "Signals",
+                  "uuid": "5fdbb5c3",
+                  "extension": "pdf",
+                  "path": "UE24CS242B/Unit 2 - IPC, Threads and Concurrency/11.Signals/slides/Signals_5fdbb5c3.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/11.Signals/slides/Signals_5fdbb5c3.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/11.Signals/slides/Signals_5fdbb5c3.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS242B/Unit%202%20-%20IPC%2C%20Threads%20and%20Concurrency/11.Signals/slides/Signals_5fdbb5c3.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE24CS242B_Unit 3- Memory Management",
+      "title": "Unit 3: Memory Management ",
+      "path": "UE24CS242B/Unit 3- Memory Management",
+      "classes": []
+    },
+    {
+      "id": "UE24CS242B_Unit 4 - File and Storage Management",
+      "title": "Unit 4 : File and Storage Management ",
+      "path": "UE24CS242B/Unit 4 - File and Storage Management",
+      "classes": []
+    }
+  ],
+  "total_units": 4,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE24CS242B",
+  "updated_at": "2026-02-08T13:36:14.580020"
+}
