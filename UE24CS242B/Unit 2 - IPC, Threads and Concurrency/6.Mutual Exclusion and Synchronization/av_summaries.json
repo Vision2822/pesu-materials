@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS242B",
+  "unit_title": "Unit 2 : IPC, Threads and\nConcurrency ",
+  "videos": [
+    {
+      "title": "Mutual Exclusion and Synchronization",
+      "provider": "vimeo",
+      "video_id": "508712447",
+      "video_url": "https://player.vimeo.com/video/508712447?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/508712447",
+      "faculty": "Pavan A C",
+      "date": "02/02/2026 02:32 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:27:57.053323"
+}

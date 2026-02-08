@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24CS242B",
+  "unit_title": "Unit 2 : IPC, Threads and\nConcurrency ",
+  "videos": [
+    {
+      "title": "Classic Problems of Synchronization - Reader Writer Problem",
+      "provider": "vimeo",
+      "video_id": "509680203",
+      "video_url": "https://player.vimeo.com/video/509680203?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/509680203",
+      "faculty": "Pavan A C",
+      "date": "02/02/2026 02:34 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Classic Problems of Synchronization - Dining philosophers problem",
+      "provider": "vimeo",
+      "video_id": "509682283",
+      "video_url": "https://player.vimeo.com/video/509682283?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/509682283",
+      "faculty": "Pavan A C",
+      "date": "02/02/2026 02:35 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:27:57.340099"
+}
