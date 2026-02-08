@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS251B",
+  "unit_title": "Architecture and Assembly\nLanguage Programming",
+  "videos": [
+    {
+      "title": "Register Bank",
+      "provider": "vimeo",
+      "video_id": "499274881",
+      "video_url": "https://player.vimeo.com/video/499274881?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/499274881",
+      "faculty": "Dr Kiran D C",
+      "date": "11/01/2021 10:25 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:29:19.625245"
+}

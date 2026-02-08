@@ -1,0 +1,37 @@
+{
+  "course_code": "UE24CS251B",
+  "unit_title": "Architecture and Assembly\nLanguage Programming",
+  "videos": [
+    {
+      "title": "Data Processing Instruction L6.1",
+      "provider": "vimeo",
+      "video_id": "500927914",
+      "video_url": "https://player.vimeo.com/video/500927914?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/500927914",
+      "faculty": "Shanthala P T",
+      "date": "15/01/2021 10:14 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Data Processing Instruction L6.2 Barrel Shifter",
+      "provider": "vimeo",
+      "video_id": "500929898",
+      "video_url": "https://player.vimeo.com/video/500929898?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/500929898",
+      "faculty": "Shanthala P T",
+      "date": "15/01/2021 10:19 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Data Processing Instruction L6.3 Logical and Comparison",
+      "provider": "vimeo",
+      "video_id": "501304515",
+      "video_url": "https://player.vimeo.com/video/501304515?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/501304515",
+      "faculty": "Shanthala P T",
+      "date": "17/01/2021 04:47 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:29:19.716941"
+}

@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS251B",
+  "unit_title": "Architecture and Assembly\nLanguage Programming",
+  "videos": [
+    {
+      "title": "AV Summary-Interrupts and Programming Examples",
+      "provider": "vimeo",
+      "video_id": "568826050",
+      "video_url": "https://player.vimeo.com/video/568826050?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/568826050",
+      "faculty": "Shanthala P T",
+      "date": "29/06/2021 02:57 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:29:20.258225"
+}

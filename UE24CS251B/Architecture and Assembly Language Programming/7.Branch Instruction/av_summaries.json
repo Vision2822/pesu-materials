@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS251B",
+  "unit_title": "Architecture and Assembly\nLanguage Programming",
+  "videos": [
+    {
+      "title": "Flow Control Instructions",
+      "provider": "vimeo",
+      "video_id": "501595033",
+      "video_url": "https://player.vimeo.com/video/501595033?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/501595033",
+      "faculty": "Deepti C",
+      "date": "18/01/2021 08:49 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:29:19.985264"
+}
