@@ -1,0 +1,1532 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UE24CS252B",
+  "course_title": "Computer Networks",
+  "semester_name": "Sem-4",
+  "units": [
+    {
+      "id": "UE24CS252B_Application Layer, Transport Layer UDP",
+      "title": "Application Layer, Transport Layer  UDP",
+      "path": "UE24CS252B/Application Layer, Transport Layer UDP",
+      "classes": [
+        {
+          "id": "UE24CS252B_Application Layer, Transport Layer UDP_1.DNS",
+          "order": 1,
+          "title": "DNS",
+          "folder_name": "1.DNS",
+          "path": "UE24CS252B/Application Layer, Transport Layer UDP/1.DNS",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "dns",
+                  "provider": "vimeo",
+                  "video_id": "912140936",
+                  "video_url": "https://player.vimeo.com/video/912140936?h=3038a9fff5&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912140936?h=3038a9fff5",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:49 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "DNS query types",
+                  "provider": "vimeo",
+                  "video_id": "912141977",
+                  "video_url": "https://player.vimeo.com/video/912141977?h=2927ac7d16&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912141977?h=2927ac7d16",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:56 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "01DNS_21fe57ec.pdf",
+                  "title": "01DNS",
+                  "uuid": "21fe57ec",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Application Layer, Transport Layer UDP/1.DNS/slides/01DNS_21fe57ec.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/1.DNS/slides/01DNS_21fe57ec.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/1.DNS/slides/01DNS_21fe57ec.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/1.DNS/slides/01DNS_21fe57ec.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Application Layer, Transport Layer UDP_2.Peer-to-Peer Applications",
+          "order": 2,
+          "title": "Peer-to-Peer Applications",
+          "folder_name": "2.Peer-to-Peer Applications",
+          "path": "UE24CS252B/Application Layer, Transport Layer UDP/2.Peer-to-Peer Applications",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "p2p calc",
+                  "provider": "vimeo",
+                  "video_id": "912141631",
+                  "video_url": "https://player.vimeo.com/video/912141631?h=e91301b59d&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912141631?h=e91301b59d",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:53 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "PtoP",
+                  "provider": "vimeo",
+                  "video_id": "912141519",
+                  "video_url": "https://player.vimeo.com/video/912141519?h=e945fa78e2&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912141519?h=e945fa78e2",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:53 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "02P2P_21fe3197.pdf",
+                  "title": "02P2P",
+                  "uuid": "21fe3197",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Application Layer, Transport Layer UDP/2.Peer-to-Peer Applications/slides/02P2P_21fe3197.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/2.Peer-to-Peer%20Applications/slides/02P2P_21fe3197.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/2.Peer-to-Peer%20Applications/slides/02P2P_21fe3197.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/2.Peer-to-Peer%20Applications/slides/02P2P_21fe3197.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Application Layer, Transport Layer UDP_3.Socket Programming in UDP",
+          "order": 3,
+          "title": "Socket Programming in UDP",
+          "folder_name": "3.Socket Programming in UDP",
+          "path": "UE24CS252B/Application Layer, Transport Layer UDP/3.Socket Programming in UDP",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "03SocketUDP_21fe9593.pdf",
+                  "title": "03SocketUDP",
+                  "uuid": "21fe9593",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Application Layer, Transport Layer UDP/3.Socket Programming in UDP/slides/03SocketUDP_21fe9593.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/3.Socket%20Programming%20in%20UDP/slides/03SocketUDP_21fe9593.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/3.Socket%20Programming%20in%20UDP/slides/03SocketUDP_21fe9593.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/3.Socket%20Programming%20in%20UDP/slides/03SocketUDP_21fe9593.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Socket Programming",
+                  "provider": "vimeo",
+                  "video_id": "912141800",
+                  "video_url": "https://player.vimeo.com/video/912141800?h=9b3ef1b42c&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912141800?h=9b3ef1b42c",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:54 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Application Layer, Transport Layer UDP_4.Socket Programming in TCP",
+          "order": 4,
+          "title": "Socket Programming in TCP",
+          "folder_name": "4.Socket Programming in TCP",
+          "path": "UE24CS252B/Application Layer, Transport Layer UDP/4.Socket Programming in TCP",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Socket Programming TCP",
+                  "provider": "vimeo",
+                  "video_id": "912142145",
+                  "video_url": "https://player.vimeo.com/video/912142145?h=29585cfa8e&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912142145?h=29585cfa8e",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:57 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "04SocketTCP_21fdff15.pdf",
+                  "title": "04SocketTCP",
+                  "uuid": "21fdff15",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Application Layer, Transport Layer UDP/4.Socket Programming in TCP/slides/04SocketTCP_21fdff15.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/4.Socket%20Programming%20in%20TCP/slides/04SocketTCP_21fdff15.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/4.Socket%20Programming%20in%20TCP/slides/04SocketTCP_21fdff15.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/4.Socket%20Programming%20in%20TCP/slides/04SocketTCP_21fdff15.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Application Layer, Transport Layer UDP_5.Other Application Layer Protocols",
+          "order": 5,
+          "title": "Other Application Layer Protocols",
+          "folder_name": "5.Other Application Layer Protocols",
+          "path": "UE24CS252B/Application Layer, Transport Layer UDP/5.Other Application Layer Protocols",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Other App Layer Protocols",
+                  "provider": "vimeo",
+                  "video_id": "912142247",
+                  "video_url": "https://player.vimeo.com/video/912142247?h=507db29c83&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912142247?h=507db29c83",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:58 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "05OtherProtocols_21fe981a.pdf",
+                  "title": "05OtherProtocols",
+                  "uuid": "21fe981a",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Application Layer, Transport Layer UDP/5.Other Application Layer Protocols/slides/05OtherProtocols_21fe981a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/5.Other%20Application%20Layer%20Protocols/slides/05OtherProtocols_21fe981a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/5.Other%20Application%20Layer%20Protocols/slides/05OtherProtocols_21fe981a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/5.Other%20Application%20Layer%20Protocols/slides/05OtherProtocols_21fe981a.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Application Layer, Transport Layer UDP_6.Introduction to Transport Layer",
+          "order": 6,
+          "title": "Introduction to Transport Layer",
+          "folder_name": "6.Introduction to Transport Layer",
+          "path": "UE24CS252B/Application Layer, Transport Layer UDP/6.Introduction to Transport Layer",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Transport layer",
+                  "provider": "vimeo",
+                  "video_id": "912142536",
+                  "video_url": "https://player.vimeo.com/video/912142536?h=ed5cbde166&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912142536?h=ed5cbde166",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 12:01 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "transport layer_21fe2b31.pdf",
+                  "title": "transport layer",
+                  "uuid": "21fe2b31",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Application Layer, Transport Layer UDP/6.Introduction to Transport Layer/slides/transport layer_21fe2b31.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/6.Introduction%20to%20Transport%20Layer/slides/transport%20layer_21fe2b31.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/6.Introduction%20to%20Transport%20Layer/slides/transport%20layer_21fe2b31.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/6.Introduction%20to%20Transport%20Layer/slides/transport%20layer_21fe2b31.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Application Layer, Transport Layer UDP_7.Multiplexing and De-multiplexing",
+          "order": 7,
+          "title": "Multiplexing & De-multiplexing",
+          "folder_name": "7.Multiplexing and De-multiplexing",
+          "path": "UE24CS252B/Application Layer, Transport Layer UDP/7.Multiplexing and De-multiplexing",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "MultiplexingDemultiplex_21fe5ae8.pdf",
+                  "title": "MultiplexingDemultiplex",
+                  "uuid": "21fe5ae8",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Application Layer, Transport Layer UDP/7.Multiplexing and De-multiplexing/slides/MultiplexingDemultiplex_21fe5ae8.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/7.Multiplexing%20and%20De-multiplexing/slides/MultiplexingDemultiplex_21fe5ae8.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/7.Multiplexing%20and%20De-multiplexing/slides/MultiplexingDemultiplex_21fe5ae8.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/7.Multiplexing%20and%20De-multiplexing/slides/MultiplexingDemultiplex_21fe5ae8.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Multiplexing Demultiplexing",
+                  "provider": "vimeo",
+                  "video_id": "912142660",
+                  "video_url": "https://player.vimeo.com/video/912142660?h=15851c677f&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912142660?h=15851c677f",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 12:02 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Application Layer, Transport Layer UDP_8.Connection-less Transport- UDP",
+          "order": 8,
+          "title": "Connection-less Transport: UDP",
+          "folder_name": "8.Connection-less Transport- UDP",
+          "path": "UE24CS252B/Application Layer, Transport Layer UDP/8.Connection-less Transport- UDP",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "UDP",
+                  "provider": "vimeo",
+                  "video_id": "458898961",
+                  "video_url": "https://player.vimeo.com/video/458898961?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/458898961",
+                  "faculty": "vadiraja",
+                  "date": "13/02/2024 09:51 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UDP_21fe2e38.pdf",
+                  "title": "UDP",
+                  "uuid": "21fe2e38",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Application Layer, Transport Layer UDP/8.Connection-less Transport- UDP/slides/UDP_21fe2e38.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/8.Connection-less%20Transport-%20UDP/slides/UDP_21fe2e38.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/8.Connection-less%20Transport-%20UDP/slides/UDP_21fe2e38.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Application%20Layer%2C%20Transport%20Layer%20UDP/8.Connection-less%20Transport-%20UDP/slides/UDP_21fe2e38.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE24CS252B_Computer Networks and the Internet, Application Layer",
+      "title": "Computer Networks and the Internet, Application Layer",
+      "path": "UE24CS252B/Computer Networks and the Internet, Application Layer",
+      "classes": [
+        {
+          "id": "UE24CS252B_Computer Networks and the Internet, Application Layer_1.Introduction",
+          "order": 1,
+          "title": "Introduction",
+          "folder_name": "1.Introduction",
+          "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/1.Introduction",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "TCP Congestion Control",
+                  "provider": "vimeo",
+                  "video_id": "935830578",
+                  "video_url": "https://player.vimeo.com/video/935830578?h=50c77904ce&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/935830578?h=50c77904ce",
+                  "faculty": "vadiraja",
+                  "date": "17/04/2024 05:34 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "2",
+                  "provider": "vimeo",
+                  "video_id": "684586999",
+                  "video_url": "https://player.vimeo.com/video/684586999?h=69c8dac70f&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/684586999?h=69c8dac70f",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:20 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "1",
+                  "provider": "vimeo",
+                  "video_id": "684592086",
+                  "video_url": "https://player.vimeo.com/video/684592086?h=77d752b6df&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/684592086?h=77d752b6df",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:19 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 3
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Introduction_1ed28119.pdf",
+                  "title": "Introduction",
+                  "uuid": "1ed28119",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/1.Introduction/slides/Introduction_1ed28119.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/1.Introduction/slides/Introduction_1ed28119.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/1.Introduction/slides/Introduction_1ed28119.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/1.Introduction/slides/Introduction_1ed28119.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Computer Networks and the Internet, Application Layer_2.The Network Edge",
+          "order": 2,
+          "title": "The Network Edge",
+          "folder_name": "2.The Network Edge",
+          "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/2.The Network Edge",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "The Network Edge_1ed25a43.pdf",
+                  "title": "The Network Edge",
+                  "uuid": "1ed25a43",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/2.The Network Edge/slides/The Network Edge_1ed25a43.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/2.The%20Network%20Edge/slides/The%20Network%20Edge_1ed25a43.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/2.The%20Network%20Edge/slides/The%20Network%20Edge_1ed25a43.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/2.The%20Network%20Edge/slides/The%20Network%20Edge_1ed25a43.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "1",
+                  "provider": "vimeo",
+                  "video_id": "684585687",
+                  "video_url": "https://player.vimeo.com/video/684585687?h=998838e610&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/684585687?h=998838e610",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:21 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "2",
+                  "provider": "vimeo",
+                  "video_id": "684587779",
+                  "video_url": "https://player.vimeo.com/video/684587779?h=cde95f91ad&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/684587779?h=cde95f91ad",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:21 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Computer Networks and the Internet, Application Layer_3.The Network Core",
+          "order": 3,
+          "title": "The Network Core",
+          "folder_name": "3.The Network Core",
+          "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/3.The Network Core",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "1",
+                  "provider": "vimeo",
+                  "video_id": "684589050",
+                  "video_url": "https://player.vimeo.com/video/684589050?h=1cf98eb768&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/684589050?h=1cf98eb768",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:22 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "The Network Core_1ed2302b.pdf",
+                  "title": "The Network Core",
+                  "uuid": "1ed2302b",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/3.The Network Core/slides/The Network Core_1ed2302b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/3.The%20Network%20Core/slides/The%20Network%20Core_1ed2302b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/3.The%20Network%20Core/slides/The%20Network%20Core_1ed2302b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/3.The%20Network%20Core/slides/The%20Network%20Core_1ed2302b.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Computer Networks and the Internet, Application Layer_4.Delay, Loss, and Throughput",
+          "order": 4,
+          "title": "Delay, Loss, and Throughput",
+          "folder_name": "4.Delay, Loss, and Throughput",
+          "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/4.Delay, Loss, and Throughput",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Problems -3_1ed2fb45.pdf",
+                  "title": "Problems -3",
+                  "uuid": "1ed2fb45",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/4.Delay, Loss, and Throughput/notes/Problems -3_1ed2fb45.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/4.Delay%2C%20Loss%2C%20and%20Throughput/notes/Problems%20-3_1ed2fb45.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/4.Delay%2C%20Loss%2C%20and%20Throughput/notes/Problems%20-3_1ed2fb45.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/4.Delay%2C%20Loss%2C%20and%20Throughput/notes/Problems%20-3_1ed2fb45.pdf"
+                },
+                {
+                  "name": "Problems-1_1ed2fbf3.pdf",
+                  "title": "Problems-1",
+                  "uuid": "1ed2fbf3",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/4.Delay, Loss, and Throughput/notes/Problems-1_1ed2fbf3.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/4.Delay%2C%20Loss%2C%20and%20Throughput/notes/Problems-1_1ed2fbf3.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/4.Delay%2C%20Loss%2C%20and%20Throughput/notes/Problems-1_1ed2fbf3.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/4.Delay%2C%20Loss%2C%20and%20Throughput/notes/Problems-1_1ed2fbf3.pdf"
+                },
+                {
+                  "name": "Problems -2_1ed31afb.pdf",
+                  "title": "Problems -2",
+                  "uuid": "1ed31afb",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/4.Delay, Loss, and Throughput/notes/Problems -2_1ed31afb.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/4.Delay%2C%20Loss%2C%20and%20Throughput/notes/Problems%20-2_1ed31afb.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/4.Delay%2C%20Loss%2C%20and%20Throughput/notes/Problems%20-2_1ed31afb.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/4.Delay%2C%20Loss%2C%20and%20Throughput/notes/Problems%20-2_1ed31afb.pdf"
+                }
+              ],
+              "count": 3
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Delay Loss Throughput_1ed2fa91.pdf",
+                  "title": "Delay Loss Throughput",
+                  "uuid": "1ed2fa91",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/4.Delay, Loss, and Throughput/slides/Delay Loss Throughput_1ed2fa91.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/4.Delay%2C%20Loss%2C%20and%20Throughput/slides/Delay%20Loss%20Throughput_1ed2fa91.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/4.Delay%2C%20Loss%2C%20and%20Throughput/slides/Delay%20Loss%20Throughput_1ed2fa91.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/4.Delay%2C%20Loss%2C%20and%20Throughput/slides/Delay%20Loss%20Throughput_1ed2fa91.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "throughput",
+                  "provider": "vimeo",
+                  "video_id": "912139257",
+                  "video_url": "https://player.vimeo.com/video/912139257?h=64d1888b96&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912139257?h=64d1888b96",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:35 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Delay",
+                  "provider": "vimeo",
+                  "video_id": "912138951",
+                  "video_url": "https://player.vimeo.com/video/912138951?h=ffe0052b2d&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912138951?h=ffe0052b2d",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:33 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Computer Networks and the Internet, Application Layer_5.Protocol Layers",
+          "order": 5,
+          "title": "Protocol Layers",
+          "folder_name": "5.Protocol Layers",
+          "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/5.Protocol Layers",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Protocol Layers_1ed1fcb8.pdf",
+                  "title": "Protocol Layers",
+                  "uuid": "1ed1fcb8",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/5.Protocol Layers/slides/Protocol Layers_1ed1fcb8.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/5.Protocol%20Layers/slides/Protocol%20Layers_1ed1fcb8.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/5.Protocol%20Layers/slides/Protocol%20Layers_1ed1fcb8.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/5.Protocol%20Layers/slides/Protocol%20Layers_1ed1fcb8.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "OSI",
+                  "provider": "vimeo",
+                  "video_id": "912139526",
+                  "video_url": "https://player.vimeo.com/video/912139526?h=d49a8a6b30&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912139526?h=d49a8a6b30",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:36 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Protocols Layers",
+                  "provider": "vimeo",
+                  "video_id": "912139433",
+                  "video_url": "https://player.vimeo.com/video/912139433?h=d42e0305b9&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912139433?h=d42e0305b9",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:36 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Computer Networks and the Internet, Application Layer_6.Network Devices",
+          "order": 6,
+          "title": "Network Devices",
+          "folder_name": "6.Network Devices",
+          "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/6.Network Devices",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Network Devices_1ed103f9.pdf",
+                  "title": "Network Devices",
+                  "uuid": "1ed103f9",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/6.Network Devices/slides/Network Devices_1ed103f9.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/6.Network%20Devices/slides/Network%20Devices_1ed103f9.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/6.Network%20Devices/slides/Network%20Devices_1ed103f9.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/6.Network%20Devices/slides/Network%20Devices_1ed103f9.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Computer Networks and the Internet, Application Layer_7.Interactive Examples",
+          "order": 7,
+          "title": "Interactive Examples",
+          "folder_name": "7.Interactive Examples",
+          "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/7.Interactive Examples",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Interactive Exercises_1ed2d05c.pdf",
+                  "title": "Interactive Exercises",
+                  "uuid": "1ed2d05c",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/7.Interactive Examples/slides/Interactive Exercises_1ed2d05c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/7.Interactive%20Examples/slides/Interactive%20Exercises_1ed2d05c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/7.Interactive%20Examples/slides/Interactive%20Exercises_1ed2d05c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/7.Interactive%20Examples/slides/Interactive%20Exercises_1ed2d05c.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Computer Networks and the Internet, Application Layer_8.Principles of Network Applications",
+          "order": 8,
+          "title": "Principles of Network Applications",
+          "folder_name": "8.Principles of Network Applications",
+          "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/8.Principles of Network Applications",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Application layer-2",
+                  "provider": "vimeo",
+                  "video_id": "912140570",
+                  "video_url": "https://player.vimeo.com/video/912140570?h=c22eea92ca&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912140570?h=c22eea92ca",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:45 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Application layer-1",
+                  "provider": "vimeo",
+                  "video_id": "912140488",
+                  "video_url": "https://player.vimeo.com/video/912140488?h=08157c6cf3&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912140488?h=08157c6cf3",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:44 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Principles of Network Applications_1ed1c23f.pdf",
+                  "title": "Principles of Network Applications",
+                  "uuid": "1ed1c23f",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/8.Principles of Network Applications/slides/Principles of Network Applications_1ed1c23f.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/8.Principles%20of%20Network%20Applications/slides/Principles%20of%20Network%20Applications_1ed1c23f.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/8.Principles%20of%20Network%20Applications/slides/Principles%20of%20Network%20Applications_1ed1c23f.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/8.Principles%20of%20Network%20Applications/slides/Principles%20of%20Network%20Applications_1ed1c23f.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Computer Networks and the Internet, Application Layer_9.Web, HTTP and HTTPS",
+          "order": 9,
+          "title": "Web, HTTP & HTTPS",
+          "folder_name": "9.Web, HTTP and HTTPS",
+          "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/9.Web, HTTP and HTTPS",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "httpvshttps ssl",
+                  "provider": "vimeo",
+                  "video_id": "912141352",
+                  "video_url": "https://player.vimeo.com/video/912141352?h=aa9f4ea938&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912141352?h=aa9f4ea938",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:52 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "web http",
+                  "provider": "vimeo",
+                  "video_id": "912140667",
+                  "video_url": "https://player.vimeo.com/video/912140667?h=33932ea712&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912140667?h=33932ea712",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:46 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "webcache",
+                  "provider": "vimeo",
+                  "video_id": "912141207",
+                  "video_url": "https://player.vimeo.com/video/912141207?h=729ad738e6&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912141207?h=729ad738e6",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:51 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "cookies",
+                  "provider": "vimeo",
+                  "video_id": "912140842",
+                  "video_url": "https://player.vimeo.com/video/912140842?h=8d7d5bbe30&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912140842?h=8d7d5bbe30",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:48 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "http-2",
+                  "provider": "vimeo",
+                  "video_id": "912140741",
+                  "video_url": "https://player.vimeo.com/video/912140741?h=444dbc2700&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/912140741?h=444dbc2700",
+                  "faculty": "vadiraja",
+                  "date": "12/02/2024 11:47 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 5
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Web HTTP HTTPS_1ed1be39.pdf",
+                  "title": "Web HTTP HTTPS",
+                  "uuid": "1ed1be39",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Computer Networks and the Internet, Application Layer/9.Web, HTTP and HTTPS/slides/Web HTTP HTTPS_1ed1be39.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/9.Web%2C%20HTTP%20and%20HTTPS/slides/Web%20HTTP%20HTTPS_1ed1be39.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/9.Web%2C%20HTTP%20and%20HTTPS/slides/Web%20HTTP%20HTTPS_1ed1be39.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Computer%20Networks%20and%20the%20Internet%2C%20Application%20Layer/9.Web%2C%20HTTP%20and%20HTTPS/slides/Web%20HTTP%20HTTPS_1ed1be39.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE24CS252B_Network Layer and Internet Protocol, Link Layer and LAN",
+      "title": "Network Layer and Internet Protocol, Link Layer and LAN",
+      "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN",
+      "classes": [
+        {
+          "id": "UE24CS252B_Network Layer and Internet Protocol, Link Layer and LAN_1.DHCP and ICMP",
+          "order": 1,
+          "title": "DHCP & ICMP",
+          "folder_name": "1.DHCP and ICMP",
+          "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/1.DHCP and ICMP",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "DHCP & ICMP_29417282.pdf",
+                  "title": "DHCP & ICMP",
+                  "uuid": "29417282",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/1.DHCP and ICMP/slides/DHCP & ICMP_29417282.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/1.DHCP%20and%20ICMP/slides/DHCP%20%26%20ICMP_29417282.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/1.DHCP%20and%20ICMP/slides/DHCP%20%26%20ICMP_29417282.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/1.DHCP%20and%20ICMP/slides/DHCP%20%26%20ICMP_29417282.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Network Layer and Internet Protocol, Link Layer and LAN_2.IPv6 Addressing",
+          "order": 2,
+          "title": "IPv6 Addressing",
+          "folder_name": "2.IPv6 Addressing",
+          "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/2.IPv6 Addressing",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "IPv6_2942283c.pdf",
+                  "title": "IPv6",
+                  "uuid": "2942283c",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/2.IPv6 Addressing/slides/IPv6_2942283c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/2.IPv6%20Addressing/slides/IPv6_2942283c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/2.IPv6%20Addressing/slides/IPv6_2942283c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/2.IPv6%20Addressing/slides/IPv6_2942283c.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Network Layer and Internet Protocol, Link Layer and LAN_3.Routing Algorithms - Link State",
+          "order": 3,
+          "title": "Routing Algorithms - Link State",
+          "folder_name": "3.Routing Algorithms - Link State",
+          "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/3.Routing Algorithms - Link State",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "LinkState Routing Protocol",
+                  "provider": "vimeo",
+                  "video_id": "935836125",
+                  "video_url": "https://player.vimeo.com/video/935836125?h=fe780ec0e3&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/935836125?h=fe780ec0e3",
+                  "faculty": "vadiraja",
+                  "date": "17/04/2024 05:50 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Routing Algorithm - Link State_2941beda.pdf",
+                  "title": "Routing Algorithm - Link State",
+                  "uuid": "2941beda",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/3.Routing Algorithms - Link State/slides/Routing Algorithm - Link State_2941beda.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/3.Routing%20Algorithms%20-%20Link%20State/slides/Routing%20Algorithm%20-%20Link%20State_2941beda.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/3.Routing%20Algorithms%20-%20Link%20State/slides/Routing%20Algorithm%20-%20Link%20State_2941beda.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/3.Routing%20Algorithms%20-%20Link%20State/slides/Routing%20Algorithm%20-%20Link%20State_2941beda.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Network Layer and Internet Protocol, Link Layer and LAN_4.Routing Algorithms - Distance Vector",
+          "order": 4,
+          "title": "Routing Algorithms - Distance Vector",
+          "folder_name": "4.Routing Algorithms - Distance Vector",
+          "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/4.Routing Algorithms - Distance Vector",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Routing Algorithm - Distance Vector_29419b12.pdf",
+                  "title": "Routing Algorithm - Distance Vector",
+                  "uuid": "29419b12",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/4.Routing Algorithms - Distance Vector/slides/Routing Algorithm - Distance Vector_29419b12.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/4.Routing%20Algorithms%20-%20Distance%20Vector/slides/Routing%20Algorithm%20-%20Distance%20Vector_29419b12.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/4.Routing%20Algorithms%20-%20Distance%20Vector/slides/Routing%20Algorithm%20-%20Distance%20Vector_29419b12.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/4.Routing%20Algorithms%20-%20Distance%20Vector/slides/Routing%20Algorithm%20-%20Distance%20Vector_29419b12.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Network Layer and Internet Protocol, Link Layer and LAN_5.Link Layer - Introduction",
+          "order": 5,
+          "title": "Link Layer - Introduction",
+          "folder_name": "5.Link Layer - Introduction",
+          "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/5.Link Layer - Introduction",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Link layer Introduction_294195bb.pdf",
+                  "title": "Link layer Introduction",
+                  "uuid": "294195bb",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/5.Link Layer - Introduction/slides/Link layer Introduction_294195bb.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/5.Link%20Layer%20-%20Introduction/slides/Link%20layer%20Introduction_294195bb.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/5.Link%20Layer%20-%20Introduction/slides/Link%20layer%20Introduction_294195bb.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/5.Link%20Layer%20-%20Introduction/slides/Link%20layer%20Introduction_294195bb.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Network Layer and Internet Protocol, Link Layer and LAN_6.Link layer - Error Detection and Correction",
+          "order": 6,
+          "title": "Link layer - Error Detection & Correction",
+          "folder_name": "6.Link layer - Error Detection and Correction",
+          "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/6.Link layer - Error Detection and Correction",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Error Detection & Correction_294198a7.pdf",
+                  "title": "Error Detection & Correction",
+                  "uuid": "294198a7",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/6.Link layer - Error Detection and Correction/slides/Error Detection & Correction_294198a7.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/6.Link%20layer%20-%20Error%20Detection%20and%20Correction/slides/Error%20Detection%20%26%20Correction_294198a7.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/6.Link%20layer%20-%20Error%20Detection%20and%20Correction/slides/Error%20Detection%20%26%20Correction_294198a7.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/6.Link%20layer%20-%20Error%20Detection%20and%20Correction/slides/Error%20Detection%20%26%20Correction_294198a7.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Network Layer and Internet Protocol, Link Layer and LAN_7.Media Access Protocols",
+          "order": 7,
+          "title": "Media Access Protocols",
+          "folder_name": "7.Media Access Protocols",
+          "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/7.Media Access Protocols",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Media Access Protocols_2941c5e7.pdf",
+                  "title": "Media Access Protocols",
+                  "uuid": "2941c5e7",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/7.Media Access Protocols/slides/Media Access Protocols_2941c5e7.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/7.Media%20Access%20Protocols/slides/Media%20Access%20Protocols_2941c5e7.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/7.Media%20Access%20Protocols/slides/Media%20Access%20Protocols_2941c5e7.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/7.Media%20Access%20Protocols/slides/Media%20Access%20Protocols_2941c5e7.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Network Layer and Internet Protocol, Link Layer and LAN_8.Switched LANs",
+          "order": 8,
+          "title": "Switched LANs",
+          "folder_name": "8.Switched LANs",
+          "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/8.Switched LANs",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Switched LANs_2942527b.pdf",
+                  "title": "Switched LANs",
+                  "uuid": "2942527b",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/8.Switched LANs/slides/Switched LANs_2942527b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/8.Switched%20LANs/slides/Switched%20LANs_2942527b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/8.Switched%20LANs/slides/Switched%20LANs_2942527b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/8.Switched%20LANs/slides/Switched%20LANs_2942527b.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Network Layer and Internet Protocol, Link Layer and LAN_9.A day in the life of a web request",
+          "order": 9,
+          "title": "A day in the life of a web request",
+          "folder_name": "9.A day in the life of a web request",
+          "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/9.A day in the life of a web request",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "A day in the life of a webpage_29422a96.pdf",
+                  "title": "A day in the life of a webpage",
+                  "uuid": "29422a96",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/9.A day in the life of a web request/slides/A day in the life of a webpage_29422a96.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/9.A%20day%20in%20the%20life%20of%20a%20web%20request/slides/A%20day%20in%20the%20life%20of%20a%20webpage_29422a96.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/9.A%20day%20in%20the%20life%20of%20a%20web%20request/slides/A%20day%20in%20the%20life%20of%20a%20webpage_29422a96.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/9.A%20day%20in%20the%20life%20of%20a%20web%20request/slides/A%20day%20in%20the%20life%20of%20a%20webpage_29422a96.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Network Layer and Internet Protocol, Link Layer and LAN_10.Physical Layer",
+          "order": 10,
+          "title": "Physical Layer",
+          "folder_name": "10.Physical Layer",
+          "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/10.Physical Layer",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Physical Layer_2941c2be.pdf",
+                  "title": "Physical Layer",
+                  "uuid": "2941c2be",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/10.Physical Layer/slides/Physical Layer_2941c2be.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/10.Physical%20Layer/slides/Physical%20Layer_2941c2be.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/10.Physical%20Layer/slides/Physical%20Layer_2941c2be.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/10.Physical%20Layer/slides/Physical%20Layer_2941c2be.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Network Layer and Internet Protocol, Link Layer and LAN_11.Wireless LANs- IEEE 802.11",
+          "order": 11,
+          "title": "Wireless LANs: IEEE 802.11",
+          "folder_name": "11.Wireless LANs- IEEE 802.11",
+          "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/11.Wireless LANs- IEEE 802.11",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Wireless LANs_29422575.pdf",
+                  "title": "Wireless LANs",
+                  "uuid": "29422575",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Network Layer and Internet Protocol, Link Layer and LAN/11.Wireless LANs- IEEE 802.11/slides/Wireless LANs_29422575.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/11.Wireless%20LANs-%20IEEE%20802.11/slides/Wireless%20LANs_29422575.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/11.Wireless%20LANs-%20IEEE%20802.11/slides/Wireless%20LANs_29422575.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Network%20Layer%20and%20Internet%20Protocol%2C%20Link%20Layer%20and%20LAN/11.Wireless%20LANs-%20IEEE%20802.11/slides/Wireless%20LANs_29422575.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE24CS252B_Transport Layer TCP, Network Layer and Internet Protocol",
+      "title": "Transport Layer  TCP, Network Layer and Internet Protocol ",
+      "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol",
+      "classes": [
+        {
+          "id": "UE24CS252B_Transport Layer TCP, Network Layer and Internet Protocol_1.RDT - Reliable Data Transfer",
+          "order": 1,
+          "title": "RDT - Reliable Data Transfer",
+          "folder_name": "1.RDT - Reliable Data Transfer",
+          "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/1.RDT - Reliable Data Transfer",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "RDT",
+                  "provider": "vimeo",
+                  "video_id": "459870818",
+                  "video_url": "https://player.vimeo.com/video/459870818?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/459870818",
+                  "faculty": "vadiraja",
+                  "date": "19/03/2024 11:00 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "RDT_257694c5.pdf",
+                  "title": "RDT",
+                  "uuid": "257694c5",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/1.RDT - Reliable Data Transfer/slides/RDT_257694c5.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/1.RDT%20-%20Reliable%20Data%20Transfer/slides/RDT_257694c5.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/1.RDT%20-%20Reliable%20Data%20Transfer/slides/RDT_257694c5.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/1.RDT%20-%20Reliable%20Data%20Transfer/slides/RDT_257694c5.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Transport Layer TCP, Network Layer and Internet Protocol_2.Go-Back-N Protocol",
+          "order": 2,
+          "title": "Go-Back-N Protocol",
+          "folder_name": "2.Go-Back-N Protocol",
+          "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/2.Go-Back-N Protocol",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "GoBackN",
+                  "provider": "vimeo",
+                  "video_id": "465670895",
+                  "video_url": "https://player.vimeo.com/video/465670895?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/465670895",
+                  "faculty": "vadiraja",
+                  "date": "19/03/2024 11:33 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "GoBackN_2576e8e2.pdf",
+                  "title": "GoBackN",
+                  "uuid": "2576e8e2",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/2.Go-Back-N Protocol/slides/GoBackN_2576e8e2.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/2.Go-Back-N%20Protocol/slides/GoBackN_2576e8e2.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/2.Go-Back-N%20Protocol/slides/GoBackN_2576e8e2.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/2.Go-Back-N%20Protocol/slides/GoBackN_2576e8e2.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Transport Layer TCP, Network Layer and Internet Protocol_3.Selective Repeat",
+          "order": 3,
+          "title": "Selective Repeat",
+          "folder_name": "3.Selective Repeat",
+          "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/3.Selective Repeat",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Selective Repeat_2576987a.pdf",
+                  "title": "Selective Repeat",
+                  "uuid": "2576987a",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/3.Selective Repeat/slides/Selective Repeat_2576987a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/3.Selective%20Repeat/slides/Selective%20Repeat_2576987a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/3.Selective%20Repeat/slides/Selective%20Repeat_2576987a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/3.Selective%20Repeat/slides/Selective%20Repeat_2576987a.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Selective Repeat",
+                  "provider": "vimeo",
+                  "video_id": "465671368",
+                  "video_url": "https://player.vimeo.com/video/465671368?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/465671368",
+                  "faculty": "vadiraja",
+                  "date": "19/03/2024 11:33 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Transport Layer TCP, Network Layer and Internet Protocol_4.Connection Oriented Transport- TCP",
+          "order": 4,
+          "title": "Connection Oriented Transport: TCP",
+          "folder_name": "4.Connection Oriented Transport- TCP",
+          "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/4.Connection Oriented Transport- TCP",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Connection Oriented Transport_25774c16.pdf",
+                  "title": "Connection Oriented Transport",
+                  "uuid": "25774c16",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/4.Connection Oriented Transport- TCP/slides/Connection Oriented Transport_25774c16.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/4.Connection%20Oriented%20Transport-%20TCP/slides/Connection%20Oriented%20Transport_25774c16.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/4.Connection%20Oriented%20Transport-%20TCP/slides/Connection%20Oriented%20Transport_25774c16.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/4.Connection%20Oriented%20Transport-%20TCP/slides/Connection%20Oriented%20Transport_25774c16.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Transport Layer TCP, Network Layer and Internet Protocol_5.TCP Congestion Control",
+          "order": 5,
+          "title": "TCP Congestion Control",
+          "folder_name": "5.TCP Congestion Control",
+          "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/5.TCP Congestion Control",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "TCP Congestion Control_2576e62a.pdf",
+                  "title": "TCP Congestion Control",
+                  "uuid": "2576e62a",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/5.TCP Congestion Control/slides/TCP Congestion Control_2576e62a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/5.TCP%20Congestion%20Control/slides/TCP%20Congestion%20Control_2576e62a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/5.TCP%20Congestion%20Control/slides/TCP%20Congestion%20Control_2576e62a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/5.TCP%20Congestion%20Control/slides/TCP%20Congestion%20Control_2576e62a.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "TCP Congestion Control",
+                  "provider": "vimeo",
+                  "video_id": "935838817",
+                  "video_url": "https://player.vimeo.com/video/935838817?h=1375d79c54&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/935838817?h=1375d79c54",
+                  "faculty": "vadiraja",
+                  "date": "17/04/2024 05:58 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Transport Layer TCP, Network Layer and Internet Protocol_6.Network Layer",
+          "order": 6,
+          "title": "Network Layer",
+          "folder_name": "6.Network Layer",
+          "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/6.Network Layer",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Network Layer_25765a83.pdf",
+                  "title": "Network Layer",
+                  "uuid": "25765a83",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/6.Network Layer/slides/Network Layer_25765a83.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/6.Network%20Layer/slides/Network%20Layer_25765a83.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/6.Network%20Layer/slides/Network%20Layer_25765a83.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/6.Network%20Layer/slides/Network%20Layer_25765a83.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Transport Layer TCP, Network Layer and Internet Protocol_7.Inside Router",
+          "order": 7,
+          "title": "Inside Router",
+          "folder_name": "7.Inside Router",
+          "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/7.Inside Router",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "What's Inside The Router-2",
+                  "provider": "vimeo",
+                  "video_id": "935832369",
+                  "video_url": "https://player.vimeo.com/video/935832369?h=dd424683f0&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/935832369?h=dd424683f0",
+                  "faculty": "vadiraja",
+                  "date": "17/04/2024 05:39 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Inside A Router_25778b1e.pdf",
+                  "title": "Inside A Router",
+                  "uuid": "25778b1e",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/7.Inside Router/slides/Inside A Router_25778b1e.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/7.Inside%20Router/slides/Inside%20A%20Router_25778b1e.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/7.Inside%20Router/slides/Inside%20A%20Router_25778b1e.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/7.Inside%20Router/slides/Inside%20A%20Router_25778b1e.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Transport Layer TCP, Network Layer and Internet Protocol_8.Switching",
+          "order": 8,
+          "title": "Switching",
+          "folder_name": "8.Switching",
+          "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/8.Switching",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Switching_25772d7b.pdf",
+                  "title": "Switching",
+                  "uuid": "25772d7b",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/8.Switching/slides/Switching_25772d7b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/8.Switching/slides/Switching_25772d7b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/8.Switching/slides/Switching_25772d7b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/8.Switching/slides/Switching_25772d7b.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Transport Layer TCP, Network Layer and Internet Protocol_9.IP - IPv4",
+          "order": 9,
+          "title": "IP - IPv4",
+          "folder_name": "9.IP - IPv4",
+          "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/9.IP - IPv4",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "IPv4_25771305.pdf",
+                  "title": "IPv4",
+                  "uuid": "25771305",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/9.IP - IPv4/slides/IPv4_25771305.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/9.IP%20-%20IPv4/slides/IPv4_25771305.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/9.IP%20-%20IPv4/slides/IPv4_25771305.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/9.IP%20-%20IPv4/slides/IPv4_25771305.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Transport Layer TCP, Network Layer and Internet Protocol_10.Fragmentation",
+          "order": 10,
+          "title": "Fragmentation",
+          "folder_name": "10.Fragmentation",
+          "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/10.Fragmentation",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "IPv4-Fragmentation_2576c1dc.pdf",
+                  "title": "IPv4-Fragmentation",
+                  "uuid": "2576c1dc",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/10.Fragmentation/slides/IPv4-Fragmentation_2576c1dc.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/10.Fragmentation/slides/IPv4-Fragmentation_2576c1dc.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/10.Fragmentation/slides/IPv4-Fragmentation_2576c1dc.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/10.Fragmentation/slides/IPv4-Fragmentation_2576c1dc.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Transport Layer TCP, Network Layer and Internet Protocol_11.IPv4 Addressing",
+          "order": 11,
+          "title": "IPv4 Addressing",
+          "folder_name": "11.IPv4 Addressing",
+          "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/11.IPv4 Addressing",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "IPv4-Addressing_2577307a.pdf",
+                  "title": "IPv4-Addressing",
+                  "uuid": "2577307a",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/11.IPv4 Addressing/slides/IPv4-Addressing_2577307a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/11.IPv4%20Addressing/slides/IPv4-Addressing_2577307a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/11.IPv4%20Addressing/slides/IPv4-Addressing_2577307a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/11.IPv4%20Addressing/slides/IPv4-Addressing_2577307a.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS252B_Transport Layer TCP, Network Layer and Internet Protocol_12.NAT - Network Address Translation",
+          "order": 12,
+          "title": "NAT - Network Address Translation",
+          "folder_name": "12.NAT - Network Address Translation",
+          "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/12.NAT - Network Address Translation",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "IPv4-NAT_2576bfcf.pdf",
+                  "title": "IPv4-NAT",
+                  "uuid": "2576bfcf",
+                  "extension": "pdf",
+                  "path": "UE24CS252B/Transport Layer TCP, Network Layer and Internet Protocol/12.NAT - Network Address Translation/slides/IPv4-NAT_2576bfcf.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/12.NAT%20-%20Network%20Address%20Translation/slides/IPv4-NAT_2576bfcf.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/12.NAT%20-%20Network%20Address%20Translation/slides/IPv4-NAT_2576bfcf.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS252B/Transport%20Layer%20TCP%2C%20Network%20Layer%20and%20Internet%20Protocol/12.NAT%20-%20Network%20Address%20Translation/slides/IPv4-NAT_2576bfcf.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "total_units": 4,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE24CS252B",
+  "updated_at": "2026-02-08T13:36:15.885956"
+}
