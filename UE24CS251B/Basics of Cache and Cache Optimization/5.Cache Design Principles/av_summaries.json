@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS251B",
+  "unit_title": "Basics of Cache and Cache\nOptimization",
+  "videos": [
+    {
+      "title": "Cache Design Principles",
+      "provider": "vimeo",
+      "video_id": "516008121",
+      "video_url": "https://player.vimeo.com/video/516008121?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/516008121",
+      "faculty": "Dr Kiran D C",
+      "date": "24/02/2021 06:22 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:29:51.373519"
+}

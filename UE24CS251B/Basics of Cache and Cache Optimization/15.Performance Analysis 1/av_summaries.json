@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24CS251B",
+  "unit_title": "Basics of Cache and Cache\nOptimization",
+  "videos": [
+    {
+      "title": "UE20CS252_17032022_class#47_DC",
+      "provider": "vimeo",
+      "video_id": "690013859",
+      "video_url": "https://player.vimeo.com/video/690013859?h=39bedc336c&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/690013859?h=39bedc336c",
+      "faculty": "Dr Kiran D C",
+      "date": "19/03/2022 09:34 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Performance Analysis 1 & 2",
+      "provider": "vimeo",
+      "video_id": "538998976",
+      "video_url": "https://player.vimeo.com/video/538998976?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/538998976",
+      "faculty": "Dr Kiran D C",
+      "date": "20/04/2021 10:52 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:29:52.628629"
+}

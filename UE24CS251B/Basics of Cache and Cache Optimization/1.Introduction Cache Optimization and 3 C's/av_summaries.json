@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS251B",
+  "unit_title": "Basics of Cache and Cache\nOptimization",
+  "videos": [
+    {
+      "title": "Introduction to Cache Optimization & 3 C",
+      "provider": "vimeo",
+      "video_id": "537566650",
+      "video_url": "https://player.vimeo.com/video/537566650?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/537566650",
+      "faculty": "Dr Kiran D C",
+      "date": "16/04/2021 10:10 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:29:51.090974"
+}

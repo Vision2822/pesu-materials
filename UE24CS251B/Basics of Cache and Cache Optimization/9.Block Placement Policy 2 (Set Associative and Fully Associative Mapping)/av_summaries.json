@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24CS251B",
+  "unit_title": "Basics of Cache and Cache\nOptimization",
+  "videos": [
+    {
+      "title": "Fully Associative & Set Associative Mapping",
+      "provider": "vimeo",
+      "video_id": "517917050",
+      "video_url": "https://player.vimeo.com/video/517917050?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/517917050",
+      "faculty": "Dr Kiran D C",
+      "date": "01/03/2021 05:25 AM",
+      "section": "NA"
+    },
+    {
+      "title": "class Video-cache memory",
+      "provider": "vimeo",
+      "video_id": "520763759",
+      "video_url": "https://player.vimeo.com/video/520763759?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/520763759",
+      "faculty": "Dr Kiran D C",
+      "date": "08/03/2021 08:46 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:29:51.651412"
+}

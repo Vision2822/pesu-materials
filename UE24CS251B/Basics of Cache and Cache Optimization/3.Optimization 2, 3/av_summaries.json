@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24CS251B",
+  "unit_title": "Basics of Cache and Cache\nOptimization",
+  "videos": [
+    {
+      "title": "second Optimization Technique VRB",
+      "provider": "vimeo",
+      "video_id": "570676442",
+      "video_url": "https://player.vimeo.com/video/570676442?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/570676442",
+      "faculty": "Anantha Nagu",
+      "date": "03/07/2021 09:34 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Third Optimization Technique",
+      "provider": "vimeo",
+      "video_id": "570680304",
+      "video_url": "https://player.vimeo.com/video/570680304?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/570680304",
+      "faculty": "Anantha Nagu",
+      "date": "03/07/2021 09:52 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:29:51.469805"
+}
