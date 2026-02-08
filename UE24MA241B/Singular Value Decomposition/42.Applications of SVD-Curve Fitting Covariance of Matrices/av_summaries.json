@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24MA241B",
+  "unit_title": "Singular Value Decomposition ",
+  "videos": [
+    {
+      "title": "Applications of SVD, Curve Fitting, Covariance of matrices(2x2)",
+      "provider": "vimeo",
+      "video_id": "556120877",
+      "video_url": "https://player.vimeo.com/video/556120877?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/556120877",
+      "faculty": "Renna Sultana",
+      "date": "28/05/2021 03:08 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Applications of SVD, Curve Fitting, Covariance of matrices",
+      "provider": "vimeo",
+      "video_id": "556595466",
+      "video_url": "https://player.vimeo.com/video/556595466?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/556595466",
+      "faculty": "Renna Sultana",
+      "date": "29/05/2021 08:23 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:35:44.807024"
+}

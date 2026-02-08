@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24MA241B",
+  "unit_title": "Singular Value Decomposition ",
+  "videos": [
+    {
+      "title": "Quadratic Forms",
+      "provider": "vimeo",
+      "video_id": "539963360",
+      "video_url": "https://player.vimeo.com/video/539963360?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/539963360",
+      "faculty": "Renna Sultana",
+      "date": "22/04/2021 09:21 AM",
+      "section": "NA"
+    },
+    {
+      "title": "Quadratic Forms, Definitions of Positive Definite, Negative Definite matrices",
+      "provider": "vimeo",
+      "video_id": "835337786",
+      "video_url": "https://player.vimeo.com/video/835337786?h=c9a31cdcc6&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/835337786?h=c9a31cdcc6",
+      "faculty": "Renna Sultana",
+      "date": "12/06/2023 12:55 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:35:43.337139"
+}

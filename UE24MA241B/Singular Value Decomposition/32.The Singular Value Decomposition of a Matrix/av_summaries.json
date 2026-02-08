@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24MA241B",
+  "unit_title": "Singular Value Decomposition ",
+  "videos": [
+    {
+      "title": "Singular Value Decomposition of a Matrix Part 1",
+      "provider": "vimeo",
+      "video_id": "836450479",
+      "video_url": "https://player.vimeo.com/video/836450479?h=4a19dc01d8&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/836450479?h=4a19dc01d8",
+      "faculty": "Renna Sultana",
+      "date": "15/06/2023 01:32 PM",
+      "section": "NA"
+    },
+    {
+      "title": "The Singular Value Decomposition of a Matrix",
+      "provider": "vimeo",
+      "video_id": "555195101",
+      "video_url": "https://player.vimeo.com/video/555195101?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/555195101",
+      "faculty": "Renna Sultana",
+      "date": "26/05/2021 06:45 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:35:44.125207"
+}

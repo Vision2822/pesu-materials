@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24MA241B",
+  "unit_title": "Singular Value Decomposition ",
+  "videos": [
+    {
+      "title": "Introduction to Eigen values and Eigenvectors",
+      "provider": "vimeo",
+      "video_id": "719567015",
+      "video_url": "https://player.vimeo.com/video/719567015?h=691eb76bd5&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/719567015?h=691eb76bd5",
+      "faculty": "Renna Sultana",
+      "date": "12/06/2022 07:22 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Introduction to Eigen values and Eigenvectors",
+      "provider": "vimeo",
+      "video_id": "540577238",
+      "video_url": "https://player.vimeo.com/video/540577238?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/540577238",
+      "faculty": "Renna Sultana",
+      "date": "23/04/2021 03:09 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:35:43.247334"
+}

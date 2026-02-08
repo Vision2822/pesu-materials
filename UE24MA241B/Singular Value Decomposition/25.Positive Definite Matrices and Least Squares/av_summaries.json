@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24MA241B",
+  "unit_title": "Singular Value Decomposition ",
+  "videos": [
+    {
+      "title": "Positive Definite Matrix & Least Squares",
+      "provider": "vimeo",
+      "video_id": "836442213",
+      "video_url": "https://player.vimeo.com/video/836442213?h=f93542bcc6&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/836442213?h=f93542bcc6",
+      "faculty": "Renna Sultana",
+      "date": "15/06/2023 12:54 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Positive Definite Matrices and Least Squares",
+      "provider": "vimeo",
+      "video_id": "545363185",
+      "video_url": "https://player.vimeo.com/video/545363185?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/545363185",
+      "faculty": "Renna Sultana",
+      "date": "05/05/2021 12:37 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:35:43.691618"
+}
