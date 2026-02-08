@@ -1,0 +1,589 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UE24EC252B",
+  "course_title": "Digital VLSI Design",
+  "semester_name": "Sem-4",
+  "units": [
+    {
+      "id": "UE24EC252B_Bi-stable elements and Dynamic Logic Circuits",
+      "title": "Bi-stable elements and Dynamic Logic Circuits",
+      "path": "UE24EC252B/Bi-stable elements and Dynamic Logic Circuits",
+      "classes": []
+    },
+    {
+      "id": "UE24EC252B_MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout",
+      "title": "MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout",
+      "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout",
+      "classes": [
+        {
+          "id": "UE24EC252B_MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout_1.VLSI Design Methodologies and Design Flow",
+          "order": 1,
+          "title": "VLSI Design Methodologies and Design Flow ",
+          "folder_name": "1.VLSI Design Methodologies and Design Flow",
+          "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/1.VLSI Design Methodologies and Design Flow",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Overview of Design Methodologies",
+                  "provider": "vimeo",
+                  "video_id": "1162128822",
+                  "video_url": "https://player.vimeo.com/video/1162128822?h=c646365a40&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1162128822?h=c646365a40",
+                  "faculty": "VINAY REDDY",
+                  "date": "05/02/2026 04:25 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Notes on NMOS Load Inverters_0e612fb3.pdf",
+                  "title": "Notes on NMOS Load Inverters",
+                  "uuid": "0e612fb3",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/1.VLSI Design Methodologies and Design Flow/notes/Notes on NMOS Load Inverters_0e612fb3.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/1.VLSI%20Design%20Methodologies%20and%20Design%20Flow/notes/Notes%20on%20NMOS%20Load%20Inverters_0e612fb3.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/1.VLSI%20Design%20Methodologies%20and%20Design%20Flow/notes/Notes%20on%20NMOS%20Load%20Inverters_0e612fb3.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/1.VLSI%20Design%20Methodologies%20and%20Design%20Flow/notes/Notes%20on%20NMOS%20Load%20Inverters_0e612fb3.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "VLSI Design Methodology_1fc795eb.pdf",
+                  "title": "VLSI Design Methodology",
+                  "uuid": "1fc795eb",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/1.VLSI Design Methodologies and Design Flow/slides/VLSI Design Methodology_1fc795eb.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/1.VLSI%20Design%20Methodologies%20and%20Design%20Flow/slides/VLSI%20Design%20Methodology_1fc795eb.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/1.VLSI%20Design%20Methodologies%20and%20Design%20Flow/slides/VLSI%20Design%20Methodology_1fc795eb.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/1.VLSI%20Design%20Methodologies%20and%20Design%20Flow/slides/VLSI%20Design%20Methodology_1fc795eb.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EC252B_MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout_2.VLSI Design Methodologies and VLSI Design Flow 2",
+          "order": 2,
+          "title": "VLSI Design Methodologies and VLSI Design Flow 2",
+          "folder_name": "2.VLSI Design Methodologies and VLSI Design Flow 2",
+          "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/2.VLSI Design Methodologies and VLSI Design Flow 2",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Overview of Design Methodologies",
+                  "provider": "vimeo",
+                  "video_id": "1162129008",
+                  "video_url": "https://player.vimeo.com/video/1162129008?h=7be5653171&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1162129008?h=7be5653171",
+                  "faculty": "Mahesh A Awati",
+                  "date": "05/02/2026 04:25 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "VLSI Design Methodology_011bb12c.pdf",
+                  "title": "VLSI Design Methodology",
+                  "uuid": "011bb12c",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/2.VLSI Design Methodologies and VLSI Design Flow 2/slides/VLSI Design Methodology_011bb12c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/2.VLSI%20Design%20Methodologies%20and%20VLSI%20Design%20Flow%202/slides/VLSI%20Design%20Methodology_011bb12c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/2.VLSI%20Design%20Methodologies%20and%20VLSI%20Design%20Flow%202/slides/VLSI%20Design%20Methodology_011bb12c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/2.VLSI%20Design%20Methodologies%20and%20VLSI%20Design%20Flow%202/slides/VLSI%20Design%20Methodology_011bb12c.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EC252B_MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout_3.Introduction to inverters",
+          "order": 3,
+          "title": "Introduction to inverters",
+          "folder_name": "3.Introduction to inverters",
+          "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/3.Introduction to inverters",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Introduction to Inverters_83896454.pdf",
+                  "title": "Introduction to Inverters",
+                  "uuid": "83896454",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/3.Introduction to inverters/slides/Introduction to Inverters_83896454.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/3.Introduction%20to%20inverters/slides/Introduction%20to%20Inverters_83896454.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/3.Introduction%20to%20inverters/slides/Introduction%20to%20Inverters_83896454.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/3.Introduction%20to%20inverters/slides/Introduction%20to%20Inverters_83896454.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Introduction to Inverters",
+                  "provider": "vimeo",
+                  "video_id": "1162129175",
+                  "video_url": "https://player.vimeo.com/video/1162129175?h=13a1a2aedf&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1162129175?h=13a1a2aedf",
+                  "faculty": "Mahesh A Awati",
+                  "date": "05/02/2026 04:26 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EC252B_MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout_4.Resistive-Load Inverter",
+          "order": 4,
+          "title": "Resistive-Load Inverter ",
+          "folder_name": "4.Resistive-Load Inverter",
+          "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/4.Resistive-Load Inverter",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Resistive Load Inverters Part 1",
+                  "provider": "vimeo",
+                  "video_id": "1162129381",
+                  "video_url": "https://player.vimeo.com/video/1162129381?h=3697e867ef&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1162129381?h=3697e867ef",
+                  "faculty": "Mahesh A Awati",
+                  "date": "05/02/2026 04:27 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Resistive Load Inverter_49f245ac.pdf",
+                  "title": "Resistive Load Inverter",
+                  "uuid": "49f245ac",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/4.Resistive-Load Inverter/slides/Resistive Load Inverter_49f245ac.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/4.Resistive-Load%20Inverter/slides/Resistive%20Load%20Inverter_49f245ac.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/4.Resistive-Load%20Inverter/slides/Resistive%20Load%20Inverter_49f245ac.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/4.Resistive-Load%20Inverter/slides/Resistive%20Load%20Inverter_49f245ac.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EC252B_MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout_5.Resistive Load Inverter",
+          "order": 5,
+          "title": "Resistive Load Inverter",
+          "folder_name": "5.Resistive Load Inverter",
+          "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/5.Resistive Load Inverter",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Resistive Load Inverter_a329abef.pdf",
+                  "title": "Resistive Load Inverter",
+                  "uuid": "a329abef",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/5.Resistive Load Inverter/slides/Resistive Load Inverter_a329abef.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/5.Resistive%20Load%20Inverter/slides/Resistive%20Load%20Inverter_a329abef.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/5.Resistive%20Load%20Inverter/slides/Resistive%20Load%20Inverter_a329abef.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/5.Resistive%20Load%20Inverter/slides/Resistive%20Load%20Inverter_a329abef.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Resistive Load Inverters Part 2",
+                  "provider": "vimeo",
+                  "video_id": "1162129521",
+                  "video_url": "https://player.vimeo.com/video/1162129521?h=4daf3fae52&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1162129521?h=4daf3fae52",
+                  "faculty": "Mahesh A Awati",
+                  "date": "05/02/2026 04:27 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Resistive Load Inverters Part 3",
+                  "provider": "vimeo",
+                  "video_id": "1162130343",
+                  "video_url": "https://player.vimeo.com/video/1162130343?h=d3ee09353a&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1162130343?h=d3ee09353a",
+                  "faculty": "Mahesh A Awati",
+                  "date": "05/02/2026 04:30 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE24EC252B_MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout_6.Inverters with n-Type MOSFET Load",
+          "order": 6,
+          "title": "Inverters with n-Type MOSFET Load",
+          "folder_name": "6.Inverters with n-Type MOSFET Load",
+          "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/6.Inverters with n-Type MOSFET Load",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Inverters with nmos load_ab19523b.pdf",
+                  "title": "Inverters with nmos load",
+                  "uuid": "ab19523b",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/6.Inverters with n-Type MOSFET Load/slides/Inverters with nmos load_ab19523b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/6.Inverters%20with%20n-Type%20MOSFET%20Load/slides/Inverters%20with%20nmos%20load_ab19523b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/6.Inverters%20with%20n-Type%20MOSFET%20Load/slides/Inverters%20with%20nmos%20load_ab19523b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/6.Inverters%20with%20n-Type%20MOSFET%20Load/slides/Inverters%20with%20nmos%20load_ab19523b.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "NMOS Inverters",
+                  "provider": "vimeo",
+                  "video_id": "1162129995",
+                  "video_url": "https://player.vimeo.com/video/1162129995?h=571a9724c6&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1162129995?h=571a9724c6",
+                  "faculty": "Mahesh A Awati",
+                  "date": "05/02/2026 04:29 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EC252B_MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout_7.CMOS Inverter",
+          "order": 7,
+          "title": "CMOS Inverter",
+          "folder_name": "7.CMOS Inverter",
+          "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/7.CMOS Inverter",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "CMOS Inverter Part 1",
+                  "provider": "vimeo",
+                  "video_id": "1162130575",
+                  "video_url": "https://player.vimeo.com/video/1162130575?h=862abe61b8&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1162130575?h=862abe61b8",
+                  "faculty": "Mahesh A Awati",
+                  "date": "05/02/2026 04:31 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "CMOS Inverter_645c09a7.pdf",
+                  "title": "CMOS Inverter",
+                  "uuid": "645c09a7",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/7.CMOS Inverter/slides/CMOS Inverter_645c09a7.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/7.CMOS%20Inverter/slides/CMOS%20Inverter_645c09a7.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/7.CMOS%20Inverter/slides/CMOS%20Inverter_645c09a7.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/7.CMOS%20Inverter/slides/CMOS%20Inverter_645c09a7.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "CMOS Inverter_bec3bf12.pdf",
+                  "title": "CMOS Inverter",
+                  "uuid": "bec3bf12",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/7.CMOS Inverter/notes/CMOS Inverter_bec3bf12.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/7.CMOS%20Inverter/notes/CMOS%20Inverter_bec3bf12.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/7.CMOS%20Inverter/notes/CMOS%20Inverter_bec3bf12.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/7.CMOS%20Inverter/notes/CMOS%20Inverter_bec3bf12.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EC252B_MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout_8.CMOS Inverter",
+          "order": 8,
+          "title": "CMOS Inverter",
+          "folder_name": "8.CMOS Inverter",
+          "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/8.CMOS Inverter",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "CMOS Inverter Part 2",
+                  "provider": "vimeo",
+                  "video_id": "1162130758",
+                  "video_url": "https://player.vimeo.com/video/1162130758?h=39bc11ffb5&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1162130758?h=39bc11ffb5",
+                  "faculty": "Mahesh A Awati",
+                  "date": "05/02/2026 04:31 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "CMOS Inverter_13f687a7.pdf",
+                  "title": "CMOS Inverter",
+                  "uuid": "13f687a7",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/8.CMOS Inverter/slides/CMOS Inverter_13f687a7.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/8.CMOS%20Inverter/slides/CMOS%20Inverter_13f687a7.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/8.CMOS%20Inverter/slides/CMOS%20Inverter_13f687a7.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/8.CMOS%20Inverter/slides/CMOS%20Inverter_13f687a7.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "CMOS Inverter_ed12b860.pdf",
+                  "title": "CMOS Inverter",
+                  "uuid": "ed12b860",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/8.CMOS Inverter/notes/CMOS Inverter_ed12b860.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/8.CMOS%20Inverter/notes/CMOS%20Inverter_ed12b860.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/8.CMOS%20Inverter/notes/CMOS%20Inverter_ed12b860.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/8.CMOS%20Inverter/notes/CMOS%20Inverter_ed12b860.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EC252B_MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout_9.Numericals on Inverters",
+          "order": 9,
+          "title": "Numericals on Inverters",
+          "folder_name": "9.Numericals on Inverters",
+          "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/9.Numericals on Inverters",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Numericals on Inverters_19d8e27d.pdf",
+                  "title": "Numericals on Inverters",
+                  "uuid": "19d8e27d",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/9.Numericals on Inverters/slides/Numericals on Inverters_19d8e27d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/9.Numericals%20on%20Inverters/slides/Numericals%20on%20Inverters_19d8e27d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/9.Numericals%20on%20Inverters/slides/Numericals%20on%20Inverters_19d8e27d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/9.Numericals%20on%20Inverters/slides/Numericals%20on%20Inverters_19d8e27d.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EC252B_MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout_10.Effect KR on VTC and Effect of Voltage Scaling On VTC",
+          "order": 10,
+          "title": "Effect KR on VTC and Effect of Voltage Scaling  On VTC",
+          "folder_name": "10.Effect KR on VTC and Effect of Voltage Scaling On VTC",
+          "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/10.Effect KR on VTC and Effect of Voltage Scaling On VTC",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "CMOS Inverter Part 3",
+                  "provider": "vimeo",
+                  "video_id": "1162130938",
+                  "video_url": "https://player.vimeo.com/video/1162130938?h=f189efe7ab&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1162130938?h=f189efe7ab",
+                  "faculty": "VINAY REDDY",
+                  "date": "05/02/2026 04:32 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Effect of KR on and VDD on VTC_326071cc.pdf",
+                  "title": "Effect of KR on and VDD on VTC",
+                  "uuid": "326071cc",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/10.Effect KR on VTC and Effect of Voltage Scaling On VTC/slides/Effect of KR on and VDD on VTC_326071cc.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/10.Effect%20KR%20on%20VTC%20and%20Effect%20of%20Voltage%20Scaling%20On%20VTC/slides/Effect%20of%20KR%20on%20and%20VDD%20on%20VTC_326071cc.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/10.Effect%20KR%20on%20VTC%20and%20Effect%20of%20Voltage%20Scaling%20On%20VTC/slides/Effect%20of%20KR%20on%20and%20VDD%20on%20VTC_326071cc.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/10.Effect%20KR%20on%20VTC%20and%20Effect%20of%20Voltage%20Scaling%20On%20VTC/slides/Effect%20of%20KR%20on%20and%20VDD%20on%20VTC_326071cc.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EC252B_MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout_11.Introduction, Fabrication Process Flow- Basic Steps",
+          "order": 11,
+          "title": "Introduction, Fabrication Process Flow: Basic Steps ",
+          "folder_name": "11.Introduction, Fabrication Process Flow- Basic Steps",
+          "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/11.Introduction, Fabrication Process Flow- Basic Steps",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Introduction to Fabrication Process_6375bfed.pdf",
+                  "title": "Introduction to Fabrication Process",
+                  "uuid": "6375bfed",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/11.Introduction, Fabrication Process Flow- Basic Steps/slides/Introduction to Fabrication Process_6375bfed.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/11.Introduction%2C%20Fabrication%20Process%20Flow-%20Basic%20Steps/slides/Introduction%20to%20Fabrication%20Process_6375bfed.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/11.Introduction%2C%20Fabrication%20Process%20Flow-%20Basic%20Steps/slides/Introduction%20to%20Fabrication%20Process_6375bfed.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/11.Introduction%2C%20Fabrication%20Process%20Flow-%20Basic%20Steps/slides/Introduction%20to%20Fabrication%20Process_6375bfed.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EC252B_MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout_12.The CMOS n-Well Process",
+          "order": 12,
+          "title": "The CMOS n-Well Process ",
+          "folder_name": "12.The CMOS n-Well Process",
+          "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/12.The CMOS n-Well Process",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "CMOS nwell Process_1de957b2.pdf",
+                  "title": "CMOS nwell Process",
+                  "uuid": "1de957b2",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/12.The CMOS n-Well Process/slides/CMOS nwell Process_1de957b2.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/12.The%20CMOS%20n-Well%20Process/slides/CMOS%20nwell%20Process_1de957b2.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/12.The%20CMOS%20n-Well%20Process/slides/CMOS%20nwell%20Process_1de957b2.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/12.The%20CMOS%20n-Well%20Process/slides/CMOS%20nwell%20Process_1de957b2.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EC252B_MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout_13.Layout Design Rules",
+          "order": 13,
+          "title": "Layout Design Rules ",
+          "folder_name": "13.Layout Design Rules",
+          "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/13.Layout Design Rules",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Layout Design Rules_5f60fe10.pdf",
+                  "title": "Layout Design Rules",
+                  "uuid": "5f60fe10",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/13.Layout Design Rules/slides/Layout Design Rules_5f60fe10.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/13.Layout%20Design%20Rules/slides/Layout%20Design%20Rules_5f60fe10.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/13.Layout%20Design%20Rules/slides/Layout%20Design%20Rules_5f60fe10.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/13.Layout%20Design%20Rules/slides/Layout%20Design%20Rules_5f60fe10.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EC252B_MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout_14.Layout Design Rules",
+          "order": 14,
+          "title": "Layout Design Rules ",
+          "folder_name": "14.Layout Design Rules",
+          "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/14.Layout Design Rules",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Layout Design Rules_ce86ee4b.pdf",
+                  "title": "Layout Design Rules",
+                  "uuid": "ce86ee4b",
+                  "extension": "pdf",
+                  "path": "UE24EC252B/MOS Inverters (Static Characteristics) and Fabrication of MOSFETs with Layout/14.Layout Design Rules/slides/Layout Design Rules_ce86ee4b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/14.Layout%20Design%20Rules/slides/Layout%20Design%20Rules_ce86ee4b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/14.Layout%20Design%20Rules/slides/Layout%20Design%20Rules_ce86ee4b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EC252B/MOS%20Inverters%20%28Static%20Characteristics%29%20and%20Fabrication%20of%20MOSFETs%20with%20Layout/14.Layout%20Design%20Rules/slides/Layout%20Design%20Rules_ce86ee4b.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE24EC252B_Sequential MOS Logic Circuits and Memories",
+      "title": "Sequential MOS Logic Circuits and Memories",
+      "path": "UE24EC252B/Sequential MOS Logic Circuits and Memories",
+      "classes": []
+    },
+    {
+      "id": "UE24EC252B_Switching Characteristics and Delay",
+      "title": "Switching Characteristics and Delay",
+      "path": "UE24EC252B/Switching Characteristics and Delay",
+      "classes": []
+    }
+  ],
+  "total_units": 4,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE24EC252B",
+  "updated_at": "2026-02-08T14:25:53.184704"
+}
