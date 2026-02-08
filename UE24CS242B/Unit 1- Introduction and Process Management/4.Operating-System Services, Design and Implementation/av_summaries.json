@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS242B",
+  "unit_title": "Unit 1: Introduction and Process Management ",
+  "videos": [
+    {
+      "title": "Operating-System Services, Design and Implementation",
+      "provider": "vimeo",
+      "video_id": "501658563",
+      "video_url": "https://player.vimeo.com/video/501658563?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/501658563",
+      "faculty": "Pavan A C",
+      "date": "06/01/2026 01:58 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:26:57.075301"
+}

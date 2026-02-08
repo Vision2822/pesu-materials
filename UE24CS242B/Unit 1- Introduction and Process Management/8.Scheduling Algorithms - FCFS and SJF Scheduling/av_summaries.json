@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS242B",
+  "unit_title": "Unit 1: Introduction and Process Management ",
+  "videos": [
+    {
+      "title": "Scheduling Algorithms - FCFS and SJF Scheduling",
+      "provider": "vimeo",
+      "video_id": "500783663",
+      "video_url": "https://player.vimeo.com/video/500783663?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/500783663",
+      "faculty": "Pavan A C",
+      "date": "06/01/2026 02:01 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:26:57.619938"
+}
