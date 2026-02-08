@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24CS252B",
+  "unit_title": "Computer Networks and the Internet, Application Layer",
+  "videos": [
+    {
+      "title": "1",
+      "provider": "vimeo",
+      "video_id": "684585687",
+      "video_url": "https://player.vimeo.com/video/684585687?h=998838e610&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/684585687?h=998838e610",
+      "faculty": "vadiraja",
+      "date": "12/02/2024 11:21 AM",
+      "section": "NA"
+    },
+    {
+      "title": "2",
+      "provider": "vimeo",
+      "video_id": "684587779",
+      "video_url": "https://player.vimeo.com/video/684587779?h=cde95f91ad&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/684587779?h=cde95f91ad",
+      "faculty": "vadiraja",
+      "date": "12/02/2024 11:21 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:30:31.974533"
+}

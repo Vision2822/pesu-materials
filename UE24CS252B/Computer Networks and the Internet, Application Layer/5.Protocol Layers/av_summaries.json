@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24CS252B",
+  "unit_title": "Computer Networks and the Internet, Application Layer",
+  "videos": [
+    {
+      "title": "OSI",
+      "provider": "vimeo",
+      "video_id": "912139526",
+      "video_url": "https://player.vimeo.com/video/912139526?h=d49a8a6b30&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/912139526?h=d49a8a6b30",
+      "faculty": "vadiraja",
+      "date": "12/02/2024 11:36 AM",
+      "section": "NA"
+    },
+    {
+      "title": "Protocols Layers",
+      "provider": "vimeo",
+      "video_id": "912139433",
+      "video_url": "https://player.vimeo.com/video/912139433?h=d42e0305b9&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/912139433?h=d42e0305b9",
+      "faculty": "vadiraja",
+      "date": "12/02/2024 11:36 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:30:32.164352"
+}

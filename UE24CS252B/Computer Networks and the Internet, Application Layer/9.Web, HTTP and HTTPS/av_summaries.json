@@ -1,0 +1,57 @@
+{
+  "course_code": "UE24CS252B",
+  "unit_title": "Computer Networks and the Internet, Application Layer",
+  "videos": [
+    {
+      "title": "httpvshttps ssl",
+      "provider": "vimeo",
+      "video_id": "912141352",
+      "video_url": "https://player.vimeo.com/video/912141352?h=aa9f4ea938&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/912141352?h=aa9f4ea938",
+      "faculty": "vadiraja",
+      "date": "12/02/2024 11:52 AM",
+      "section": "NA"
+    },
+    {
+      "title": "web http",
+      "provider": "vimeo",
+      "video_id": "912140667",
+      "video_url": "https://player.vimeo.com/video/912140667?h=33932ea712&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/912140667?h=33932ea712",
+      "faculty": "vadiraja",
+      "date": "12/02/2024 11:46 AM",
+      "section": "NA"
+    },
+    {
+      "title": "webcache",
+      "provider": "vimeo",
+      "video_id": "912141207",
+      "video_url": "https://player.vimeo.com/video/912141207?h=729ad738e6&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/912141207?h=729ad738e6",
+      "faculty": "vadiraja",
+      "date": "12/02/2024 11:51 AM",
+      "section": "NA"
+    },
+    {
+      "title": "cookies",
+      "provider": "vimeo",
+      "video_id": "912140842",
+      "video_url": "https://player.vimeo.com/video/912140842?h=8d7d5bbe30&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/912140842?h=8d7d5bbe30",
+      "faculty": "vadiraja",
+      "date": "12/02/2024 11:48 AM",
+      "section": "NA"
+    },
+    {
+      "title": "http-2",
+      "provider": "vimeo",
+      "video_id": "912140741",
+      "video_url": "https://player.vimeo.com/video/912140741?h=444dbc2700&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/912140741?h=444dbc2700",
+      "faculty": "vadiraja",
+      "date": "12/02/2024 11:47 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:30:32.349343"
+}
