@@ -1,0 +1,751 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UE24EE242B",
+  "course_title": "Electromagnetic Field Theory",
+  "semester_name": "Sem-4",
+  "units": [
+    {
+      "id": "UE24EE242B_Electric Fields in Material Space",
+      "title": "Electric Fields in Material Space:",
+      "path": "UE24EE242B/Electric Fields in Material Space",
+      "classes": [
+        {
+          "id": "UE24EE242B_Electric Fields in Material Space_1.Material properties, currents and conductors",
+          "order": 1,
+          "title": "Material properties, currents and conductors",
+          "folder_name": "1.Material properties, currents and conductors",
+          "path": "UE24EE242B/Electric Fields in Material Space/1.Material properties, currents and conductors",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Class 1",
+                  "provider": "vimeo",
+                  "video_id": "1160138110",
+                  "video_url": "https://player.vimeo.com/video/1160138110?h=ebbcac6af9&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1160138110?h=ebbcac6af9",
+                  "faculty": "Dr Venugopal N",
+                  "date": "30/01/2026 03:37 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Unit 2 Slides_02341e1e.pdf",
+                  "title": "Unit 2 Slides",
+                  "uuid": "02341e1e",
+                  "extension": "pdf",
+                  "path": "UE24EE242B/Electric Fields in Material Space/1.Material properties, currents and conductors/slides/Unit 2 Slides_02341e1e.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electric%20Fields%20in%20Material%20Space/1.Material%20properties%2C%20currents%20and%20conductors/slides/Unit%202%20Slides_02341e1e.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE242B/Electric%20Fields%20in%20Material%20Space/1.Material%20properties%2C%20currents%20and%20conductors/slides/Unit%202%20Slides_02341e1e.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electric%20Fields%20in%20Material%20Space/1.Material%20properties%2C%20currents%20and%20conductors/slides/Unit%202%20Slides_02341e1e.pdf"
+                },
+                {
+                  "name": "UNIT 2 Slides with AV Summary_63b4cdfa.pdf",
+                  "title": "UNIT 2 Slides with AV Summary",
+                  "uuid": "63b4cdfa",
+                  "extension": "pdf",
+                  "path": "UE24EE242B/Electric Fields in Material Space/1.Material properties, currents and conductors/slides/UNIT 2 Slides with AV Summary_63b4cdfa.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electric%20Fields%20in%20Material%20Space/1.Material%20properties%2C%20currents%20and%20conductors/slides/UNIT%202%20Slides%20with%20AV%20Summary_63b4cdfa.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE242B/Electric%20Fields%20in%20Material%20Space/1.Material%20properties%2C%20currents%20and%20conductors/slides/UNIT%202%20Slides%20with%20AV%20Summary_63b4cdfa.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electric%20Fields%20in%20Material%20Space/1.Material%20properties%2C%20currents%20and%20conductors/slides/UNIT%202%20Slides%20with%20AV%20Summary_63b4cdfa.pdf"
+                }
+              ],
+              "count": 2
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "UNIT 2 NOTES_14ed1796.pdf",
+                  "title": "UNIT 2 NOTES",
+                  "uuid": "14ed1796",
+                  "extension": "pdf",
+                  "path": "UE24EE242B/Electric Fields in Material Space/1.Material properties, currents and conductors/notes/UNIT 2 NOTES_14ed1796.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electric%20Fields%20in%20Material%20Space/1.Material%20properties%2C%20currents%20and%20conductors/notes/UNIT%202%20NOTES_14ed1796.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE242B/Electric%20Fields%20in%20Material%20Space/1.Material%20properties%2C%20currents%20and%20conductors/notes/UNIT%202%20NOTES_14ed1796.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electric%20Fields%20in%20Material%20Space/1.Material%20properties%2C%20currents%20and%20conductors/notes/UNIT%202%20NOTES_14ed1796.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electric Fields in Material Space_2.Polarization in dielectrics",
+          "order": 2,
+          "title": "Polarization in dielectrics",
+          "folder_name": "2.Polarization in dielectrics",
+          "path": "UE24EE242B/Electric Fields in Material Space/2.Polarization in dielectrics",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Class 2",
+                  "provider": "vimeo",
+                  "video_id": "1160141795",
+                  "video_url": "https://player.vimeo.com/video/1160141795?h=ef3dc9fc89&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1160141795?h=ef3dc9fc89",
+                  "faculty": "Dr Venugopal N",
+                  "date": "30/01/2026 03:50 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electric Fields in Material Space_3.Relation between flux density and electric field in materials",
+          "order": 3,
+          "title": "Relation between flux density and electric field in materials",
+          "folder_name": "3.Relation between flux density and electric field in materials",
+          "path": "UE24EE242B/Electric Fields in Material Space/3.Relation between flux density and electric field in materials",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Class 3",
+                  "provider": "vimeo",
+                  "video_id": "1160994044",
+                  "video_url": "https://player.vimeo.com/video/1160994044?h=aac3101fb1&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1160994044?h=aac3101fb1",
+                  "faculty": "Dr Venugopal N",
+                  "date": "02/02/2026 03:16 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electric Fields in Material Space_4.Electric susceptibility",
+          "order": 4,
+          "title": "Electric susceptibility",
+          "folder_name": "4.Electric susceptibility",
+          "path": "UE24EE242B/Electric Fields in Material Space/4.Electric susceptibility",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "class 4",
+                  "provider": "vimeo",
+                  "video_id": "1161003210",
+                  "video_url": "https://player.vimeo.com/video/1161003210?h=8e3ad01ed7&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1161003210?h=8e3ad01ed7",
+                  "faculty": "Dr Venugopal N",
+                  "date": "02/02/2026 03:45 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electric Fields in Material Space_5.Dielectric constant",
+          "order": 5,
+          "title": "Dielectric constant",
+          "folder_name": "5.Dielectric constant",
+          "path": "UE24EE242B/Electric Fields in Material Space/5.Dielectric constant",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Class 5",
+                  "provider": "vimeo",
+                  "video_id": "1161006653",
+                  "video_url": "https://player.vimeo.com/video/1161006653?h=95dfeaf21f&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1161006653?h=95dfeaf21f",
+                  "faculty": "Dr Venugopal N",
+                  "date": "02/02/2026 03:56 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electric Fields in Material Space_7.Continuity Equation and Relaxation Time",
+          "order": 7,
+          "title": "Continuity Equation and Relaxation Time",
+          "folder_name": "7.Continuity Equation and Relaxation Time",
+          "path": "UE24EE242B/Electric Fields in Material Space/7.Continuity Equation and Relaxation Time",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Class 6",
+                  "provider": "vimeo",
+                  "video_id": "1161010302",
+                  "video_url": "https://player.vimeo.com/video/1161010302?h=89fe3cb645&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1161010302?h=89fe3cb645",
+                  "faculty": "Dr Venugopal N",
+                  "date": "02/02/2026 04:09 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electric Fields in Material Space_8.Electric Boundary Conditions dielectric-dielectric and examples",
+          "order": 8,
+          "title": "Electric Boundary Conditions ? dielectric-dielectric and examples",
+          "folder_name": "8.Electric Boundary Conditions dielectric-dielectric and examples",
+          "path": "UE24EE242B/Electric Fields in Material Space/8.Electric Boundary Conditions dielectric-dielectric and examples",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Class 7",
+                  "provider": "vimeo",
+                  "video_id": "1161373558",
+                  "video_url": "https://player.vimeo.com/video/1161373558?h=b11ba768c2&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1161373558?h=b11ba768c2",
+                  "faculty": "Dr Venugopal N",
+                  "date": "03/02/2026 03:13 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electric Fields in Material Space_9.Electric Boundary Conditions conductor-dielectric, Electric Boundary Conditions",
+          "order": 9,
+          "title": "Electric Boundary Conditions ? conductor-dielectric, Electric Boundary Conditions ? conductor-free space",
+          "folder_name": "9.Electric Boundary Conditions conductor-dielectric, Electric Boundary Conditions",
+          "path": "UE24EE242B/Electric Fields in Material Space/9.Electric Boundary Conditions conductor-dielectric, Electric Boundary Conditions",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Class 8",
+                  "provider": "vimeo",
+                  "video_id": "1161376418",
+                  "video_url": "https://player.vimeo.com/video/1161376418?h=ef49e29c4f&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1161376418?h=ef49e29c4f",
+                  "faculty": "Dr Venugopal N",
+                  "date": "03/02/2026 03:25 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electric Fields in Material Space_10.Poissons and Laplaces Equations",
+          "order": 10,
+          "title": "Poisson?s & Laplace?s Equations",
+          "folder_name": "10.Poissons and Laplaces Equations",
+          "path": "UE24EE242B/Electric Fields in Material Space/10.Poissons and Laplaces Equations",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Class 9",
+                  "provider": "vimeo",
+                  "video_id": "1161383409",
+                  "video_url": "https://player.vimeo.com/video/1161383409?h=52b36c7ef4&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1161383409?h=52b36c7ef4",
+                  "faculty": "Dr Venugopal N",
+                  "date": "03/02/2026 03:54 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electric Fields in Material Space_11.Resistance and capacitance, Parallel-plate capacitor",
+          "order": 11,
+          "title": "Resistance and capacitance, Parallel-plate capacitor",
+          "folder_name": "11.Resistance and capacitance, Parallel-plate capacitor",
+          "path": "UE24EE242B/Electric Fields in Material Space/11.Resistance and capacitance, Parallel-plate capacitor",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Class 10",
+                  "provider": "vimeo",
+                  "video_id": "1161657977",
+                  "video_url": "https://player.vimeo.com/video/1161657977?h=a9fe306773&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1161657977?h=a9fe306773",
+                  "faculty": "Dr Venugopal N",
+                  "date": "04/02/2026 09:44 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electric Fields in Material Space_12.Coaxial capacitor, Spherical Capacitor and Series and parallel capacitors",
+          "order": 12,
+          "title": "Coaxial capacitor, Spherical Capacitor and Series and parallel capacitors",
+          "folder_name": "12.Coaxial capacitor, Spherical Capacitor and Series and parallel capacitors",
+          "path": "UE24EE242B/Electric Fields in Material Space/12.Coaxial capacitor, Spherical Capacitor and Series and parallel capacitors",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Class 11",
+                  "provider": "vimeo",
+                  "video_id": "1161660130",
+                  "video_url": "https://player.vimeo.com/video/1161660130?h=2ca4e71b4b&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1161660130?h=2ca4e71b4b",
+                  "faculty": "Dr Venugopal N",
+                  "date": "04/02/2026 10:01 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE24EE242B_Electrostatics",
+      "title": "Electrostatics:",
+      "path": "UE24EE242B/Electrostatics",
+      "classes": [
+        {
+          "id": "UE24EE242B_Electrostatics_1.Coulomb's Law and Field Intensity",
+          "order": 1,
+          "title": "Coulomb's Law and Field Intensity",
+          "folder_name": "1.Coulomb's Law and Field Intensity",
+          "path": "UE24EE242B/Electrostatics/1.Coulomb's Law and Field Intensity",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Class 1 Coulomb's Law",
+                  "provider": "vimeo",
+                  "video_id": "1151488424",
+                  "video_url": "https://player.vimeo.com/video/1151488424?h=f504a78e14&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1151488424?h=f504a78e14",
+                  "faculty": "Dr Venugopal N",
+                  "date": "05/01/2026 11:31 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Coulomb's Law and Electric Field Intensity QB_0fb94379.pdf",
+                  "title": "Coulomb's Law and Electric Field Intensity QB",
+                  "uuid": "0fb94379",
+                  "extension": "pdf",
+                  "path": "UE24EE242B/Electrostatics/1.Coulomb's Law and Field Intensity/questionbank/Coulomb's Law and Electric Field Intensity QB_0fb94379.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/questionbank/Coulomb%27s%20Law%20and%20Electric%20Field%20Intensity%20QB_0fb94379.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/questionbank/Coulomb%27s%20Law%20and%20Electric%20Field%20Intensity%20QB_0fb94379.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/questionbank/Coulomb%27s%20Law%20and%20Electric%20Field%20Intensity%20QB_0fb94379.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Electrostatics Unit 1_b256ff47.pdf",
+                  "title": "Electrostatics Unit 1",
+                  "uuid": "b256ff47",
+                  "extension": "pdf",
+                  "path": "UE24EE242B/Electrostatics/1.Coulomb's Law and Field Intensity/slides/Electrostatics Unit 1_b256ff47.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/slides/Electrostatics%20Unit%201_b256ff47.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/slides/Electrostatics%20Unit%201_b256ff47.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/slides/Electrostatics%20Unit%201_b256ff47.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "EMFT Essential Fundamentals_ff3fd251.pdf",
+                  "title": "EMFT Essential Fundamentals",
+                  "uuid": "ff3fd251",
+                  "extension": "pdf",
+                  "path": "UE24EE242B/Electrostatics/1.Coulomb's Law and Field Intensity/notes/EMFT Essential Fundamentals_ff3fd251.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/notes/EMFT%20Essential%20Fundamentals_ff3fd251.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/notes/EMFT%20Essential%20Fundamentals_ff3fd251.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/notes/EMFT%20Essential%20Fundamentals_ff3fd251.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Coulomb's Law and Electric Field Intensity QA_29766e94.pdf",
+                  "title": "Coulomb's Law and Electric Field Intensity QA",
+                  "uuid": "29766e94",
+                  "extension": "pdf",
+                  "path": "UE24EE242B/Electrostatics/1.Coulomb's Law and Field Intensity/qa/Coulomb's Law and Electric Field Intensity QA_29766e94.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/qa/Coulomb%27s%20Law%20and%20Electric%20Field%20Intensity%20QA_29766e94.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/qa/Coulomb%27s%20Law%20and%20Electric%20Field%20Intensity%20QA_29766e94.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/qa/Coulomb%27s%20Law%20and%20Electric%20Field%20Intensity%20QA_29766e94.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electrostatics_2.Coulomb's Law and Field Intensity - examples",
+          "order": 2,
+          "title": "Coulomb's Law and Field Intensity - examples",
+          "folder_name": "2.Coulomb's Law and Field Intensity - examples",
+          "path": "UE24EE242B/Electrostatics/2.Coulomb's Law and Field Intensity - examples",
+          "content": {
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Unit 1 Assignment_ccdaf224.pdf",
+                  "title": "Unit 1 Assignment",
+                  "uuid": "ccdaf224",
+                  "extension": "pdf",
+                  "path": "UE24EE242B/Electrostatics/2.Coulomb's Law and Field Intensity - examples/assignment/Unit 1 Assignment_ccdaf224.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/2.Coulomb%27s%20Law%20and%20Field%20Intensity%20-%20examples/assignment/Unit%201%20Assignment_ccdaf224.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE242B/Electrostatics/2.Coulomb%27s%20Law%20and%20Field%20Intensity%20-%20examples/assignment/Unit%201%20Assignment_ccdaf224.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/2.Coulomb%27s%20Law%20and%20Field%20Intensity%20-%20examples/assignment/Unit%201%20Assignment_ccdaf224.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Coulomb's Law and Electric Field Intensity Examples",
+                  "provider": "vimeo",
+                  "video_id": "1151844728",
+                  "video_url": "https://player.vimeo.com/video/1151844728?h=62ffe1e219&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1151844728?h=62ffe1e219",
+                  "faculty": "Dr Venugopal N",
+                  "date": "06/01/2026 02:57 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electrostatics_3.Electric fields due to continuous charge distributions Line Charge and Surface C",
+          "order": 3,
+          "title": "Electric fields due to continuous charge distributions Line Charge and Surface Charge Density",
+          "folder_name": "3.Electric fields due to continuous charge distributions Line Charge and Surface C",
+          "path": "UE24EE242B/Electrostatics/3.Electric fields due to continuous charge distributions Line Charge and Surface C",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Electric Field due to continuous charge distributions, Line and Surface Charge Density",
+                  "provider": "vimeo",
+                  "video_id": "1152840246",
+                  "video_url": "https://player.vimeo.com/video/1152840246?h=669573202c&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1152840246?h=669573202c",
+                  "faculty": "Dr Venugopal N",
+                  "date": "09/01/2026 04:55 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Electric fields due to continuous charge distributions Line Charge and Surface Charge Density_8e2f5a05.pdf",
+                  "title": "Electric fields due to continuous charge distributions Line Charge and Surface Charge Density",
+                  "uuid": "8e2f5a05",
+                  "extension": "pdf",
+                  "path": "UE24EE242B/Electrostatics/3.Electric fields due to continuous charge distributions Line Charge and Surface C/questionbank/Electric fields due to continuous charge distributions Line Charge and Surface Charge Density_8e2f5a05.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/3.Electric%20fields%20due%20to%20continuous%20charge%20distributions%20Line%20Charge%20and%20Surface%20C/questionbank/Electric%20fields%20due%20to%20continuous%20charge%20distributions%20Line%20Charge%20and%20Surface%20Charge%20Density_8e2f5a05.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE242B/Electrostatics/3.Electric%20fields%20due%20to%20continuous%20charge%20distributions%20Line%20Charge%20and%20Surface%20C/questionbank/Electric%20fields%20due%20to%20continuous%20charge%20distributions%20Line%20Charge%20and%20Surface%20Charge%20Density_8e2f5a05.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/3.Electric%20fields%20due%20to%20continuous%20charge%20distributions%20Line%20Charge%20and%20Surface%20C/questionbank/Electric%20fields%20due%20to%20continuous%20charge%20distributions%20Line%20Charge%20and%20Surface%20Charge%20Density_8e2f5a05.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electrostatics_4.Electric Field due to Line charge and Surface charge density Examples",
+          "order": 4,
+          "title": "Electric Field due to Line charge and Surface charge density Examples",
+          "folder_name": "4.Electric Field due to Line charge and Surface charge density Examples",
+          "path": "UE24EE242B/Electrostatics/4.Electric Field due to Line charge and Surface charge density Examples",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Electric Field due to continuous charge distributions, Line and Surface Charge Density Examles",
+                  "provider": "vimeo",
+                  "video_id": "1152840566",
+                  "video_url": "https://player.vimeo.com/video/1152840566?h=34700a9401&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1152840566?h=34700a9401",
+                  "faculty": "Dr Venugopal N",
+                  "date": "09/01/2026 04:56 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electrostatics_5.Electric Field due to Circular Ring and Circular Disc and examples",
+          "order": 5,
+          "title": "Electric Field due to Circular Ring and Circular Disc and examples",
+          "folder_name": "5.Electric Field due to Circular Ring and Circular Disc and examples",
+          "path": "UE24EE242B/Electrostatics/5.Electric Field due to Circular Ring and Circular Disc and examples",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Electric Field due to Circular Ring",
+                  "provider": "vimeo",
+                  "video_id": "1161333654",
+                  "video_url": "https://player.vimeo.com/video/1161333654?h=d0ca411a99&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1161333654?h=d0ca411a99",
+                  "faculty": "SAYYED ARIF ALI",
+                  "date": "03/02/2026 11:58 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electrostatics_6.Electric Flux Density and Examples",
+          "order": 6,
+          "title": "Electric Flux Density and Examples",
+          "folder_name": "6.Electric Flux Density and Examples",
+          "path": "UE24EE242B/Electrostatics/6.Electric Flux Density and Examples",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Electric Flux Density",
+                  "provider": "vimeo",
+                  "video_id": "1161333912",
+                  "video_url": "https://player.vimeo.com/video/1161333912?h=640403a5b2&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1161333912?h=640403a5b2",
+                  "faculty": "SAYYED ARIF ALI",
+                  "date": "03/02/2026 12:00 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electrostatics_7.Divergence Theorem , Gauss's Law, and Maxwell's Equation",
+          "order": 7,
+          "title": "Divergence Theorem , Gauss's Law, and Maxwell's Equation",
+          "folder_name": "7.Divergence Theorem , Gauss's Law, and Maxwell's Equation",
+          "path": "UE24EE242B/Electrostatics/7.Divergence Theorem , Gauss's Law, and Maxwell's Equation",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Divergence Theorem, Gauss Law, Maxwell's Equation",
+                  "provider": "vimeo",
+                  "video_id": "1161334446",
+                  "video_url": "https://player.vimeo.com/video/1161334446?h=6e2c6a06bc&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1161334446?h=6e2c6a06bc",
+                  "faculty": "SAYYED ARIF ALI",
+                  "date": "03/02/2026 12:03 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electrostatics_8.Applications of Gauss Law and Examples",
+          "order": 8,
+          "title": "Applications of Gauss Law and Examples",
+          "folder_name": "8.Applications of Gauss Law and Examples",
+          "path": "UE24EE242B/Electrostatics/8.Applications of Gauss Law and Examples",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Application of Gauss's Law",
+                  "provider": "vimeo",
+                  "video_id": "1161334622",
+                  "video_url": "https://player.vimeo.com/video/1161334622?h=3e9c2d472c&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1161334622?h=3e9c2d472c",
+                  "faculty": "SAYYED ARIF ALI",
+                  "date": "03/02/2026 12:04 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electrostatics_9.Curl of a Vector, Stroke's Theorem and Examles",
+          "order": 9,
+          "title": "Curl of a Vector, Stroke's Theorem and Examles",
+          "folder_name": "9.Curl of a Vector, Stroke's Theorem and Examles",
+          "path": "UE24EE242B/Electrostatics/9.Curl of a Vector, Stroke's Theorem and Examles",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Stoke's Theorem",
+                  "provider": "vimeo",
+                  "video_id": "1159602233",
+                  "video_url": "https://player.vimeo.com/video/1159602233?h=486b42c7bd&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1159602233?h=486b42c7bd",
+                  "faculty": "Dr Venugopal N",
+                  "date": "29/01/2026 03:38 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electrostatics_10.Electric Potential and E-V Relations and Maxwell's Equations",
+          "order": 10,
+          "title": "Electric Potential and E-V Relations and Maxwell's Equations",
+          "folder_name": "10.Electric Potential and E-V Relations and Maxwell's Equations",
+          "path": "UE24EE242B/Electrostatics/10.Electric Potential and E-V Relations and Maxwell's Equations",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Relation between E and V",
+                  "provider": "vimeo",
+                  "video_id": "1159599033",
+                  "video_url": "https://player.vimeo.com/video/1159599033?h=b96abba73c&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1159599033?h=b96abba73c",
+                  "faculty": "Dr Venugopal N",
+                  "date": "29/01/2026 03:28 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electrostatics_11.An Electric Dipole",
+          "order": 11,
+          "title": "An Electric Dipole",
+          "folder_name": "11.An Electric Dipole",
+          "path": "UE24EE242B/Electrostatics/11.An Electric Dipole",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Electric dipole",
+                  "provider": "vimeo",
+                  "video_id": "1159600552",
+                  "video_url": "https://player.vimeo.com/video/1159600552?h=d6758b9415&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1159600552?h=d6758b9415",
+                  "faculty": "Dr Venugopal N",
+                  "date": "29/01/2026 03:32 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE242B_Electrostatics_12.Energy Density, Electrostatic Energy and Examples",
+          "order": 12,
+          "title": "Energy Density, Electrostatic Energy and Examples",
+          "folder_name": "12.Energy Density, Electrostatic Energy and Examples",
+          "path": "UE24EE242B/Electrostatics/12.Energy Density, Electrostatic Energy and Examples",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Energy density",
+                  "provider": "vimeo",
+                  "video_id": "1159601723",
+                  "video_url": "https://player.vimeo.com/video/1159601723?h=415158f7c7&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1159601723?h=415158f7c7",
+                  "faculty": "Dr Venugopal N",
+                  "date": "29/01/2026 03:36 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE24EE242B_Magnetostatics",
+      "title": "Magnetostatics:",
+      "path": "UE24EE242B/Magnetostatics",
+      "classes": []
+    },
+    {
+      "id": "UE24EE242B_Maxwells Equations and Electromagnetic Waves",
+      "title": "Maxwells Equations and Electromagnetic Waves:",
+      "path": "UE24EE242B/Maxwells Equations and Electromagnetic Waves",
+      "classes": []
+    }
+  ],
+  "total_units": 4,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE24EE242B",
+  "updated_at": "2026-02-08T14:25:55.208109"
+}
