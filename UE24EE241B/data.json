@@ -1,0 +1,387 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UE24EE241B",
+  "course_title": "Control systems",
+  "semester_name": "Sem-4",
+  "units": [
+    {
+      "id": "UE24EE241B_Design of Feedback Control Systems",
+      "title": "Design of Feedback Control Systems ",
+      "path": "UE24EE241B/Design of Feedback Control Systems",
+      "classes": []
+    },
+    {
+      "id": "UE24EE241B_Mathematical Models of Systems",
+      "title": "Mathematical Models of Systems",
+      "path": "UE24EE241B/Mathematical Models of Systems",
+      "classes": [
+        {
+          "id": "UE24EE241B_Mathematical Models of Systems_1.Differential Equations of Physical Systems (Electrical, Mechanical and Electro-M",
+          "order": 1,
+          "title": "Differential Equations of Physical Systems (Electrical, Mechanical and Electro-Mechanical)",
+          "folder_name": "1.Differential Equations of Physical Systems (Electrical, Mechanical and Electro-M",
+          "path": "UE24EE241B/Mathematical Models of Systems/1.Differential Equations of Physical Systems (Electrical, Mechanical and Electro-M",
+          "content": {
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "ANALOGOUS SYSTEMS AND TRANSFER FUNCTIONS_7afa75a6.pdf",
+                  "title": "ANALOGOUS SYSTEMS AND TRANSFER FUNCTIONS",
+                  "uuid": "7afa75a6",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/1.Differential Equations of Physical Systems (Electrical, Mechanical and Electro-M/questionbank/ANALOGOUS SYSTEMS AND TRANSFER FUNCTIONS_7afa75a6.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/questionbank/ANALOGOUS%20SYSTEMS%20AND%20TRANSFER%20FUNCTIONS_7afa75a6.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/questionbank/ANALOGOUS%20SYSTEMS%20AND%20TRANSFER%20FUNCTIONS_7afa75a6.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/questionbank/ANALOGOUS%20SYSTEMS%20AND%20TRANSFER%20FUNCTIONS_7afa75a6.pdf"
+                },
+                {
+                  "name": "MCQ-ANALOGOUS SYSTEMS_8d8d100a.pdf",
+                  "title": "MCQ-ANALOGOUS SYSTEMS",
+                  "uuid": "8d8d100a",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/1.Differential Equations of Physical Systems (Electrical, Mechanical and Electro-M/questionbank/MCQ-ANALOGOUS SYSTEMS_8d8d100a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/questionbank/MCQ-ANALOGOUS%20SYSTEMS_8d8d100a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/questionbank/MCQ-ANALOGOUS%20SYSTEMS_8d8d100a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/questionbank/MCQ-ANALOGOUS%20SYSTEMS_8d8d100a.pdf"
+                }
+              ],
+              "count": 2
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Introduction_53074db9.pdf",
+                  "title": "Introduction",
+                  "uuid": "53074db9",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/1.Differential Equations of Physical Systems (Electrical, Mechanical and Electro-M/notes/Introduction_53074db9.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/notes/Introduction_53074db9.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/notes/Introduction_53074db9.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/notes/Introduction_53074db9.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "AHP GUIDELINES_a3bdfa77.pdf",
+                  "title": "AHP GUIDELINES",
+                  "uuid": "a3bdfa77",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/1.Differential Equations of Physical Systems (Electrical, Mechanical and Electro-M/assignment/AHP GUIDELINES_a3bdfa77.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/assignment/AHP%20GUIDELINES_a3bdfa77.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/assignment/AHP%20GUIDELINES_a3bdfa77.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/assignment/AHP%20GUIDELINES_a3bdfa77.pdf"
+                },
+                {
+                  "name": "LIST OF TRANSFER FUNCTIONS_c88db4bb.pdf",
+                  "title": "LIST OF TRANSFER FUNCTIONS",
+                  "uuid": "c88db4bb",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/1.Differential Equations of Physical Systems (Electrical, Mechanical and Electro-M/assignment/LIST OF TRANSFER FUNCTIONS_c88db4bb.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/assignment/LIST%20OF%20TRANSFER%20FUNCTIONS_c88db4bb.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/assignment/LIST%20OF%20TRANSFER%20FUNCTIONS_c88db4bb.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/assignment/LIST%20OF%20TRANSFER%20FUNCTIONS_c88db4bb.pdf"
+                }
+              ],
+              "count": 2
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "INTRODUCTION TO CONTROL SYSTEMS_7151ac36.pdf",
+                  "title": "INTRODUCTION TO CONTROL SYSTEMS",
+                  "uuid": "7151ac36",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/1.Differential Equations of Physical Systems (Electrical, Mechanical and Electro-M/slides/INTRODUCTION TO CONTROL SYSTEMS_7151ac36.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/slides/INTRODUCTION%20TO%20CONTROL%20SYSTEMS_7151ac36.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/slides/INTRODUCTION%20TO%20CONTROL%20SYSTEMS_7151ac36.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/1.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/slides/INTRODUCTION%20TO%20CONTROL%20SYSTEMS_7151ac36.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE241B_Mathematical Models of Systems_2.Differential Equations of Physical Systems (Electrical, Mechanical and Electro-M",
+          "order": 2,
+          "title": "Differential Equations of Physical Systems (Electrical, Mechanical and Electro-Mechanical)",
+          "folder_name": "2.Differential Equations of Physical Systems (Electrical, Mechanical and Electro-M",
+          "path": "UE24EE241B/Mathematical Models of Systems/2.Differential Equations of Physical Systems (Electrical, Mechanical and Electro-M",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Analogous systems_b0d98232.pdf",
+                  "title": "Analogous systems",
+                  "uuid": "b0d98232",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/2.Differential Equations of Physical Systems (Electrical, Mechanical and Electro-M/notes/Analogous systems_b0d98232.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/2.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/notes/Analogous%20systems_b0d98232.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/2.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/notes/Analogous%20systems_b0d98232.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/2.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/notes/Analogous%20systems_b0d98232.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "ANALOGOUS SYSTEMS AND TRANSFER FUNCTIONS_d3ebb25b.pdf",
+                  "title": "ANALOGOUS SYSTEMS AND TRANSFER FUNCTIONS",
+                  "uuid": "d3ebb25b",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/2.Differential Equations of Physical Systems (Electrical, Mechanical and Electro-M/slides/ANALOGOUS SYSTEMS AND TRANSFER FUNCTIONS_d3ebb25b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/2.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/slides/ANALOGOUS%20SYSTEMS%20AND%20TRANSFER%20FUNCTIONS_d3ebb25b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/2.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/slides/ANALOGOUS%20SYSTEMS%20AND%20TRANSFER%20FUNCTIONS_d3ebb25b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/2.Differential%20Equations%20of%20Physical%20Systems%20%28Electrical%2C%20Mechanical%20and%20Electro-M/slides/ANALOGOUS%20SYSTEMS%20AND%20TRANSFER%20FUNCTIONS_d3ebb25b.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE241B_Mathematical Models of Systems_4.Laplace Transforms and the Transfer function of Linear Systems",
+          "order": 4,
+          "title": "Laplace Transforms and the Transfer function of Linear Systems",
+          "folder_name": "4.Laplace Transforms and the Transfer function of Linear Systems",
+          "path": "UE24EE241B/Mathematical Models of Systems/4.Laplace Transforms and the Transfer function of Linear Systems",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Transfer functions_f7f749f8.pdf",
+                  "title": "Transfer functions",
+                  "uuid": "f7f749f8",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/4.Laplace Transforms and the Transfer function of Linear Systems/notes/Transfer functions_f7f749f8.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/4.Laplace%20Transforms%20and%20the%20Transfer%20function%20of%20Linear%20Systems/notes/Transfer%20functions_f7f749f8.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/4.Laplace%20Transforms%20and%20the%20Transfer%20function%20of%20Linear%20Systems/notes/Transfer%20functions_f7f749f8.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/4.Laplace%20Transforms%20and%20the%20Transfer%20function%20of%20Linear%20Systems/notes/Transfer%20functions_f7f749f8.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE241B_Mathematical Models of Systems_5.Block Diagram Models",
+          "order": 5,
+          "title": "Block Diagram Models",
+          "folder_name": "5.Block Diagram Models",
+          "path": "UE24EE241B/Mathematical Models of Systems/5.Block Diagram Models",
+          "content": {
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "MCQ-BLOCK DIAGRAMS_a8e6673f.pdf",
+                  "title": "MCQ-BLOCK DIAGRAMS",
+                  "uuid": "a8e6673f",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/5.Block Diagram Models/questionbank/MCQ-BLOCK DIAGRAMS_a8e6673f.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/5.Block%20Diagram%20Models/questionbank/MCQ-BLOCK%20DIAGRAMS_a8e6673f.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/5.Block%20Diagram%20Models/questionbank/MCQ-BLOCK%20DIAGRAMS_a8e6673f.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/5.Block%20Diagram%20Models/questionbank/MCQ-BLOCK%20DIAGRAMS_a8e6673f.pdf"
+                },
+                {
+                  "name": "BLOCK DIAGRAM REDUCTION TECHNIQUES_bc6afa25.pdf",
+                  "title": "BLOCK DIAGRAM REDUCTION TECHNIQUES",
+                  "uuid": "bc6afa25",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/5.Block Diagram Models/questionbank/BLOCK DIAGRAM REDUCTION TECHNIQUES_bc6afa25.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/5.Block%20Diagram%20Models/questionbank/BLOCK%20DIAGRAM%20REDUCTION%20TECHNIQUES_bc6afa25.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/5.Block%20Diagram%20Models/questionbank/BLOCK%20DIAGRAM%20REDUCTION%20TECHNIQUES_bc6afa25.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/5.Block%20Diagram%20Models/questionbank/BLOCK%20DIAGRAM%20REDUCTION%20TECHNIQUES_bc6afa25.pdf"
+                }
+              ],
+              "count": 2
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "BLOCK DIAGRAM REDUCTION TECHNIQUES_dcbbeb18.pdf",
+                  "title": "BLOCK DIAGRAM REDUCTION TECHNIQUES",
+                  "uuid": "dcbbeb18",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/5.Block Diagram Models/notes/BLOCK DIAGRAM REDUCTION TECHNIQUES_dcbbeb18.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/5.Block%20Diagram%20Models/notes/BLOCK%20DIAGRAM%20REDUCTION%20TECHNIQUES_dcbbeb18.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/5.Block%20Diagram%20Models/notes/BLOCK%20DIAGRAM%20REDUCTION%20TECHNIQUES_dcbbeb18.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/5.Block%20Diagram%20Models/notes/BLOCK%20DIAGRAM%20REDUCTION%20TECHNIQUES_dcbbeb18.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "BLOCK DIAGRAM REDUCTION TECHNIQUES AND NUMERICALS_f971415f.pdf",
+                  "title": "BLOCK DIAGRAM REDUCTION TECHNIQUES AND NUMERICALS",
+                  "uuid": "f971415f",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/5.Block Diagram Models/slides/BLOCK DIAGRAM REDUCTION TECHNIQUES AND NUMERICALS_f971415f.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/5.Block%20Diagram%20Models/slides/BLOCK%20DIAGRAM%20REDUCTION%20TECHNIQUES%20AND%20NUMERICALS_f971415f.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/5.Block%20Diagram%20Models/slides/BLOCK%20DIAGRAM%20REDUCTION%20TECHNIQUES%20AND%20NUMERICALS_f971415f.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/5.Block%20Diagram%20Models/slides/BLOCK%20DIAGRAM%20REDUCTION%20TECHNIQUES%20AND%20NUMERICALS_f971415f.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE241B_Mathematical Models of Systems_8.Signal Flow Graph Models",
+          "order": 8,
+          "title": "Signal Flow Graph Models",
+          "folder_name": "8.Signal Flow Graph Models",
+          "path": "UE24EE241B/Mathematical Models of Systems/8.Signal Flow Graph Models",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "SIGNAL FLOW GRAPHS+NUMERICALS_e0ecaa6d.pdf",
+                  "title": "SIGNAL FLOW GRAPHS+NUMERICALS",
+                  "uuid": "e0ecaa6d",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/8.Signal Flow Graph Models/slides/SIGNAL FLOW GRAPHS+NUMERICALS_e0ecaa6d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/8.Signal%20Flow%20Graph%20Models/slides/SIGNAL%20FLOW%20GRAPHS%2BNUMERICALS_e0ecaa6d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/8.Signal%20Flow%20Graph%20Models/slides/SIGNAL%20FLOW%20GRAPHS%2BNUMERICALS_e0ecaa6d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/8.Signal%20Flow%20Graph%20Models/slides/SIGNAL%20FLOW%20GRAPHS%2BNUMERICALS_e0ecaa6d.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "SIGNAL FLOW GRAPHS+NUMERICALS_b905d22a.pdf",
+                  "title": "SIGNAL FLOW GRAPHS+NUMERICALS",
+                  "uuid": "b905d22a",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/8.Signal Flow Graph Models/notes/SIGNAL FLOW GRAPHS+NUMERICALS_b905d22a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/8.Signal%20Flow%20Graph%20Models/notes/SIGNAL%20FLOW%20GRAPHS%2BNUMERICALS_b905d22a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/8.Signal%20Flow%20Graph%20Models/notes/SIGNAL%20FLOW%20GRAPHS%2BNUMERICALS_b905d22a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/8.Signal%20Flow%20Graph%20Models/notes/SIGNAL%20FLOW%20GRAPHS%2BNUMERICALS_b905d22a.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "MCQ-SIGNAL FLOW GRAPHS_608e7b23.pdf",
+                  "title": "MCQ-SIGNAL FLOW GRAPHS",
+                  "uuid": "608e7b23",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/8.Signal Flow Graph Models/questionbank/MCQ-SIGNAL FLOW GRAPHS_608e7b23.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/8.Signal%20Flow%20Graph%20Models/questionbank/MCQ-SIGNAL%20FLOW%20GRAPHS_608e7b23.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/8.Signal%20Flow%20Graph%20Models/questionbank/MCQ-SIGNAL%20FLOW%20GRAPHS_608e7b23.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/8.Signal%20Flow%20Graph%20Models/questionbank/MCQ-SIGNAL%20FLOW%20GRAPHS_608e7b23.pdf"
+                },
+                {
+                  "name": "SIGNAL FLOW GRAPH_fdbbb31f.pdf",
+                  "title": "SIGNAL FLOW GRAPH",
+                  "uuid": "fdbbb31f",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/8.Signal Flow Graph Models/questionbank/SIGNAL FLOW GRAPH_fdbbb31f.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/8.Signal%20Flow%20Graph%20Models/questionbank/SIGNAL%20FLOW%20GRAPH_fdbbb31f.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/8.Signal%20Flow%20Graph%20Models/questionbank/SIGNAL%20FLOW%20GRAPH_fdbbb31f.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/8.Signal%20Flow%20Graph%20Models/questionbank/SIGNAL%20FLOW%20GRAPH_fdbbb31f.pdf"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE24EE241B_Mathematical Models of Systems_11.The State Variables of a Dynamic System",
+          "order": 11,
+          "title": "The State Variables of a Dynamic System",
+          "folder_name": "11.The State Variables of a Dynamic System",
+          "path": "UE24EE241B/Mathematical Models of Systems/11.The State Variables of a Dynamic System",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "State Space Models_2951be68.pdf",
+                  "title": "State Space Models",
+                  "uuid": "2951be68",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/11.The State Variables of a Dynamic System/slides/State Space Models_2951be68.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/11.The%20State%20Variables%20of%20a%20Dynamic%20System/slides/State%20Space%20Models_2951be68.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/11.The%20State%20Variables%20of%20a%20Dynamic%20System/slides/State%20Space%20Models_2951be68.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/11.The%20State%20Variables%20of%20a%20Dynamic%20System/slides/State%20Space%20Models_2951be68.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "State Space Models_6a31e40d.pdf",
+                  "title": "State Space Models",
+                  "uuid": "6a31e40d",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/11.The State Variables of a Dynamic System/notes/State Space Models_6a31e40d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/11.The%20State%20Variables%20of%20a%20Dynamic%20System/notes/State%20Space%20Models_6a31e40d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/11.The%20State%20Variables%20of%20a%20Dynamic%20System/notes/State%20Space%20Models_6a31e40d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/11.The%20State%20Variables%20of%20a%20Dynamic%20System/notes/State%20Space%20Models_6a31e40d.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "MCQ-STATE SPACE MODELS_b5d26452.pdf",
+                  "title": "MCQ-STATE SPACE MODELS",
+                  "uuid": "b5d26452",
+                  "extension": "pdf",
+                  "path": "UE24EE241B/Mathematical Models of Systems/11.The State Variables of a Dynamic System/questionbank/MCQ-STATE SPACE MODELS_b5d26452.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/11.The%20State%20Variables%20of%20a%20Dynamic%20System/questionbank/MCQ-STATE%20SPACE%20MODELS_b5d26452.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE241B/Mathematical%20Models%20of%20Systems/11.The%20State%20Variables%20of%20a%20Dynamic%20System/questionbank/MCQ-STATE%20SPACE%20MODELS_b5d26452.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE241B/Mathematical%20Models%20of%20Systems/11.The%20State%20Variables%20of%20a%20Dynamic%20System/questionbank/MCQ-STATE%20SPACE%20MODELS_b5d26452.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE24EE241B_Stability analysis of a system and Frequency Domain Analysis",
+      "title": "  Stability analysis of a system & Frequency Domain Analysis",
+      "path": "UE24EE241B/Stability analysis of a system and Frequency Domain Analysis",
+      "classes": []
+    },
+    {
+      "id": "UE24EE241B_The Performance of Feedback Control Systems of a system",
+      "title": " The Performance of Feedback Control Systems of a system",
+      "path": "UE24EE241B/The Performance of Feedback Control Systems of a system",
+      "classes": []
+    }
+  ],
+  "total_units": 4,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE24EE241B",
+  "updated_at": "2026-02-08T14:25:54.551588"
+}
