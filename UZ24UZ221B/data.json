@@ -75,22 +75,6 @@
               ],
               "count": 4
             },
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "CIE-EIE2-M1 INTRODUCTION_20a94907.pdf",
-                  "title": "CIE-EIE2-M1 INTRODUCTION",
-                  "uuid": "20a94907",
-                  "extension": "pdf",
-                  "path": "UZ24UZ221B/Introduction, Validation/1.M1 - Orientation, Introduction to EIE, Why Startups Fail/slides/CIE-EIE2-M1 INTRODUCTION_20a94907.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/1.M1%20-%20Orientation%2C%20Introduction%20to%20EIE%2C%20Why%20Startups%20Fail/slides/CIE-EIE2-M1%20INTRODUCTION_20a94907.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UZ24UZ221B/Introduction%2C%20Validation/1.M1%20-%20Orientation%2C%20Introduction%20to%20EIE%2C%20Why%20Startups%20Fail/slides/CIE-EIE2-M1%20INTRODUCTION_20a94907.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/1.M1%20-%20Orientation%2C%20Introduction%20to%20EIE%2C%20Why%20Startups%20Fail/slides/CIE-EIE2-M1%20INTRODUCTION_20a94907.pdf"
-                }
-              ],
-              "count": 1
-            },
             "questionbank": {
               "type": "questionbank",
               "files": [
@@ -103,6 +87,22 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/1.M1%20-%20Orientation%2C%20Introduction%20to%20EIE%2C%20Why%20Startups%20Fail/questionbank/CIE%20EIE2_M1_SessionEndQuiz_ca4d4533.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UZ24UZ221B/Introduction%2C%20Validation/1.M1%20-%20Orientation%2C%20Introduction%20to%20EIE%2C%20Why%20Startups%20Fail/questionbank/CIE%20EIE2_M1_SessionEndQuiz_ca4d4533.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/1.M1%20-%20Orientation%2C%20Introduction%20to%20EIE%2C%20Why%20Startups%20Fail/questionbank/CIE%20EIE2_M1_SessionEndQuiz_ca4d4533.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "CIE-EIE2-M1 INTRODUCTION_20a94907.pdf",
+                  "title": "CIE-EIE2-M1 INTRODUCTION",
+                  "uuid": "20a94907",
+                  "extension": "pdf",
+                  "path": "UZ24UZ221B/Introduction, Validation/1.M1 - Orientation, Introduction to EIE, Why Startups Fail/slides/CIE-EIE2-M1 INTRODUCTION_20a94907.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/1.M1%20-%20Orientation%2C%20Introduction%20to%20EIE%2C%20Why%20Startups%20Fail/slides/CIE-EIE2-M1%20INTRODUCTION_20a94907.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UZ24UZ221B/Introduction%2C%20Validation/1.M1%20-%20Orientation%2C%20Introduction%20to%20EIE%2C%20Why%20Startups%20Fail/slides/CIE-EIE2-M1%20INTRODUCTION_20a94907.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/1.M1%20-%20Orientation%2C%20Introduction%20to%20EIE%2C%20Why%20Startups%20Fail/slides/CIE-EIE2-M1%20INTRODUCTION_20a94907.pdf"
                 }
               ],
               "count": 1
@@ -197,5 +197,5 @@
   ],
   "total_units": 4,
   "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UZ24UZ221B",
-  "updated_at": "2026-02-08T13:36:17.399977"
+  "updated_at": "2026-02-08T14:25:56.672948"
 }
