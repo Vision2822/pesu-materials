@@ -1,0 +1,37 @@
+{
+  "course_code": "UE24MA241B",
+  "unit_title": "Vector Spaces & Linear Transformations ",
+  "videos": [
+    {
+      "title": "Linear Transformations, Examples",
+      "provider": "vimeo",
+      "video_id": "569293331",
+      "video_url": "https://player.vimeo.com/video/569293331?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/569293331",
+      "faculty": "Renna Sultana",
+      "date": "30/06/2021 02:55 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Linear Transformations, Examples",
+      "provider": "vimeo",
+      "video_id": "569294359",
+      "video_url": "https://player.vimeo.com/video/569294359?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/569294359",
+      "faculty": "Renna Sultana",
+      "date": "30/06/2021 02:58 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Transformations represented by Matrices",
+      "provider": "vimeo",
+      "video_id": "546827804",
+      "video_url": "https://player.vimeo.com/video/546827804?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/546827804",
+      "faculty": "Renna Sultana",
+      "date": "08/05/2021 03:16 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:33:43.485980"
+}
