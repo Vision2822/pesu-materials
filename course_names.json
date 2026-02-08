@@ -1,4 +1,9 @@
 {
+  "UE24CS241B": "Design and Analysis of Algorithms",
+  "UE24CS242B": "Operating Systems",
+  "UE24CS251B": "Microprocessor and Computer Architecture",
+  "UE24CS252B": "Computer Networks",
+  "UE24MA241B": "Linear Algebra and Its Applications",
   "UE25CS151A": "Python for computational problem solving",
   "UE25CV141A": "Engineering Mechanics-Statics",
   "UE25CY151A": "Engineering Chemistry",
@@ -10,5 +15,6 @@
   "UE25ME141A": "Mechanical Engineering Sciences",
   "UE25PH151A": "Engineering Physics",
   "UE25PH151A(LAB)": "Engineering Physics integrated with lab",
-  "UL25CE121A": "Constitution of India, Cyber Law and Professional Ethics"
+  "UL25CE121A": "Constitution of India, Cyber Law and Professional Ethics",
+  "UZ24UZ221B": "Essentials of Innovation & Entrepreneurship - II"
 }
