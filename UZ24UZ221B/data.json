@@ -116,6 +116,32 @@
           "folder_name": "2.M2 - Market Failure, Validation and Pretotyping",
           "path": "UZ24UZ221B/Introduction, Validation/2.M2 - Market Failure, Validation and Pretotyping",
           "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "CIE-EIE2-M2 Customer_Development_Model-Overview_f88728e4.pdf",
+                  "title": "CIE-EIE2-M2 Customer Development Model-Overview",
+                  "uuid": "f88728e4",
+                  "extension": "pdf",
+                  "path": "UZ24UZ221B/Introduction, Validation/2.M2 - Market Failure, Validation and Pretotyping/slides/CIE-EIE2-M2 Customer_Development_Model-Overview_f88728e4.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CIE-EIE2-M2%20Customer_Development_Model-Overview_f88728e4.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CIE-EIE2-M2%20Customer_Development_Model-Overview_f88728e4.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CIE-EIE2-M2%20Customer_Development_Model-Overview_f88728e4.pdf"
+                },
+                {
+                  "name": "CustomerDevelopment-MindMap_9edd7be0.pdf",
+                  "title": "CustomerDevelopment-MindMap",
+                  "uuid": "9edd7be0",
+                  "extension": "pdf",
+                  "path": "UZ24UZ221B/Introduction, Validation/2.M2 - Market Failure, Validation and Pretotyping/slides/CustomerDevelopment-MindMap_9edd7be0.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CustomerDevelopment-MindMap_9edd7be0.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CustomerDevelopment-MindMap_9edd7be0.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CustomerDevelopment-MindMap_9edd7be0.pdf"
+                }
+              ],
+              "count": 2
+            },
             "questionbank": {
               "type": "questionbank",
               "files": [
@@ -157,32 +183,6 @@
                 }
               ],
               "count": 2
-            },
-            "slides": {
-              "type": "slides",
-              "files": [
-                {
-                  "name": "CIE-EIE2-M2 Customer_Development_Model-Overview_f88728e4.pdf",
-                  "title": "CIE-EIE2-M2 Customer Development Model-Overview",
-                  "uuid": "f88728e4",
-                  "extension": "pdf",
-                  "path": "UZ24UZ221B/Introduction, Validation/2.M2 - Market Failure, Validation and Pretotyping/slides/CIE-EIE2-M2 Customer_Development_Model-Overview_f88728e4.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CIE-EIE2-M2%20Customer_Development_Model-Overview_f88728e4.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CIE-EIE2-M2%20Customer_Development_Model-Overview_f88728e4.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CIE-EIE2-M2%20Customer_Development_Model-Overview_f88728e4.pdf"
-                },
-                {
-                  "name": "CustomerDevelopment-MindMap_9edd7be0.pdf",
-                  "title": "CustomerDevelopment-MindMap",
-                  "uuid": "9edd7be0",
-                  "extension": "pdf",
-                  "path": "UZ24UZ221B/Introduction, Validation/2.M2 - Market Failure, Validation and Pretotyping/slides/CustomerDevelopment-MindMap_9edd7be0.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CustomerDevelopment-MindMap_9edd7be0.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CustomerDevelopment-MindMap_9edd7be0.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CustomerDevelopment-MindMap_9edd7be0.pdf"
-                }
-              ],
-              "count": 2
             }
           }
         }
@@ -197,5 +197,5 @@
   ],
   "total_units": 4,
   "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UZ24UZ221B",
-  "updated_at": "2026-02-08T14:25:56.672948"
+  "updated_at": "2026-02-08T14:31:51.802022"
 }
