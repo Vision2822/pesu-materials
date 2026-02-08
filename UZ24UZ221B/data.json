@@ -1,0 +1,201 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UZ24UZ221B",
+  "course_title": "Essentials of Innovation & Entrepreneurship - II",
+  "semester_name": "Sem-4",
+  "units": [
+    {
+      "id": "UZ24UZ221B_Customer Development (CD) and Startup Pitching",
+      "title": "Customer Development (CD) & Startup Pitching",
+      "path": "UZ24UZ221B/Customer Development (CD) and Startup Pitching",
+      "classes": []
+    },
+    {
+      "id": "UZ24UZ221B_Finance and IP for Startups",
+      "title": "Finance & IP for Startups",
+      "path": "UZ24UZ221B/Finance and IP for Startups",
+      "classes": []
+    },
+    {
+      "id": "UZ24UZ221B_Introduction, Validation",
+      "title": "Introduction, Validation",
+      "path": "UZ24UZ221B/Introduction, Validation",
+      "classes": [
+        {
+          "id": "UZ24UZ221B_Introduction, Validation_1.M1 - Orientation, Introduction to EIE, Why Startups Fail",
+          "order": 1,
+          "title": "M1 - Orientation,  Introduction to EIE, Why Startups Fail ",
+          "folder_name": "1.M1 - Orientation, Introduction to EIE, Why Startups Fail",
+          "path": "UZ24UZ221B/Introduction, Validation/1.M1 - Orientation, Introduction to EIE, Why Startups Fail",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Conventional_Product_Model",
+                  "provider": "vimeo",
+                  "video_id": "1154353421",
+                  "video_url": "https://player.vimeo.com/video/1154353421?h=9f25b6886f&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1154353421?h=9f25b6886f",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "14/01/2026 09:10 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "CIE EIE-1 Class recording_M1_20250806",
+                  "provider": "vimeo",
+                  "video_id": "1154355948",
+                  "video_url": "https://player.vimeo.com/video/1154355948?h=ff8562f1f4&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1154355948?h=ff8562f1f4",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "14/01/2026 09:18 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "The_Conventional_Product_Fallacy",
+                  "provider": "vimeo",
+                  "video_id": "1154353739",
+                  "video_url": "https://player.vimeo.com/video/1154353739?h=bf055fcda2&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1154353739?h=bf055fcda2",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "14/01/2026 09:11 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Classic_Startup_Playbook",
+                  "provider": "vimeo",
+                  "video_id": "1154353017",
+                  "video_url": "https://player.vimeo.com/video/1154353017?h=4138de1ea2&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1154353017?h=4138de1ea2",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "14/01/2026 09:09 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 4
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "CIE-EIE2-M1 INTRODUCTION_20a94907.pdf",
+                  "title": "CIE-EIE2-M1 INTRODUCTION",
+                  "uuid": "20a94907",
+                  "extension": "pdf",
+                  "path": "UZ24UZ221B/Introduction, Validation/1.M1 - Orientation, Introduction to EIE, Why Startups Fail/slides/CIE-EIE2-M1 INTRODUCTION_20a94907.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/1.M1%20-%20Orientation%2C%20Introduction%20to%20EIE%2C%20Why%20Startups%20Fail/slides/CIE-EIE2-M1%20INTRODUCTION_20a94907.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UZ24UZ221B/Introduction%2C%20Validation/1.M1%20-%20Orientation%2C%20Introduction%20to%20EIE%2C%20Why%20Startups%20Fail/slides/CIE-EIE2-M1%20INTRODUCTION_20a94907.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/1.M1%20-%20Orientation%2C%20Introduction%20to%20EIE%2C%20Why%20Startups%20Fail/slides/CIE-EIE2-M1%20INTRODUCTION_20a94907.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "CIE EIE2_M1_SessionEndQuiz_ca4d4533.pdf",
+                  "title": "CIE EIE2 M1 SessionEndQuiz",
+                  "uuid": "ca4d4533",
+                  "extension": "pdf",
+                  "path": "UZ24UZ221B/Introduction, Validation/1.M1 - Orientation, Introduction to EIE, Why Startups Fail/questionbank/CIE EIE2_M1_SessionEndQuiz_ca4d4533.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/1.M1%20-%20Orientation%2C%20Introduction%20to%20EIE%2C%20Why%20Startups%20Fail/questionbank/CIE%20EIE2_M1_SessionEndQuiz_ca4d4533.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UZ24UZ221B/Introduction%2C%20Validation/1.M1%20-%20Orientation%2C%20Introduction%20to%20EIE%2C%20Why%20Startups%20Fail/questionbank/CIE%20EIE2_M1_SessionEndQuiz_ca4d4533.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/1.M1%20-%20Orientation%2C%20Introduction%20to%20EIE%2C%20Why%20Startups%20Fail/questionbank/CIE%20EIE2_M1_SessionEndQuiz_ca4d4533.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UZ24UZ221B_Introduction, Validation_2.M2 - Market Failure, Validation and Pretotyping",
+          "order": 2,
+          "title": "M2 - Market Failure, Validation and Pretotyping",
+          "folder_name": "2.M2 - Market Failure, Validation and Pretotyping",
+          "path": "UZ24UZ221B/Introduction, Validation/2.M2 - Market Failure, Validation and Pretotyping",
+          "content": {
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "EIE2-M2-SessionEndQuiz_a08d8617.pdf",
+                  "title": "EIE2-M2-SessionEndQuiz",
+                  "uuid": "a08d8617",
+                  "extension": "pdf",
+                  "path": "UZ24UZ221B/Introduction, Validation/2.M2 - Market Failure, Validation and Pretotyping/questionbank/EIE2-M2-SessionEndQuiz_a08d8617.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/questionbank/EIE2-M2-SessionEndQuiz_a08d8617.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/questionbank/EIE2-M2-SessionEndQuiz_a08d8617.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/questionbank/EIE2-M2-SessionEndQuiz_a08d8617.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "CIE EIE-2_M2_20260121",
+                  "provider": "vimeo",
+                  "video_id": "1157098418",
+                  "video_url": "https://player.vimeo.com/video/1157098418?h=898e0e2d24&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1157098418?h=898e0e2d24",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "22/01/2026 12:09 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "CustomerDevelopment-ProcessOverview",
+                  "provider": "vimeo",
+                  "video_id": "1157098666",
+                  "video_url": "https://player.vimeo.com/video/1157098666?h=0bfd505dcb&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/1157098666?h=0bfd505dcb",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "22/01/2026 12:09 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "CIE-EIE2-M2 Customer_Development_Model-Overview_f88728e4.pdf",
+                  "title": "CIE-EIE2-M2 Customer Development Model-Overview",
+                  "uuid": "f88728e4",
+                  "extension": "pdf",
+                  "path": "UZ24UZ221B/Introduction, Validation/2.M2 - Market Failure, Validation and Pretotyping/slides/CIE-EIE2-M2 Customer_Development_Model-Overview_f88728e4.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CIE-EIE2-M2%20Customer_Development_Model-Overview_f88728e4.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CIE-EIE2-M2%20Customer_Development_Model-Overview_f88728e4.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CIE-EIE2-M2%20Customer_Development_Model-Overview_f88728e4.pdf"
+                },
+                {
+                  "name": "CustomerDevelopment-MindMap_9edd7be0.pdf",
+                  "title": "CustomerDevelopment-MindMap",
+                  "uuid": "9edd7be0",
+                  "extension": "pdf",
+                  "path": "UZ24UZ221B/Introduction, Validation/2.M2 - Market Failure, Validation and Pretotyping/slides/CustomerDevelopment-MindMap_9edd7be0.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CustomerDevelopment-MindMap_9edd7be0.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CustomerDevelopment-MindMap_9edd7be0.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UZ24UZ221B/Introduction%2C%20Validation/2.M2%20-%20Market%20Failure%2C%20Validation%20and%20Pretotyping/slides/CustomerDevelopment-MindMap_9edd7be0.pdf"
+                }
+              ],
+              "count": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UZ24UZ221B_Marketing",
+      "title": "Marketing",
+      "path": "UZ24UZ221B/Marketing",
+      "classes": []
+    }
+  ],
+  "total_units": 4,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UZ24UZ221B",
+  "updated_at": "2026-02-08T13:36:17.399977"
+}
