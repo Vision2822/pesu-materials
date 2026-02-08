@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS252B",
+  "unit_title": "Transport Layer  TCP, Network Layer and Internet Protocol ",
+  "videos": [
+    {
+      "title": "TCP Congestion Control",
+      "provider": "vimeo",
+      "video_id": "935838817",
+      "video_url": "https://player.vimeo.com/video/935838817?h=1375d79c54&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/935838817?h=1375d79c54",
+      "faculty": "vadiraja",
+      "date": "17/04/2024 05:58 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:31:05.117184"
+}

@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS252B",
+  "unit_title": "Transport Layer  TCP, Network Layer and Internet Protocol ",
+  "videos": [
+    {
+      "title": "What's Inside The Router-2",
+      "provider": "vimeo",
+      "video_id": "935832369",
+      "video_url": "https://player.vimeo.com/video/935832369?h=dd424683f0&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/935832369?h=dd424683f0",
+      "faculty": "vadiraja",
+      "date": "17/04/2024 05:39 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:31:05.034591"
+}
