@@ -1,0 +1,1003 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UE22BT002",
+  "course_title": "Testing 1",
+  "semester_name": "Sem-4",
+  "units": [
+    {
+      "id": "UE22BT002_Unit-1- Introduction, Team",
+      "title": "Unit-1: Introduction, Team",
+      "path": "UE22BT002/Unit-1- Introduction, Team",
+      "classes": [
+        {
+          "id": "UE22BT002_Unit-1- Introduction, Team_1.M1 - Introduction",
+          "order": 1,
+          "title": "M1 - Introduction",
+          "folder_name": "1.M1 - Introduction",
+          "path": "UE22BT002/Unit-1- Introduction, Team/1.M1 - Introduction",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "CIE_Level 1_Module 1_Section 1",
+                  "provider": "vimeo",
+                  "video_id": "439908168",
+                  "video_url": "https://player.vimeo.com/video/439908168?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/439908168",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "20/07/2020 01:28 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "CIE_Level 1_Module 1_Section 2",
+                  "provider": "vimeo",
+                  "video_id": "439911521",
+                  "video_url": "https://player.vimeo.com/video/439911521?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/439911521",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "20/07/2020 01:45 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "CIE_Level 1_Module 1_Section 3",
+                  "provider": "vimeo",
+                  "video_id": "439915561",
+                  "video_url": "https://player.vimeo.com/video/439915561?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/439915561",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "20/07/2020 02:05 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 3
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "L1-M1-Instructor Slides_129537.pdf",
+                  "title": "L1-M1-Instructor Slides",
+                  "uuid": "129537",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-1- Introduction, Team/1.M1 - Introduction/slides/L1-M1-Instructor Slides_129537.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/1.M1%20-%20Introduction/slides/L1-M1-Instructor%20Slides_129537.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/1.M1%20-%20Introduction/slides/L1-M1-Instructor%20Slides_129537.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/1.M1%20-%20Introduction/slides/L1-M1-Instructor%20Slides_129537.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "L1_M1_Pre-Session_11829.pdf",
+                  "title": "L1 M1 Pre-Session",
+                  "uuid": "11829",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-1- Introduction, Team/1.M1 - Introduction/notes/L1_M1_Pre-Session_11829.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/1.M1%20-%20Introduction/notes/L1_M1_Pre-Session_11829.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/1.M1%20-%20Introduction/notes/L1_M1_Pre-Session_11829.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/1.M1%20-%20Introduction/notes/L1_M1_Pre-Session_11829.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "L1_M1 - Post-Session_11830.pdf",
+                  "title": "L1 M1 - Post-Session",
+                  "uuid": "11830",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-1- Introduction, Team/1.M1 - Introduction/assignment/L1_M1 - Post-Session_11830.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/1.M1%20-%20Introduction/assignment/L1_M1%20-%20Post-Session_11830.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/1.M1%20-%20Introduction/assignment/L1_M1%20-%20Post-Session_11830.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/1.M1%20-%20Introduction/assignment/L1_M1%20-%20Post-Session_11830.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE22BT002_Unit-1- Introduction, Team_2.M2 - Teams",
+          "order": 2,
+          "title": "M2 - Teams",
+          "folder_name": "2.M2 - Teams",
+          "path": "UE22BT002/Unit-1- Introduction, Team/2.M2 - Teams",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Level 1_Module 2_Sub-module 1",
+                  "provider": "vimeo",
+                  "video_id": "440619338",
+                  "video_url": "https://player.vimeo.com/video/440619338?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/440619338",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "22/07/2020 04:12 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Level 1_Module 2_Sub-module 2",
+                  "provider": "vimeo",
+                  "video_id": "440627083",
+                  "video_url": "https://player.vimeo.com/video/440627083?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/440627083",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "22/07/2020 04:45 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Level 1_Module 2_Sub-module 3",
+                  "provider": "vimeo",
+                  "video_id": "440630623",
+                  "video_url": "https://player.vimeo.com/video/440630623?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/440630623",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "22/07/2020 04:59 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 3
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Level 1_Module 2_Instructor Slides_15033.pdf",
+                  "title": "Level 1 Module 2 Instructor Slides",
+                  "uuid": "15033",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-1- Introduction, Team/2.M2 - Teams/slides/Level 1_Module 2_Instructor Slides_15033.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/2.M2%20-%20Teams/slides/Level%201_Module%202_Instructor%20Slides_15033.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/2.M2%20-%20Teams/slides/Level%201_Module%202_Instructor%20Slides_15033.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/2.M2%20-%20Teams/slides/Level%201_Module%202_Instructor%20Slides_15033.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Level 1_Module 2_Post-Session_15037.pdf",
+                  "title": "Level 1 Module 2 Post-Session",
+                  "uuid": "15037",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-1- Introduction, Team/2.M2 - Teams/assignment/Level 1_Module 2_Post-Session_15037.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/2.M2%20-%20Teams/assignment/Level%201_Module%202_Post-Session_15037.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/2.M2%20-%20Teams/assignment/Level%201_Module%202_Post-Session_15037.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/2.M2%20-%20Teams/assignment/Level%201_Module%202_Post-Session_15037.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Level 1_Module 2_Pre-Session_15036.pdf",
+                  "title": "Level 1 Module 2 Pre-Session",
+                  "uuid": "15036",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-1- Introduction, Team/2.M2 - Teams/notes/Level 1_Module 2_Pre-Session_15036.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/2.M2%20-%20Teams/notes/Level%201_Module%202_Pre-Session_15036.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/2.M2%20-%20Teams/notes/Level%201_Module%202_Pre-Session_15036.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-1-%20Introduction%2C%20Team/2.M2%20-%20Teams/notes/Level%201_Module%202_Pre-Session_15036.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE22BT002_Unit-2- Effectuation, Ideation and Design Thinking",
+      "title": "Unit-2: Effectuation, Ideation & Design Thinking ",
+      "path": "UE22BT002/Unit-2- Effectuation, Ideation and Design Thinking",
+      "classes": [
+        {
+          "id": "UE22BT002_Unit-2- Effectuation, Ideation and Design Thinking_1.M3 - Effectuation",
+          "order": 1,
+          "title": "M3 - Effectuation",
+          "folder_name": "1.M3 - Effectuation",
+          "path": "UE22BT002/Unit-2- Effectuation, Ideation and Design Thinking/1.M3 - Effectuation",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Level 1_Module 3_Sub-module 1",
+                  "provider": "vimeo",
+                  "video_id": "440911777",
+                  "video_url": "https://player.vimeo.com/video/440911777?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/440911777",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "23/07/2020 12:39 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Level 1_Module 3_Sub-module 2",
+                  "provider": "vimeo",
+                  "video_id": "440913099",
+                  "video_url": "https://player.vimeo.com/video/440913099?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/440913099",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "23/07/2020 12:46 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Level 1_Module 3_Sub-module 3",
+                  "provider": "vimeo",
+                  "video_id": "440933764",
+                  "video_url": "https://player.vimeo.com/video/440933764?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/440933764",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "23/07/2020 02:25 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Level 1_Module 3_Post Session",
+                  "provider": "vimeo",
+                  "video_id": "440960843",
+                  "video_url": "https://player.vimeo.com/video/440960843?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/440960843",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "23/07/2020 04:20 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 4
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Level 1_Module 3_Post-Session_14976.pdf",
+                  "title": "Level 1 Module 3 Post-Session",
+                  "uuid": "14976",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-2- Effectuation, Ideation and Design Thinking/1.M3 - Effectuation/assignment/Level 1_Module 3_Post-Session_14976.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/1.M3%20-%20Effectuation/assignment/Level%201_Module%203_Post-Session_14976.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/1.M3%20-%20Effectuation/assignment/Level%201_Module%203_Post-Session_14976.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/1.M3%20-%20Effectuation/assignment/Level%201_Module%203_Post-Session_14976.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Level 1_Module 3_Instructor Slides_14973.pdf",
+                  "title": "Level 1 Module 3 Instructor Slides",
+                  "uuid": "14973",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-2- Effectuation, Ideation and Design Thinking/1.M3 - Effectuation/slides/Level 1_Module 3_Instructor Slides_14973.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/1.M3%20-%20Effectuation/slides/Level%201_Module%203_Instructor%20Slides_14973.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/1.M3%20-%20Effectuation/slides/Level%201_Module%203_Instructor%20Slides_14973.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/1.M3%20-%20Effectuation/slides/Level%201_Module%203_Instructor%20Slides_14973.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Level 1_Module 3_Pre-Session_14969.pdf",
+                  "title": "Level 1 Module 3 Pre-Session",
+                  "uuid": "14969",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-2- Effectuation, Ideation and Design Thinking/1.M3 - Effectuation/notes/Level 1_Module 3_Pre-Session_14969.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/1.M3%20-%20Effectuation/notes/Level%201_Module%203_Pre-Session_14969.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/1.M3%20-%20Effectuation/notes/Level%201_Module%203_Pre-Session_14969.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/1.M3%20-%20Effectuation/notes/Level%201_Module%203_Pre-Session_14969.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE22BT002_Unit-2- Effectuation, Ideation and Design Thinking_2.M4 - Ideation and Design Thinking",
+          "order": 2,
+          "title": "M4 - Ideation & Design Thinking ",
+          "folder_name": "2.M4 - Ideation and Design Thinking",
+          "path": "UE22BT002/Unit-2- Effectuation, Ideation and Design Thinking/2.M4 - Ideation and Design Thinking",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Level 1_Module 4",
+                  "provider": "vimeo",
+                  "video_id": "442684725",
+                  "video_url": "https://player.vimeo.com/video/442684725?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/442684725",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "29/07/2020 05:48 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Level 1_Module 4_Instructor Slides_18282.pdf",
+                  "title": "Level 1 Module 4 Instructor Slides",
+                  "uuid": "18282",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-2- Effectuation, Ideation and Design Thinking/2.M4 - Ideation and Design Thinking/slides/Level 1_Module 4_Instructor Slides_18282.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/2.M4%20-%20Ideation%20and%20Design%20Thinking/slides/Level%201_Module%204_Instructor%20Slides_18282.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/2.M4%20-%20Ideation%20and%20Design%20Thinking/slides/Level%201_Module%204_Instructor%20Slides_18282.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/2.M4%20-%20Ideation%20and%20Design%20Thinking/slides/Level%201_Module%204_Instructor%20Slides_18282.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Level 1_Module 4_Post-session_18280.pdf",
+                  "title": "Level 1 Module 4 Post-session",
+                  "uuid": "18280",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-2- Effectuation, Ideation and Design Thinking/2.M4 - Ideation and Design Thinking/assignment/Level 1_Module 4_Post-session_18280.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/2.M4%20-%20Ideation%20and%20Design%20Thinking/assignment/Level%201_Module%204_Post-session_18280.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/2.M4%20-%20Ideation%20and%20Design%20Thinking/assignment/Level%201_Module%204_Post-session_18280.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/2.M4%20-%20Ideation%20and%20Design%20Thinking/assignment/Level%201_Module%204_Post-session_18280.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Level 1_Module 4_Pre-Session_18277.pdf",
+                  "title": "Level 1 Module 4 Pre-Session",
+                  "uuid": "18277",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-2- Effectuation, Ideation and Design Thinking/2.M4 - Ideation and Design Thinking/notes/Level 1_Module 4_Pre-Session_18277.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/2.M4%20-%20Ideation%20and%20Design%20Thinking/notes/Level%201_Module%204_Pre-Session_18277.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/2.M4%20-%20Ideation%20and%20Design%20Thinking/notes/Level%201_Module%204_Pre-Session_18277.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-2-%20Effectuation%2C%20Ideation%20and%20Design%20Thinking/2.M4%20-%20Ideation%20and%20Design%20Thinking/notes/Level%201_Module%204_Pre-Session_18277.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE22BT002_Unit-3- Opportunity Identification, Business Model Canvas Overview",
+      "title": "Unit-3: Opportunity Identification, Business Model Canvas Overview",
+      "path": "UE22BT002/Unit-3- Opportunity Identification, Business Model Canvas Overview",
+      "classes": [
+        {
+          "id": "UE22BT002_Unit-3- Opportunity Identification, Business Model Canvas Overview_1.M5 - Opportunity Identification",
+          "order": 1,
+          "title": "M5 - Opportunity Identification",
+          "folder_name": "1.M5 - Opportunity Identification",
+          "path": "UE22BT002/Unit-3- Opportunity Identification, Business Model Canvas Overview/1.M5 - Opportunity Identification",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Level 1_Module 5_section 1",
+                  "provider": "vimeo",
+                  "video_id": "443014193",
+                  "video_url": "https://player.vimeo.com/video/443014193?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/443014193",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "30/07/2020 05:12 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Level 1_Module 5_section 2",
+                  "provider": "vimeo",
+                  "video_id": "443018591",
+                  "video_url": "https://player.vimeo.com/video/443018591?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/443018591",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "30/07/2020 05:30 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Level 1_Module 5_section 3",
+                  "provider": "vimeo",
+                  "video_id": "443028108",
+                  "video_url": "https://player.vimeo.com/video/443028108?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/443028108",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "30/07/2020 06:10 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Level 1_Module 5_section 4",
+                  "provider": "vimeo",
+                  "video_id": "443029984",
+                  "video_url": "https://player.vimeo.com/video/443029984?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/443029984",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "30/07/2020 06:17 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 4
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Level 1_Module 5_Instructor Slides_18920.pdf",
+                  "title": "Level 1 Module 5 Instructor Slides",
+                  "uuid": "18920",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-3- Opportunity Identification, Business Model Canvas Overview/1.M5 - Opportunity Identification/slides/Level 1_Module 5_Instructor Slides_18920.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/1.M5%20-%20Opportunity%20Identification/slides/Level%201_Module%205_Instructor%20Slides_18920.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/1.M5%20-%20Opportunity%20Identification/slides/Level%201_Module%205_Instructor%20Slides_18920.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/1.M5%20-%20Opportunity%20Identification/slides/Level%201_Module%205_Instructor%20Slides_18920.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Level 1_Module 5_Pre-session_18916.pdf",
+                  "title": "Level 1 Module 5 Pre-session",
+                  "uuid": "18916",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-3- Opportunity Identification, Business Model Canvas Overview/1.M5 - Opportunity Identification/notes/Level 1_Module 5_Pre-session_18916.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/1.M5%20-%20Opportunity%20Identification/notes/Level%201_Module%205_Pre-session_18916.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/1.M5%20-%20Opportunity%20Identification/notes/Level%201_Module%205_Pre-session_18916.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/1.M5%20-%20Opportunity%20Identification/notes/Level%201_Module%205_Pre-session_18916.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Level 1_Module 5_Post-session_18918.pdf",
+                  "title": "Level 1 Module 5 Post-session",
+                  "uuid": "18918",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-3- Opportunity Identification, Business Model Canvas Overview/1.M5 - Opportunity Identification/assignment/Level 1_Module 5_Post-session_18918.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/1.M5%20-%20Opportunity%20Identification/assignment/Level%201_Module%205_Post-session_18918.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/1.M5%20-%20Opportunity%20Identification/assignment/Level%201_Module%205_Post-session_18918.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/1.M5%20-%20Opportunity%20Identification/assignment/Level%201_Module%205_Post-session_18918.pdf"
+                },
+                {
+                  "name": "Recommended Reading - Tech trends_18919.pdf",
+                  "title": "Recommended Reading - Tech trends",
+                  "uuid": "18919",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-3- Opportunity Identification, Business Model Canvas Overview/1.M5 - Opportunity Identification/assignment/Recommended Reading - Tech trends_18919.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/1.M5%20-%20Opportunity%20Identification/assignment/Recommended%20Reading%20-%20Tech%20trends_18919.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/1.M5%20-%20Opportunity%20Identification/assignment/Recommended%20Reading%20-%20Tech%20trends_18919.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/1.M5%20-%20Opportunity%20Identification/assignment/Recommended%20Reading%20-%20Tech%20trends_18919.pdf"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE22BT002_Unit-3- Opportunity Identification, Business Model Canvas Overview_2.M6 - Business Model Canvas (BMC)",
+          "order": 2,
+          "title": "M6 - Business Model Canvas (BMC)",
+          "folder_name": "2.M6 - Business Model Canvas (BMC)",
+          "path": "UE22BT002/Unit-3- Opportunity Identification, Business Model Canvas Overview/2.M6 - Business Model Canvas (BMC)",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Level 1_Module 6_section 1",
+                  "provider": "vimeo",
+                  "video_id": "443301776",
+                  "video_url": "https://player.vimeo.com/video/443301776?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/443301776",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "31/07/2020 01:35 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Level 1_Module 6_section 2",
+                  "provider": "vimeo",
+                  "video_id": "443305059",
+                  "video_url": "https://player.vimeo.com/video/443305059?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/443305059",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "31/07/2020 01:51 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Level 1_Module 6_section 3",
+                  "provider": "vimeo",
+                  "video_id": "443308089",
+                  "video_url": "https://player.vimeo.com/video/443308089?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/443308089",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "31/07/2020 02:05 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 3
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Level 1_Module 6_Pre-session_22081.pdf",
+                  "title": "Level 1 Module 6 Pre-session",
+                  "uuid": "22081",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-3- Opportunity Identification, Business Model Canvas Overview/2.M6 - Business Model Canvas (BMC)/notes/Level 1_Module 6_Pre-session_22081.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/2.M6%20-%20Business%20Model%20Canvas%20%28BMC%29/notes/Level%201_Module%206_Pre-session_22081.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/2.M6%20-%20Business%20Model%20Canvas%20%28BMC%29/notes/Level%201_Module%206_Pre-session_22081.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/2.M6%20-%20Business%20Model%20Canvas%20%28BMC%29/notes/Level%201_Module%206_Pre-session_22081.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Level 1_Module 6_Post-session_22085.pdf",
+                  "title": "Level 1 Module 6 Post-session",
+                  "uuid": "22085",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-3- Opportunity Identification, Business Model Canvas Overview/2.M6 - Business Model Canvas (BMC)/assignment/Level 1_Module 6_Post-session_22085.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/2.M6%20-%20Business%20Model%20Canvas%20%28BMC%29/assignment/Level%201_Module%206_Post-session_22085.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/2.M6%20-%20Business%20Model%20Canvas%20%28BMC%29/assignment/Level%201_Module%206_Post-session_22085.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/2.M6%20-%20Business%20Model%20Canvas%20%28BMC%29/assignment/Level%201_Module%206_Post-session_22085.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Level 1_Module 6_Instructor Slides_22077.pdf",
+                  "title": "Level 1 Module 6 Instructor Slides",
+                  "uuid": "22077",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-3- Opportunity Identification, Business Model Canvas Overview/2.M6 - Business Model Canvas (BMC)/slides/Level 1_Module 6_Instructor Slides_22077.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/2.M6%20-%20Business%20Model%20Canvas%20%28BMC%29/slides/Level%201_Module%206_Instructor%20Slides_22077.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/2.M6%20-%20Business%20Model%20Canvas%20%28BMC%29/slides/Level%201_Module%206_Instructor%20Slides_22077.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-3-%20Opportunity%20Identification%2C%20Business%20Model%20Canvas%20Overview/2.M6%20-%20Business%20Model%20Canvas%20%28BMC%29/slides/Level%201_Module%206_Instructor%20Slides_22077.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE22BT002_Unit-4- Finalize Opportunity- Problem Statement, Marketing Fundamentals",
+      "title": "Unit-4: Finalize Opportunity/ Problem Statement, Marketing Fundamentals",
+      "path": "UE22BT002/Unit-4- Finalize Opportunity- Problem Statement, Marketing Fundamentals",
+      "classes": [
+        {
+          "id": "UE22BT002_Unit-4- Finalize Opportunity- Problem Statement, Marketing Fundamentals_1.M7 - Customer Segments",
+          "order": 1,
+          "title": "M7 - Customer Segments",
+          "folder_name": "1.M7 - Customer Segments",
+          "path": "UE22BT002/Unit-4- Finalize Opportunity- Problem Statement, Marketing Fundamentals/1.M7 - Customer Segments",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Level 1_Module 7_Section 1",
+                  "provider": "vimeo",
+                  "video_id": "444788357",
+                  "video_url": "https://player.vimeo.com/video/444788357?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/444788357",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "05/08/2020 11:42 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Level 1_Module 7_Section 2",
+                  "provider": "vimeo",
+                  "video_id": "444890121",
+                  "video_url": "https://player.vimeo.com/video/444890121?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/444890121",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "05/08/2020 07:25 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Level 1_Module 7_Pre-session_22669.pdf",
+                  "title": "Level 1 Module 7 Pre-session",
+                  "uuid": "22669",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-4- Finalize Opportunity- Problem Statement, Marketing Fundamentals/1.M7 - Customer Segments/notes/Level 1_Module 7_Pre-session_22669.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/notes/Level%201_Module%207_Pre-session_22669.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/notes/Level%201_Module%207_Pre-session_22669.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/notes/Level%201_Module%207_Pre-session_22669.pdf"
+                },
+                {
+                  "name": "Template Empathy Map Canvas_22674.pdf",
+                  "title": "Template Empathy Map Canvas",
+                  "uuid": "22674",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-4- Finalize Opportunity- Problem Statement, Marketing Fundamentals/1.M7 - Customer Segments/notes/Template Empathy Map Canvas_22674.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/notes/Template%20Empathy%20Map%20Canvas_22674.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/notes/Template%20Empathy%20Map%20Canvas_22674.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/notes/Template%20Empathy%20Map%20Canvas_22674.pdf"
+                },
+                {
+                  "name": "Template - Persona_22677.pdf",
+                  "title": "Template - Persona",
+                  "uuid": "22677",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-4- Finalize Opportunity- Problem Statement, Marketing Fundamentals/1.M7 - Customer Segments/notes/Template - Persona_22677.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/notes/Template%20-%20Persona_22677.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/notes/Template%20-%20Persona_22677.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/notes/Template%20-%20Persona_22677.pdf"
+                },
+                {
+                  "name": "Template - Job-to-be-done_22682.pdf",
+                  "title": "Template - Job-to-be-done",
+                  "uuid": "22682",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-4- Finalize Opportunity- Problem Statement, Marketing Fundamentals/1.M7 - Customer Segments/notes/Template - Job-to-be-done_22682.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/notes/Template%20-%20Job-to-be-done_22682.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/notes/Template%20-%20Job-to-be-done_22682.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/notes/Template%20-%20Job-to-be-done_22682.pdf"
+                }
+              ],
+              "count": 4
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Level 1_Module 7_Instructor Slides_22666.pdf",
+                  "title": "Level 1 Module 7 Instructor Slides",
+                  "uuid": "22666",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-4- Finalize Opportunity- Problem Statement, Marketing Fundamentals/1.M7 - Customer Segments/slides/Level 1_Module 7_Instructor Slides_22666.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/slides/Level%201_Module%207_Instructor%20Slides_22666.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/slides/Level%201_Module%207_Instructor%20Slides_22666.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/slides/Level%201_Module%207_Instructor%20Slides_22666.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Level 1_Module 7_Post-session_22686.pdf",
+                  "title": "Level 1 Module 7 Post-session",
+                  "uuid": "22686",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-4- Finalize Opportunity- Problem Statement, Marketing Fundamentals/1.M7 - Customer Segments/assignment/Level 1_Module 7_Post-session_22686.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/assignment/Level%201_Module%207_Post-session_22686.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/assignment/Level%201_Module%207_Post-session_22686.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/1.M7%20-%20Customer%20Segments/assignment/Level%201_Module%207_Post-session_22686.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE22BT002_Unit-4- Finalize Opportunity- Problem Statement, Marketing Fundamentals_2.M8 - Value Proposition",
+          "order": 2,
+          "title": "M8 - Value Proposition",
+          "folder_name": "2.M8 - Value Proposition",
+          "path": "UE22BT002/Unit-4- Finalize Opportunity- Problem Statement, Marketing Fundamentals/2.M8 - Value Proposition",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Level 1_Module 8_Post Session",
+                  "provider": "vimeo",
+                  "video_id": "443325695",
+                  "video_url": "https://player.vimeo.com/video/443325695?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/443325695",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "31/07/2020 03:28 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Level 1_Module 8_Section 1",
+                  "provider": "vimeo",
+                  "video_id": "445115045",
+                  "video_url": "https://player.vimeo.com/video/445115045?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/445115045",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "06/08/2020 10:26 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Level 1_Module 8_Section 2",
+                  "provider": "vimeo",
+                  "video_id": "445118184",
+                  "video_url": "https://player.vimeo.com/video/445118184?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/445118184",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "06/08/2020 10:45 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Level 1_Module 8_Section 3",
+                  "provider": "vimeo",
+                  "video_id": "445145760",
+                  "video_url": "https://player.vimeo.com/video/445145760?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/445145760",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "06/08/2020 01:19 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 4
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Level 1_Module 8_Post-session_22726.pdf",
+                  "title": "Level 1 Module 8 Post-session",
+                  "uuid": "22726",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-4- Finalize Opportunity- Problem Statement, Marketing Fundamentals/2.M8 - Value Proposition/assignment/Level 1_Module 8_Post-session_22726.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/2.M8%20-%20Value%20Proposition/assignment/Level%201_Module%208_Post-session_22726.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/2.M8%20-%20Value%20Proposition/assignment/Level%201_Module%208_Post-session_22726.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/2.M8%20-%20Value%20Proposition/assignment/Level%201_Module%208_Post-session_22726.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "L1_M8 - Instructor Slides_69955.pdf",
+                  "title": "L1 M8 - Instructor Slides",
+                  "uuid": "69955",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-4- Finalize Opportunity- Problem Statement, Marketing Fundamentals/2.M8 - Value Proposition/slides/L1_M8 - Instructor Slides_69955.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/2.M8%20-%20Value%20Proposition/slides/L1_M8%20-%20Instructor%20Slides_69955.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/2.M8%20-%20Value%20Proposition/slides/L1_M8%20-%20Instructor%20Slides_69955.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/2.M8%20-%20Value%20Proposition/slides/L1_M8%20-%20Instructor%20Slides_69955.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Value Proposition Canvas_22719.pdf",
+                  "title": "Value Proposition Canvas",
+                  "uuid": "22719",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-4- Finalize Opportunity- Problem Statement, Marketing Fundamentals/2.M8 - Value Proposition/notes/Value Proposition Canvas_22719.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/2.M8%20-%20Value%20Proposition/notes/Value%20Proposition%20Canvas_22719.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/2.M8%20-%20Value%20Proposition/notes/Value%20Proposition%20Canvas_22719.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/2.M8%20-%20Value%20Proposition/notes/Value%20Proposition%20Canvas_22719.pdf"
+                },
+                {
+                  "name": "Level 1_Module 8_Pre-session_22724.pdf",
+                  "title": "Level 1 Module 8 Pre-session",
+                  "uuid": "22724",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-4- Finalize Opportunity- Problem Statement, Marketing Fundamentals/2.M8 - Value Proposition/notes/Level 1_Module 8_Pre-session_22724.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/2.M8%20-%20Value%20Proposition/notes/Level%201_Module%208_Pre-session_22724.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/2.M8%20-%20Value%20Proposition/notes/Level%201_Module%208_Pre-session_22724.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-4-%20Finalize%20Opportunity-%20Problem%20Statement%2C%20Marketing%20Fundamentals/2.M8%20-%20Value%20Proposition/notes/Level%201_Module%208_Pre-session_22724.pdf"
+                }
+              ],
+              "count": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE22BT002_Unit-5- Value Proposition, Finance Fundamentals",
+      "title": "Unit-5: Value Proposition, Finance Fundamentals",
+      "path": "UE22BT002/Unit-5- Value Proposition, Finance Fundamentals",
+      "classes": [
+        {
+          "id": "UE22BT002_Unit-5- Value Proposition, Finance Fundamentals_1.M9 - Marketing Fundamentals",
+          "order": 1,
+          "title": "M9 - Marketing Fundamentals",
+          "folder_name": "1.M9 - Marketing Fundamentals",
+          "path": "UE22BT002/Unit-5- Value Proposition, Finance Fundamentals/1.M9 - Marketing Fundamentals",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "L1_M9 - Pre-Session_69964.pdf",
+                  "title": "L1 M9 - Pre-Session",
+                  "uuid": "69964",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-5- Value Proposition, Finance Fundamentals/1.M9 - Marketing Fundamentals/notes/L1_M9 - Pre-Session_69964.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/1.M9%20-%20Marketing%20Fundamentals/notes/L1_M9%20-%20Pre-Session_69964.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/1.M9%20-%20Marketing%20Fundamentals/notes/L1_M9%20-%20Pre-Session_69964.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/1.M9%20-%20Marketing%20Fundamentals/notes/L1_M9%20-%20Pre-Session_69964.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "L1_M9 - Instructor Slides_69961.pdf",
+                  "title": "L1 M9 - Instructor Slides",
+                  "uuid": "69961",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-5- Value Proposition, Finance Fundamentals/1.M9 - Marketing Fundamentals/slides/L1_M9 - Instructor Slides_69961.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/1.M9%20-%20Marketing%20Fundamentals/slides/L1_M9%20-%20Instructor%20Slides_69961.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/1.M9%20-%20Marketing%20Fundamentals/slides/L1_M9%20-%20Instructor%20Slides_69961.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/1.M9%20-%20Marketing%20Fundamentals/slides/L1_M9%20-%20Instructor%20Slides_69961.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "L1_M9 - Post-Session_69966.pdf",
+                  "title": "L1 M9 - Post-Session",
+                  "uuid": "69966",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-5- Value Proposition, Finance Fundamentals/1.M9 - Marketing Fundamentals/assignment/L1_M9 - Post-Session_69966.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/1.M9%20-%20Marketing%20Fundamentals/assignment/L1_M9%20-%20Post-Session_69966.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/1.M9%20-%20Marketing%20Fundamentals/assignment/L1_M9%20-%20Post-Session_69966.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/1.M9%20-%20Marketing%20Fundamentals/assignment/L1_M9%20-%20Post-Session_69966.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE22BT002_Unit-5- Value Proposition, Finance Fundamentals_2.M10 - Finance for Startups",
+          "order": 2,
+          "title": "M10 - Finance for Startups",
+          "folder_name": "2.M10 - Finance for Startups",
+          "path": "UE22BT002/Unit-5- Value Proposition, Finance Fundamentals/2.M10 - Finance for Startups",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "L1_M10 - Instructor Slides_69976.pdf",
+                  "title": "L1 M10 - Instructor Slides",
+                  "uuid": "69976",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-5- Value Proposition, Finance Fundamentals/2.M10 - Finance for Startups/slides/L1_M10 - Instructor Slides_69976.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/2.M10%20-%20Finance%20for%20Startups/slides/L1_M10%20-%20Instructor%20Slides_69976.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/2.M10%20-%20Finance%20for%20Startups/slides/L1_M10%20-%20Instructor%20Slides_69976.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/2.M10%20-%20Finance%20for%20Startups/slides/L1_M10%20-%20Instructor%20Slides_69976.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "L1_M10 - Post-session_69982.pdf",
+                  "title": "L1 M10 - Post-session",
+                  "uuid": "69982",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-5- Value Proposition, Finance Fundamentals/2.M10 - Finance for Startups/assignment/L1_M10 - Post-session_69982.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/2.M10%20-%20Finance%20for%20Startups/assignment/L1_M10%20-%20Post-session_69982.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/2.M10%20-%20Finance%20for%20Startups/assignment/L1_M10%20-%20Post-session_69982.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/2.M10%20-%20Finance%20for%20Startups/assignment/L1_M10%20-%20Post-session_69982.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "L1_M10 - Pre-session_69979.pdf",
+                  "title": "L1 M10 - Pre-session",
+                  "uuid": "69979",
+                  "extension": "pdf",
+                  "path": "UE22BT002/Unit-5- Value Proposition, Finance Fundamentals/2.M10 - Finance for Startups/notes/L1_M10 - Pre-session_69979.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/2.M10%20-%20Finance%20for%20Startups/notes/L1_M10%20-%20Pre-session_69979.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/2.M10%20-%20Finance%20for%20Startups/notes/L1_M10%20-%20Pre-session_69979.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE22BT002/Unit-5-%20Value%20Proposition%2C%20Finance%20Fundamentals/2.M10%20-%20Finance%20for%20Startups/notes/L1_M10%20-%20Pre-session_69979.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE22BT002_Unit-6- Complete Business Model Canvas, Presentation Fundamentals",
+      "title": "Unit-6: Complete Business Model Canvas, Presentation Fundamentals",
+      "path": "UE22BT002/Unit-6- Complete Business Model Canvas, Presentation Fundamentals",
+      "classes": []
+    },
+    {
+      "id": "UE22BT002_Unit-7- Final Project Review, FINAL PITCH",
+      "title": "Unit-7: Final Project Review, FINAL PITCH",
+      "path": "UE22BT002/Unit-7- Final Project Review, FINAL PITCH",
+      "classes": [
+        {
+          "id": "UE22BT002_Unit-7- Final Project Review, FINAL PITCH_1.Final Project Pitch",
+          "order": 1,
+          "title": "Final Project Pitch",
+          "folder_name": "1.Final Project Pitch",
+          "path": "UE22BT002/Unit-7- Final Project Review, FINAL PITCH/1.Final Project Pitch",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "UE18EC306AA_L1-3_Final Pitch_091120",
+                  "provider": "vimeo",
+                  "video_id": "478369943",
+                  "video_url": "https://player.vimeo.com/video/478369943?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/478369943",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "12/11/2020 01:29 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "UE18EC306AA_L1-5_Final Pitch_111120",
+                  "provider": "vimeo",
+                  "video_id": "478370471",
+                  "video_url": "https://player.vimeo.com/video/478370471?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/478370471",
+                  "faculty": "Madhukar Narasimha",
+                  "date": "12/11/2020 01:31 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "total_units": 7,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE22BT002",
+  "updated_at": "2026-02-08T14:31:47.704923"
+}
