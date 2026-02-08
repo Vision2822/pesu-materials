@@ -1,0 +1,538 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UE24EE252B",
+  "course_title": "Micro controllers",
+  "semester_name": "Sem-4",
+  "units": [
+    {
+      "id": "UE24EE252B_Unit 1- MSP430 Architecture and Instruction Set",
+      "title": "Unit 1: MSP430 Architecture and Instruction Set",
+      "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set",
+      "classes": [
+        {
+          "id": "UE24EE252B_Unit 1- MSP430 Architecture and Instruction Set_1.1. Overview",
+          "order": 1,
+          "title": "1. Overview",
+          "folder_name": "1.1. Overview",
+          "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/1.1. Overview",
+          "content": {
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "MCQ1_18a4bacc.pdf",
+                  "title": "MCQ1",
+                  "uuid": "18a4bacc",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/1.1. Overview/questionbank/MCQ1_18a4bacc.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/1.1.%20Overview/questionbank/MCQ1_18a4bacc.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/1.1.%20Overview/questionbank/MCQ1_18a4bacc.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/1.1.%20Overview/questionbank/MCQ1_18a4bacc.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE24EE352A_Class_1_59414689.pdf",
+                  "title": "UE24EE352A Class 1",
+                  "uuid": "59414689",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/1.1. Overview/slides/UE24EE352A_Class_1_59414689.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/1.1.%20Overview/slides/UE24EE352A_Class_1_59414689.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/1.1.%20Overview/slides/UE24EE352A_Class_1_59414689.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/1.1.%20Overview/slides/UE24EE352A_Class_1_59414689.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE252B_Unit 1- MSP430 Architecture and Instruction Set_2.2. Processor architectures, memory and IDE",
+          "order": 2,
+          "title": "2. Processor architectures, memory and IDE",
+          "folder_name": "2.2. Processor architectures, memory and IDE",
+          "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/2.2. Processor architectures, memory and IDE",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE24EE352A_Class_2_b58c7828.pdf",
+                  "title": "UE24EE352A Class 2",
+                  "uuid": "b58c7828",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/2.2. Processor architectures, memory and IDE/slides/UE24EE352A_Class_2_b58c7828.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/2.2.%20Processor%20architectures%2C%20memory%20and%20IDE/slides/UE24EE352A_Class_2_b58c7828.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/2.2.%20Processor%20architectures%2C%20memory%20and%20IDE/slides/UE24EE352A_Class_2_b58c7828.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/2.2.%20Processor%20architectures%2C%20memory%20and%20IDE/slides/UE24EE352A_Class_2_b58c7828.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE252B_Unit 1- MSP430 Architecture and Instruction Set_3.3. MSP430 functional block diagram, memory",
+          "order": 3,
+          "title": "3. MSP430 functional block diagram, memory",
+          "folder_name": "3.3. MSP430 functional block diagram, memory",
+          "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/3.3. MSP430 functional block diagram, memory",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE24EE252B_Class_3_4_b633c398.pdf",
+                  "title": "UE24EE252B Class 3 4",
+                  "uuid": "b633c398",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/3.3. MSP430 functional block diagram, memory/slides/UE24EE252B_Class_3_4_b633c398.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/3.3.%20MSP430%20functional%20block%20diagram%2C%20memory/slides/UE24EE252B_Class_3_4_b633c398.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/3.3.%20MSP430%20functional%20block%20diagram%2C%20memory/slides/UE24EE252B_Class_3_4_b633c398.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/3.3.%20MSP430%20functional%20block%20diagram%2C%20memory/slides/UE24EE252B_Class_3_4_b633c398.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE252B_Unit 1- MSP430 Architecture and Instruction Set_5.5. Operating Modes, Clock signals, addressing modes",
+          "order": 5,
+          "title": "5. Operating Modes, Clock signals, addressing modes",
+          "folder_name": "5.5. Operating Modes, Clock signals, addressing modes",
+          "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/5.5. Operating Modes, Clock signals, addressing modes",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE24EE352A_Class_5_66c6d7ca.pdf",
+                  "title": "UE24EE352A Class 5",
+                  "uuid": "66c6d7ca",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/5.5. Operating Modes, Clock signals, addressing modes/slides/UE24EE352A_Class_5_66c6d7ca.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/5.5.%20Operating%20Modes%2C%20Clock%20signals%2C%20addressing%20modes/slides/UE24EE352A_Class_5_66c6d7ca.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/5.5.%20Operating%20Modes%2C%20Clock%20signals%2C%20addressing%20modes/slides/UE24EE352A_Class_5_66c6d7ca.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/5.5.%20Operating%20Modes%2C%20Clock%20signals%2C%20addressing%20modes/slides/UE24EE352A_Class_5_66c6d7ca.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE252B_Unit 1- MSP430 Architecture and Instruction Set_7.7. Instruction map, program flow, assembly and C example",
+          "order": 7,
+          "title": "7. Instruction map, program flow, assembly and C example",
+          "folder_name": "7.7. Instruction map, program flow, assembly and C example",
+          "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/7.7. Instruction map, program flow, assembly and C example",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE24EE352A_Class_7_0c36306b.pdf",
+                  "title": "UE24EE352A Class 7",
+                  "uuid": "0c36306b",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/7.7. Instruction map, program flow, assembly and C example/slides/UE24EE352A_Class_7_0c36306b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/7.7.%20Instruction%20map%2C%20program%20flow%2C%20assembly%20and%20C%20example/slides/UE24EE352A_Class_7_0c36306b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/7.7.%20Instruction%20map%2C%20program%20flow%2C%20assembly%20and%20C%20example/slides/UE24EE352A_Class_7_0c36306b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/7.7.%20Instruction%20map%2C%20program%20flow%2C%20assembly%20and%20C%20example/slides/UE24EE352A_Class_7_0c36306b.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE252B_Unit 1- MSP430 Architecture and Instruction Set_8.8. Assembly language Programming - Directives, debugging, instruction decoding",
+          "order": 8,
+          "title": "8. Assembly language Programming - Directives, debugging, instruction decoding",
+          "folder_name": "8.8. Assembly language Programming - Directives, debugging, instruction decoding",
+          "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/8.8. Assembly language Programming - Directives, debugging, instruction decoding",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE24EE352A_Class_8_8f3c9c47.pdf",
+                  "title": "UE24EE352A Class 8",
+                  "uuid": "8f3c9c47",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/8.8. Assembly language Programming - Directives, debugging, instruction decoding/slides/UE24EE352A_Class_8_8f3c9c47.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/8.8.%20Assembly%20language%20Programming%20-%20Directives%2C%20debugging%2C%20instruction%20decoding/slides/UE24EE352A_Class_8_8f3c9c47.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/8.8.%20Assembly%20language%20Programming%20-%20Directives%2C%20debugging%2C%20instruction%20decoding/slides/UE24EE352A_Class_8_8f3c9c47.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/8.8.%20Assembly%20language%20Programming%20-%20Directives%2C%20debugging%2C%20instruction%20decoding/slides/UE24EE352A_Class_8_8f3c9c47.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE252B_Unit 1- MSP430 Architecture and Instruction Set_9.9. Instruction set, system reset and interrupts",
+          "order": 9,
+          "title": "9. Instruction set, system reset and interrupts",
+          "folder_name": "9.9. Instruction set, system reset and interrupts",
+          "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/9.9. Instruction set, system reset and interrupts",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE24EE252B_Class_9_59300021.pdf",
+                  "title": "UE24EE252B Class 9",
+                  "uuid": "59300021",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/9.9. Instruction set, system reset and interrupts/slides/UE24EE252B_Class_9_59300021.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/9.9.%20Instruction%20set%2C%20system%20reset%20and%20interrupts/slides/UE24EE252B_Class_9_59300021.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/9.9.%20Instruction%20set%2C%20system%20reset%20and%20interrupts/slides/UE24EE252B_Class_9_59300021.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/9.9.%20Instruction%20set%2C%20system%20reset%20and%20interrupts/slides/UE24EE252B_Class_9_59300021.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE252B_Unit 1- MSP430 Architecture and Instruction Set_10.10. Operating modes, clock module",
+          "order": 10,
+          "title": "10. Operating modes, clock module",
+          "folder_name": "10.10. Operating modes, clock module",
+          "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/10.10. Operating modes, clock module",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE24EE252B_Class_10_41bfdfa4.pdf",
+                  "title": "UE24EE252B Class 10",
+                  "uuid": "41bfdfa4",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/10.10. Operating modes, clock module/slides/UE24EE252B_Class_10_41bfdfa4.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/10.10.%20Operating%20modes%2C%20clock%20module/slides/UE24EE252B_Class_10_41bfdfa4.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/10.10.%20Operating%20modes%2C%20clock%20module/slides/UE24EE252B_Class_10_41bfdfa4.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/10.10.%20Operating%20modes%2C%20clock%20module/slides/UE24EE252B_Class_10_41bfdfa4.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE252B_Unit 1- MSP430 Architecture and Instruction Set_11.11. Memory Organization, Programming Flash",
+          "order": 11,
+          "title": "11. Memory Organization, Programming Flash",
+          "folder_name": "11.11. Memory Organization, Programming Flash",
+          "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/11.11. Memory Organization, Programming Flash",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE24EE352A_Class_11_bedc1ccc.pdf",
+                  "title": "UE24EE352A Class 11",
+                  "uuid": "bedc1ccc",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/11.11. Memory Organization, Programming Flash/slides/UE24EE352A_Class_11_bedc1ccc.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/11.11.%20Memory%20Organization%2C%20Programming%20Flash/slides/UE24EE352A_Class_11_bedc1ccc.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/11.11.%20Memory%20Organization%2C%20Programming%20Flash/slides/UE24EE352A_Class_11_bedc1ccc.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/11.11.%20Memory%20Organization%2C%20Programming%20Flash/slides/UE24EE352A_Class_11_bedc1ccc.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE252B_Unit 1- MSP430 Architecture and Instruction Set_12.12. Memory Map, Instruction set part",
+          "order": 12,
+          "title": "12. Memory Map, Instruction set part",
+          "folder_name": "12.12. Memory Map, Instruction set part",
+          "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/12.12. Memory Map, Instruction set part",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE24EE352A_Class_12_49155eb1.pdf",
+                  "title": "UE24EE352A Class 12",
+                  "uuid": "49155eb1",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/12.12. Memory Map, Instruction set part/slides/UE24EE352A_Class_12_49155eb1.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/12.12.%20Memory%20Map%2C%20Instruction%20set%20part/slides/UE24EE352A_Class_12_49155eb1.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/12.12.%20Memory%20Map%2C%20Instruction%20set%20part/slides/UE24EE352A_Class_12_49155eb1.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/12.12.%20Memory%20Map%2C%20Instruction%20set%20part/slides/UE24EE352A_Class_12_49155eb1.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE252B_Unit 1- MSP430 Architecture and Instruction Set_13.16. Lab 1 GPIO output on LED, loop in Cand assembly",
+          "order": 13,
+          "title": "16. Lab 1 GPIO output on LED, loop in Cand assembly",
+          "folder_name": "13.16. Lab 1 GPIO output on LED, loop in Cand assembly",
+          "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/13.16. Lab 1 GPIO output on LED, loop in Cand assembly",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Lab Introduction, Blink LED_e5050e8d.pdf",
+                  "title": "Lab Introduction, Blink LED",
+                  "uuid": "e5050e8d",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/13.16. Lab 1 GPIO output on LED, loop in Cand assembly/notes/Lab Introduction, Blink LED_e5050e8d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/13.16.%20Lab%201%20GPIO%20output%20on%20LED%2C%20loop%20in%20Cand%20assembly/notes/Lab%20Introduction%2C%20Blink%20LED_e5050e8d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/13.16.%20Lab%201%20GPIO%20output%20on%20LED%2C%20loop%20in%20Cand%20assembly/notes/Lab%20Introduction%2C%20Blink%20LED_e5050e8d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/13.16.%20Lab%201%20GPIO%20output%20on%20LED%2C%20loop%20in%20Cand%20assembly/notes/Lab%20Introduction%2C%20Blink%20LED_e5050e8d.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE252B_Unit 1- MSP430 Architecture and Instruction Set_14.17. Lab 2- Polling input, software delay and blocking mode",
+          "order": 14,
+          "title": "17. Lab 2: Polling input, software delay and blocking mode",
+          "folder_name": "14.17. Lab 2- Polling input, software delay and blocking mode",
+          "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/14.17. Lab 2- Polling input, software delay and blocking mode",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Development Board Schematic_e2dc757a.pdf",
+                  "title": "Development Board Schematic",
+                  "uuid": "e2dc757a",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/14.17. Lab 2- Polling input, software delay and blocking mode/notes/Development Board Schematic_e2dc757a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/14.17.%20Lab%202-%20Polling%20input%2C%20software%20delay%20and%20blocking%20mode/notes/Development%20Board%20Schematic_e2dc757a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/14.17.%20Lab%202-%20Polling%20input%2C%20software%20delay%20and%20blocking%20mode/notes/Development%20Board%20Schematic_e2dc757a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/14.17.%20Lab%202-%20Polling%20input%2C%20software%20delay%20and%20blocking%20mode/notes/Development%20Board%20Schematic_e2dc757a.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Lab 2 Tasks_06bf251c.pdf",
+                  "title": "Lab 2 Tasks",
+                  "uuid": "06bf251c",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/14.17. Lab 2- Polling input, software delay and blocking mode/assignment/Lab 2 Tasks_06bf251c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/14.17.%20Lab%202-%20Polling%20input%2C%20software%20delay%20and%20blocking%20mode/assignment/Lab%202%20Tasks_06bf251c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/14.17.%20Lab%202-%20Polling%20input%2C%20software%20delay%20and%20blocking%20mode/assignment/Lab%202%20Tasks_06bf251c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/14.17.%20Lab%202-%20Polling%20input%2C%20software%20delay%20and%20blocking%20mode/assignment/Lab%202%20Tasks_06bf251c.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE252B_Unit 1- MSP430 Architecture and Instruction Set_15.18. Lab 3. Addressing modes for two operand instruction",
+          "order": 15,
+          "title": "18. Lab 3. Addressing modes for two operand instruction",
+          "folder_name": "15.18. Lab 3. Addressing modes for two operand instruction",
+          "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/15.18. Lab 3. Addressing modes for two operand instruction",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Instruction_OpCode_35037914.pdf",
+                  "title": "Instruction OpCode",
+                  "uuid": "35037914",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/15.18. Lab 3. Addressing modes for two operand instruction/slides/Instruction_OpCode_35037914.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/15.18.%20Lab%203.%20Addressing%20modes%20for%20two%20operand%20instruction/slides/Instruction_OpCode_35037914.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/15.18.%20Lab%203.%20Addressing%20modes%20for%20two%20operand%20instruction/slides/Instruction_OpCode_35037914.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/15.18.%20Lab%203.%20Addressing%20modes%20for%20two%20operand%20instruction/slides/Instruction_OpCode_35037914.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Architecture Instruction set_13cb5620.pdf",
+                  "title": "Architecture Instruction set",
+                  "uuid": "13cb5620",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/15.18. Lab 3. Addressing modes for two operand instruction/notes/Architecture Instruction set_13cb5620.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/15.18.%20Lab%203.%20Addressing%20modes%20for%20two%20operand%20instruction/notes/Architecture%20Instruction%20set_13cb5620.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/15.18.%20Lab%203.%20Addressing%20modes%20for%20two%20operand%20instruction/notes/Architecture%20Instruction%20set_13cb5620.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/15.18.%20Lab%203.%20Addressing%20modes%20for%20two%20operand%20instruction/notes/Architecture%20Instruction%20set_13cb5620.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Lab 3 Task_0a0ed047.pdf",
+                  "title": "Lab 3 Task",
+                  "uuid": "0a0ed047",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/15.18. Lab 3. Addressing modes for two operand instruction/assignment/Lab 3 Task_0a0ed047.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/15.18.%20Lab%203.%20Addressing%20modes%20for%20two%20operand%20instruction/assignment/Lab%203%20Task_0a0ed047.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/15.18.%20Lab%203.%20Addressing%20modes%20for%20two%20operand%20instruction/assignment/Lab%203%20Task_0a0ed047.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/15.18.%20Lab%203.%20Addressing%20modes%20for%20two%20operand%20instruction/assignment/Lab%203%20Task_0a0ed047.pdf"
+                },
+                {
+                  "name": "Instructions for Lab 3_18858c7b.pdf",
+                  "title": "Instructions for Lab 3",
+                  "uuid": "18858c7b",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/15.18. Lab 3. Addressing modes for two operand instruction/assignment/Instructions for Lab 3_18858c7b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/15.18.%20Lab%203.%20Addressing%20modes%20for%20two%20operand%20instruction/assignment/Instructions%20for%20Lab%203_18858c7b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/15.18.%20Lab%203.%20Addressing%20modes%20for%20two%20operand%20instruction/assignment/Instructions%20for%20Lab%203_18858c7b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/15.18.%20Lab%203.%20Addressing%20modes%20for%20two%20operand%20instruction/assignment/Instructions%20for%20Lab%203_18858c7b.pdf"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE24EE252B_Unit 1- MSP430 Architecture and Instruction Set_16.19. Lab4 Instruction set part",
+          "order": 16,
+          "title": "19. Lab4 Instruction set part",
+          "folder_name": "16.19. Lab4 Instruction set part",
+          "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/16.19. Lab4 Instruction set part",
+          "content": {
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "UE43EE352A_Lab_4_01a56e3e.pdf",
+                  "title": "UE43EE352A Lab 4",
+                  "uuid": "01a56e3e",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 1- MSP430 Architecture and Instruction Set/16.19. Lab4 Instruction set part/assignment/UE43EE352A_Lab_4_01a56e3e.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/16.19.%20Lab4%20Instruction%20set%20part/assignment/UE43EE352A_Lab_4_01a56e3e.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/16.19.%20Lab4%20Instruction%20set%20part/assignment/UE43EE352A_Lab_4_01a56e3e.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%201-%20MSP430%20Architecture%20and%20Instruction%20Set/16.19.%20Lab4%20Instruction%20set%20part/assignment/UE43EE352A_Lab_4_01a56e3e.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE24EE252B_Unit 2- Embedded C, Digital I-O, Interrupts and watchdog timer",
+      "title": "Unit 2: Embedded C, Digital I/O, Interrupts and watchdog timer",
+      "path": "UE24EE252B/Unit 2- Embedded C, Digital I-O, Interrupts and watchdog timer",
+      "classes": [
+        {
+          "id": "UE24EE252B_Unit 2- Embedded C, Digital I-O, Interrupts and watchdog timer_1.20. Supply Voltage supervisor, Watchdog Timer",
+          "order": 1,
+          "title": "20. Supply Voltage supervisor, Watchdog Timer",
+          "folder_name": "1.20. Supply Voltage supervisor, Watchdog Timer",
+          "path": "UE24EE252B/Unit 2- Embedded C, Digital I-O, Interrupts and watchdog timer/1.20. Supply Voltage supervisor, Watchdog Timer",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "UE24EE352A_Class_20_939df3fc.pdf",
+                  "title": "UE24EE352A Class 20",
+                  "uuid": "939df3fc",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 2- Embedded C, Digital I-O, Interrupts and watchdog timer/1.20. Supply Voltage supervisor, Watchdog Timer/slides/UE24EE352A_Class_20_939df3fc.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%202-%20Embedded%20C%2C%20Digital%20I-O%2C%20Interrupts%20and%20watchdog%20timer/1.20.%20Supply%20Voltage%20supervisor%2C%20Watchdog%20Timer/slides/UE24EE352A_Class_20_939df3fc.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%202-%20Embedded%20C%2C%20Digital%20I-O%2C%20Interrupts%20and%20watchdog%20timer/1.20.%20Supply%20Voltage%20supervisor%2C%20Watchdog%20Timer/slides/UE24EE352A_Class_20_939df3fc.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%202-%20Embedded%20C%2C%20Digital%20I-O%2C%20Interrupts%20and%20watchdog%20timer/1.20.%20Supply%20Voltage%20supervisor%2C%20Watchdog%20Timer/slides/UE24EE352A_Class_20_939df3fc.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24EE252B_Unit 2- Embedded C, Digital I-O, Interrupts and watchdog timer_2.36. Lab 5 _ Stepper motor is assembly and C",
+          "order": 2,
+          "title": "36. Lab 5 _ Stepper motor is assembly and C",
+          "folder_name": "2.36. Lab 5 _ Stepper motor is assembly and C",
+          "path": "UE24EE252B/Unit 2- Embedded C, Digital I-O, Interrupts and watchdog timer/2.36. Lab 5 _ Stepper motor is assembly and C",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Lab Data Sheet Stepper motor_a11d8916.pdf",
+                  "title": "Lab Data Sheet Stepper motor",
+                  "uuid": "a11d8916",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 2- Embedded C, Digital I-O, Interrupts and watchdog timer/2.36. Lab 5 _ Stepper motor is assembly and C/notes/Lab Data Sheet Stepper motor_a11d8916.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%202-%20Embedded%20C%2C%20Digital%20I-O%2C%20Interrupts%20and%20watchdog%20timer/2.36.%20Lab%205%20_%20Stepper%20motor%20is%20assembly%20and%20C/notes/Lab%20Data%20Sheet%20Stepper%20motor_a11d8916.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%202-%20Embedded%20C%2C%20Digital%20I-O%2C%20Interrupts%20and%20watchdog%20timer/2.36.%20Lab%205%20_%20Stepper%20motor%20is%20assembly%20and%20C/notes/Lab%20Data%20Sheet%20Stepper%20motor_a11d8916.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%202-%20Embedded%20C%2C%20Digital%20I-O%2C%20Interrupts%20and%20watchdog%20timer/2.36.%20Lab%205%20_%20Stepper%20motor%20is%20assembly%20and%20C/notes/Lab%20Data%20Sheet%20Stepper%20motor_a11d8916.pdf"
+                },
+                {
+                  "name": "ULN driver Data sheet_f51630ec.pdf",
+                  "title": "ULN driver Data sheet",
+                  "uuid": "f51630ec",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 2- Embedded C, Digital I-O, Interrupts and watchdog timer/2.36. Lab 5 _ Stepper motor is assembly and C/notes/ULN driver Data sheet_f51630ec.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%202-%20Embedded%20C%2C%20Digital%20I-O%2C%20Interrupts%20and%20watchdog%20timer/2.36.%20Lab%205%20_%20Stepper%20motor%20is%20assembly%20and%20C/notes/ULN%20driver%20Data%20sheet_f51630ec.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%202-%20Embedded%20C%2C%20Digital%20I-O%2C%20Interrupts%20and%20watchdog%20timer/2.36.%20Lab%205%20_%20Stepper%20motor%20is%20assembly%20and%20C/notes/ULN%20driver%20Data%20sheet_f51630ec.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%202-%20Embedded%20C%2C%20Digital%20I-O%2C%20Interrupts%20and%20watchdog%20timer/2.36.%20Lab%205%20_%20Stepper%20motor%20is%20assembly%20and%20C/notes/ULN%20driver%20Data%20sheet_f51630ec.pdf"
+                }
+              ],
+              "count": 2
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "UE24EE352A_Lab_5_ed0925be.pdf",
+                  "title": "UE24EE352A Lab 5",
+                  "uuid": "ed0925be",
+                  "extension": "pdf",
+                  "path": "UE24EE252B/Unit 2- Embedded C, Digital I-O, Interrupts and watchdog timer/2.36. Lab 5 _ Stepper motor is assembly and C/assignment/UE24EE352A_Lab_5_ed0925be.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%202-%20Embedded%20C%2C%20Digital%20I-O%2C%20Interrupts%20and%20watchdog%20timer/2.36.%20Lab%205%20_%20Stepper%20motor%20is%20assembly%20and%20C/assignment/UE24EE352A_Lab_5_ed0925be.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE252B/Unit%202-%20Embedded%20C%2C%20Digital%20I-O%2C%20Interrupts%20and%20watchdog%20timer/2.36.%20Lab%205%20_%20Stepper%20motor%20is%20assembly%20and%20C/assignment/UE24EE352A_Lab_5_ed0925be.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE252B/Unit%202-%20Embedded%20C%2C%20Digital%20I-O%2C%20Interrupts%20and%20watchdog%20timer/2.36.%20Lab%205%20_%20Stepper%20motor%20is%20assembly%20and%20C/assignment/UE24EE352A_Lab_5_ed0925be.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE24EE252B_Unit 3- Timers and PWM, ADC",
+      "title": "Unit 3: Timers and PWM, ADC ",
+      "path": "UE24EE252B/Unit 3- Timers and PWM, ADC",
+      "classes": []
+    },
+    {
+      "id": "UE24EE252B_Unit 4- Serial Communication, Other processor architecture",
+      "title": "Unit 4: Serial Communication, Other processor architecture",
+      "path": "UE24EE252B/Unit 4- Serial Communication, Other processor architecture",
+      "classes": []
+    }
+  ],
+  "total_units": 4,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE24EE252B",
+  "updated_at": "2026-02-08T14:31:50.325425"
+}
