@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS241B",
+  "unit_title": "Introduction and Brute Force",
+  "videos": [
+    {
+      "title": "Bubble Sort",
+      "provider": "vimeo",
+      "video_id": "511496177",
+      "video_url": "https://player.vimeo.com/video/511496177?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/511496177",
+      "faculty": "Vandana M Ladwani",
+      "date": "12/02/2021 02:50 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:17:24.391013"
+}

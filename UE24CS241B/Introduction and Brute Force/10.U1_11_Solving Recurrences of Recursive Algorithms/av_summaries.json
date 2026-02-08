@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS241B",
+  "unit_title": "Introduction and Brute Force",
+  "videos": [
+    {
+      "title": "Solving Recurrences",
+      "provider": "vimeo",
+      "video_id": "503771819",
+      "video_url": "https://player.vimeo.com/video/503771819?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/503771819",
+      "faculty": "Vandana M Ladwani",
+      "date": "23/01/2021 03:44 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:17:24.100905"
+}

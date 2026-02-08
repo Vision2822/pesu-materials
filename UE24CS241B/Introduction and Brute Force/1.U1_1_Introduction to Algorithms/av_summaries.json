@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24CS241B",
+  "unit_title": "Introduction and Brute Force",
+  "videos": [
+    {
+      "title": "Introduction to Algorithms",
+      "provider": "vimeo",
+      "video_id": "498960715",
+      "video_url": "https://player.vimeo.com/video/498960715?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/498960715",
+      "faculty": "Vandana M Ladwani",
+      "date": "11/01/2021 12:30 AM",
+      "section": "NA"
+    },
+    {
+      "title": "Exhaustive Search: Travelling Salesman Problem",
+      "provider": "vimeo",
+      "video_id": "515653876",
+      "video_url": "https://player.vimeo.com/video/515653876?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/515653876",
+      "faculty": "Vandana M Ladwani",
+      "date": "23/02/2021 02:10 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:17:23.264077"
+}

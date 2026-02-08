@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS241B",
+  "unit_title": "Introduction and Brute Force",
+  "videos": [
+    {
+      "title": "Asymptotic Notations",
+      "provider": "vimeo",
+      "video_id": "501489734",
+      "video_url": "https://player.vimeo.com/video/501489734?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/501489734",
+      "faculty": "Vandana M Ladwani",
+      "date": "17/01/2021 11:59 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:17:23.639124"
+}
