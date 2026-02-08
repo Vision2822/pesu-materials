@@ -1,0 +1,37 @@
+{
+  "course_code": "UE22BT002",
+  "unit_title": "Unit-3: Opportunity Identification, Business Model Canvas Overview",
+  "videos": [
+    {
+      "title": "Level 1_Module 6_section 1",
+      "provider": "vimeo",
+      "video_id": "443301776",
+      "video_url": "https://player.vimeo.com/video/443301776?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/443301776",
+      "faculty": "Madhukar Narasimha",
+      "date": "31/07/2020 01:35 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Level 1_Module 6_section 2",
+      "provider": "vimeo",
+      "video_id": "443305059",
+      "video_url": "https://player.vimeo.com/video/443305059?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/443305059",
+      "faculty": "Madhukar Narasimha",
+      "date": "31/07/2020 01:51 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Level 1_Module 6_section 3",
+      "provider": "vimeo",
+      "video_id": "443308089",
+      "video_url": "https://player.vimeo.com/video/443308089?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/443308089",
+      "faculty": "Madhukar Narasimha",
+      "date": "31/07/2020 02:05 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T14:27:58.576274"
+}
