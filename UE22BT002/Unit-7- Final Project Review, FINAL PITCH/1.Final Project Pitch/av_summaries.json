@@ -1,0 +1,27 @@
+{
+  "course_code": "UE22BT002",
+  "unit_title": "Unit-7: Final Project Review, FINAL PITCH",
+  "videos": [
+    {
+      "title": "UE18EC306AA_L1-3_Final Pitch_091120",
+      "provider": "vimeo",
+      "video_id": "478369943",
+      "video_url": "https://player.vimeo.com/video/478369943?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/478369943",
+      "faculty": "Madhukar Narasimha",
+      "date": "12/11/2020 01:29 PM",
+      "section": "NA"
+    },
+    {
+      "title": "UE18EC306AA_L1-5_Final Pitch_111120",
+      "provider": "vimeo",
+      "video_id": "478370471",
+      "video_url": "https://player.vimeo.com/video/478370471?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/478370471",
+      "faculty": "Madhukar Narasimha",
+      "date": "12/11/2020 01:31 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T14:28:28.106219"
+}
