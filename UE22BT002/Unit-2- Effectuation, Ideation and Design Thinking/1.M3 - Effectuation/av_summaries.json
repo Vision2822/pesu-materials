@@ -1,0 +1,47 @@
+{
+  "course_code": "UE22BT002",
+  "unit_title": "Unit-2: Effectuation, Ideation & Design Thinking ",
+  "videos": [
+    {
+      "title": "Level 1_Module 3_Sub-module 1",
+      "provider": "vimeo",
+      "video_id": "440911777",
+      "video_url": "https://player.vimeo.com/video/440911777?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/440911777",
+      "faculty": "Madhukar Narasimha",
+      "date": "23/07/2020 12:39 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Level 1_Module 3_Sub-module 2",
+      "provider": "vimeo",
+      "video_id": "440913099",
+      "video_url": "https://player.vimeo.com/video/440913099?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/440913099",
+      "faculty": "Madhukar Narasimha",
+      "date": "23/07/2020 12:46 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Level 1_Module 3_Sub-module 3",
+      "provider": "vimeo",
+      "video_id": "440933764",
+      "video_url": "https://player.vimeo.com/video/440933764?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/440933764",
+      "faculty": "Madhukar Narasimha",
+      "date": "23/07/2020 02:25 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Level 1_Module 3_Post Session",
+      "provider": "vimeo",
+      "video_id": "440960843",
+      "video_url": "https://player.vimeo.com/video/440960843?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/440960843",
+      "faculty": "Madhukar Narasimha",
+      "date": "23/07/2020 04:20 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T14:27:46.067819"
+}
