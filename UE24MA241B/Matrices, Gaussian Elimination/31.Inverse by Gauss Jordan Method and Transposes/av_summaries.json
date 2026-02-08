@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24MA241B",
+  "unit_title": "Matrices, Gaussian Elimination  ",
+  "videos": [
+    {
+      "title": "Inverse by Gauss Jordan Method and Transposes",
+      "provider": "vimeo",
+      "video_id": "505588763",
+      "video_url": "https://player.vimeo.com/video/505588763?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/505588763",
+      "faculty": "Renna Sultana",
+      "date": "28/01/2021 03:06 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:32:26.905211"
+}
