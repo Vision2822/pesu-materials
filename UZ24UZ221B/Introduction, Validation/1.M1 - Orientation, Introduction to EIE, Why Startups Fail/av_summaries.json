@@ -1,0 +1,47 @@
+{
+  "course_code": "UZ24UZ221B",
+  "unit_title": "Introduction, Validation",
+  "videos": [
+    {
+      "title": "Conventional_Product_Model",
+      "provider": "vimeo",
+      "video_id": "1154353421",
+      "video_url": "https://player.vimeo.com/video/1154353421?h=9f25b6886f&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1154353421?h=9f25b6886f",
+      "faculty": "Madhukar Narasimha",
+      "date": "14/01/2026 09:10 PM",
+      "section": "NA"
+    },
+    {
+      "title": "CIE EIE-1 Class recording_M1_20250806",
+      "provider": "vimeo",
+      "video_id": "1154355948",
+      "video_url": "https://player.vimeo.com/video/1154355948?h=ff8562f1f4&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1154355948?h=ff8562f1f4",
+      "faculty": "Madhukar Narasimha",
+      "date": "14/01/2026 09:18 PM",
+      "section": "NA"
+    },
+    {
+      "title": "The_Conventional_Product_Fallacy",
+      "provider": "vimeo",
+      "video_id": "1154353739",
+      "video_url": "https://player.vimeo.com/video/1154353739?h=bf055fcda2&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1154353739?h=bf055fcda2",
+      "faculty": "Madhukar Narasimha",
+      "date": "14/01/2026 09:11 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Classic_Startup_Playbook",
+      "provider": "vimeo",
+      "video_id": "1154353017",
+      "video_url": "https://player.vimeo.com/video/1154353017?h=4138de1ea2&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1154353017?h=4138de1ea2",
+      "faculty": "Madhukar Narasimha",
+      "date": "14/01/2026 09:09 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:36:04.706287"
+}

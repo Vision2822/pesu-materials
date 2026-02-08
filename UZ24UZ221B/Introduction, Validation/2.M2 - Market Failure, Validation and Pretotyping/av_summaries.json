@@ -1,0 +1,27 @@
+{
+  "course_code": "UZ24UZ221B",
+  "unit_title": "Introduction, Validation",
+  "videos": [
+    {
+      "title": "CIE EIE-2_M2_20260121",
+      "provider": "vimeo",
+      "video_id": "1157098418",
+      "video_url": "https://player.vimeo.com/video/1157098418?h=898e0e2d24&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1157098418?h=898e0e2d24",
+      "faculty": "Madhukar Narasimha",
+      "date": "22/01/2026 12:09 PM",
+      "section": "NA"
+    },
+    {
+      "title": "CustomerDevelopment-ProcessOverview",
+      "provider": "vimeo",
+      "video_id": "1157098666",
+      "video_url": "https://player.vimeo.com/video/1157098666?h=0bfd505dcb&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1157098666?h=0bfd505dcb",
+      "faculty": "Madhukar Narasimha",
+      "date": "22/01/2026 12:09 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:36:04.799505"
+}
