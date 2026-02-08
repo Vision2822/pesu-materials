@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24MA241B",
+  "unit_title": " Orthogonalization, Eigenvalues and Eigen vectors ",
+  "videos": [
+    {
+      "title": "Projections and Least squares",
+      "provider": "vimeo",
+      "video_id": "552260909",
+      "video_url": "https://player.vimeo.com/video/552260909?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/552260909",
+      "faculty": "Renna Sultana",
+      "date": "19/05/2021 11:07 AM",
+      "section": "NA"
+    },
+    {
+      "title": "Projections and Least Squares",
+      "provider": "vimeo",
+      "video_id": "569296239",
+      "video_url": "https://player.vimeo.com/video/569296239?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/569296239",
+      "faculty": "Renna Sultana",
+      "date": "30/06/2021 03:03 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:34:13.619155"
+}
