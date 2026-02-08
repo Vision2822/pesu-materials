@@ -357,6 +357,22 @@
               ],
               "count": 1
             },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Coulomb's Law and Electric Field Intensity QA_29766e94.pdf",
+                  "title": "Coulomb's Law and Electric Field Intensity QA",
+                  "uuid": "29766e94",
+                  "extension": "pdf",
+                  "path": "UE24EE242B/Electrostatics/1.Coulomb's Law and Field Intensity/qa/Coulomb's Law and Electric Field Intensity QA_29766e94.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/qa/Coulomb%27s%20Law%20and%20Electric%20Field%20Intensity%20QA_29766e94.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/qa/Coulomb%27s%20Law%20and%20Electric%20Field%20Intensity%20QA_29766e94.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/qa/Coulomb%27s%20Law%20and%20Electric%20Field%20Intensity%20QA_29766e94.pdf"
+                }
+              ],
+              "count": 1
+            },
             "questionbank": {
               "type": "questionbank",
               "files": [
@@ -404,22 +420,6 @@
                 }
               ],
               "count": 1
-            },
-            "qa": {
-              "type": "qa",
-              "files": [
-                {
-                  "name": "Coulomb's Law and Electric Field Intensity QA_29766e94.pdf",
-                  "title": "Coulomb's Law and Electric Field Intensity QA",
-                  "uuid": "29766e94",
-                  "extension": "pdf",
-                  "path": "UE24EE242B/Electrostatics/1.Coulomb's Law and Field Intensity/qa/Coulomb's Law and Electric Field Intensity QA_29766e94.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/qa/Coulomb%27s%20Law%20and%20Electric%20Field%20Intensity%20QA_29766e94.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/qa/Coulomb%27s%20Law%20and%20Electric%20Field%20Intensity%20QA_29766e94.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/1.Coulomb%27s%20Law%20and%20Field%20Intensity/qa/Coulomb%27s%20Law%20and%20Electric%20Field%20Intensity%20QA_29766e94.pdf"
-                }
-              ],
-              "count": 1
             }
           }
         },
@@ -430,22 +430,6 @@
           "folder_name": "2.Coulomb's Law and Field Intensity - examples",
           "path": "UE24EE242B/Electrostatics/2.Coulomb's Law and Field Intensity - examples",
           "content": {
-            "assignment": {
-              "type": "assignment",
-              "files": [
-                {
-                  "name": "Unit 1 Assignment_ccdaf224.pdf",
-                  "title": "Unit 1 Assignment",
-                  "uuid": "ccdaf224",
-                  "extension": "pdf",
-                  "path": "UE24EE242B/Electrostatics/2.Coulomb's Law and Field Intensity - examples/assignment/Unit 1 Assignment_ccdaf224.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/2.Coulomb%27s%20Law%20and%20Field%20Intensity%20-%20examples/assignment/Unit%201%20Assignment_ccdaf224.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE242B/Electrostatics/2.Coulomb%27s%20Law%20and%20Field%20Intensity%20-%20examples/assignment/Unit%201%20Assignment_ccdaf224.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/2.Coulomb%27s%20Law%20and%20Field%20Intensity%20-%20examples/assignment/Unit%201%20Assignment_ccdaf224.pdf"
-                }
-              ],
-              "count": 1
-            },
             "av_summary": {
               "type": "video",
               "videos": [
@@ -458,6 +442,22 @@
                   "faculty": "Dr Venugopal N",
                   "date": "06/01/2026 02:57 PM",
                   "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Unit 1 Assignment_ccdaf224.pdf",
+                  "title": "Unit 1 Assignment",
+                  "uuid": "ccdaf224",
+                  "extension": "pdf",
+                  "path": "UE24EE242B/Electrostatics/2.Coulomb's Law and Field Intensity - examples/assignment/Unit 1 Assignment_ccdaf224.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/2.Coulomb%27s%20Law%20and%20Field%20Intensity%20-%20examples/assignment/Unit%201%20Assignment_ccdaf224.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24EE242B/Electrostatics/2.Coulomb%27s%20Law%20and%20Field%20Intensity%20-%20examples/assignment/Unit%201%20Assignment_ccdaf224.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24EE242B/Electrostatics/2.Coulomb%27s%20Law%20and%20Field%20Intensity%20-%20examples/assignment/Unit%201%20Assignment_ccdaf224.pdf"
                 }
               ],
               "count": 1
@@ -747,5 +747,5 @@
   ],
   "total_units": 4,
   "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE24EE242B",
-  "updated_at": "2026-02-08T14:25:55.208109"
+  "updated_at": "2026-02-08T14:31:49.701213"
 }
