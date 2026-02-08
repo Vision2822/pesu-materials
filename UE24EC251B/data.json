@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UE24EC251B",
+  "course_title": "Digital Signal Processing",
+  "semester_name": "Sem-4",
+  "units": [
+    {
+      "id": "UE24EC251B_Unit 1- Discrete Fourier Transform (DFT)",
+      "title": "Unit 1: Discrete Fourier Transform (DFT)",
+      "path": "UE24EC251B/Unit 1- Discrete Fourier Transform (DFT)",
+      "classes": []
+    },
+    {
+      "id": "UE24EC251B_Unit 2- Fast Fourier Transform (FFT)",
+      "title": "Unit 2: Fast Fourier Transform (FFT)",
+      "path": "UE24EC251B/Unit 2- Fast Fourier Transform (FFT)",
+      "classes": []
+    },
+    {
+      "id": "UE24EC251B_Unit 3- Design of IIR Filters",
+      "title": "Unit 3: Design of IIR Filters",
+      "path": "UE24EC251B/Unit 3- Design of IIR Filters",
+      "classes": []
+    },
+    {
+      "id": "UE24EC251B_Unit 4- Design of FIR filters",
+      "title": "Unit 4: Design of FIR filters",
+      "path": "UE24EC251B/Unit 4- Design of FIR filters",
+      "classes": []
+    }
+  ],
+  "total_units": 4,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE24EC251B",
+  "updated_at": "2026-02-08T14:25:52.498940"
+}
