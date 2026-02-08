@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24EE242B",
+  "unit_title": "Electrostatics:",
+  "videos": [
+    {
+      "title": "Stoke's Theorem",
+      "provider": "vimeo",
+      "video_id": "1159602233",
+      "video_url": "https://player.vimeo.com/video/1159602233?h=486b42c7bd&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1159602233?h=486b42c7bd",
+      "faculty": "Dr Venugopal N",
+      "date": "29/01/2026 03:38 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T14:22:54.522475"
+}

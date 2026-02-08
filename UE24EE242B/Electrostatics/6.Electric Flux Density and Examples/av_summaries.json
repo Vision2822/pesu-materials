@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24EE242B",
+  "unit_title": "Electrostatics:",
+  "videos": [
+    {
+      "title": "Electric Flux Density",
+      "provider": "vimeo",
+      "video_id": "1161333912",
+      "video_url": "https://player.vimeo.com/video/1161333912?h=640403a5b2&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1161333912?h=640403a5b2",
+      "faculty": "SAYYED ARIF ALI",
+      "date": "03/02/2026 12:00 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T14:22:54.242518"
+}

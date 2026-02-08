@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24EE242B",
+  "unit_title": "Electrostatics:",
+  "videos": [
+    {
+      "title": "Class 1 Coulomb's Law",
+      "provider": "vimeo",
+      "video_id": "1151488424",
+      "video_url": "https://player.vimeo.com/video/1151488424?h=f504a78e14&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1151488424?h=f504a78e14",
+      "faculty": "Dr Venugopal N",
+      "date": "05/01/2026 11:31 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T14:22:53.655299"
+}

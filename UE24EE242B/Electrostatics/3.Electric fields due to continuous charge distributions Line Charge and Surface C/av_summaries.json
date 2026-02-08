@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24EE242B",
+  "unit_title": "Electrostatics:",
+  "videos": [
+    {
+      "title": "Electric Field due to continuous charge distributions, Line and Surface Charge Density",
+      "provider": "vimeo",
+      "video_id": "1152840246",
+      "video_url": "https://player.vimeo.com/video/1152840246?h=669573202c&autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/1152840246?h=669573202c",
+      "faculty": "Dr Venugopal N",
+      "date": "09/01/2026 04:55 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T14:22:53.948838"
+}
