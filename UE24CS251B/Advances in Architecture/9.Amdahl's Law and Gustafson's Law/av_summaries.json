@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS251B",
+  "unit_title": "Advances in Architecture",
+  "videos": [
+    {
+      "title": "Amdahl's Law & Gustafson's Law",
+      "provider": "vimeo",
+      "video_id": "534371991",
+      "video_url": "https://player.vimeo.com/video/534371991?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/534371991",
+      "faculty": "Dr Kiran D C",
+      "date": "08/04/2021 03:39 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:30:10.209272"
+}

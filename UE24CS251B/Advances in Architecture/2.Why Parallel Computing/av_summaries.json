@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS251B",
+  "unit_title": "Advances in Architecture",
+  "videos": [
+    {
+      "title": "Why Parallel Computing",
+      "provider": "vimeo",
+      "video_id": "530275850",
+      "video_url": "https://player.vimeo.com/video/530275850?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/530275850",
+      "faculty": "Dr Kiran D C",
+      "date": "29/03/2021 05:14 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:30:09.889855"
+}

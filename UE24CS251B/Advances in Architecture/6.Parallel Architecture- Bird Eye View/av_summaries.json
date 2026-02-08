@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS251B",
+  "unit_title": "Advances in Architecture",
+  "videos": [
+    {
+      "title": "Bird Eye View of Parallel Architectures",
+      "provider": "vimeo",
+      "video_id": "533071312",
+      "video_url": "https://player.vimeo.com/video/533071312?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/533071312",
+      "faculty": "Dr Kiran D C",
+      "date": "05/04/2021 03:08 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:30:10.096093"
+}
