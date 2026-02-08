@@ -1,0 +1,2226 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UE24CS251B",
+  "course_title": "Microprocessor and Computer Architecture",
+  "semester_name": "Sem-4",
+  "units": [
+    {
+      "id": "UE24CS251B_Advances in Architecture",
+      "title": "Advances in Architecture",
+      "path": "UE24CS251B/Advances in Architecture",
+      "classes": [
+        {
+          "id": "UE24CS251B_Advances in Architecture_1.Introduction Cache Optimization and 3 C's",
+          "order": 1,
+          "title": "Introduction Cache Optimization & 3 C's",
+          "folder_name": "1.Introduction Cache Optimization and 3 C's",
+          "path": "UE24CS251B/Advances in Architecture/1.Introduction Cache Optimization and 3 C's",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Introduction to Cache Optimization & 3 C",
+                  "provider": "vimeo",
+                  "video_id": "537566650",
+                  "video_url": "https://player.vimeo.com/video/537566650?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/537566650",
+                  "faculty": "Dr Kiran D C",
+                  "date": "16/04/2021 10:10 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Unit4_Assignment3_4e221042.pdf",
+                  "title": "Unit4 Assignment3",
+                  "uuid": "4e221042",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Advances in Architecture/1.Introduction Cache Optimization and 3 C's/assignment/Unit4_Assignment3_4e221042.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment3_4e221042.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Advances%20in%20Architecture/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment3_4e221042.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment3_4e221042.pdf"
+                },
+                {
+                  "name": "Unit4_Assignment1_4e2210e9.pdf",
+                  "title": "Unit4 Assignment1",
+                  "uuid": "4e2210e9",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Advances in Architecture/1.Introduction Cache Optimization and 3 C's/assignment/Unit4_Assignment1_4e2210e9.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment1_4e2210e9.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Advances%20in%20Architecture/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment1_4e2210e9.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment1_4e2210e9.pdf"
+                },
+                {
+                  "name": "Unit4_Assignment2_4e22118d.pdf",
+                  "title": "Unit4 Assignment2",
+                  "uuid": "4e22118d",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Advances in Architecture/1.Introduction Cache Optimization and 3 C's/assignment/Unit4_Assignment2_4e22118d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment2_4e22118d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Advances%20in%20Architecture/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment2_4e22118d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment2_4e22118d.pdf"
+                }
+              ],
+              "count": 3
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Unit 4 notes_4e220f98.pdf",
+                  "title": "Unit 4 notes",
+                  "uuid": "4e220f98",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Advances in Architecture/1.Introduction Cache Optimization and 3 C's/notes/Unit 4 notes_4e220f98.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/notes/Unit%204%20notes_4e220f98.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Advances%20in%20Architecture/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/notes/Unit%204%20notes_4e220f98.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/notes/Unit%204%20notes_4e220f98.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Advances in Architecture_2.Why Parallel Computing",
+          "order": 2,
+          "title": "Why Parallel Computing",
+          "folder_name": "2.Why Parallel Computing",
+          "path": "UE24CS251B/Advances in Architecture/2.Why Parallel Computing",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "UE19CS252-Unit 5 Notes_4e22694b.pdf",
+                  "title": "UE19CS252-Unit 5 Notes",
+                  "uuid": "4e22694b",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Advances in Architecture/2.Why Parallel Computing/notes/UE19CS252-Unit 5 Notes_4e22694b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/notes/UE19CS252-Unit%205%20Notes_4e22694b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/notes/UE19CS252-Unit%205%20Notes_4e22694b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/notes/UE19CS252-Unit%205%20Notes_4e22694b.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Unit5_Question and Answer_4e228f7d.pdf",
+                  "title": "Unit5 Question and Answer",
+                  "uuid": "4e228f7d",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Advances in Architecture/2.Why Parallel Computing/qa/Unit5_Question and Answer_4e228f7d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/qa/Unit5_Question%20and%20Answer_4e228f7d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/qa/Unit5_Question%20and%20Answer_4e228f7d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/qa/Unit5_Question%20and%20Answer_4e228f7d.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Why Parallel Computing",
+                  "provider": "vimeo",
+                  "video_id": "530275850",
+                  "video_url": "https://player.vimeo.com/video/530275850?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/530275850",
+                  "faculty": "Dr Kiran D C",
+                  "date": "29/03/2021 05:14 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Unit5_Assignment_4e2269eb.pdf",
+                  "title": "Unit5 Assignment",
+                  "uuid": "4e2269eb",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Advances in Architecture/2.Why Parallel Computing/assignment/Unit5_Assignment_4e2269eb.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/assignment/Unit5_Assignment_4e2269eb.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/assignment/Unit5_Assignment_4e2269eb.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/assignment/Unit5_Assignment_4e2269eb.pdf"
+                },
+                {
+                  "name": "Assignment 1_4e226a88.pdf",
+                  "title": "Assignment 1",
+                  "uuid": "4e226a88",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Advances in Architecture/2.Why Parallel Computing/assignment/Assignment 1_4e226a88.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/assignment/Assignment%201_4e226a88.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/assignment/Assignment%201_4e226a88.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/assignment/Assignment%201_4e226a88.pdf"
+                },
+                {
+                  "name": "Assignment 2_4e226c07.pdf",
+                  "title": "Assignment 2",
+                  "uuid": "4e226c07",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Advances in Architecture/2.Why Parallel Computing/assignment/Assignment 2_4e226c07.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/assignment/Assignment%202_4e226c07.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/assignment/Assignment%202_4e226c07.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/assignment/Assignment%202_4e226c07.pdf"
+                }
+              ],
+              "count": 3
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Unit5_QB_4e226cfa.pdf",
+                  "title": "Unit5 QB",
+                  "uuid": "4e226cfa",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Advances in Architecture/2.Why Parallel Computing/questionbank/Unit5_QB_4e226cfa.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/questionbank/Unit5_QB_4e226cfa.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/questionbank/Unit5_QB_4e226cfa.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Advances%20in%20Architecture/2.Why%20Parallel%20Computing/questionbank/Unit5_QB_4e226cfa.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Advances in Architecture_3.Optimization 2, 3",
+          "order": 3,
+          "title": "Optimization 2, 3",
+          "folder_name": "3.Optimization 2, 3",
+          "path": "UE24CS251B/Advances in Architecture/3.Optimization 2, 3",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "second Optimization Technique VRB",
+                  "provider": "vimeo",
+                  "video_id": "570676442",
+                  "video_url": "https://player.vimeo.com/video/570676442?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/570676442",
+                  "faculty": "Anantha Nagu",
+                  "date": "03/07/2021 09:34 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Third Optimization Technique",
+                  "provider": "vimeo",
+                  "video_id": "570680304",
+                  "video_url": "https://player.vimeo.com/video/570680304?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/570680304",
+                  "faculty": "Anantha Nagu",
+                  "date": "03/07/2021 09:52 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Advances in Architecture_4.Classification Of Parallel Architectures",
+          "order": 4,
+          "title": "Classification Of Parallel Architectures ",
+          "folder_name": "4.Classification Of Parallel Architectures",
+          "path": "UE24CS251B/Advances in Architecture/4.Classification Of Parallel Architectures",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Shared Memory and Distributed Memory : Classification 2",
+                  "provider": "vimeo",
+                  "video_id": "533060871",
+                  "video_url": "https://player.vimeo.com/video/533060871?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/533060871",
+                  "faculty": "Dr Kiran D C",
+                  "date": "05/04/2021 02:17 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Advances in Architecture_5.Optimization 4 and 5",
+          "order": 5,
+          "title": "Optimization 4 & 5",
+          "folder_name": "5.Optimization 4 and 5",
+          "path": "UE24CS251B/Advances in Architecture/5.Optimization 4 and 5",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Fourth Optimization technique VRB",
+                  "provider": "vimeo",
+                  "video_id": "569719662",
+                  "video_url": "https://player.vimeo.com/video/569719662?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/569719662",
+                  "faculty": "Dr Kiran D C",
+                  "date": "01/07/2021 12:06 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Fourth Cache Optimization technique",
+                  "provider": "vimeo",
+                  "video_id": "569720991",
+                  "video_url": "https://player.vimeo.com/video/569720991?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/569720991",
+                  "faculty": "Dr Kiran D C",
+                  "date": "01/07/2021 12:11 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Fifth Optimization Technique",
+                  "provider": "vimeo",
+                  "video_id": "569721809",
+                  "video_url": "https://player.vimeo.com/video/569721809?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/569721809",
+                  "faculty": "Dr Kiran D C",
+                  "date": "01/07/2021 12:13 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 3
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Advances in Architecture_6.Parallel Architecture- Bird Eye View",
+          "order": 6,
+          "title": "Parallel Architecture- Bird Eye View",
+          "folder_name": "6.Parallel Architecture- Bird Eye View",
+          "path": "UE24CS251B/Advances in Architecture/6.Parallel Architecture- Bird Eye View",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Bird Eye View of Parallel Architectures",
+                  "provider": "vimeo",
+                  "video_id": "533071312",
+                  "video_url": "https://player.vimeo.com/video/533071312?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/533071312",
+                  "faculty": "Dr Kiran D C",
+                  "date": "05/04/2021 03:08 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Advances in Architecture_7.Optimization 6",
+          "order": 7,
+          "title": "Optimization 6",
+          "folder_name": "7.Optimization 6",
+          "path": "UE24CS251B/Advances in Architecture/7.Optimization 6",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "6th Optimization",
+                  "provider": "vimeo",
+                  "video_id": "537554808",
+                  "video_url": "https://player.vimeo.com/video/537554808?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/537554808",
+                  "faculty": "Dr Kiran D C",
+                  "date": "16/04/2021 09:11 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Advances in Architecture_8.Issues in Parallel Processing",
+          "order": 8,
+          "title": "Issues in Parallel Processing ",
+          "folder_name": "8.Issues in Parallel Processing",
+          "path": "UE24CS251B/Advances in Architecture/8.Issues in Parallel Processing",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Issues in Parallel Processing",
+                  "provider": "vimeo",
+                  "video_id": "533479040",
+                  "video_url": "https://player.vimeo.com/video/533479040?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/533479040",
+                  "faculty": "Dr Kiran D C",
+                  "date": "06/04/2021 04:07 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Advances in Architecture_9.Amdahl's Law and Gustafson's Law",
+          "order": 9,
+          "title": "Amdahl's Law & Gustafson's Law",
+          "folder_name": "9.Amdahl's Law and Gustafson's Law",
+          "path": "UE24CS251B/Advances in Architecture/9.Amdahl's Law and Gustafson's Law",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Amdahl's Law & Gustafson's Law",
+                  "provider": "vimeo",
+                  "video_id": "534371991",
+                  "video_url": "https://player.vimeo.com/video/534371991?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/534371991",
+                  "faculty": "Dr Kiran D C",
+                  "date": "08/04/2021 03:39 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Advances in Architecture_10.Introduction to Multicore Processor",
+          "order": 10,
+          "title": "Introduction to Multicore Processor",
+          "folder_name": "10.Introduction to Multicore Processor",
+          "path": "UE24CS251B/Advances in Architecture/10.Introduction to Multicore Processor",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Introduction to Multicore Processor 1",
+                  "provider": "vimeo",
+                  "video_id": "537576250",
+                  "video_url": "https://player.vimeo.com/video/537576250?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/537576250",
+                  "faculty": "Dr Kiran D C",
+                  "date": "16/04/2021 10:57 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Advances in Architecture_11.Introduction to I-O",
+          "order": 11,
+          "title": "Introduction to I/O",
+          "folder_name": "11.Introduction to I-O",
+          "path": "UE24CS251B/Advances in Architecture/11.Introduction to I-O",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Introduction to I/O",
+                  "provider": "vimeo",
+                  "video_id": "533043038",
+                  "video_url": "https://player.vimeo.com/video/533043038?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/533043038",
+                  "faculty": "Prof. V R Badri Prasad",
+                  "date": "05/04/2021 12:43 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Advances in Architecture_12.DMA CONTROLLER",
+          "order": 12,
+          "title": "DMA CONTROLLER",
+          "folder_name": "12.DMA CONTROLLER",
+          "path": "UE24CS251B/Advances in Architecture/12.DMA CONTROLLER",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "DMA CONTROLLER",
+                  "provider": "vimeo",
+                  "video_id": "569195236",
+                  "video_url": "https://player.vimeo.com/video/569195236?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/569195236",
+                  "faculty": "Prof. V R Badri Prasad",
+                  "date": "30/06/2021 09:08 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Advances in Architecture_13.Multicore Processor 2 (Heterogeneous Multicore Processor, User Role, OS Role and",
+          "order": 13,
+          "title": "Multicore Processor 2 (Heterogeneous Multicore Processor, User Role, OS Role and Memory related Issues)",
+          "folder_name": "13.Multicore Processor 2 (Heterogeneous Multicore Processor, User Role, OS Role and",
+          "path": "UE24CS251B/Advances in Architecture/13.Multicore Processor 2 (Heterogeneous Multicore Processor, User Role, OS Role and",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Multicore Processor : (Heterogeneous Multicore Processor, Role of User, Role of OS, Memory Related Issues)",
+                  "provider": "vimeo",
+                  "video_id": "537589208",
+                  "video_url": "https://player.vimeo.com/video/537589208?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/537589208",
+                  "faculty": "Dr Kiran D C",
+                  "date": "16/04/2021 11:59 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Advances in Architecture_14.Interrupts session 2",
+          "order": 14,
+          "title": "Interrupts session 2",
+          "folder_name": "14.Interrupts session 2",
+          "path": "UE24CS251B/Advances in Architecture/14.Interrupts session 2",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "INTERRUPT Session 2  VRB",
+                  "provider": "vimeo",
+                  "video_id": "533437614",
+                  "video_url": "https://player.vimeo.com/video/533437614?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/533437614",
+                  "faculty": "Prof. V R Badri Prasad",
+                  "date": "06/04/2021 01:44 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Advances in Architecture_15.Introduction to GPU Computing",
+          "order": 15,
+          "title": "Introduction to GPU Computing",
+          "folder_name": "15.Introduction to GPU Computing",
+          "path": "UE24CS251B/Advances in Architecture/15.Introduction to GPU Computing",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Introduction to GPU Computing",
+                  "provider": "vimeo",
+                  "video_id": "718626746",
+                  "video_url": "https://player.vimeo.com/video/718626746?h=bb402a34c8&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/718626746?h=bb402a34c8",
+                  "faculty": "Prof. V R Badri Prasad",
+                  "date": "09/06/2022 02:26 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE24CS251B_Architecture and Assembly Language Programming",
+      "title": "Architecture and Assembly\nLanguage Programming",
+      "path": "UE24CS251B/Architecture and Assembly Language Programming",
+      "classes": [
+        {
+          "id": "UE24CS251B_Architecture and Assembly Language Programming_1.Introduction",
+          "order": 1,
+          "title": "Introduction",
+          "folder_name": "1.Introduction",
+          "path": "UE24CS251B/Architecture and Assembly Language Programming/1.Introduction",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Unit 1 Introduction",
+                  "provider": "vimeo",
+                  "video_id": "498720501",
+                  "video_url": "https://player.vimeo.com/video/498720501?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/498720501",
+                  "faculty": "Dr Kiran D C",
+                  "date": "10/01/2021 12:26 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "UE19CS252_Unit1_Notes_DC_3d343740.pdf",
+                  "title": "UE19CS252 Unit1 Notes DC",
+                  "uuid": "3d343740",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Architecture and Assembly Language Programming/1.Introduction/notes/UE19CS252_Unit1_Notes_DC_3d343740.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/1.Introduction/notes/UE19CS252_Unit1_Notes_DC_3d343740.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/1.Introduction/notes/UE19CS252_Unit1_Notes_DC_3d343740.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/1.Introduction/notes/UE19CS252_Unit1_Notes_DC_3d343740.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "UE19CS252_Unit1_QB_DC_3d3459ef.pdf",
+                  "title": "UE19CS252 Unit1 QB DC",
+                  "uuid": "3d3459ef",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Architecture and Assembly Language Programming/1.Introduction/questionbank/UE19CS252_Unit1_QB_DC_3d3459ef.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/1.Introduction/questionbank/UE19CS252_Unit1_QB_DC_3d3459ef.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/1.Introduction/questionbank/UE19CS252_Unit1_QB_DC_3d3459ef.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/1.Introduction/questionbank/UE19CS252_Unit1_QB_DC_3d3459ef.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Introduction_6394c36d.pdf",
+                  "title": "Introduction",
+                  "uuid": "6394c36d",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Architecture and Assembly Language Programming/1.Introduction/slides/Introduction_6394c36d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/1.Introduction/slides/Introduction_6394c36d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/1.Introduction/slides/Introduction_6394c36d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/1.Introduction/slides/Introduction_6394c36d.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "UE19CS252_Unit1_QA_DC_3d345ad9.pdf",
+                  "title": "UE19CS252 Unit1 QA DC",
+                  "uuid": "3d345ad9",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Architecture and Assembly Language Programming/1.Introduction/qa/UE19CS252_Unit1_QA_DC_3d345ad9.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/1.Introduction/qa/UE19CS252_Unit1_QA_DC_3d345ad9.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/1.Introduction/qa/UE19CS252_Unit1_QA_DC_3d345ad9.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/1.Introduction/qa/UE19CS252_Unit1_QA_DC_3d345ad9.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Architecture and Assembly Language Programming_2.ARM Processor- Register set, Introduction to ARM ISA and Instruction Layout",
+          "order": 2,
+          "title": "ARM Processor: Register set, Introduction to ARM ISA and Instruction Layout",
+          "folder_name": "2.ARM Processor- Register set, Introduction to ARM ISA and Instruction Layout",
+          "path": "UE24CS251B/Architecture and Assembly Language Programming/2.ARM Processor- Register set, Introduction to ARM ISA and Instruction Layout",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Processor design trade-offs_206e1a53.pdf",
+                  "title": "Processor design trade-offs",
+                  "uuid": "206e1a53",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Architecture and Assembly Language Programming/2.ARM Processor- Register set, Introduction to ARM ISA and Instruction Layout/slides/Processor design trade-offs_206e1a53.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/2.ARM%20Processor-%20Register%20set%2C%20Introduction%20to%20ARM%20ISA%20and%20Instruction%20Layout/slides/Processor%20design%20trade-offs_206e1a53.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/2.ARM%20Processor-%20Register%20set%2C%20Introduction%20to%20ARM%20ISA%20and%20Instruction%20Layout/slides/Processor%20design%20trade-offs_206e1a53.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/2.ARM%20Processor-%20Register%20set%2C%20Introduction%20to%20ARM%20ISA%20and%20Instruction%20Layout/slides/Processor%20design%20trade-offs_206e1a53.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "UE19CS252_130121_class#3_DCK",
+                  "provider": "vimeo",
+                  "video_id": "498958969",
+                  "video_url": "https://player.vimeo.com/video/498958969?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/498958969",
+                  "faculty": "Prof. Chandravva Hebbi",
+                  "date": "11/01/2021 12:23 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Architecture and Assembly Language Programming_3.Introduction to Microprocessor",
+          "order": 3,
+          "title": "Introduction to Microprocessor",
+          "folder_name": "3.Introduction to Microprocessor",
+          "path": "UE24CS251B/Architecture and Assembly Language Programming/3.Introduction to Microprocessor",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Introduction to Microprocessor",
+                  "provider": "vimeo",
+                  "video_id": "498944471",
+                  "video_url": "https://player.vimeo.com/video/498944471?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/498944471",
+                  "faculty": "Dr Kiran D C",
+                  "date": "10/01/2021 11:23 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Architecture and Assembly Language Programming_4.Register Bank",
+          "order": 4,
+          "title": "Register Bank",
+          "folder_name": "4.Register Bank",
+          "path": "UE24CS251B/Architecture and Assembly Language Programming/4.Register Bank",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Register Bank",
+                  "provider": "vimeo",
+                  "video_id": "499274881",
+                  "video_url": "https://player.vimeo.com/video/499274881?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/499274881",
+                  "faculty": "Dr Kiran D C",
+                  "date": "11/01/2021 10:25 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Architecture and Assembly Language Programming_5.ARM Program Structure and Instruction Format",
+          "order": 5,
+          "title": "ARM Program Structure and Instruction Format",
+          "folder_name": "5.ARM Program Structure and Instruction Format",
+          "path": "UE24CS251B/Architecture and Assembly Language Programming/5.ARM Program Structure and Instruction Format",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "ARM program structure and Introduction to Arm Simulator_de187652.pdf",
+                  "title": "ARM program structure and Introduction to Arm Simulator",
+                  "uuid": "de187652",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Architecture and Assembly Language Programming/5.ARM Program Structure and Instruction Format/slides/ARM program structure and Introduction to Arm Simulator_de187652.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/5.ARM%20Program%20Structure%20and%20Instruction%20Format/slides/ARM%20program%20structure%20and%20Introduction%20to%20Arm%20Simulator_de187652.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/5.ARM%20Program%20Structure%20and%20Instruction%20Format/slides/ARM%20program%20structure%20and%20Introduction%20to%20Arm%20Simulator_de187652.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/5.ARM%20Program%20Structure%20and%20Instruction%20Format/slides/ARM%20program%20structure%20and%20Introduction%20to%20Arm%20Simulator_de187652.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "ARM Program Structure and Instruction Format",
+                  "provider": "vimeo",
+                  "video_id": "499291286",
+                  "video_url": "https://player.vimeo.com/video/499291286?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/499291286",
+                  "faculty": "Dr Kiran D C",
+                  "date": "11/01/2021 11:07 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Architecture and Assembly Language Programming_6.Data Processing Instruction variants",
+          "order": 6,
+          "title": "Data Processing Instruction variants",
+          "folder_name": "6.Data Processing Instruction variants",
+          "path": "UE24CS251B/Architecture and Assembly Language Programming/6.Data Processing Instruction variants",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Data Processing Instruction L6.1",
+                  "provider": "vimeo",
+                  "video_id": "500927914",
+                  "video_url": "https://player.vimeo.com/video/500927914?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/500927914",
+                  "faculty": "Shanthala P T",
+                  "date": "15/01/2021 10:14 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Data Processing Instruction L6.2 Barrel Shifter",
+                  "provider": "vimeo",
+                  "video_id": "500929898",
+                  "video_url": "https://player.vimeo.com/video/500929898?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/500929898",
+                  "faculty": "Shanthala P T",
+                  "date": "15/01/2021 10:19 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Data Processing Instruction L6.3 Logical and Comparison",
+                  "provider": "vimeo",
+                  "video_id": "501304515",
+                  "video_url": "https://player.vimeo.com/video/501304515?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/501304515",
+                  "faculty": "Shanthala P T",
+                  "date": "17/01/2021 04:47 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 3
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Data Processing Instructions_9cf6355e.pdf",
+                  "title": "Data Processing Instructions",
+                  "uuid": "9cf6355e",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Architecture and Assembly Language Programming/6.Data Processing Instruction variants/slides/Data Processing Instructions_9cf6355e.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/6.Data%20Processing%20Instruction%20variants/slides/Data%20Processing%20Instructions_9cf6355e.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/6.Data%20Processing%20Instruction%20variants/slides/Data%20Processing%20Instructions_9cf6355e.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/6.Data%20Processing%20Instruction%20variants/slides/Data%20Processing%20Instructions_9cf6355e.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Architecture and Assembly Language Programming_7.Branch Instruction",
+          "order": 7,
+          "title": "Branch Instruction",
+          "folder_name": "7.Branch Instruction",
+          "path": "UE24CS251B/Architecture and Assembly Language Programming/7.Branch Instruction",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Flow Control Instructions",
+                  "provider": "vimeo",
+                  "video_id": "501595033",
+                  "video_url": "https://player.vimeo.com/video/501595033?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/501595033",
+                  "faculty": "Deepti C",
+                  "date": "18/01/2021 08:49 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "ControlBranch Instructions_30f7b0f0.pdf",
+                  "title": "ControlBranch Instructions",
+                  "uuid": "30f7b0f0",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Architecture and Assembly Language Programming/7.Branch Instruction/slides/ControlBranch Instructions_30f7b0f0.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/7.Branch%20Instruction/slides/ControlBranch%20Instructions_30f7b0f0.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/7.Branch%20Instruction/slides/ControlBranch%20Instructions_30f7b0f0.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/7.Branch%20Instruction/slides/ControlBranch%20Instructions_30f7b0f0.pdf"
+                },
+                {
+                  "name": "Additional Programs_85bf0326.pdf",
+                  "title": "Additional Programs",
+                  "uuid": "85bf0326",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Architecture and Assembly Language Programming/7.Branch Instruction/slides/Additional Programs_85bf0326.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/7.Branch%20Instruction/slides/Additional%20Programs_85bf0326.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/7.Branch%20Instruction/slides/Additional%20Programs_85bf0326.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/7.Branch%20Instruction/slides/Additional%20Programs_85bf0326.pdf"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Architecture and Assembly Language Programming_8.Data Transfer Instruction 1",
+          "order": 8,
+          "title": "Data Transfer Instruction 1",
+          "folder_name": "8.Data Transfer Instruction 1",
+          "path": "UE24CS251B/Architecture and Assembly Language Programming/8.Data Transfer Instruction 1",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Data Transfer Instructions",
+                  "provider": "vimeo",
+                  "video_id": "501975916",
+                  "video_url": "https://player.vimeo.com/video/501975916?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/501975916",
+                  "faculty": "Dr Kiran D C",
+                  "date": "19/01/2021 05:55 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Data Transfer Instructions 2 Indexing Type",
+                  "provider": "vimeo",
+                  "video_id": "501976662",
+                  "video_url": "https://player.vimeo.com/video/501976662?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/501976662",
+                  "faculty": "Dr Kiran D C",
+                  "date": "19/01/2021 05:58 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Architecture and Assembly Language Programming_9.Block Transfer Instruction (Multiple Register Load-Store",
+          "order": 9,
+          "title": "Block Transfer Instruction (Multiple Register Load/Store",
+          "folder_name": "9.Block Transfer Instruction (Multiple Register Load-Store",
+          "path": "UE24CS251B/Architecture and Assembly Language Programming/9.Block Transfer Instruction (Multiple Register Load-Store",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Block Transfer Instruction",
+                  "provider": "vimeo",
+                  "video_id": "502399217",
+                  "video_url": "https://player.vimeo.com/video/502399217?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/502399217",
+                  "faculty": "Dr Kiran D C",
+                  "date": "20/01/2021 05:32 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Block Transfer Instruction  (STACK)",
+                  "provider": "vimeo",
+                  "video_id": "502399707",
+                  "video_url": "https://player.vimeo.com/video/502399707?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/502399707",
+                  "faculty": "Dr Kiran D C",
+                  "date": "20/01/2021 05:34 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Block Transfer Instruction  (Procedure Call)",
+                  "provider": "vimeo",
+                  "video_id": "502876962",
+                  "video_url": "https://player.vimeo.com/video/502876962?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/502876962",
+                  "faculty": "Dr Kiran D C",
+                  "date": "21/01/2021 09:00 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 3
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Multiple Load Store Instructions_39173116.pdf",
+                  "title": "Multiple Load Store Instructions",
+                  "uuid": "39173116",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Architecture and Assembly Language Programming/9.Block Transfer Instruction (Multiple Register Load-Store/slides/Multiple Load Store Instructions_39173116.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/9.Block%20Transfer%20Instruction%20%28Multiple%20Register%20Load-Store/slides/Multiple%20Load%20Store%20Instructions_39173116.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/9.Block%20Transfer%20Instruction%20%28Multiple%20Register%20Load-Store/slides/Multiple%20Load%20Store%20Instructions_39173116.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/9.Block%20Transfer%20Instruction%20%28Multiple%20Register%20Load-Store/slides/Multiple%20Load%20Store%20Instructions_39173116.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Architecture and Assembly Language Programming_10.Multiplication - SWAP- PSR Instructions",
+          "order": 10,
+          "title": "Multiplication - SWAP- PSR Instructions",
+          "folder_name": "10.Multiplication - SWAP- PSR Instructions",
+          "path": "UE24CS251B/Architecture and Assembly Language Programming/10.Multiplication - SWAP- PSR Instructions",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Multiplication, Condition Execution Instructions_c0ee595d.pdf",
+                  "title": "Multiplication, Condition Execution Instructions",
+                  "uuid": "c0ee595d",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Architecture and Assembly Language Programming/10.Multiplication - SWAP- PSR Instructions/slides/Multiplication, Condition Execution Instructions_c0ee595d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/10.Multiplication%20-%20SWAP-%20PSR%20Instructions/slides/Multiplication%2C%20Condition%20Execution%20Instructions_c0ee595d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/10.Multiplication%20-%20SWAP-%20PSR%20Instructions/slides/Multiplication%2C%20Condition%20Execution%20Instructions_c0ee595d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/10.Multiplication%20-%20SWAP-%20PSR%20Instructions/slides/Multiplication%2C%20Condition%20Execution%20Instructions_c0ee595d.pdf"
+                },
+                {
+                  "name": "SWAP and PSR Instructions_dd2b4460.pdf",
+                  "title": "SWAP and PSR Instructions",
+                  "uuid": "dd2b4460",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Architecture and Assembly Language Programming/10.Multiplication - SWAP- PSR Instructions/slides/SWAP and PSR Instructions_dd2b4460.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/10.Multiplication%20-%20SWAP-%20PSR%20Instructions/slides/SWAP%20and%20PSR%20Instructions_dd2b4460.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/10.Multiplication%20-%20SWAP-%20PSR%20Instructions/slides/SWAP%20and%20PSR%20Instructions_dd2b4460.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/10.Multiplication%20-%20SWAP-%20PSR%20Instructions/slides/SWAP%20and%20PSR%20Instructions_dd2b4460.pdf"
+                }
+              ],
+              "count": 2
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Multiplication, SWAP, PSR Instruction",
+                  "provider": "vimeo",
+                  "video_id": "503266203",
+                  "video_url": "https://player.vimeo.com/video/503266203?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/503266203",
+                  "faculty": "Dr Kiran D C",
+                  "date": "22/01/2021 05:40 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Architecture and Assembly Language Programming_11.Interrupts and Programming Examples",
+          "order": 11,
+          "title": "Interrupts and Programming Examples",
+          "folder_name": "11.Interrupts and Programming Examples",
+          "path": "UE24CS251B/Architecture and Assembly Language Programming/11.Interrupts and Programming Examples",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "AV Summary-Interrupts and Programming Examples",
+                  "provider": "vimeo",
+                  "video_id": "568826050",
+                  "video_url": "https://player.vimeo.com/video/568826050?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/568826050",
+                  "faculty": "Shanthala P T",
+                  "date": "29/06/2021 02:57 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Functions and Interrupts_0117cad1.pdf",
+                  "title": "Functions and Interrupts",
+                  "uuid": "0117cad1",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Architecture and Assembly Language Programming/11.Interrupts and Programming Examples/slides/Functions and Interrupts_0117cad1.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/11.Interrupts%20and%20Programming%20Examples/slides/Functions%20and%20Interrupts_0117cad1.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/11.Interrupts%20and%20Programming%20Examples/slides/Functions%20and%20Interrupts_0117cad1.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/11.Interrupts%20and%20Programming%20Examples/slides/Functions%20and%20Interrupts_0117cad1.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Architecture and Assembly Language Programming_12.Instruction Encoding 1- Data Processing Instruction",
+          "order": 12,
+          "title": "Instruction Encoding 1: Data Processing Instruction",
+          "folder_name": "12.Instruction Encoding 1- Data Processing Instruction",
+          "path": "UE24CS251B/Architecture and Assembly Language Programming/12.Instruction Encoding 1- Data Processing Instruction",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Instruction Encoding -1_5dd86c23.pdf",
+                  "title": "Instruction Encoding -1",
+                  "uuid": "5dd86c23",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Architecture and Assembly Language Programming/12.Instruction Encoding 1- Data Processing Instruction/slides/Instruction Encoding -1_5dd86c23.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/12.Instruction%20Encoding%201-%20Data%20Processing%20Instruction/slides/Instruction%20Encoding%20-1_5dd86c23.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/12.Instruction%20Encoding%201-%20Data%20Processing%20Instruction/slides/Instruction%20Encoding%20-1_5dd86c23.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/12.Instruction%20Encoding%201-%20Data%20Processing%20Instruction/slides/Instruction%20Encoding%20-1_5dd86c23.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Instruction Encoding 1",
+                  "provider": "vimeo",
+                  "video_id": "505457712",
+                  "video_url": "https://player.vimeo.com/video/505457712?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/505457712",
+                  "faculty": "Shanthala P T",
+                  "date": "28/01/2021 06:00 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Architecture and Assembly Language Programming_13.Instruction Encoding 2- Data Transfer Instruction",
+          "order": 13,
+          "title": "Instruction Encoding 2: Data Transfer Instruction",
+          "folder_name": "13.Instruction Encoding 2- Data Transfer Instruction",
+          "path": "UE24CS251B/Architecture and Assembly Language Programming/13.Instruction Encoding 2- Data Transfer Instruction",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Instruction Encoding -2_1a62d521.pdf",
+                  "title": "Instruction Encoding -2",
+                  "uuid": "1a62d521",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Architecture and Assembly Language Programming/13.Instruction Encoding 2- Data Transfer Instruction/slides/Instruction Encoding -2_1a62d521.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/13.Instruction%20Encoding%202-%20Data%20Transfer%20Instruction/slides/Instruction%20Encoding%20-2_1a62d521.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/13.Instruction%20Encoding%202-%20Data%20Transfer%20Instruction/slides/Instruction%20Encoding%20-2_1a62d521.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Architecture%20and%20Assembly%20Language%20Programming/13.Instruction%20Encoding%202-%20Data%20Transfer%20Instruction/slides/Instruction%20Encoding%20-2_1a62d521.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Instruction Encoding 2: Branch, Multiplication and Data Transfer Instruction",
+                  "provider": "vimeo",
+                  "video_id": "505458361",
+                  "video_url": "https://player.vimeo.com/video/505458361?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/505458361",
+                  "faculty": "Shanthala P T",
+                  "date": "28/01/2021 06:03 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE24CS251B_Basics of Cache and Cache Optimization",
+      "title": "Basics of Cache and Cache\nOptimization",
+      "path": "UE24CS251B/Basics of Cache and Cache Optimization",
+      "classes": [
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_1.Introduction Cache Optimization and 3 C's",
+          "order": 1,
+          "title": "Introduction Cache Optimization & 3 C's",
+          "folder_name": "1.Introduction Cache Optimization and 3 C's",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/1.Introduction Cache Optimization and 3 C's",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Introduction to Cache Optimization & 3 C",
+                  "provider": "vimeo",
+                  "video_id": "537566650",
+                  "video_url": "https://player.vimeo.com/video/537566650?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/537566650",
+                  "faculty": "Dr Kiran D C",
+                  "date": "16/04/2021 10:10 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Unit 4 notes_481d3e20.pdf",
+                  "title": "Unit 4 notes",
+                  "uuid": "481d3e20",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Basics of Cache and Cache Optimization/1.Introduction Cache Optimization and 3 C's/notes/Unit 4 notes_481d3e20.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/notes/Unit%204%20notes_481d3e20.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/notes/Unit%204%20notes_481d3e20.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/notes/Unit%204%20notes_481d3e20.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Unit4_Question&Answer_481d4179.pdf",
+                  "title": "Unit4 Question&Answer",
+                  "uuid": "481d4179",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Basics of Cache and Cache Optimization/1.Introduction Cache Optimization and 3 C's/qa/Unit4_Question&Answer_481d4179.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/qa/Unit4_Question%26Answer_481d4179.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/qa/Unit4_Question%26Answer_481d4179.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/qa/Unit4_Question%26Answer_481d4179.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Unit4_QB_481d40d0.pdf",
+                  "title": "Unit4 QB",
+                  "uuid": "481d40d0",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Basics of Cache and Cache Optimization/1.Introduction Cache Optimization and 3 C's/questionbank/Unit4_QB_481d40d0.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/questionbank/Unit4_QB_481d40d0.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/questionbank/Unit4_QB_481d40d0.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/questionbank/Unit4_QB_481d40d0.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Unit4_Assignment3_481d3ed8.pdf",
+                  "title": "Unit4 Assignment3",
+                  "uuid": "481d3ed8",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Basics of Cache and Cache Optimization/1.Introduction Cache Optimization and 3 C's/assignment/Unit4_Assignment3_481d3ed8.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment3_481d3ed8.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment3_481d3ed8.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment3_481d3ed8.pdf"
+                },
+                {
+                  "name": "Unit4_Assignment1_481d3f86.pdf",
+                  "title": "Unit4 Assignment1",
+                  "uuid": "481d3f86",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Basics of Cache and Cache Optimization/1.Introduction Cache Optimization and 3 C's/assignment/Unit4_Assignment1_481d3f86.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment1_481d3f86.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment1_481d3f86.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment1_481d3f86.pdf"
+                },
+                {
+                  "name": "Unit4_Assignment2_481d402c.pdf",
+                  "title": "Unit4 Assignment2",
+                  "uuid": "481d402c",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Basics of Cache and Cache Optimization/1.Introduction Cache Optimization and 3 C's/assignment/Unit4_Assignment2_481d402c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment2_481d402c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment2_481d402c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/1.Introduction%20Cache%20Optimization%20and%203%20C%27s/assignment/Unit4_Assignment2_481d402c.pdf"
+                }
+              ],
+              "count": 3
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_2.Introduction to Memory (Memory Vs Procssor",
+          "order": 2,
+          "title": "Introduction to Memory (Memory Vs Procssor",
+          "folder_name": "2.Introduction to Memory (Memory Vs Procssor",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/2.Introduction to Memory (Memory Vs Procssor",
+          "content": {
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "Assignment 3_481d7d0d.pdf",
+                  "title": "Assignment 3",
+                  "uuid": "481d7d0d",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Basics of Cache and Cache Optimization/2.Introduction to Memory (Memory Vs Procssor/assignment/Assignment 3_481d7d0d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/assignment/Assignment%203_481d7d0d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/assignment/Assignment%203_481d7d0d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/assignment/Assignment%203_481d7d0d.pdf"
+                },
+                {
+                  "name": "Assignment 1_481d7db1.pdf",
+                  "title": "Assignment 1",
+                  "uuid": "481d7db1",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Basics of Cache and Cache Optimization/2.Introduction to Memory (Memory Vs Procssor/assignment/Assignment 1_481d7db1.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/assignment/Assignment%201_481d7db1.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/assignment/Assignment%201_481d7db1.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/assignment/Assignment%201_481d7db1.pdf"
+                },
+                {
+                  "name": "Assignment 2_481d7f29.pdf",
+                  "title": "Assignment 2",
+                  "uuid": "481d7f29",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Basics of Cache and Cache Optimization/2.Introduction to Memory (Memory Vs Procssor/assignment/Assignment 2_481d7f29.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/assignment/Assignment%202_481d7f29.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/assignment/Assignment%202_481d7f29.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/assignment/Assignment%202_481d7f29.pdf"
+                }
+              ],
+              "count": 3
+            },
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Introduction to Memory",
+                  "provider": "vimeo",
+                  "video_id": "568848817",
+                  "video_url": "https://player.vimeo.com/video/568848817?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/568848817",
+                  "faculty": "Dr Kiran D C",
+                  "date": "29/06/2021 04:08 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Unit-3_481d7c64.pdf",
+                  "title": "Unit-3",
+                  "uuid": "481d7c64",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Basics of Cache and Cache Optimization/2.Introduction to Memory (Memory Vs Procssor/notes/Unit-3_481d7c64.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/notes/Unit-3_481d7c64.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/notes/Unit-3_481d7c64.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/notes/Unit-3_481d7c64.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Unit-3 questions_481d7fca.pdf",
+                  "title": "Unit-3 questions",
+                  "uuid": "481d7fca",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Basics of Cache and Cache Optimization/2.Introduction to Memory (Memory Vs Procssor/questionbank/Unit-3 questions_481d7fca.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/questionbank/Unit-3%20questions_481d7fca.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/questionbank/Unit-3%20questions_481d7fca.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/questionbank/Unit-3%20questions_481d7fca.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Unit-3_481d806f.pdf",
+                  "title": "Unit-3",
+                  "uuid": "481d806f",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Basics of Cache and Cache Optimization/2.Introduction to Memory (Memory Vs Procssor/qa/Unit-3_481d806f.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/qa/Unit-3_481d806f.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/qa/Unit-3_481d806f.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Basics%20of%20Cache%20and%20Cache%20Optimization/2.Introduction%20to%20Memory%20%28Memory%20Vs%20Procssor/qa/Unit-3_481d806f.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_3.Optimization 2, 3",
+          "order": 3,
+          "title": "Optimization 2, 3",
+          "folder_name": "3.Optimization 2, 3",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/3.Optimization 2, 3",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "second Optimization Technique VRB",
+                  "provider": "vimeo",
+                  "video_id": "570676442",
+                  "video_url": "https://player.vimeo.com/video/570676442?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/570676442",
+                  "faculty": "Anantha Nagu",
+                  "date": "03/07/2021 09:34 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Third Optimization Technique",
+                  "provider": "vimeo",
+                  "video_id": "570680304",
+                  "video_url": "https://player.vimeo.com/video/570680304?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/570680304",
+                  "faculty": "Anantha Nagu",
+                  "date": "03/07/2021 09:52 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_4.What is Block",
+          "order": 4,
+          "title": "What is Block? ",
+          "folder_name": "4.What is Block",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/4.What is Block",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Principle of Locality-What is a Block?",
+                  "provider": "vimeo",
+                  "video_id": "516470556",
+                  "video_url": "https://player.vimeo.com/video/516470556?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/516470556",
+                  "faculty": "Dr Kiran D C",
+                  "date": "25/02/2021 05:48 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_5.Cache Design Principles",
+          "order": 5,
+          "title": "Cache Design Principles",
+          "folder_name": "5.Cache Design Principles",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/5.Cache Design Principles",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Cache Design Principles",
+                  "provider": "vimeo",
+                  "video_id": "516008121",
+                  "video_url": "https://player.vimeo.com/video/516008121?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/516008121",
+                  "faculty": "Dr Kiran D C",
+                  "date": "24/02/2021 06:22 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_6.Block Placement Policy 1 (Direct Mapping)",
+          "order": 6,
+          "title": "Block Placement Policy 1 (Direct Mapping)",
+          "folder_name": "6.Block Placement Policy 1 (Direct Mapping)",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/6.Block Placement Policy 1 (Direct Mapping)",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Direct Mapping",
+                  "provider": "vimeo",
+                  "video_id": "516075132",
+                  "video_url": "https://player.vimeo.com/video/516075132?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/516075132",
+                  "faculty": "Dr Kiran D C",
+                  "date": "24/02/2021 11:06 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_7.Optimization 4 and 5",
+          "order": 7,
+          "title": "Optimization 4 & 5",
+          "folder_name": "7.Optimization 4 and 5",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/7.Optimization 4 and 5",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Fourth Optimization technique VRB",
+                  "provider": "vimeo",
+                  "video_id": "569719662",
+                  "video_url": "https://player.vimeo.com/video/569719662?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/569719662",
+                  "faculty": "Dr Kiran D C",
+                  "date": "01/07/2021 12:06 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Fourth Cache Optimization technique",
+                  "provider": "vimeo",
+                  "video_id": "569720991",
+                  "video_url": "https://player.vimeo.com/video/569720991?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/569720991",
+                  "faculty": "Dr Kiran D C",
+                  "date": "01/07/2021 12:11 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Fifth Optimization Technique",
+                  "provider": "vimeo",
+                  "video_id": "569721809",
+                  "video_url": "https://player.vimeo.com/video/569721809?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/569721809",
+                  "faculty": "Dr Kiran D C",
+                  "date": "01/07/2021 12:13 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 3
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_8.Optimization 6",
+          "order": 8,
+          "title": "Optimization 6",
+          "folder_name": "8.Optimization 6",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/8.Optimization 6",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "6th Optimization",
+                  "provider": "vimeo",
+                  "video_id": "537554808",
+                  "video_url": "https://player.vimeo.com/video/537554808?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/537554808",
+                  "faculty": "Dr Kiran D C",
+                  "date": "16/04/2021 09:11 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_9.Block Placement Policy 2 (Set Associative and Fully Associative Mapping)",
+          "order": 9,
+          "title": "Block Placement Policy 2 (Set Associative & Fully Associative Mapping)",
+          "folder_name": "9.Block Placement Policy 2 (Set Associative and Fully Associative Mapping)",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/9.Block Placement Policy 2 (Set Associative and Fully Associative Mapping)",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Fully Associative & Set Associative Mapping",
+                  "provider": "vimeo",
+                  "video_id": "517917050",
+                  "video_url": "https://player.vimeo.com/video/517917050?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/517917050",
+                  "faculty": "Dr Kiran D C",
+                  "date": "01/03/2021 05:25 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "class Video-cache memory",
+                  "provider": "vimeo",
+                  "video_id": "520763759",
+                  "video_url": "https://player.vimeo.com/video/520763759?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/520763759",
+                  "faculty": "Dr Kiran D C",
+                  "date": "08/03/2021 08:46 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_10.Block Replecement Policy",
+          "order": 10,
+          "title": "Block Replecement Policy",
+          "folder_name": "10.Block Replecement Policy",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/10.Block Replecement Policy",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Cache Replacement Policy",
+                  "provider": "vimeo",
+                  "video_id": "539001364",
+                  "video_url": "https://player.vimeo.com/video/539001364?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/539001364",
+                  "faculty": "Dr Kiran D C",
+                  "date": "20/04/2021 11:03 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_11.DMA CONTROLLER",
+          "order": 11,
+          "title": "DMA CONTROLLER",
+          "folder_name": "11.DMA CONTROLLER",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/11.DMA CONTROLLER",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "DMA CONTROLLER",
+                  "provider": "vimeo",
+                  "video_id": "569195236",
+                  "video_url": "https://player.vimeo.com/video/569195236?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/569195236",
+                  "faculty": "Prof. V R Badri Prasad",
+                  "date": "30/06/2021 09:08 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_12.Introduction to I-O",
+          "order": 12,
+          "title": "Introduction to I/O",
+          "folder_name": "12.Introduction to I-O",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/12.Introduction to I-O",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Introduction to I/O",
+                  "provider": "vimeo",
+                  "video_id": "533043038",
+                  "video_url": "https://player.vimeo.com/video/533043038?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/533043038",
+                  "faculty": "Prof. V R Badri Prasad",
+                  "date": "05/04/2021 12:43 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_13.Write Policy",
+          "order": 13,
+          "title": "Write Policy",
+          "folder_name": "13.Write Policy",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/13.Write Policy",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Write Policy",
+                  "provider": "vimeo",
+                  "video_id": "538983210",
+                  "video_url": "https://player.vimeo.com/video/538983210?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/538983210",
+                  "faculty": "Dr Kiran D C",
+                  "date": "20/04/2021 09:38 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_14.Interrupts session 2",
+          "order": 14,
+          "title": "Interrupts session 2",
+          "folder_name": "14.Interrupts session 2",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/14.Interrupts session 2",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "INTERRUPT Session 2  VRB",
+                  "provider": "vimeo",
+                  "video_id": "533437614",
+                  "video_url": "https://player.vimeo.com/video/533437614?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/533437614",
+                  "faculty": "Prof. V R Badri Prasad",
+                  "date": "06/04/2021 01:44 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_15.Performance Analysis 1",
+          "order": 15,
+          "title": "-Performance Analysis 1",
+          "folder_name": "15.Performance Analysis 1",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/15.Performance Analysis 1",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "UE20CS252_17032022_class#47_DC",
+                  "provider": "vimeo",
+                  "video_id": "690013859",
+                  "video_url": "https://player.vimeo.com/video/690013859?h=39bedc336c&autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/690013859?h=39bedc336c",
+                  "faculty": "Dr Kiran D C",
+                  "date": "19/03/2022 09:34 PM",
+                  "section": "NA"
+                },
+                {
+                  "title": "Performance Analysis 1 & 2",
+                  "provider": "vimeo",
+                  "video_id": "538998976",
+                  "video_url": "https://player.vimeo.com/video/538998976?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/538998976",
+                  "faculty": "Dr Kiran D C",
+                  "date": "20/04/2021 10:52 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_16.Performance Analysis-Problems",
+          "order": 16,
+          "title": "Performance Analysis-Problems",
+          "folder_name": "16.Performance Analysis-Problems",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/16.Performance Analysis-Problems",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Performance Analysis Problems",
+                  "provider": "vimeo",
+                  "video_id": "569212733",
+                  "video_url": "https://player.vimeo.com/video/569212733?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/569212733",
+                  "faculty": "Anantha Nagu",
+                  "date": "30/06/2021 10:14 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Basics of Cache and Cache Optimization_17.Memory Optimization 1",
+          "order": 17,
+          "title": "Memory Optimization 1",
+          "folder_name": "17.Memory Optimization 1",
+          "path": "UE24CS251B/Basics of Cache and Cache Optimization/17.Memory Optimization 1",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Memory Optimization-1",
+                  "provider": "vimeo",
+                  "video_id": "569242896",
+                  "video_url": "https://player.vimeo.com/video/569242896?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/569242896",
+                  "faculty": "Dr Kiran D C",
+                  "date": "30/06/2021 12:15 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE24CS251B_Pipelining",
+      "title": "Pipelining",
+      "path": "UE24CS251B/Pipelining",
+      "classes": [
+        {
+          "id": "UE24CS251B_Pipelining_1.3 Stage and 5 Stage ARM Processor",
+          "order": 1,
+          "title": "3 Stage & 5 Stage ARM Processor",
+          "folder_name": "1.3 Stage and 5 Stage ARM Processor",
+          "path": "UE24CS251B/Pipelining/1.3 Stage and 5 Stage ARM Processor",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "3 & 5 Stage ARM Processor",
+                  "provider": "vimeo",
+                  "video_id": "506921055",
+                  "video_url": "https://player.vimeo.com/video/506921055?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/506921055",
+                  "faculty": "Dr Kiran D C",
+                  "date": "01/02/2021 09:11 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Pipelining_2.Introduction to Pipelining",
+          "order": 2,
+          "title": "Introduction to Pipelining ",
+          "folder_name": "2.Introduction to Pipelining",
+          "path": "UE24CS251B/Pipelining/2.Introduction to Pipelining",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Introduction to Pipeline Processor",
+                  "provider": "vimeo",
+                  "video_id": "505903892",
+                  "video_url": "https://player.vimeo.com/video/505903892?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/505903892",
+                  "faculty": "Dr Kiran D C",
+                  "date": "29/01/2021 05:32 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            },
+            "assignment": {
+              "type": "assignment",
+              "files": [
+                {
+                  "name": "UNIT 2 ASSIGNMENT 3_41112628.pdf",
+                  "title": "UNIT 2 ASSIGNMENT 3",
+                  "uuid": "41112628",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Pipelining/2.Introduction to Pipelining/assignment/UNIT 2 ASSIGNMENT 3_41112628.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/assignment/UNIT%202%20ASSIGNMENT%203_41112628.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/assignment/UNIT%202%20ASSIGNMENT%203_41112628.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/assignment/UNIT%202%20ASSIGNMENT%203_41112628.pdf"
+                },
+                {
+                  "name": "UNIT 2 ASSIGNMENT 1_411126d0.pdf",
+                  "title": "UNIT 2 ASSIGNMENT 1",
+                  "uuid": "411126d0",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Pipelining/2.Introduction to Pipelining/assignment/UNIT 2 ASSIGNMENT 1_411126d0.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/assignment/UNIT%202%20ASSIGNMENT%201_411126d0.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/assignment/UNIT%202%20ASSIGNMENT%201_411126d0.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/assignment/UNIT%202%20ASSIGNMENT%201_411126d0.pdf"
+                },
+                {
+                  "name": "UNIT 2 ASSIGNMENT 2_41112775.pdf",
+                  "title": "UNIT 2 ASSIGNMENT 2",
+                  "uuid": "41112775",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Pipelining/2.Introduction to Pipelining/assignment/UNIT 2 ASSIGNMENT 2_41112775.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/assignment/UNIT%202%20ASSIGNMENT%202_41112775.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/assignment/UNIT%202%20ASSIGNMENT%202_41112775.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/assignment/UNIT%202%20ASSIGNMENT%202_41112775.pdf"
+                }
+              ],
+              "count": 3
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "UNIT 2 QUESTION BANK_41112860.pdf",
+                  "title": "UNIT 2 QUESTION BANK",
+                  "uuid": "41112860",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Pipelining/2.Introduction to Pipelining/questionbank/UNIT 2 QUESTION BANK_41112860.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/questionbank/UNIT%202%20QUESTION%20BANK_41112860.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/questionbank/UNIT%202%20QUESTION%20BANK_41112860.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/questionbank/UNIT%202%20QUESTION%20BANK_41112860.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "UNIT 2 QUESTION and ANSWERS_4111298f.pdf",
+                  "title": "UNIT 2 QUESTION and ANSWERS",
+                  "uuid": "4111298f",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Pipelining/2.Introduction to Pipelining/qa/UNIT 2 QUESTION and ANSWERS_4111298f.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/qa/UNIT%202%20QUESTION%20and%20ANSWERS_4111298f.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/qa/UNIT%202%20QUESTION%20and%20ANSWERS_4111298f.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/qa/UNIT%202%20QUESTION%20and%20ANSWERS_4111298f.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "UNIT 2 notes_41112469.pdf",
+                  "title": "UNIT 2 notes",
+                  "uuid": "41112469",
+                  "extension": "pdf",
+                  "path": "UE24CS251B/Pipelining/2.Introduction to Pipelining/notes/UNIT 2 notes_41112469.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/notes/UNIT%202%20notes_41112469.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/notes/UNIT%202%20notes_41112469.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE24CS251B/Pipelining/2.Introduction%20to%20Pipelining/notes/UNIT%202%20notes_41112469.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Pipelining_3.What May Go Wrong in Pipelining",
+          "order": 3,
+          "title": "What May Go Wrong in Pipelining",
+          "folder_name": "3.What May Go Wrong in Pipelining",
+          "path": "UE24CS251B/Pipelining/3.What May Go Wrong in Pipelining",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "What May Go wrong During Pipeline Execution: Design Issues",
+                  "provider": "vimeo",
+                  "video_id": "507375419",
+                  "video_url": "https://player.vimeo.com/video/507375419?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/507375419",
+                  "faculty": "Dr Kiran D C",
+                  "date": "02/02/2021 10:10 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Pipelining_4.What May Go Wrong Hazards - Stall- Structural Hazard",
+          "order": 4,
+          "title": "What May Go Wrong Hazards - Stall- Structural Hazard",
+          "folder_name": "4.What May Go Wrong Hazards - Stall- Structural Hazard",
+          "path": "UE24CS251B/Pipelining/4.What May Go Wrong Hazards - Stall- Structural Hazard",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "What May Go Wrong- Introduction to Hazards",
+                  "provider": "vimeo",
+                  "video_id": "508201211",
+                  "video_url": "https://player.vimeo.com/video/508201211?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/508201211",
+                  "faculty": "Dr Kiran D C",
+                  "date": "04/02/2021 05:36 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "class Video-data hazard",
+                  "provider": "vimeo",
+                  "video_id": "520781091",
+                  "video_url": "https://player.vimeo.com/video/520781091?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/520781091",
+                  "faculty": "Dr Kiran D C",
+                  "date": "08/03/2021 10:12 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "class Video-data hazard",
+                  "provider": "vimeo",
+                  "video_id": "520781585",
+                  "video_url": "https://player.vimeo.com/video/520781585?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/520781585",
+                  "faculty": "Dr Kiran D C",
+                  "date": "08/03/2021 10:14 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 3
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Pipelining_5.What May Go Wrong - Data Hazards",
+          "order": 5,
+          "title": "What May Go Wrong - Data Hazards",
+          "folder_name": "5.What May Go Wrong - Data Hazards",
+          "path": "UE24CS251B/Pipelining/5.What May Go Wrong - Data Hazards",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "What May Go Wrong - Data Hazardz1",
+                  "provider": "vimeo",
+                  "video_id": "508212411",
+                  "video_url": "https://player.vimeo.com/video/508212411?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/508212411",
+                  "faculty": "Dr Kiran D C",
+                  "date": "04/02/2021 06:19 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Pipelining_6.What May Go Wrong- Attacking RAW Dependency",
+          "order": 6,
+          "title": "What May Go Wrong- Attacking RAW Dependency",
+          "folder_name": "6.What May Go Wrong- Attacking RAW Dependency",
+          "path": "UE24CS251B/Pipelining/6.What May Go Wrong- Attacking RAW Dependency",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "What May Go Wrong - Attacking RAW Hazard",
+                  "provider": "vimeo",
+                  "video_id": "510098991",
+                  "video_url": "https://player.vimeo.com/video/510098991?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/510098991",
+                  "faculty": "Dr Kiran D C",
+                  "date": "09/02/2021 11:12 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Pipelining_7.Introduction to Control Hazard",
+          "order": 7,
+          "title": "Introduction to Control Hazard  ",
+          "folder_name": "7.Introduction to Control Hazard",
+          "path": "UE24CS251B/Pipelining/7.Introduction to Control Hazard",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "What May Go Wrong- Control Hazards",
+                  "provider": "vimeo",
+                  "video_id": "510516878",
+                  "video_url": "https://player.vimeo.com/video/510516878?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/510516878",
+                  "faculty": "Dr Kiran D C",
+                  "date": "10/02/2021 08:55 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "class Video-control hazard",
+                  "provider": "vimeo",
+                  "video_id": "520777288",
+                  "video_url": "https://player.vimeo.com/video/520777288?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/520777288",
+                  "faculty": "Dr Kiran D C",
+                  "date": "08/03/2021 09:52 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Pipelining_8.Branch Prediction 1",
+          "order": 8,
+          "title": "Branch Prediction 1",
+          "folder_name": "8.Branch Prediction 1",
+          "path": "UE24CS251B/Pipelining/8.Branch Prediction 1",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Branch Prediction1",
+                  "provider": "vimeo",
+                  "video_id": "511383366",
+                  "video_url": "https://player.vimeo.com/video/511383366?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/511383366",
+                  "faculty": "Dr Kiran D C",
+                  "date": "12/02/2021 07:43 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Pipelining_9.Branch Prediction 2",
+          "order": 9,
+          "title": "Branch Prediction 2",
+          "folder_name": "9.Branch Prediction 2",
+          "path": "UE24CS251B/Pipelining/9.Branch Prediction 2",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "2 Bit Branch Prediction",
+                  "provider": "vimeo",
+                  "video_id": "512323166",
+                  "video_url": "https://player.vimeo.com/video/512323166?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/512323166",
+                  "faculty": "Dr Kiran D C",
+                  "date": "15/02/2021 05:43 AM",
+                  "section": "NA"
+                },
+                {
+                  "title": "class Video-Two bit predictor",
+                  "provider": "vimeo",
+                  "video_id": "520769455",
+                  "video_url": "https://player.vimeo.com/video/520769455?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/520769455",
+                  "faculty": "Dr Kiran D C",
+                  "date": "08/03/2021 09:13 AM",
+                  "section": "NA"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Pipelining_10.Performance Analysis",
+          "order": 10,
+          "title": "Performance Analysis ",
+          "folder_name": "10.Performance Analysis",
+          "path": "UE24CS251B/Pipelining/10.Performance Analysis",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "PERFORMANCE ANALYSIS",
+                  "provider": "vimeo",
+                  "video_id": "569320199",
+                  "video_url": "https://player.vimeo.com/video/569320199?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/569320199",
+                  "faculty": "Dr Kiran D C",
+                  "date": "30/06/2021 04:18 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE24CS251B_Pipelining_11.Performance Analysis, Speed up Calculations ..etc",
+          "order": 11,
+          "title": "Performance Analysis, Speed up Calculations ?..etc",
+          "folder_name": "11.Performance Analysis, Speed up Calculations ..etc",
+          "path": "UE24CS251B/Pipelining/11.Performance Analysis, Speed up Calculations ..etc",
+          "content": {
+            "av_summary": {
+              "type": "video",
+              "videos": [
+                {
+                  "title": "Performance Analysis (Summary)",
+                  "provider": "vimeo",
+                  "video_id": "515175307",
+                  "video_url": "https://player.vimeo.com/video/515175307?autoplay=0&loop=1&autopause=0&quality=240p",
+                  "embed_url": "https://player.vimeo.com/video/515175307",
+                  "faculty": "Shanthala P T",
+                  "date": "22/02/2021 01:29 PM",
+                  "section": "NA"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "total_units": 4,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE24CS251B",
+  "updated_at": "2026-02-08T13:36:15.247969"
+}
