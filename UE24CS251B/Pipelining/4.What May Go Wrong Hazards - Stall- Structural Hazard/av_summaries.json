@@ -1,0 +1,37 @@
+{
+  "course_code": "UE24CS251B",
+  "unit_title": "Pipelining",
+  "videos": [
+    {
+      "title": "What May Go Wrong- Introduction to Hazards",
+      "provider": "vimeo",
+      "video_id": "508201211",
+      "video_url": "https://player.vimeo.com/video/508201211?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/508201211",
+      "faculty": "Dr Kiran D C",
+      "date": "04/02/2021 05:36 AM",
+      "section": "NA"
+    },
+    {
+      "title": "class Video-data hazard",
+      "provider": "vimeo",
+      "video_id": "520781091",
+      "video_url": "https://player.vimeo.com/video/520781091?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/520781091",
+      "faculty": "Dr Kiran D C",
+      "date": "08/03/2021 10:12 AM",
+      "section": "NA"
+    },
+    {
+      "title": "class Video-data hazard",
+      "provider": "vimeo",
+      "video_id": "520781585",
+      "video_url": "https://player.vimeo.com/video/520781585?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/520781585",
+      "faculty": "Dr Kiran D C",
+      "date": "08/03/2021 10:14 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:29:34.233796"
+}

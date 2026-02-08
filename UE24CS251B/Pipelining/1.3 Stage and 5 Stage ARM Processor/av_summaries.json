@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS251B",
+  "unit_title": "Pipelining",
+  "videos": [
+    {
+      "title": "3 & 5 Stage ARM Processor",
+      "provider": "vimeo",
+      "video_id": "506921055",
+      "video_url": "https://player.vimeo.com/video/506921055?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/506921055",
+      "faculty": "Dr Kiran D C",
+      "date": "01/02/2021 09:11 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:29:34.149783"
+}
