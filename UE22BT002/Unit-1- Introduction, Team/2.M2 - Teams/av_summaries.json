@@ -1,0 +1,37 @@
+{
+  "course_code": "UE22BT002",
+  "unit_title": "Unit-1: Introduction, Team",
+  "videos": [
+    {
+      "title": "Level 1_Module 2_Sub-module 1",
+      "provider": "vimeo",
+      "video_id": "440619338",
+      "video_url": "https://player.vimeo.com/video/440619338?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/440619338",
+      "faculty": "Madhukar Narasimha",
+      "date": "22/07/2020 04:12 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Level 1_Module 2_Sub-module 2",
+      "provider": "vimeo",
+      "video_id": "440627083",
+      "video_url": "https://player.vimeo.com/video/440627083?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/440627083",
+      "faculty": "Madhukar Narasimha",
+      "date": "22/07/2020 04:45 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Level 1_Module 2_Sub-module 3",
+      "provider": "vimeo",
+      "video_id": "440630623",
+      "video_url": "https://player.vimeo.com/video/440630623?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/440630623",
+      "faculty": "Madhukar Narasimha",
+      "date": "22/07/2020 04:59 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T14:27:34.426397"
+}
