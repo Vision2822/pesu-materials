@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24CS241B",
+  "unit_title": "Limitations,\nCoping with the Limitations of Algorithm Power & Dynamic Programming ",
+  "videos": [
+    {
+      "title": "All Pairs Shortest Path (Floyd's Algorithm)",
+      "provider": "vimeo",
+      "video_id": "566674675",
+      "video_url": "https://player.vimeo.com/video/566674675?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/566674675",
+      "faculty": "Vandana M Ladwani",
+      "date": "23/06/2021 10:33 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Floyds",
+      "provider": "vimeo",
+      "video_id": "538019569",
+      "video_url": "https://player.vimeo.com/video/538019569?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/538019569",
+      "faculty": "Vandana M Ladwani",
+      "date": "17/04/2021 01:37 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:25:20.561153"
+}

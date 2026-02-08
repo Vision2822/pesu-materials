@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS241B",
+  "unit_title": "Limitations,\nCoping with the Limitations of Algorithm Power & Dynamic Programming ",
+  "videos": [
+    {
+      "title": "Branch and Bound",
+      "provider": "vimeo",
+      "video_id": "568995917",
+      "video_url": "https://player.vimeo.com/video/568995917?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/568995917",
+      "faculty": "Vandana M Ladwani",
+      "date": "29/06/2021 10:21 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:25:20.939700"
+}
