@@ -1,0 +1,47 @@
+{
+  "course_code": "UE22BT002",
+  "unit_title": "Unit-4: Finalize Opportunity/ Problem Statement, Marketing Fundamentals",
+  "videos": [
+    {
+      "title": "Level 1_Module 8_Post Session",
+      "provider": "vimeo",
+      "video_id": "443325695",
+      "video_url": "https://player.vimeo.com/video/443325695?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/443325695",
+      "faculty": "Madhukar Narasimha",
+      "date": "31/07/2020 03:28 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Level 1_Module 8_Section 1",
+      "provider": "vimeo",
+      "video_id": "445115045",
+      "video_url": "https://player.vimeo.com/video/445115045?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/445115045",
+      "faculty": "Madhukar Narasimha",
+      "date": "06/08/2020 10:26 AM",
+      "section": "NA"
+    },
+    {
+      "title": "Level 1_Module 8_Section 2",
+      "provider": "vimeo",
+      "video_id": "445118184",
+      "video_url": "https://player.vimeo.com/video/445118184?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/445118184",
+      "faculty": "Madhukar Narasimha",
+      "date": "06/08/2020 10:45 AM",
+      "section": "NA"
+    },
+    {
+      "title": "Level 1_Module 8_Section 3",
+      "provider": "vimeo",
+      "video_id": "445145760",
+      "video_url": "https://player.vimeo.com/video/445145760?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/445145760",
+      "faculty": "Madhukar Narasimha",
+      "date": "06/08/2020 01:19 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T14:28:11.669641"
+}

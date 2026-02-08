@@ -1,0 +1,27 @@
+{
+  "course_code": "UE22BT002",
+  "unit_title": "Unit-4: Finalize Opportunity/ Problem Statement, Marketing Fundamentals",
+  "videos": [
+    {
+      "title": "Level 1_Module 7_Section 1",
+      "provider": "vimeo",
+      "video_id": "444788357",
+      "video_url": "https://player.vimeo.com/video/444788357?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/444788357",
+      "faculty": "Madhukar Narasimha",
+      "date": "05/08/2020 11:42 AM",
+      "section": "NA"
+    },
+    {
+      "title": "Level 1_Module 7_Section 2",
+      "provider": "vimeo",
+      "video_id": "444890121",
+      "video_url": "https://player.vimeo.com/video/444890121?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/444890121",
+      "faculty": "Madhukar Narasimha",
+      "date": "05/08/2020 07:25 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T14:28:11.547243"
+}
