@@ -1,0 +1,17 @@
+{
+  "course_code": "UE24CS241B",
+  "unit_title": "Decrease\n and  Conquer & Divide-and-Conquer",
+  "videos": [
+    {
+      "title": "Quick Sort",
+      "provider": "vimeo",
+      "video_id": "523639374",
+      "video_url": "https://player.vimeo.com/video/523639374?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/523639374",
+      "faculty": "Jayapriya D",
+      "date": "15/03/2021 11:14 AM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:23:54.048415"
+}

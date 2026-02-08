@@ -1,0 +1,27 @@
+{
+  "course_code": "UE24CS241B",
+  "unit_title": "Decrease\n and  Conquer & Divide-and-Conquer",
+  "videos": [
+    {
+      "title": "Topological Sort",
+      "provider": "vimeo",
+      "video_id": "518508808",
+      "video_url": "https://player.vimeo.com/video/518508808?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/518508808",
+      "faculty": "Jayapriya D",
+      "date": "02/03/2021 03:01 PM",
+      "section": "NA"
+    },
+    {
+      "title": "Topological Sort using source removal",
+      "provider": "vimeo",
+      "video_id": "518516681",
+      "video_url": "https://player.vimeo.com/video/518516681?autoplay=0&loop=1&autopause=0&quality=240p",
+      "embed_url": "https://player.vimeo.com/video/518516681",
+      "faculty": "Jayapriya D",
+      "date": "02/03/2021 03:28 PM",
+      "section": "NA"
+    }
+  ],
+  "updated_at": "2026-02-08T13:23:53.596921"
+}
