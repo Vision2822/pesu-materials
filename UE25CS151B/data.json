@@ -1,0 +1,486 @@
+{
+  "success": true,
+  "cached": true,
+  "course_code": "UE25CS151B",
+  "course_title": "Problem Solving With C",
+  "semester_name": "Sem-2",
+  "units": [
+    {
+      "id": "UE25CS151B_Counting, Sorting and Searching",
+      "title": "Counting, Sorting and Searching ",
+      "path": "UE25CS151B/Counting, Sorting and Searching",
+      "classes": []
+    },
+    {
+      "id": "UE25CS151B_File Handling and Portable Programming",
+      "title": "File Handling and Portable Programming",
+      "path": "UE25CS151B/File Handling and Portable Programming",
+      "classes": []
+    },
+    {
+      "id": "UE25CS151B_Problem Solving Fundamentals",
+      "title": "Problem Solving Fundamentals ",
+      "path": "UE25CS151B/Problem Solving Fundamentals",
+      "classes": [
+        {
+          "id": "UE25CS151B_Problem Solving Fundamentals_1.Introduction to the course Title, Syllabus, Lesson Plan and Clarity on the Evalu",
+          "order": 1,
+          "title": "Introduction to the course Title, Syllabus, Lesson Plan and Clarity on the Evaluation policy",
+          "folder_name": "1.Introduction to the course Title, Syllabus, Lesson Plan and Clarity on the Evalu",
+          "path": "UE25CS151B/Problem Solving Fundamentals/1.Introduction to the course Title, Syllabus, Lesson Plan and Clarity on the Evalu",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Introduction to the course Title, Syllabus, Lesson Plan and Clarity on the Evaluation policy_170060ae.pdf",
+                  "title": "Introduction to the course Title, Syllabus, Lesson Plan and Clarity on the Evaluation policy",
+                  "uuid": "170060ae",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/1.Introduction to the course Title, Syllabus, Lesson Plan and Clarity on the Evalu/slides/Introduction to the course Title, Syllabus, Lesson Plan and Clarity on the Evaluation policy_170060ae.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/1.Introduction%20to%20the%20course%20Title%2C%20Syllabus%2C%20Lesson%20Plan%20and%20Clarity%20on%20the%20Evalu/slides/Introduction%20to%20the%20course%20Title%2C%20Syllabus%2C%20Lesson%20Plan%20and%20Clarity%20on%20the%20Evaluation%20policy_170060ae.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/1.Introduction%20to%20the%20course%20Title%2C%20Syllabus%2C%20Lesson%20Plan%20and%20Clarity%20on%20the%20Evalu/slides/Introduction%20to%20the%20course%20Title%2C%20Syllabus%2C%20Lesson%20Plan%20and%20Clarity%20on%20the%20Evaluation%20policy_170060ae.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/1.Introduction%20to%20the%20course%20Title%2C%20Syllabus%2C%20Lesson%20Plan%20and%20Clarity%20on%20the%20Evalu/slides/Introduction%20to%20the%20course%20Title%2C%20Syllabus%2C%20Lesson%20Plan%20and%20Clarity%20on%20the%20Evaluation%20policy_170060ae.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Problem Solving Fundamentals_2.Problem Solving with C in the era of AI, Salient features of C, Programming Envi",
+          "order": 2,
+          "title": "Problem Solving with C in the era of AI, Salient features of C, Programming Environment",
+          "folder_name": "2.Problem Solving with C in the era of AI, Salient features of C, Programming Envi",
+          "path": "UE25CS151B/Problem Solving Fundamentals/2.Problem Solving with C in the era of AI, Salient features of C, Programming Envi",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Problem Solving with C in the era of AI, Salient features of C, Programming Environment_d6245ccb.pdf",
+                  "title": "Problem Solving with C in the era of AI, Salient features of C, Programming Environment",
+                  "uuid": "d6245ccb",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/2.Problem Solving with C in the era of AI, Salient features of C, Programming Envi/slides/Problem Solving with C in the era of AI, Salient features of C, Programming Environment_d6245ccb.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/2.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/slides/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_d6245ccb.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/2.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/slides/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_d6245ccb.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/2.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/slides/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_d6245ccb.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Problem Solving with C in the era of AI, Salient features of C, Programming Environment_8047e538.pdf",
+                  "title": "Problem Solving with C in the era of AI, Salient features of C, Programming Environment",
+                  "uuid": "8047e538",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/2.Problem Solving with C in the era of AI, Salient features of C, Programming Envi/notes/Problem Solving with C in the era of AI, Salient features of C, Programming Environment_8047e538.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/2.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/notes/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_8047e538.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/2.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/notes/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_8047e538.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/2.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/notes/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_8047e538.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Problem Solving Fundamentals_3.Program Development Life cycle of C, Program Structure",
+          "order": 3,
+          "title": "Program Development Life cycle of C, Program Structure",
+          "folder_name": "3.Program Development Life cycle of C, Program Structure",
+          "path": "UE25CS151B/Problem Solving Fundamentals/3.Program Development Life cycle of C, Program Structure",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Program Development Life cycle of C, Program Structure_5f8d57dd.pdf",
+                  "title": "Program Development Life cycle of C, Program Structure",
+                  "uuid": "5f8d57dd",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/3.Program Development Life cycle of C, Program Structure/notes/Program Development Life cycle of C, Program Structure_5f8d57dd.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/3.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/notes/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_5f8d57dd.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/3.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/notes/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_5f8d57dd.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/3.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/notes/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_5f8d57dd.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Program Development Life cycle of C, Program Structure_1fba1a8c.pdf",
+                  "title": "Program Development Life cycle of C, Program Structure",
+                  "uuid": "1fba1a8c",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/3.Program Development Life cycle of C, Program Structure/slides/Program Development Life cycle of C, Program Structure_1fba1a8c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/3.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/slides/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_1fba1a8c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/3.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/slides/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_1fba1a8c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/3.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/slides/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_1fba1a8c.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Problem Solving Fundamentals_4.Simple Output function, Variables, Data types",
+          "order": 4,
+          "title": "Simple Output function, Variables, Data types",
+          "folder_name": "4.Simple Output function, Variables, Data types",
+          "path": "UE25CS151B/Problem Solving Fundamentals/4.Simple Output function, Variables, Data types",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Simple Output function, Variables, Data types_29e5985e.pdf",
+                  "title": "Simple Output function, Variables, Data types",
+                  "uuid": "29e5985e",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/4.Simple Output function, Variables, Data types/notes/Simple Output function, Variables, Data types_29e5985e.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_29e5985e.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_29e5985e.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_29e5985e.pdf"
+                },
+                {
+                  "name": "Simple Output function, Variables, Data types_41ee9134.pdf",
+                  "title": "Simple Output function, Variables, Data types",
+                  "uuid": "41ee9134",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/4.Simple Output function, Variables, Data types/notes/Simple Output function, Variables, Data types_41ee9134.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_41ee9134.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_41ee9134.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_41ee9134.pdf"
+                },
+                {
+                  "name": "Simple Output function, Variables, Data types_45c2b994.pdf",
+                  "title": "Simple Output function, Variables, Data types",
+                  "uuid": "45c2b994",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/4.Simple Output function, Variables, Data types/notes/Simple Output function, Variables, Data types_45c2b994.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_45c2b994.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_45c2b994.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_45c2b994.pdf"
+                }
+              ],
+              "count": 3
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Simple Output function, Variables, Data types_7c18f6ee.pdf",
+                  "title": "Simple Output function, Variables, Data types",
+                  "uuid": "7c18f6ee",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/4.Simple Output function, Variables, Data types/slides/Simple Output function, Variables, Data types_7c18f6ee.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_7c18f6ee.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_7c18f6ee.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_7c18f6ee.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Problem Solving Fundamentals_5.Simple Input function, Range of values, Qualifiers",
+          "order": 5,
+          "title": "Simple Input function, Range of values, Qualifiers",
+          "folder_name": "5.Simple Input function, Range of values, Qualifiers",
+          "path": "UE25CS151B/Problem Solving Fundamentals/5.Simple Input function, Range of values, Qualifiers",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Simple input functions_61cc9e11.pdf",
+                  "title": "Simple input functions",
+                  "uuid": "61cc9e11",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/5.Simple Input function, Range of values, Qualifiers/notes/Simple input functions_61cc9e11.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/notes/Simple%20input%20functions_61cc9e11.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/notes/Simple%20input%20functions_61cc9e11.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/notes/Simple%20input%20functions_61cc9e11.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Simple Output function, Variables, Data types_ea6e3aec.pdf",
+                  "title": "Simple Output function, Variables, Data types",
+                  "uuid": "ea6e3aec",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/5.Simple Input function, Range of values, Qualifiers/slides/Simple Output function, Variables, Data types_ea6e3aec.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_ea6e3aec.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_ea6e3aec.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_ea6e3aec.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Problem Solving Fundamentals_6.Operators and Expressions",
+          "order": 6,
+          "title": "Operators and Expressions",
+          "folder_name": "6.Operators and Expressions",
+          "path": "UE25CS151B/Problem Solving Fundamentals/6.Operators and Expressions",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Operators and Expressions_5af2406f.pdf",
+                  "title": "Operators and Expressions",
+                  "uuid": "5af2406f",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/6.Operators and Expressions/notes/Operators and Expressions_5af2406f.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Operators%20and%20Expressions/notes/Operators%20and%20Expressions_5af2406f.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Operators%20and%20Expressions/notes/Operators%20and%20Expressions_5af2406f.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Operators%20and%20Expressions/notes/Operators%20and%20Expressions_5af2406f.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Operators and Expressions_36da027c.pdf",
+                  "title": "Operators and Expressions",
+                  "uuid": "36da027c",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/6.Operators and Expressions/slides/Operators and Expressions_36da027c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Operators%20and%20Expressions/slides/Operators%20and%20Expressions_36da027c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Operators%20and%20Expressions/slides/Operators%20and%20Expressions_36da027c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Operators%20and%20Expressions/slides/Operators%20and%20Expressions_36da027c.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Problem Solving Fundamentals_8.Control Structures Selection Statements, Problem Solving using Selection stateme",
+          "order": 8,
+          "title": "Control Structures  Selection Statements, Problem Solving using Selection statements",
+          "folder_name": "8.Control Structures Selection Statements, Problem Solving using Selection stateme",
+          "path": "UE25CS151B/Problem Solving Fundamentals/8.Control Structures Selection Statements, Problem Solving using Selection stateme",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Control Structures â Selection Statements, Problem Solving using Selection statements_c685844b.pdf",
+                  "title": "Control Structures â Selection Statements, Problem Solving using Selection statements",
+                  "uuid": "c685844b",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/8.Control Structures Selection Statements, Problem Solving using Selection stateme/slides/Control Structures â Selection Statements, Problem Solving using Selection statements_c685844b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_c685844b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_c685844b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_c685844b.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Control Structures â Selection Statements, Problem Solving using Selection statements_e80a2029.pdf",
+                  "title": "Control Structures â Selection Statements, Problem Solving using Selection statements",
+                  "uuid": "e80a2029",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/8.Control Structures Selection Statements, Problem Solving using Selection stateme/notes/Control Structures â Selection Statements, Problem Solving using Selection statements_e80a2029.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e80a2029.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e80a2029.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e80a2029.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Problem Solving Fundamentals_9.Control Structures Looping Statements, Problem Solving using Looping statements",
+          "order": 9,
+          "title": "Control Structures  Looping Statements, Problem Solving using Looping statements",
+          "folder_name": "9.Control Structures Looping Statements, Problem Solving using Looping statements",
+          "path": "UE25CS151B/Problem Solving Fundamentals/9.Control Structures Looping Statements, Problem Solving using Looping statements",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Control Structures â Selection Statements, Problem Solving using Selection statements_e5935df1.pdf",
+                  "title": "Control Structures â Selection Statements, Problem Solving using Selection statements",
+                  "uuid": "e5935df1",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/9.Control Structures Looping Statements, Problem Solving using Looping statements/slides/Control Structures â Selection Statements, Problem Solving using Selection statements_e5935df1.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e5935df1.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e5935df1.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e5935df1.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Control Structures â Problem Solving using Selection statements and control structures_4d1344f5.pdf",
+                  "title": "Control Structures â Problem Solving using Selection statements and control structures",
+                  "uuid": "4d1344f5",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/9.Control Structures Looping Statements, Problem Solving using Looping statements/notes/Control Structures â Problem Solving using Selection statements and control structures_4d1344f5.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Problem%20Solving%20using%20Selection%20statements%20and%20control%20structures_4d1344f5.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Problem%20Solving%20using%20Selection%20statements%20and%20control%20structures_4d1344f5.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Problem%20Solving%20using%20Selection%20statements%20and%20control%20structures_4d1344f5.pdf"
+                },
+                {
+                  "name": "Control Structures â Selection Statements, Problem Solving using Selection statements_6c1b9c20.pdf",
+                  "title": "Control Structures â Selection Statements, Problem Solving using Selection statements",
+                  "uuid": "6c1b9c20",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/9.Control Structures Looping Statements, Problem Solving using Looping statements/notes/Control Structures â Selection Statements, Problem Solving using Selection statements_6c1b9c20.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_6c1b9c20.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_6c1b9c20.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_6c1b9c20.pdf"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Problem Solving Fundamentals_10.Single Character Input and Output, Problem solving using Control structures and",
+          "order": 10,
+          "title": "Single Character Input and Output, Problem solving using Control structures and character input/output",
+          "folder_name": "10.Single Character Input and Output, Problem solving using Control structures and",
+          "path": "UE25CS151B/Problem Solving Fundamentals/10.Single Character Input and Output, Problem solving using Control structures and",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Single Character Input and Output, Problem solving using Control structures and character inputoutpu_61727a8a.pdf",
+                  "title": "Single Character Input and Output, Problem solving using Control structures and character inputoutpu",
+                  "uuid": "61727a8a",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/10.Single Character Input and Output, Problem solving using Control structures and/slides/Single Character Input and Output, Problem solving using Control structures and character inputoutpu_61727a8a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/slides/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_61727a8a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/slides/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_61727a8a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/slides/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_61727a8a.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Single Character Input and Output, Problem solving using Control structures and character inputoutpu_77162eff.pdf",
+                  "title": "Single Character Input and Output, Problem solving using Control structures and character inputoutpu",
+                  "uuid": "77162eff",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/10.Single Character Input and Output, Problem solving using Control structures and/notes/Single Character Input and Output, Problem solving using Control structures and character inputoutpu_77162eff.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/notes/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_77162eff.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/notes/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_77162eff.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/notes/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_77162eff.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Problem Solving Fundamentals_11.Language specifications-Behaviors",
+          "order": 11,
+          "title": "Language specifications-Behaviors",
+          "folder_name": "11.Language specifications-Behaviors",
+          "path": "UE25CS151B/Problem Solving Fundamentals/11.Language specifications-Behaviors",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Language specifications-Behaviors_94adf109.pdf",
+                  "title": "Language specifications-Behaviors",
+                  "uuid": "94adf109",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/11.Language specifications-Behaviors/notes/Language specifications-Behaviors_94adf109.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Language%20specifications-Behaviors/notes/Language%20specifications-Behaviors_94adf109.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Language%20specifications-Behaviors/notes/Language%20specifications-Behaviors_94adf109.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Language%20specifications-Behaviors/notes/Language%20specifications-Behaviors_94adf109.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Language specifications-Behaviors_da52111b.pdf",
+                  "title": "Language specifications-Behaviors",
+                  "uuid": "da52111b",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/11.Language specifications-Behaviors/slides/Language specifications-Behaviors_da52111b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Language%20specifications-Behaviors/slides/Language%20specifications-Behaviors_da52111b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Language%20specifications-Behaviors/slides/Language%20specifications-Behaviors_da52111b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Language%20specifications-Behaviors/slides/Language%20specifications-Behaviors_da52111b.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Problem Solving Fundamentals_12.Coding standards and Guidelines to avoid different types of errors",
+          "order": 12,
+          "title": "Coding standards and Guidelines to avoid different types of errors",
+          "folder_name": "12.Coding standards and Guidelines to avoid different types of errors",
+          "path": "UE25CS151B/Problem Solving Fundamentals/12.Coding standards and Guidelines to avoid different types of errors",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Coding standards and Guidelines to avoid different types of errors_6fcf03ca.pdf",
+                  "title": "Coding standards and Guidelines to avoid different types of errors",
+                  "uuid": "6fcf03ca",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/12.Coding standards and Guidelines to avoid different types of errors/slides/Coding standards and Guidelines to avoid different types of errors_6fcf03ca.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/12.Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors/slides/Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors_6fcf03ca.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/12.Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors/slides/Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors_6fcf03ca.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/12.Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors/slides/Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors_6fcf03ca.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "UE25CS151B_Text Processing and User-Defined Types",
+      "title": "Text Processing and User-Defined Types ",
+      "path": "UE25CS151B/Text Processing and User-Defined Types",
+      "classes": []
+    }
+  ],
+  "total_units": 4,
+  "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE25CS151B",
+  "updated_at": "2026-02-09T14:46:51.467090"
+}
