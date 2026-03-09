@@ -9,13 +9,644 @@
       "id": "UE25CS151B_Counting, Sorting and Searching",
       "title": "Counting, Sorting and Searching ",
       "path": "UE25CS151B/Counting, Sorting and Searching",
-      "classes": []
+      "classes": [
+        {
+          "id": "UE25CS151B_Counting, Sorting and Searching_2.Arrays-1D Initialization and Traversal",
+          "order": 2,
+          "title": "Arrays-1D  Initialization  and Traversal",
+          "folder_name": "2.Arrays-1D Initialization and Traversal",
+          "path": "UE25CS151B/Counting, Sorting and Searching/2.Arrays-1D Initialization and Traversal",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Arrays_1D_cacea22a.pdf",
+                  "title": "Arrays 1D",
+                  "uuid": "cacea22a",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/2.Arrays-1D Initialization and Traversal/notes/Arrays_1D_cacea22a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/2.Arrays-1D%20Initialization%20and%20Traversal/notes/Arrays_1D_cacea22a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/2.Arrays-1D%20Initialization%20and%20Traversal/notes/Arrays_1D_cacea22a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/2.Arrays-1D%20Initialization%20and%20Traversal/notes/Arrays_1D_cacea22a.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "One Dimensional Arrays_60f2605d.pdf",
+                  "title": "One Dimensional Arrays",
+                  "uuid": "60f2605d",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/2.Arrays-1D Initialization and Traversal/qa/One Dimensional Arrays_60f2605d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/2.Arrays-1D%20Initialization%20and%20Traversal/qa/One%20Dimensional%20Arrays_60f2605d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/2.Arrays-1D%20Initialization%20and%20Traversal/qa/One%20Dimensional%20Arrays_60f2605d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/2.Arrays-1D%20Initialization%20and%20Traversal/qa/One%20Dimensional%20Arrays_60f2605d.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Arrays - 1D Initialization and Traversal_8a2bd0eb.pdf",
+                  "title": "Arrays - 1D Initialization and Traversal",
+                  "uuid": "8a2bd0eb",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/2.Arrays-1D Initialization and Traversal/slides/Arrays - 1D Initialization and Traversal_8a2bd0eb.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/2.Arrays-1D%20Initialization%20and%20Traversal/slides/Arrays%20-%201D%20Initialization%20and%20Traversal_8a2bd0eb.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/2.Arrays-1D%20Initialization%20and%20Traversal/slides/Arrays%20-%201D%20Initialization%20and%20Traversal_8a2bd0eb.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/2.Arrays-1D%20Initialization%20and%20Traversal/slides/Arrays%20-%201D%20Initialization%20and%20Traversal_8a2bd0eb.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "One Dimensional Arrays_17363c2d.pdf",
+                  "title": "One Dimensional Arrays",
+                  "uuid": "17363c2d",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/2.Arrays-1D Initialization and Traversal/questionbank/One Dimensional Arrays_17363c2d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/2.Arrays-1D%20Initialization%20and%20Traversal/questionbank/One%20Dimensional%20Arrays_17363c2d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/2.Arrays-1D%20Initialization%20and%20Traversal/questionbank/One%20Dimensional%20Arrays_17363c2d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/2.Arrays-1D%20Initialization%20and%20Traversal/questionbank/One%20Dimensional%20Arrays_17363c2d.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Counting, Sorting and Searching_3.Arrays - 2D",
+          "order": 3,
+          "title": "Arrays - 2D",
+          "folder_name": "3.Arrays - 2D",
+          "path": "UE25CS151B/Counting, Sorting and Searching/3.Arrays - 2D",
+          "content": {
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "2D Arrays_f6683432.pdf",
+                  "title": "2D Arrays",
+                  "uuid": "f6683432",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/3.Arrays - 2D/qa/2D Arrays_f6683432.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/3.Arrays%20-%202D/qa/2D%20Arrays_f6683432.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/3.Arrays%20-%202D/qa/2D%20Arrays_f6683432.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/3.Arrays%20-%202D/qa/2D%20Arrays_f6683432.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "2D Arrays_f66e0fa1.pdf",
+                  "title": "2D Arrays",
+                  "uuid": "f66e0fa1",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/3.Arrays - 2D/notes/2D Arrays_f66e0fa1.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/3.Arrays%20-%202D/notes/2D%20Arrays_f66e0fa1.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/3.Arrays%20-%202D/notes/2D%20Arrays_f66e0fa1.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/3.Arrays%20-%202D/notes/2D%20Arrays_f66e0fa1.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Arrays_2D_aba3df75.pdf",
+                  "title": "Arrays 2D",
+                  "uuid": "aba3df75",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/3.Arrays - 2D/questionbank/Arrays_2D_aba3df75.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/3.Arrays%20-%202D/questionbank/Arrays_2D_aba3df75.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/3.Arrays%20-%202D/questionbank/Arrays_2D_aba3df75.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/3.Arrays%20-%202D/questionbank/Arrays_2D_aba3df75.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "arrays- 2D_cc9b5d90.pdf",
+                  "title": "arrays- 2D",
+                  "uuid": "cc9b5d90",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/3.Arrays - 2D/slides/arrays- 2D_cc9b5d90.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/3.Arrays%20-%202D/slides/arrays-%202D_cc9b5d90.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/3.Arrays%20-%202D/slides/arrays-%202D_cc9b5d90.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/3.Arrays%20-%202D/slides/arrays-%202D_cc9b5d90.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Counting, Sorting and Searching_4.Problem Solving using arrays",
+          "order": 4,
+          "title": "Problem Solving using arrays",
+          "folder_name": "4.Problem Solving using arrays",
+          "path": "UE25CS151B/Counting, Sorting and Searching/4.Problem Solving using arrays",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Problem solving using arrays_e68c0743.pdf",
+                  "title": "Problem solving using arrays",
+                  "uuid": "e68c0743",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/4.Problem Solving using arrays/notes/Problem solving using arrays_e68c0743.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/4.Problem%20Solving%20using%20arrays/notes/Problem%20solving%20using%20arrays_e68c0743.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/4.Problem%20Solving%20using%20arrays/notes/Problem%20solving%20using%20arrays_e68c0743.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/4.Problem%20Solving%20using%20arrays/notes/Problem%20solving%20using%20arrays_e68c0743.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Counting, Sorting and Searching_6.Pointers",
+          "order": 6,
+          "title": "Pointers",
+          "folder_name": "6.Pointers",
+          "path": "UE25CS151B/Counting, Sorting and Searching/6.Pointers",
+          "content": {
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Pointers_56684936.pdf",
+                  "title": "Pointers",
+                  "uuid": "56684936",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/6.Pointers/qa/Pointers_56684936.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/6.Pointers/qa/Pointers_56684936.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/6.Pointers/qa/Pointers_56684936.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/6.Pointers/qa/Pointers_56684936.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Pointers_c909c0c8.pdf",
+                  "title": "Pointers",
+                  "uuid": "c909c0c8",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/6.Pointers/questionbank/Pointers_c909c0c8.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/6.Pointers/questionbank/Pointers_c909c0c8.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/6.Pointers/questionbank/Pointers_c909c0c8.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/6.Pointers/questionbank/Pointers_c909c0c8.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Pointers_d12d1916.pdf",
+                  "title": "Pointers",
+                  "uuid": "d12d1916",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/6.Pointers/slides/Pointers_d12d1916.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/6.Pointers/slides/Pointers_d12d1916.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/6.Pointers/slides/Pointers_d12d1916.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/6.Pointers/slides/Pointers_d12d1916.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Pointers_100aa9a2.pdf",
+                  "title": "Pointers",
+                  "uuid": "100aa9a2",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/6.Pointers/notes/Pointers_100aa9a2.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/6.Pointers/notes/Pointers_100aa9a2.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/6.Pointers/notes/Pointers_100aa9a2.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/6.Pointers/notes/Pointers_100aa9a2.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Counting, Sorting and Searching_8.Functions",
+          "order": 8,
+          "title": "Functions",
+          "folder_name": "8.Functions",
+          "path": "UE25CS151B/Counting, Sorting and Searching/8.Functions",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Functions_8f44d9c9.pdf",
+                  "title": "Functions",
+                  "uuid": "8f44d9c9",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/8.Functions/notes/Functions_8f44d9c9.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/8.Functions/notes/Functions_8f44d9c9.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/8.Functions/notes/Functions_8f44d9c9.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/8.Functions/notes/Functions_8f44d9c9.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Functions_a58f5b12.pdf",
+                  "title": "Functions",
+                  "uuid": "a58f5b12",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/8.Functions/questionbank/Functions_a58f5b12.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/8.Functions/questionbank/Functions_a58f5b12.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/8.Functions/questionbank/Functions_a58f5b12.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/8.Functions/questionbank/Functions_a58f5b12.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Functions_afa61e37.pdf",
+                  "title": "Functions",
+                  "uuid": "afa61e37",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/8.Functions/slides/Functions_afa61e37.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/8.Functions/slides/Functions_afa61e37.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/8.Functions/slides/Functions_afa61e37.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/8.Functions/slides/Functions_afa61e37.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Functions_4ee04b4b.pdf",
+                  "title": "Functions",
+                  "uuid": "4ee04b4b",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/8.Functions/qa/Functions_4ee04b4b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/8.Functions/qa/Functions_4ee04b4b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/8.Functions/qa/Functions_4ee04b4b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/8.Functions/qa/Functions_4ee04b4b.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Counting, Sorting and Searching_9.Arrays and Functions",
+          "order": 9,
+          "title": "Arrays and Functions",
+          "folder_name": "9.Arrays and Functions",
+          "path": "UE25CS151B/Counting, Sorting and Searching/9.Arrays and Functions",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Arrays and Functions_759e2259.pdf",
+                  "title": "Arrays and Functions",
+                  "uuid": "759e2259",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/9.Arrays and Functions/notes/Arrays and Functions_759e2259.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/9.Arrays%20and%20Functions/notes/Arrays%20and%20Functions_759e2259.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/9.Arrays%20and%20Functions/notes/Arrays%20and%20Functions_759e2259.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/9.Arrays%20and%20Functions/notes/Arrays%20and%20Functions_759e2259.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Arrays and functions_a4c33162.pdf",
+                  "title": "Arrays and functions",
+                  "uuid": "a4c33162",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/9.Arrays and Functions/slides/Arrays and functions_a4c33162.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/9.Arrays%20and%20Functions/slides/Arrays%20and%20functions_a4c33162.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/9.Arrays%20and%20Functions/slides/Arrays%20and%20functions_a4c33162.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/9.Arrays%20and%20Functions/slides/Arrays%20and%20functions_a4c33162.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Counting, Sorting and Searching_11.Problem Solving using array of pointers and functions",
+          "order": 11,
+          "title": "Problem Solving using array of pointers and functions",
+          "folder_name": "11.Problem Solving using array of pointers and functions",
+          "path": "UE25CS151B/Counting, Sorting and Searching/11.Problem Solving using array of pointers and functions",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Problem Solving using 2D arrays_559605f3.pdf",
+                  "title": "Problem Solving using 2D arrays",
+                  "uuid": "559605f3",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/11.Problem Solving using array of pointers and functions/notes/Problem Solving using 2D arrays_559605f3.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/11.Problem%20Solving%20using%20array%20of%20pointers%20and%20functions/notes/Problem%20Solving%20using%202D%20arrays_559605f3.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/11.Problem%20Solving%20using%20array%20of%20pointers%20and%20functions/notes/Problem%20Solving%20using%202D%20arrays_559605f3.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/11.Problem%20Solving%20using%20array%20of%20pointers%20and%20functions/notes/Problem%20Solving%20using%202D%20arrays_559605f3.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Counting, Sorting and Searching_12.Storage Classes",
+          "order": 12,
+          "title": "Storage Classes",
+          "folder_name": "12.Storage Classes",
+          "path": "UE25CS151B/Counting, Sorting and Searching/12.Storage Classes",
+          "content": {
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Storage classes_90b794e8.pdf",
+                  "title": "Storage classes",
+                  "uuid": "90b794e8",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/12.Storage Classes/qa/Storage classes_90b794e8.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/12.Storage%20Classes/qa/Storage%20classes_90b794e8.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/12.Storage%20Classes/qa/Storage%20classes_90b794e8.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/12.Storage%20Classes/qa/Storage%20classes_90b794e8.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Storage classes_37a4714d.pdf",
+                  "title": "Storage classes",
+                  "uuid": "37a4714d",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/12.Storage Classes/questionbank/Storage classes_37a4714d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/12.Storage%20Classes/questionbank/Storage%20classes_37a4714d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/12.Storage%20Classes/questionbank/Storage%20classes_37a4714d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/12.Storage%20Classes/questionbank/Storage%20classes_37a4714d.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Storage classes_504c4d94.pdf",
+                  "title": "Storage classes",
+                  "uuid": "504c4d94",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/12.Storage Classes/notes/Storage classes_504c4d94.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/12.Storage%20Classes/notes/Storage%20classes_504c4d94.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/12.Storage%20Classes/notes/Storage%20classes_504c4d94.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/12.Storage%20Classes/notes/Storage%20classes_504c4d94.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Storage Classes_e2c32ec5.pdf",
+                  "title": "Storage Classes",
+                  "uuid": "e2c32ec5",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/12.Storage Classes/slides/Storage Classes_e2c32ec5.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/12.Storage%20Classes/slides/Storage%20Classes_e2c32ec5.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/12.Storage%20Classes/slides/Storage%20Classes_e2c32ec5.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/12.Storage%20Classes/slides/Storage%20Classes_e2c32ec5.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Counting, Sorting and Searching_13.CallBack",
+          "order": 13,
+          "title": "CallBack",
+          "folder_name": "13.CallBack",
+          "path": "UE25CS151B/Counting, Sorting and Searching/13.CallBack",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "CallBack_eaebcc5e.pdf",
+                  "title": "CallBack",
+                  "uuid": "eaebcc5e",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/13.CallBack/slides/CallBack_eaebcc5e.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/13.CallBack/slides/CallBack_eaebcc5e.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/13.CallBack/slides/CallBack_eaebcc5e.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/13.CallBack/slides/CallBack_eaebcc5e.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "CallBack_afe68cd7.pdf",
+                  "title": "CallBack",
+                  "uuid": "afe68cd7",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/13.CallBack/notes/CallBack_afe68cd7.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/13.CallBack/notes/CallBack_afe68cd7.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/13.CallBack/notes/CallBack_afe68cd7.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/13.CallBack/notes/CallBack_afe68cd7.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Counting, Sorting and Searching_15.Recursion",
+          "order": 15,
+          "title": "Recursion",
+          "folder_name": "15.Recursion",
+          "path": "UE25CS151B/Counting, Sorting and Searching/15.Recursion",
+          "content": {
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Recursion_cfc015f8.pdf",
+                  "title": "Recursion",
+                  "uuid": "cfc015f8",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/15.Recursion/slides/Recursion_cfc015f8.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/15.Recursion/slides/Recursion_cfc015f8.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/15.Recursion/slides/Recursion_cfc015f8.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/15.Recursion/slides/Recursion_cfc015f8.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Recursion_ba190acb.pdf",
+                  "title": "Recursion",
+                  "uuid": "ba190acb",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/15.Recursion/notes/Recursion_ba190acb.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/15.Recursion/notes/Recursion_ba190acb.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/15.Recursion/notes/Recursion_ba190acb.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/15.Recursion/notes/Recursion_ba190acb.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Counting, Sorting and Searching_17.searching",
+          "order": 17,
+          "title": "searching",
+          "folder_name": "17.searching",
+          "path": "UE25CS151B/Counting, Sorting and Searching/17.searching",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Searching_81be1d08.pdf",
+                  "title": "Searching",
+                  "uuid": "81be1d08",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/17.searching/notes/Searching_81be1d08.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/17.searching/notes/Searching_81be1d08.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/17.searching/notes/Searching_81be1d08.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/17.searching/notes/Searching_81be1d08.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Counting, Sorting and Searching_18.Sorting",
+          "order": 18,
+          "title": "Sorting",
+          "folder_name": "18.Sorting",
+          "path": "UE25CS151B/Counting, Sorting and Searching/18.Sorting",
+          "content": {
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Sorting_5e31333d.pdf",
+                  "title": "Sorting",
+                  "uuid": "5e31333d",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Counting, Sorting and Searching/18.Sorting/notes/Sorting_5e31333d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/18.Sorting/notes/Sorting_5e31333d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/18.Sorting/notes/Sorting_5e31333d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Counting%2C%20Sorting%20and%20Searching/18.Sorting/notes/Sorting_5e31333d.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
     },
     {
       "id": "UE25CS151B_File Handling and Portable Programming",
       "title": "File Handling and Portable Programming",
       "path": "UE25CS151B/File Handling and Portable Programming",
-      "classes": []
+      "classes": [
+        {
+          "id": "UE25CS151B_File Handling and Portable Programming_2.File Handling functions in C",
+          "order": 2,
+          "title": "File Handling functions in C",
+          "folder_name": "2.File Handling functions in C",
+          "path": "UE25CS151B/File Handling and Portable Programming/2.File Handling functions in C",
+          "content": {
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "File Handling_bb8e877d.pdf",
+                  "title": "File Handling",
+                  "uuid": "bb8e877d",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/File Handling and Portable Programming/2.File Handling functions in C/qa/File Handling_bb8e877d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/File%20Handling%20and%20Portable%20Programming/2.File%20Handling%20functions%20in%20C/qa/File%20Handling_bb8e877d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/File%20Handling%20and%20Portable%20Programming/2.File%20Handling%20functions%20in%20C/qa/File%20Handling_bb8e877d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/File%20Handling%20and%20Portable%20Programming/2.File%20Handling%20functions%20in%20C/qa/File%20Handling_bb8e877d.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "File Handling_bb8e32a0.pdf",
+                  "title": "File Handling",
+                  "uuid": "bb8e32a0",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/File Handling and Portable Programming/2.File Handling functions in C/questionbank/File Handling_bb8e32a0.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/File%20Handling%20and%20Portable%20Programming/2.File%20Handling%20functions%20in%20C/questionbank/File%20Handling_bb8e32a0.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/File%20Handling%20and%20Portable%20Programming/2.File%20Handling%20functions%20in%20C/questionbank/File%20Handling_bb8e32a0.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/File%20Handling%20and%20Portable%20Programming/2.File%20Handling%20functions%20in%20C/questionbank/File%20Handling_bb8e32a0.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
     },
     {
       "id": "UE25CS151B_Problem Solving Fundamentals",
@@ -41,18 +672,28 @@
                   "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/1.Introduction%20to%20the%20course%20Title%2C%20Syllabus%2C%20Lesson%20Plan%20and%20Clarity%20on%20the%20Evalu/slides/Introduction%20to%20the%20course%20Title%2C%20Syllabus%2C%20Lesson%20Plan%20and%20Clarity%20on%20the%20Evaluation%20policy_170060ae.pdf",
                   "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/1.Introduction%20to%20the%20course%20Title%2C%20Syllabus%2C%20Lesson%20Plan%20and%20Clarity%20on%20the%20Evalu/slides/Introduction%20to%20the%20course%20Title%2C%20Syllabus%2C%20Lesson%20Plan%20and%20Clarity%20on%20the%20Evaluation%20policy_170060ae.pdf",
                   "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/1.Introduction%20to%20the%20course%20Title%2C%20Syllabus%2C%20Lesson%20Plan%20and%20Clarity%20on%20the%20Evalu/slides/Introduction%20to%20the%20course%20Title%2C%20Syllabus%2C%20Lesson%20Plan%20and%20Clarity%20on%20the%20Evaluation%20policy_170060ae.pdf"
+                },
+                {
+                  "name": "PSWC_UE25CS151B_Evaluation Policy_3413a8df.pdf",
+                  "title": "PSWC UE25CS151B Evaluation Policy",
+                  "uuid": "3413a8df",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/1.Introduction to the course Title, Syllabus, Lesson Plan and Clarity on the Evalu/slides/PSWC_UE25CS151B_Evaluation Policy_3413a8df.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/1.Introduction%20to%20the%20course%20Title%2C%20Syllabus%2C%20Lesson%20Plan%20and%20Clarity%20on%20the%20Evalu/slides/PSWC_UE25CS151B_Evaluation%20Policy_3413a8df.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/1.Introduction%20to%20the%20course%20Title%2C%20Syllabus%2C%20Lesson%20Plan%20and%20Clarity%20on%20the%20Evalu/slides/PSWC_UE25CS151B_Evaluation%20Policy_3413a8df.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/1.Introduction%20to%20the%20course%20Title%2C%20Syllabus%2C%20Lesson%20Plan%20and%20Clarity%20on%20the%20Evalu/slides/PSWC_UE25CS151B_Evaluation%20Policy_3413a8df.pdf"
                 }
               ],
-              "count": 1
+              "count": 2
             }
           }
         },
         {
-          "id": "UE25CS151B_Problem Solving Fundamentals_2.Problem Solving with C in the era of AI, Salient features of C, Programming Envi",
-          "order": 2,
+          "id": "UE25CS151B_Problem Solving Fundamentals_4.Problem Solving with C in the era of AI, Salient features of C, Programming Envi",
+          "order": 4,
           "title": "Problem Solving with C in the era of AI, Salient features of C, Programming Environment",
-          "folder_name": "2.Problem Solving with C in the era of AI, Salient features of C, Programming Envi",
-          "path": "UE25CS151B/Problem Solving Fundamentals/2.Problem Solving with C in the era of AI, Salient features of C, Programming Envi",
+          "folder_name": "4.Problem Solving with C in the era of AI, Salient features of C, Programming Envi",
+          "path": "UE25CS151B/Problem Solving Fundamentals/4.Problem Solving with C in the era of AI, Salient features of C, Programming Envi",
           "content": {
             "slides": {
               "type": "slides",
@@ -62,10 +703,10 @@
                   "title": "Problem Solving with C in the era of AI, Salient features of C, Programming Environment",
                   "uuid": "d6245ccb",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/2.Problem Solving with C in the era of AI, Salient features of C, Programming Envi/slides/Problem Solving with C in the era of AI, Salient features of C, Programming Environment_d6245ccb.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/2.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/slides/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_d6245ccb.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/2.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/slides/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_d6245ccb.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/2.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/slides/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_d6245ccb.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/4.Problem Solving with C in the era of AI, Salient features of C, Programming Envi/slides/Problem Solving with C in the era of AI, Salient features of C, Programming Environment_d6245ccb.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/slides/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_d6245ccb.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/slides/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_d6245ccb.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/slides/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_d6245ccb.pdf"
                 }
               ],
               "count": 1
@@ -78,10 +719,10 @@
                   "title": "Problem Solving with C in the era of AI, Salient features of C, Programming Environment",
                   "uuid": "8047e538",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/2.Problem Solving with C in the era of AI, Salient features of C, Programming Envi/notes/Problem Solving with C in the era of AI, Salient features of C, Programming Environment_8047e538.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/2.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/notes/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_8047e538.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/2.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/notes/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_8047e538.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/2.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/notes/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_8047e538.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/4.Problem Solving with C in the era of AI, Salient features of C, Programming Envi/notes/Problem Solving with C in the era of AI, Salient features of C, Programming Environment_8047e538.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/notes/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_8047e538.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/notes/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_8047e538.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Envi/notes/Problem%20Solving%20with%20C%20in%20the%20era%20of%20AI%2C%20Salient%20features%20of%20C%2C%20Programming%20Environment_8047e538.pdf"
                 }
               ],
               "count": 1
@@ -89,11 +730,11 @@
           }
         },
         {
-          "id": "UE25CS151B_Problem Solving Fundamentals_3.Program Development Life cycle of C, Program Structure",
-          "order": 3,
+          "id": "UE25CS151B_Problem Solving Fundamentals_5.Program Development Life cycle of C, Program Structure",
+          "order": 5,
           "title": "Program Development Life cycle of C, Program Structure",
-          "folder_name": "3.Program Development Life cycle of C, Program Structure",
-          "path": "UE25CS151B/Problem Solving Fundamentals/3.Program Development Life cycle of C, Program Structure",
+          "folder_name": "5.Program Development Life cycle of C, Program Structure",
+          "path": "UE25CS151B/Problem Solving Fundamentals/5.Program Development Life cycle of C, Program Structure",
           "content": {
             "notes": {
               "type": "notes",
@@ -103,10 +744,26 @@
                   "title": "Program Development Life cycle of C, Program Structure",
                   "uuid": "5f8d57dd",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/3.Program Development Life cycle of C, Program Structure/notes/Program Development Life cycle of C, Program Structure_5f8d57dd.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/3.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/notes/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_5f8d57dd.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/3.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/notes/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_5f8d57dd.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/3.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/notes/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_5f8d57dd.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/5.Program Development Life cycle of C, Program Structure/notes/Program Development Life cycle of C, Program Structure_5f8d57dd.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/notes/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_5f8d57dd.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/notes/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_5f8d57dd.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/notes/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_5f8d57dd.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "GCC,PDLC_784f79a8.pdf",
+                  "title": "GCC,PDLC",
+                  "uuid": "784f79a8",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/5.Program Development Life cycle of C, Program Structure/questionbank/GCC,PDLC_784f79a8.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/questionbank/GCC%2CPDLC_784f79a8.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/questionbank/GCC%2CPDLC_784f79a8.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/questionbank/GCC%2CPDLC_784f79a8.pdf"
                 }
               ],
               "count": 1
@@ -119,10 +776,26 @@
                   "title": "Program Development Life cycle of C, Program Structure",
                   "uuid": "1fba1a8c",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/3.Program Development Life cycle of C, Program Structure/slides/Program Development Life cycle of C, Program Structure_1fba1a8c.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/3.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/slides/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_1fba1a8c.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/3.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/slides/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_1fba1a8c.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/3.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/slides/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_1fba1a8c.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/5.Program Development Life cycle of C, Program Structure/slides/Program Development Life cycle of C, Program Structure_1fba1a8c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/slides/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_1fba1a8c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/slides/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_1fba1a8c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/slides/Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure_1fba1a8c.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "PDLC, GCC_5d63290a.pdf",
+                  "title": "PDLC, GCC",
+                  "uuid": "5d63290a",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/5.Program Development Life cycle of C, Program Structure/qa/PDLC, GCC_5d63290a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/qa/PDLC%2C%20GCC_5d63290a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/qa/PDLC%2C%20GCC_5d63290a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Program%20Development%20Life%20cycle%20of%20C%2C%20Program%20Structure/qa/PDLC%2C%20GCC_5d63290a.pdf"
                 }
               ],
               "count": 1
@@ -130,12 +803,44 @@
           }
         },
         {
-          "id": "UE25CS151B_Problem Solving Fundamentals_4.Simple Output function, Variables, Data types",
-          "order": 4,
+          "id": "UE25CS151B_Problem Solving Fundamentals_6.Simple Output function, Variables, Data types",
+          "order": 6,
           "title": "Simple Output function, Variables, Data types",
-          "folder_name": "4.Simple Output function, Variables, Data types",
-          "path": "UE25CS151B/Problem Solving Fundamentals/4.Simple Output function, Variables, Data types",
+          "folder_name": "6.Simple Output function, Variables, Data types",
+          "path": "UE25CS151B/Problem Solving Fundamentals/6.Simple Output function, Variables, Data types",
           "content": {
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Variables, Data types_8806eed3.pdf",
+                  "title": "Variables, Data types",
+                  "uuid": "8806eed3",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/6.Simple Output function, Variables, Data types/questionbank/Variables, Data types_8806eed3.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/questionbank/Variables%2C%20Data%20types_8806eed3.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/questionbank/Variables%2C%20Data%20types_8806eed3.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/questionbank/Variables%2C%20Data%20types_8806eed3.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Data types_12e23a80.pdf",
+                  "title": "Data types",
+                  "uuid": "12e23a80",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/6.Simple Output function, Variables, Data types/qa/Data types_12e23a80.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/qa/Data%20types_12e23a80.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/qa/Data%20types_12e23a80.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/qa/Data%20types_12e23a80.pdf"
+                }
+              ],
+              "count": 1
+            },
             "notes": {
               "type": "notes",
               "files": [
@@ -144,30 +849,30 @@
                   "title": "Simple Output function, Variables, Data types",
                   "uuid": "29e5985e",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/4.Simple Output function, Variables, Data types/notes/Simple Output function, Variables, Data types_29e5985e.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_29e5985e.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_29e5985e.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_29e5985e.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/6.Simple Output function, Variables, Data types/notes/Simple Output function, Variables, Data types_29e5985e.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_29e5985e.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_29e5985e.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_29e5985e.pdf"
                 },
                 {
                   "name": "Simple Output function, Variables, Data types_41ee9134.pdf",
                   "title": "Simple Output function, Variables, Data types",
                   "uuid": "41ee9134",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/4.Simple Output function, Variables, Data types/notes/Simple Output function, Variables, Data types_41ee9134.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_41ee9134.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_41ee9134.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_41ee9134.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/6.Simple Output function, Variables, Data types/notes/Simple Output function, Variables, Data types_41ee9134.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_41ee9134.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_41ee9134.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_41ee9134.pdf"
                 },
                 {
                   "name": "Simple Output function, Variables, Data types_45c2b994.pdf",
                   "title": "Simple Output function, Variables, Data types",
                   "uuid": "45c2b994",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/4.Simple Output function, Variables, Data types/notes/Simple Output function, Variables, Data types_45c2b994.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_45c2b994.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_45c2b994.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_45c2b994.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/6.Simple Output function, Variables, Data types/notes/Simple Output function, Variables, Data types_45c2b994.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_45c2b994.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_45c2b994.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/notes/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_45c2b994.pdf"
                 }
               ],
               "count": 3
@@ -180,10 +885,10 @@
                   "title": "Simple Output function, Variables, Data types",
                   "uuid": "7c18f6ee",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/4.Simple Output function, Variables, Data types/slides/Simple Output function, Variables, Data types_7c18f6ee.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_7c18f6ee.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_7c18f6ee.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/4.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_7c18f6ee.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/6.Simple Output function, Variables, Data types/slides/Simple Output function, Variables, Data types_7c18f6ee.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_7c18f6ee.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_7c18f6ee.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Simple%20Output%20function%2C%20Variables%2C%20Data%20types/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_7c18f6ee.pdf"
                 }
               ],
               "count": 1
@@ -191,11 +896,11 @@
           }
         },
         {
-          "id": "UE25CS151B_Problem Solving Fundamentals_5.Simple Input function, Range of values, Qualifiers",
-          "order": 5,
+          "id": "UE25CS151B_Problem Solving Fundamentals_7.Simple Input function, Range of values, Qualifiers",
+          "order": 7,
           "title": "Simple Input function, Range of values, Qualifiers",
-          "folder_name": "5.Simple Input function, Range of values, Qualifiers",
-          "path": "UE25CS151B/Problem Solving Fundamentals/5.Simple Input function, Range of values, Qualifiers",
+          "folder_name": "7.Simple Input function, Range of values, Qualifiers",
+          "path": "UE25CS151B/Problem Solving Fundamentals/7.Simple Input function, Range of values, Qualifiers",
           "content": {
             "notes": {
               "type": "notes",
@@ -205,10 +910,42 @@
                   "title": "Simple input functions",
                   "uuid": "61cc9e11",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/5.Simple Input function, Range of values, Qualifiers/notes/Simple input functions_61cc9e11.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/notes/Simple%20input%20functions_61cc9e11.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/notes/Simple%20input%20functions_61cc9e11.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/notes/Simple%20input%20functions_61cc9e11.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/7.Simple Input function, Range of values, Qualifiers/notes/Simple input functions_61cc9e11.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/7.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/notes/Simple%20input%20functions_61cc9e11.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/7.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/notes/Simple%20input%20functions_61cc9e11.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/7.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/notes/Simple%20input%20functions_61cc9e11.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Simple input output functions_6803dd48.pdf",
+                  "title": "Simple input output functions",
+                  "uuid": "6803dd48",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/7.Simple Input function, Range of values, Qualifiers/qa/Simple input output functions_6803dd48.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/7.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/qa/Simple%20input%20output%20functions_6803dd48.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/7.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/qa/Simple%20input%20output%20functions_6803dd48.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/7.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/qa/Simple%20input%20output%20functions_6803dd48.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Simple Output function, Variables, Data types_863897b8.pdf",
+                  "title": "Simple Output function, Variables, Data types",
+                  "uuid": "863897b8",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/7.Simple Input function, Range of values, Qualifiers/questionbank/Simple Output function, Variables, Data types_863897b8.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/7.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/questionbank/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_863897b8.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/7.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/questionbank/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_863897b8.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/7.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/questionbank/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_863897b8.pdf"
                 }
               ],
               "count": 1
@@ -221,10 +958,10 @@
                   "title": "Simple Output function, Variables, Data types",
                   "uuid": "ea6e3aec",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/5.Simple Input function, Range of values, Qualifiers/slides/Simple Output function, Variables, Data types_ea6e3aec.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_ea6e3aec.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_ea6e3aec.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/5.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_ea6e3aec.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/7.Simple Input function, Range of values, Qualifiers/slides/Simple Output function, Variables, Data types_ea6e3aec.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/7.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_ea6e3aec.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/7.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_ea6e3aec.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/7.Simple%20Input%20function%2C%20Range%20of%20values%2C%20Qualifiers/slides/Simple%20Output%20function%2C%20Variables%2C%20Data%20types_ea6e3aec.pdf"
                 }
               ],
               "count": 1
@@ -232,28 +969,12 @@
           }
         },
         {
-          "id": "UE25CS151B_Problem Solving Fundamentals_6.Operators and Expressions",
-          "order": 6,
+          "id": "UE25CS151B_Problem Solving Fundamentals_8.Operators and Expressions",
+          "order": 8,
           "title": "Operators and Expressions",
-          "folder_name": "6.Operators and Expressions",
-          "path": "UE25CS151B/Problem Solving Fundamentals/6.Operators and Expressions",
+          "folder_name": "8.Operators and Expressions",
+          "path": "UE25CS151B/Problem Solving Fundamentals/8.Operators and Expressions",
           "content": {
-            "notes": {
-              "type": "notes",
-              "files": [
-                {
-                  "name": "Operators and Expressions_5af2406f.pdf",
-                  "title": "Operators and Expressions",
-                  "uuid": "5af2406f",
-                  "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/6.Operators and Expressions/notes/Operators and Expressions_5af2406f.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Operators%20and%20Expressions/notes/Operators%20and%20Expressions_5af2406f.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Operators%20and%20Expressions/notes/Operators%20and%20Expressions_5af2406f.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Operators%20and%20Expressions/notes/Operators%20and%20Expressions_5af2406f.pdf"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -262,10 +983,26 @@
                   "title": "Operators and Expressions",
                   "uuid": "36da027c",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/6.Operators and Expressions/slides/Operators and Expressions_36da027c.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Operators%20and%20Expressions/slides/Operators%20and%20Expressions_36da027c.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Operators%20and%20Expressions/slides/Operators%20and%20Expressions_36da027c.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/6.Operators%20and%20Expressions/slides/Operators%20and%20Expressions_36da027c.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/8.Operators and Expressions/slides/Operators and Expressions_36da027c.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Operators%20and%20Expressions/slides/Operators%20and%20Expressions_36da027c.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Operators%20and%20Expressions/slides/Operators%20and%20Expressions_36da027c.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Operators%20and%20Expressions/slides/Operators%20and%20Expressions_36da027c.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Operators and Expressions_5af2406f.pdf",
+                  "title": "Operators and Expressions",
+                  "uuid": "5af2406f",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/8.Operators and Expressions/notes/Operators and Expressions_5af2406f.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Operators%20and%20Expressions/notes/Operators%20and%20Expressions_5af2406f.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Operators%20and%20Expressions/notes/Operators%20and%20Expressions_5af2406f.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Operators%20and%20Expressions/notes/Operators%20and%20Expressions_5af2406f.pdf"
                 }
               ],
               "count": 1
@@ -273,24 +1010,24 @@
           }
         },
         {
-          "id": "UE25CS151B_Problem Solving Fundamentals_8.Control Structures Selection Statements, Problem Solving using Selection stateme",
-          "order": 8,
+          "id": "UE25CS151B_Problem Solving Fundamentals_10.Control Structures Selection Statements, Problem Solving using Selection stateme",
+          "order": 10,
           "title": "Control Structures  Selection Statements, Problem Solving using Selection statements",
-          "folder_name": "8.Control Structures Selection Statements, Problem Solving using Selection stateme",
-          "path": "UE25CS151B/Problem Solving Fundamentals/8.Control Structures Selection Statements, Problem Solving using Selection stateme",
+          "folder_name": "10.Control Structures Selection Statements, Problem Solving using Selection stateme",
+          "path": "UE25CS151B/Problem Solving Fundamentals/10.Control Structures Selection Statements, Problem Solving using Selection stateme",
           "content": {
-            "slides": {
-              "type": "slides",
+            "questionbank": {
+              "type": "questionbank",
               "files": [
                 {
-                  "name": "Control Structures â Selection Statements, Problem Solving using Selection statements_c685844b.pdf",
-                  "title": "Control Structures â Selection Statements, Problem Solving using Selection statements",
-                  "uuid": "c685844b",
+                  "name": "Control Structures â Problem Solving using Selection statements and control structures_9bd4c1f2.pdf",
+                  "title": "Control Structures â Problem Solving using Selection statements and control structures",
+                  "uuid": "9bd4c1f2",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/8.Control Structures Selection Statements, Problem Solving using Selection stateme/slides/Control Structures â Selection Statements, Problem Solving using Selection statements_c685844b.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_c685844b.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_c685844b.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_c685844b.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/10.Control Structures Selection Statements, Problem Solving using Selection stateme/questionbank/Control Structures â Problem Solving using Selection statements and control structures_9bd4c1f2.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/questionbank/Control%20Structures%20%C3%A2%C2%80%C2%93%20Problem%20Solving%20using%20Selection%20statements%20and%20control%20structures_9bd4c1f2.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/questionbank/Control%20Structures%20%C3%A2%C2%80%C2%93%20Problem%20Solving%20using%20Selection%20statements%20and%20control%20structures_9bd4c1f2.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/questionbank/Control%20Structures%20%C3%A2%C2%80%C2%93%20Problem%20Solving%20using%20Selection%20statements%20and%20control%20structures_9bd4c1f2.pdf"
                 }
               ],
               "count": 1
@@ -303,10 +1040,26 @@
                   "title": "Control Structures â Selection Statements, Problem Solving using Selection statements",
                   "uuid": "e80a2029",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/8.Control Structures Selection Statements, Problem Solving using Selection stateme/notes/Control Structures â Selection Statements, Problem Solving using Selection statements_e80a2029.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e80a2029.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e80a2029.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/8.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e80a2029.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/10.Control Structures Selection Statements, Problem Solving using Selection stateme/notes/Control Structures â Selection Statements, Problem Solving using Selection statements_e80a2029.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e80a2029.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e80a2029.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e80a2029.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "slides": {
+              "type": "slides",
+              "files": [
+                {
+                  "name": "Control Structures â Selection Statements, Problem Solving using Selection statements_c685844b.pdf",
+                  "title": "Control Structures â Selection Statements, Problem Solving using Selection statements",
+                  "uuid": "c685844b",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/10.Control Structures Selection Statements, Problem Solving using Selection stateme/slides/Control Structures â Selection Statements, Problem Solving using Selection statements_c685844b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_c685844b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_c685844b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Control%20Structures%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20stateme/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_c685844b.pdf"
                 }
               ],
               "count": 1
@@ -314,11 +1067,11 @@
           }
         },
         {
-          "id": "UE25CS151B_Problem Solving Fundamentals_9.Control Structures Looping Statements, Problem Solving using Looping statements",
-          "order": 9,
+          "id": "UE25CS151B_Problem Solving Fundamentals_11.Control Structures Looping Statements, Problem Solving using Looping statements",
+          "order": 11,
           "title": "Control Structures  Looping Statements, Problem Solving using Looping statements",
-          "folder_name": "9.Control Structures Looping Statements, Problem Solving using Looping statements",
-          "path": "UE25CS151B/Problem Solving Fundamentals/9.Control Structures Looping Statements, Problem Solving using Looping statements",
+          "folder_name": "11.Control Structures Looping Statements, Problem Solving using Looping statements",
+          "path": "UE25CS151B/Problem Solving Fundamentals/11.Control Structures Looping Statements, Problem Solving using Looping statements",
           "content": {
             "slides": {
               "type": "slides",
@@ -328,10 +1081,10 @@
                   "title": "Control Structures â Selection Statements, Problem Solving using Selection statements",
                   "uuid": "e5935df1",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/9.Control Structures Looping Statements, Problem Solving using Looping statements/slides/Control Structures â Selection Statements, Problem Solving using Selection statements_e5935df1.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e5935df1.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e5935df1.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e5935df1.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/11.Control Structures Looping Statements, Problem Solving using Looping statements/slides/Control Structures â Selection Statements, Problem Solving using Selection statements_e5935df1.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e5935df1.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e5935df1.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/slides/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_e5935df1.pdf"
                 }
               ],
               "count": 1
@@ -344,32 +1097,48 @@
                   "title": "Control Structures â Problem Solving using Selection statements and control structures",
                   "uuid": "4d1344f5",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/9.Control Structures Looping Statements, Problem Solving using Looping statements/notes/Control Structures â Problem Solving using Selection statements and control structures_4d1344f5.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Problem%20Solving%20using%20Selection%20statements%20and%20control%20structures_4d1344f5.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Problem%20Solving%20using%20Selection%20statements%20and%20control%20structures_4d1344f5.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Problem%20Solving%20using%20Selection%20statements%20and%20control%20structures_4d1344f5.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/11.Control Structures Looping Statements, Problem Solving using Looping statements/notes/Control Structures â Problem Solving using Selection statements and control structures_4d1344f5.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Problem%20Solving%20using%20Selection%20statements%20and%20control%20structures_4d1344f5.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Problem%20Solving%20using%20Selection%20statements%20and%20control%20structures_4d1344f5.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Problem%20Solving%20using%20Selection%20statements%20and%20control%20structures_4d1344f5.pdf"
                 },
                 {
                   "name": "Control Structures â Selection Statements, Problem Solving using Selection statements_6c1b9c20.pdf",
                   "title": "Control Structures â Selection Statements, Problem Solving using Selection statements",
                   "uuid": "6c1b9c20",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/9.Control Structures Looping Statements, Problem Solving using Looping statements/notes/Control Structures â Selection Statements, Problem Solving using Selection statements_6c1b9c20.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_6c1b9c20.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_6c1b9c20.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/9.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_6c1b9c20.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/11.Control Structures Looping Statements, Problem Solving using Looping statements/notes/Control Structures â Selection Statements, Problem Solving using Selection statements_6c1b9c20.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_6c1b9c20.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_6c1b9c20.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/notes/Control%20Structures%20%C3%A2%C2%80%C2%93%20Selection%20Statements%2C%20Problem%20Solving%20using%20Selection%20statements_6c1b9c20.pdf"
                 }
               ],
               "count": 2
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Programs on control structures_434c09c5.pdf",
+                  "title": "Programs on control structures",
+                  "uuid": "434c09c5",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/11.Control Structures Looping Statements, Problem Solving using Looping statements/qa/Programs on control structures_434c09c5.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/qa/Programs%20on%20control%20structures_434c09c5.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/qa/Programs%20on%20control%20structures_434c09c5.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Control%20Structures%20Looping%20Statements%2C%20Problem%20Solving%20using%20Looping%20statements/qa/Programs%20on%20control%20structures_434c09c5.pdf"
+                }
+              ],
+              "count": 1
             }
           }
         },
         {
-          "id": "UE25CS151B_Problem Solving Fundamentals_10.Single Character Input and Output, Problem solving using Control structures and",
-          "order": 10,
+          "id": "UE25CS151B_Problem Solving Fundamentals_12.Single Character Input and Output, Problem solving using Control structures and",
+          "order": 12,
           "title": "Single Character Input and Output, Problem solving using Control structures and character input/output",
-          "folder_name": "10.Single Character Input and Output, Problem solving using Control structures and",
-          "path": "UE25CS151B/Problem Solving Fundamentals/10.Single Character Input and Output, Problem solving using Control structures and",
+          "folder_name": "12.Single Character Input and Output, Problem solving using Control structures and",
+          "path": "UE25CS151B/Problem Solving Fundamentals/12.Single Character Input and Output, Problem solving using Control structures and",
           "content": {
             "slides": {
               "type": "slides",
@@ -379,10 +1148,10 @@
                   "title": "Single Character Input and Output, Problem solving using Control structures and character inputoutpu",
                   "uuid": "61727a8a",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/10.Single Character Input and Output, Problem solving using Control structures and/slides/Single Character Input and Output, Problem solving using Control structures and character inputoutpu_61727a8a.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/slides/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_61727a8a.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/slides/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_61727a8a.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/slides/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_61727a8a.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/12.Single Character Input and Output, Problem solving using Control structures and/slides/Single Character Input and Output, Problem solving using Control structures and character inputoutpu_61727a8a.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/12.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/slides/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_61727a8a.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/12.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/slides/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_61727a8a.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/12.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/slides/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_61727a8a.pdf"
                 }
               ],
               "count": 1
@@ -395,10 +1164,10 @@
                   "title": "Single Character Input and Output, Problem solving using Control structures and character inputoutpu",
                   "uuid": "77162eff",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/10.Single Character Input and Output, Problem solving using Control structures and/notes/Single Character Input and Output, Problem solving using Control structures and character inputoutpu_77162eff.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/notes/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_77162eff.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/notes/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_77162eff.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/10.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/notes/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_77162eff.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/12.Single Character Input and Output, Problem solving using Control structures and/notes/Single Character Input and Output, Problem solving using Control structures and character inputoutpu_77162eff.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/12.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/notes/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_77162eff.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/12.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/notes/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_77162eff.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/12.Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and/notes/Single%20Character%20Input%20and%20Output%2C%20Problem%20solving%20using%20Control%20structures%20and%20character%20inputoutpu_77162eff.pdf"
                 }
               ],
               "count": 1
@@ -406,28 +1175,12 @@
           }
         },
         {
-          "id": "UE25CS151B_Problem Solving Fundamentals_11.Language specifications-Behaviors",
-          "order": 11,
+          "id": "UE25CS151B_Problem Solving Fundamentals_13.Language specifications-Behaviors",
+          "order": 13,
           "title": "Language specifications-Behaviors",
-          "folder_name": "11.Language specifications-Behaviors",
-          "path": "UE25CS151B/Problem Solving Fundamentals/11.Language specifications-Behaviors",
+          "folder_name": "13.Language specifications-Behaviors",
+          "path": "UE25CS151B/Problem Solving Fundamentals/13.Language specifications-Behaviors",
           "content": {
-            "notes": {
-              "type": "notes",
-              "files": [
-                {
-                  "name": "Language specifications-Behaviors_94adf109.pdf",
-                  "title": "Language specifications-Behaviors",
-                  "uuid": "94adf109",
-                  "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/11.Language specifications-Behaviors/notes/Language specifications-Behaviors_94adf109.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Language%20specifications-Behaviors/notes/Language%20specifications-Behaviors_94adf109.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Language%20specifications-Behaviors/notes/Language%20specifications-Behaviors_94adf109.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Language%20specifications-Behaviors/notes/Language%20specifications-Behaviors_94adf109.pdf"
-                }
-              ],
-              "count": 1
-            },
             "slides": {
               "type": "slides",
               "files": [
@@ -436,10 +1189,26 @@
                   "title": "Language specifications-Behaviors",
                   "uuid": "da52111b",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/11.Language specifications-Behaviors/slides/Language specifications-Behaviors_da52111b.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Language%20specifications-Behaviors/slides/Language%20specifications-Behaviors_da52111b.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Language%20specifications-Behaviors/slides/Language%20specifications-Behaviors_da52111b.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/11.Language%20specifications-Behaviors/slides/Language%20specifications-Behaviors_da52111b.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/13.Language specifications-Behaviors/slides/Language specifications-Behaviors_da52111b.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/13.Language%20specifications-Behaviors/slides/Language%20specifications-Behaviors_da52111b.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/13.Language%20specifications-Behaviors/slides/Language%20specifications-Behaviors_da52111b.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/13.Language%20specifications-Behaviors/slides/Language%20specifications-Behaviors_da52111b.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "notes": {
+              "type": "notes",
+              "files": [
+                {
+                  "name": "Language specifications-Behaviors_94adf109.pdf",
+                  "title": "Language specifications-Behaviors",
+                  "uuid": "94adf109",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Problem Solving Fundamentals/13.Language specifications-Behaviors/notes/Language specifications-Behaviors_94adf109.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/13.Language%20specifications-Behaviors/notes/Language%20specifications-Behaviors_94adf109.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/13.Language%20specifications-Behaviors/notes/Language%20specifications-Behaviors_94adf109.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/13.Language%20specifications-Behaviors/notes/Language%20specifications-Behaviors_94adf109.pdf"
                 }
               ],
               "count": 1
@@ -447,11 +1216,11 @@
           }
         },
         {
-          "id": "UE25CS151B_Problem Solving Fundamentals_12.Coding standards and Guidelines to avoid different types of errors",
-          "order": 12,
+          "id": "UE25CS151B_Problem Solving Fundamentals_14.Coding standards and Guidelines to avoid different types of errors",
+          "order": 14,
           "title": "Coding standards and Guidelines to avoid different types of errors",
-          "folder_name": "12.Coding standards and Guidelines to avoid different types of errors",
-          "path": "UE25CS151B/Problem Solving Fundamentals/12.Coding standards and Guidelines to avoid different types of errors",
+          "folder_name": "14.Coding standards and Guidelines to avoid different types of errors",
+          "path": "UE25CS151B/Problem Solving Fundamentals/14.Coding standards and Guidelines to avoid different types of errors",
           "content": {
             "slides": {
               "type": "slides",
@@ -461,10 +1230,10 @@
                   "title": "Coding standards and Guidelines to avoid different types of errors",
                   "uuid": "6fcf03ca",
                   "extension": "pdf",
-                  "path": "UE25CS151B/Problem Solving Fundamentals/12.Coding standards and Guidelines to avoid different types of errors/slides/Coding standards and Guidelines to avoid different types of errors_6fcf03ca.pdf",
-                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/12.Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors/slides/Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors_6fcf03ca.pdf",
-                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/12.Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors/slides/Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors_6fcf03ca.pdf",
-                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/12.Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors/slides/Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors_6fcf03ca.pdf"
+                  "path": "UE25CS151B/Problem Solving Fundamentals/14.Coding standards and Guidelines to avoid different types of errors/slides/Coding standards and Guidelines to avoid different types of errors_6fcf03ca.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/14.Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors/slides/Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors_6fcf03ca.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Problem%20Solving%20Fundamentals/14.Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors/slides/Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors_6fcf03ca.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Problem%20Solving%20Fundamentals/14.Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors/slides/Coding%20standards%20and%20Guidelines%20to%20avoid%20different%20types%20of%20errors_6fcf03ca.pdf"
                 }
               ],
               "count": 1
@@ -477,10 +1246,194 @@
       "id": "UE25CS151B_Text Processing and User-Defined Types",
       "title": "Text Processing and User-Defined Types ",
       "path": "UE25CS151B/Text Processing and User-Defined Types",
-      "classes": []
+      "classes": [
+        {
+          "id": "UE25CS151B_Text Processing and User-Defined Types_8.Dynamic Memory Management",
+          "order": 8,
+          "title": "Dynamic Memory Management",
+          "folder_name": "8.Dynamic Memory Management",
+          "path": "UE25CS151B/Text Processing and User-Defined Types/8.Dynamic Memory Management",
+          "content": {
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Dynamic Memory Management_QA_8ec8e94d.pdf",
+                  "title": "Dynamic Memory Management QA",
+                  "uuid": "8ec8e94d",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Text Processing and User-Defined Types/8.Dynamic Memory Management/qa/Dynamic Memory Management_QA_8ec8e94d.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/8.Dynamic%20Memory%20Management/qa/Dynamic%20Memory%20Management_QA_8ec8e94d.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/8.Dynamic%20Memory%20Management/qa/Dynamic%20Memory%20Management_QA_8ec8e94d.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/8.Dynamic%20Memory%20Management/qa/Dynamic%20Memory%20Management_QA_8ec8e94d.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Dynamic Memory Management_QB_8ec8e893.pdf",
+                  "title": "Dynamic Memory Management QB",
+                  "uuid": "8ec8e893",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Text Processing and User-Defined Types/8.Dynamic Memory Management/questionbank/Dynamic Memory Management_QB_8ec8e893.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/8.Dynamic%20Memory%20Management/questionbank/Dynamic%20Memory%20Management_QB_8ec8e893.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/8.Dynamic%20Memory%20Management/questionbank/Dynamic%20Memory%20Management_QB_8ec8e893.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/8.Dynamic%20Memory%20Management/questionbank/Dynamic%20Memory%20Management_QB_8ec8e893.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Text Processing and User-Defined Types_10.User Defined Type - Structures, pragma",
+          "order": 10,
+          "title": "User Defined Type - Structures, #pragma",
+          "folder_name": "10.User Defined Type - Structures, pragma",
+          "path": "UE25CS151B/Text Processing and User-Defined Types/10.User Defined Type - Structures, pragma",
+          "content": {
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "Structures_QB_8ec81e97.pdf",
+                  "title": "Structures QB",
+                  "uuid": "8ec81e97",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Text Processing and User-Defined Types/10.User Defined Type - Structures, pragma/questionbank/Structures_QB_8ec81e97.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/10.User%20Defined%20Type%20-%20Structures%2C%20pragma/questionbank/Structures_QB_8ec81e97.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/10.User%20Defined%20Type%20-%20Structures%2C%20pragma/questionbank/Structures_QB_8ec81e97.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/10.User%20Defined%20Type%20-%20Structures%2C%20pragma/questionbank/Structures_QB_8ec81e97.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Structures_QA_8ec81f67.pdf",
+                  "title": "Structures QA",
+                  "uuid": "8ec81f67",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Text Processing and User-Defined Types/10.User Defined Type - Structures, pragma/qa/Structures_QA_8ec81f67.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/10.User%20Defined%20Type%20-%20Structures%2C%20pragma/qa/Structures_QA_8ec81f67.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/10.User%20Defined%20Type%20-%20Structures%2C%20pragma/qa/Structures_QA_8ec81f67.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/10.User%20Defined%20Type%20-%20Structures%2C%20pragma/qa/Structures_QA_8ec81f67.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Text Processing and User-Defined Types_12.Problem solving using Structures and Functions",
+          "order": 12,
+          "title": "Problem solving using Structures and Functions",
+          "folder_name": "12.Problem solving using Structures and Functions",
+          "path": "UE25CS151B/Text Processing and User-Defined Types/12.Problem solving using Structures and Functions",
+          "content": {
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Problems on structures_8ec865f2.pdf",
+                  "title": "Problems on structures",
+                  "uuid": "8ec865f2",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Text Processing and User-Defined Types/12.Problem solving using Structures and Functions/qa/Problems on structures_8ec865f2.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/12.Problem%20solving%20using%20Structures%20and%20Functions/qa/Problems%20on%20structures_8ec865f2.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/12.Problem%20solving%20using%20Structures%20and%20Functions/qa/Problems%20on%20structures_8ec865f2.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/12.Problem%20solving%20using%20Structures%20and%20Functions/qa/Problems%20on%20structures_8ec865f2.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Text Processing and User-Defined Types_14.Problem Solving using Array of structures and Functions",
+          "order": 14,
+          "title": "Problem Solving using Array of structures and Functions",
+          "folder_name": "14.Problem Solving using Array of structures and Functions",
+          "path": "UE25CS151B/Text Processing and User-Defined Types/14.Problem Solving using Array of structures and Functions",
+          "content": {
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "Problems on array of structures_8ec86225.pdf",
+                  "title": "Problems on array of structures",
+                  "uuid": "8ec86225",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Text Processing and User-Defined Types/14.Problem Solving using Array of structures and Functions/qa/Problems on array of structures_8ec86225.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/14.Problem%20Solving%20using%20Array%20of%20structures%20and%20Functions/qa/Problems%20on%20array%20of%20structures_8ec86225.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/14.Problem%20Solving%20using%20Array%20of%20structures%20and%20Functions/qa/Problems%20on%20array%20of%20structures_8ec86225.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/14.Problem%20Solving%20using%20Array%20of%20structures%20and%20Functions/qa/Problems%20on%20array%20of%20structures_8ec86225.pdf"
+                },
+                {
+                  "name": "Problems on array of structures_8ec863be.pdf",
+                  "title": "Problems on array of structures",
+                  "uuid": "8ec863be",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Text Processing and User-Defined Types/14.Problem Solving using Array of structures and Functions/qa/Problems on array of structures_8ec863be.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/14.Problem%20Solving%20using%20Array%20of%20structures%20and%20Functions/qa/Problems%20on%20array%20of%20structures_8ec863be.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/14.Problem%20Solving%20using%20Array%20of%20structures%20and%20Functions/qa/Problems%20on%20array%20of%20structures_8ec863be.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/14.Problem%20Solving%20using%20Array%20of%20structures%20and%20Functions/qa/Problems%20on%20array%20of%20structures_8ec863be.pdf"
+                }
+              ],
+              "count": 2
+            }
+          }
+        },
+        {
+          "id": "UE25CS151B_Text Processing and User-Defined Types_18.Enumerations in C",
+          "order": 18,
+          "title": "Enumerations in C",
+          "folder_name": "18.Enumerations in C",
+          "path": "UE25CS151B/Text Processing and User-Defined Types/18.Enumerations in C",
+          "content": {
+            "questionbank": {
+              "type": "questionbank",
+              "files": [
+                {
+                  "name": "enum QB_8ec73636.pdf",
+                  "title": "enum QB",
+                  "uuid": "8ec73636",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Text Processing and User-Defined Types/18.Enumerations in C/questionbank/enum QB_8ec73636.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/18.Enumerations%20in%20C/questionbank/enum%20QB_8ec73636.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/18.Enumerations%20in%20C/questionbank/enum%20QB_8ec73636.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/18.Enumerations%20in%20C/questionbank/enum%20QB_8ec73636.pdf"
+                }
+              ],
+              "count": 1
+            },
+            "qa": {
+              "type": "qa",
+              "files": [
+                {
+                  "name": "enum QA_8ec737ba.pdf",
+                  "title": "enum QA",
+                  "uuid": "8ec737ba",
+                  "extension": "pdf",
+                  "path": "UE25CS151B/Text Processing and User-Defined Types/18.Enumerations in C/qa/enum QA_8ec737ba.pdf",
+                  "download_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/18.Enumerations%20in%20C/qa/enum%20QA_8ec737ba.pdf",
+                  "github_url": "https://github.com/Vision2822/pesu-materials/blob/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/18.Enumerations%20in%20C/qa/enum%20QA_8ec737ba.pdf",
+                  "github_raw_url": "https://raw.githubusercontent.com/Vision2822/pesu-materials/main/UE25CS151B/Text%20Processing%20and%20User-Defined%20Types/18.Enumerations%20in%20C/qa/enum%20QA_8ec737ba.pdf"
+                }
+              ],
+              "count": 1
+            }
+          }
+        }
+      ]
     }
   ],
   "total_units": 4,
   "github_url": "https://github.com/Vision2822/pesu-materials/tree/main/UE25CS151B",
-  "updated_at": "2026-02-09T14:46:51.467090"
+  "updated_at": "2026-03-09T17:02:20.537632"
 }
